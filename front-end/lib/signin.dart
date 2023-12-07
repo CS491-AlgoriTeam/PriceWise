@@ -1,9 +1,9 @@
 // signin.dart
 import 'package:flutter/material.dart';
+import 'package:pwfe/shoppingLists.dart';
 import 'signup.dart'; // Import the sign-up page
 
 class SignInPage extends StatefulWidget {
-  
   @override
   _LoginSignupScreenState createState() => _LoginSignupScreenState();
 }
@@ -53,18 +53,21 @@ class _LoginSignupScreenState extends State<SignInPage> {
                 decoration: InputDecoration(
                   labelText: 'Username',
                   labelStyle: TextStyle(
-                    color: Colors.black, // Color for when the TextFormField is not focused
+                    color: Colors
+                        .black, // Color for when the TextFormField is not focused
                   ),
                   focusedBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(27),
                     borderSide: BorderSide(
-                      color: Colors.blue, // Border color when the TextFormField is focused
+                      color: Colors
+                          .blue, // Border color when the TextFormField is focused
                     ),
                   ),
                   enabledBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(27),
                     borderSide: BorderSide(
-                      color: Colors.blue[200]!, // Border color when TextFormField is enabled
+                      color: Colors.blue[
+                          200]!, // Border color when TextFormField is enabled
                     ),
                   ),
                   filled: true,
@@ -77,23 +80,25 @@ class _LoginSignupScreenState extends State<SignInPage> {
                 decoration: InputDecoration(
                   labelText: 'Password',
                   labelStyle: TextStyle(
-                    color: Colors.black, // Color for when the TextFormField is not focused
+                    color: Colors
+                        .black, // Color for when the TextFormField is not focused
                   ),
                   focusedBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(27),
                     borderSide: BorderSide(
-                      color: Colors.blue, // Border color when the TextFormField is focused
+                      color: Colors
+                          .blue, // Border color when the TextFormField is focused
                     ),
                   ),
                   enabledBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(27),
                     borderSide: BorderSide(
-                      color: Colors.blue[100]!, // Border color when TextFormField is enabled
+                      color: Colors.blue[
+                          100]!, // Border color when TextFormField is enabled
                     ),
                   ),
                   filled: true,
                   fillColor: Colors.lightBlue[100],
-              
                   suffixIcon: IconButton(
                     icon: Icon(
                       _isPasswordVisible
@@ -117,11 +122,11 @@ class _LoginSignupScreenState extends State<SignInPage> {
                       Checkbox(
                         value: false,
                         onChanged: (bool? value) {
-                          if(value != null){
+                          if (value != null) {
                             setState(() {
                               value = true;
-                          });// Handle remember me
-                          }                   
+                            }); // Handle remember me
+                          }
                         },
                       ),
                       Text(
@@ -155,6 +160,12 @@ class _LoginSignupScreenState extends State<SignInPage> {
               ElevatedButton(
                 onPressed: () {
                   // Handle login
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                        builder: (context) =>
+                            ShoppingLists()), // Use the class name of your sign-in page
+                  );
                 },
                 child: Text(
                   'Signin',
@@ -175,10 +186,14 @@ class _LoginSignupScreenState extends State<SignInPage> {
               ),
               SizedBox(height: 24),
               TextButton(
-                onPressed: () {Navigator.push(
+                onPressed: () {
+                  Navigator.push(
                     context,
-                    MaterialPageRoute(builder: (context) => SignUpPage()), // Use the class name of your sign-in page
-                  );},
+                    MaterialPageRoute(
+                        builder: (context) =>
+                            SignUpPage()), // Use the class name of your sign-in page
+                  );
+                },
                 child: Text(
                   'Don’t have an account? Sign Up',
                   style: TextStyle(
