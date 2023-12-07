@@ -1,5 +1,6 @@
 // main.dart
 import 'package:flutter/material.dart';
+import 'package:pwfe/shoppingLists.dart';
 import 'signin.dart'; // Import the sign-in page
 import 'signup.dart'; // Import the sign-up page
 
@@ -21,6 +22,7 @@ class MyApp extends StatelessWidget {
        routes: {
          '/signin': (context) => SignInPage(),
          '/signup':(context) => SignUpPage(),
+         '/shoppingLists':(context) => ShoppingLists(),
        },
     );
   }
