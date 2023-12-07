@@ -9,7 +9,7 @@ class ShowSuggestions extends StatelessWidget {
         title: Text('ShowSuggestions'),
       ),
       body: Center(
-        child: Column(Text('ShowSuggestions Content')),
+        //child: Column(Text('ShowSuggestions Content')),
       ),
     );
   }
