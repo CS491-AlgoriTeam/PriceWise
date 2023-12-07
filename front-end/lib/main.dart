@@ -91,7 +91,7 @@ class MainPage extends StatelessWidget {
                     MaterialPageRoute(builder: (context) => SignInPage()), // Use the class name of your sign-in page
                   );
                 },
-                child: Text('Signin'),
+                child: Text('Sign In'),
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.lightBlue,
                   foregroundColor: Colors.white,

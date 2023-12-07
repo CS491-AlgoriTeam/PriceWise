@@ -1,5 +1,6 @@
 // signin.dart
 import 'package:flutter/material.dart';
+import 'signup.dart'; // Import the sign-up page
 
 class SignInPage extends StatefulWidget {
   
@@ -174,9 +175,10 @@ class _LoginSignupScreenState extends State<SignInPage> {
               ),
               SizedBox(height: 24),
               TextButton(
-                onPressed: () {
-                  // Handle sign up
-                },
+                onPressed: () {Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => SignUpPage()), // Use the class name of your sign-in page
+                  );},
                 child: Text(
                   'Don’t have an account? Sign Up',
                   style: TextStyle(
