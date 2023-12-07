@@ -19,11 +19,11 @@ class MyApp extends StatelessWidget {
       ),
       home: MainPage(),
       // You can also define the route here if you prefer named routes
-       routes: {
-         '/signin': (context) => SignInPage(),
-         '/signup':(context) => SignUpPage(),
-         '/shoppingLists':(context) => ShoppingLists(),
-       },
+      routes: {
+        '/signin': (context) => SignInPage(),
+        '/signup': (context) => SignUpPage(),
+        '/shoppingLists': (context) => ShoppingLists(),
+      },
     );
   }
 }
@@ -90,7 +90,9 @@ class MainPage extends StatelessWidget {
                 onPressed: () {
                   Navigator.push(
                     context,
-                    MaterialPageRoute(builder: (context) => SignInPage()), // Use the class name of your sign-in page
+                    MaterialPageRoute(
+                        builder: (context) =>
+                            SignInPage()), // Use the class name of your sign-in page
                   );
                 },
                 child: Text('Sign In'),
@@ -115,10 +117,14 @@ class MainPage extends StatelessWidget {
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 20.0),
               child: ElevatedButton(
-                onPressed: () {Navigator.push(
+                onPressed: () {
+                  Navigator.push(
                     context,
-                    MaterialPageRoute(builder: (context) => SignUpPage()), // Use the class name of your sign-in page
-                  );},
+                    MaterialPageRoute(
+                        builder: (context) =>
+                            SignUpPage()), // Use the class name of your sign-in page
+                  );
+                },
                 child: Text('Sign Up'),
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.lightBlue[300],
@@ -141,8 +147,7 @@ class MainPage extends StatelessWidget {
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 20.0),
               child: ElevatedButton(
-                onPressed: () {
-                },
+                onPressed: () {},
                 child: Text('Continue Without Register'),
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.lightBlue[300],

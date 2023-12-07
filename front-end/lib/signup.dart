@@ -45,18 +45,21 @@ class _SignUpScreenState extends State<SignUpPage> {
                 decoration: InputDecoration(
                   labelText: 'Full Name',
                   labelStyle: TextStyle(
-                    color: Colors.black, // Color for when the TextFormField is not focused
+                    color: Colors
+                        .black, // Color for when the TextFormField is not focused
                   ),
                   focusedBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(27),
                     borderSide: BorderSide(
-                      color: Colors.blue, // Border color when the TextFormField is focused
+                      color: Colors
+                          .blue, // Border color when the TextFormField is focused
                     ),
                   ),
                   enabledBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(27),
                     borderSide: BorderSide(
-                      color: Colors.blue[200]!, // Border color when TextFormField is enabled
+                      color: Colors.blue[
+                          200]!, // Border color when TextFormField is enabled
                     ),
                   ),
                   filled: true,
@@ -68,18 +71,21 @@ class _SignUpScreenState extends State<SignUpPage> {
                 decoration: InputDecoration(
                   labelText: 'Email',
                   labelStyle: TextStyle(
-                    color: Colors.black, // Color for when the TextFormField is not focused
+                    color: Colors
+                        .black, // Color for when the TextFormField is not focused
                   ),
                   focusedBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(27),
                     borderSide: BorderSide(
-                      color: Colors.blue, // Border color when the TextFormField is focused
+                      color: Colors
+                          .blue, // Border color when the TextFormField is focused
                     ),
                   ),
                   enabledBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(27),
                     borderSide: BorderSide(
-                      color: Colors.blue[200]!, // Border color when TextFormField is enabled
+                      color: Colors.blue[
+                          200]!, // Border color when TextFormField is enabled
                     ),
                   ),
                   filled: true,
@@ -92,18 +98,21 @@ class _SignUpScreenState extends State<SignUpPage> {
                 decoration: InputDecoration(
                   labelText: 'Password',
                   labelStyle: TextStyle(
-                    color: Colors.black, // Color for when the TextFormField is not focused
+                    color: Colors
+                        .black, // Color for when the TextFormField is not focused
                   ),
                   focusedBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(27),
                     borderSide: BorderSide(
-                      color: Colors.blue, // Border color when the TextFormField is focused
+                      color: Colors
+                          .blue, // Border color when the TextFormField is focused
                     ),
                   ),
                   enabledBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(27),
                     borderSide: BorderSide(
-                      color: Colors.blue[100]!, // Border color when TextFormField is enabled
+                      color: Colors.blue[
+                          100]!, // Border color when TextFormField is enabled
                     ),
                   ),
                   filled: true,
@@ -128,18 +137,21 @@ class _SignUpScreenState extends State<SignUpPage> {
                 decoration: InputDecoration(
                   labelText: 'Confirm Password',
                   labelStyle: TextStyle(
-                    color: Colors.black, // Color for when the TextFormField is not focused
+                    color: Colors
+                        .black, // Color for when the TextFormField is not focused
                   ),
                   focusedBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(27),
                     borderSide: BorderSide(
-                      color: Colors.blue, // Border color when the TextFormField is focused
+                      color: Colors
+                          .blue, // Border color when the TextFormField is focused
                     ),
                   ),
                   enabledBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(27),
                     borderSide: BorderSide(
-                      color: Colors.blue[100]!, // Border color when TextFormField is enabled
+                      color: Colors.blue[
+                          100]!, // Border color when TextFormField is enabled
                     ),
                   ),
                   filled: true,
@@ -160,10 +172,14 @@ class _SignUpScreenState extends State<SignUpPage> {
               ),
               SizedBox(height: screenSize.height * 0.05),
               ElevatedButton(
-                onPressed: () {Navigator.push(
+                onPressed: () {
+                  Navigator.push(
                     context,
-                    MaterialPageRoute(builder: (context) => MainPage()), // Use the class name of your sign-in page
-                  );},
+                    MaterialPageRoute(
+                        builder: (context) =>
+                            MainPage()), // Use the class name of your sign-in page
+                  );
+                },
                 child: Text('Sign Up'),
                 style: ElevatedButton.styleFrom(
                   primary: Colors.lightBlue,
