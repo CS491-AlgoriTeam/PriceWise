@@ -1,5 +1,6 @@
 // signin.dart
 import 'package:flutter/material.dart';
+import 'package:pwfe/components/text_form_field_blue_darker.dart';
 import 'package:pwfe/pages/MyShoppingListsPage.dart';
 import 'SignupPage.dart'; // Import the sign-up page
 
@@ -49,70 +50,9 @@ class _LoginSignupScreenState extends State<SignInPage> {
                 ),
               ),
               SizedBox(height: 24),
-              TextFormField(
-                decoration: InputDecoration(
-                  labelText: 'Username',
-                  labelStyle: TextStyle(
-                    color: Colors
-                        .black, // Color for when the TextFormField is not focused
-                  ),
-                  focusedBorder: OutlineInputBorder(
-                    borderRadius: BorderRadius.circular(27),
-                    borderSide: BorderSide(
-                      color: Colors
-                          .blue, // Border color when the TextFormField is focused
-                    ),
-                  ),
-                  enabledBorder: OutlineInputBorder(
-                    borderRadius: BorderRadius.circular(27),
-                    borderSide: BorderSide(
-                      color: Colors.blue[
-                          200]!, // Border color when TextFormField is enabled
-                    ),
-                  ),
-                  filled: true,
-                  fillColor: Colors.lightBlue[200],
-                ),
-              ),
+              text_form_field_blue_darker("Usernamessssz"),
               SizedBox(height: 16),
-              TextFormField(
-                obscureText: !_isPasswordVisible,
-                decoration: InputDecoration(
-                  labelText: 'Password',
-                  labelStyle: TextStyle(
-                    color: Colors
-                        .black, // Color for when the TextFormField is not focused
-                  ),
-                  focusedBorder: OutlineInputBorder(
-                    borderRadius: BorderRadius.circular(27),
-                    borderSide: BorderSide(
-                      color: Colors
-                          .blue, // Border color when the TextFormField is focused
-                    ),
-                  ),
-                  enabledBorder: OutlineInputBorder(
-                    borderRadius: BorderRadius.circular(27),
-                    borderSide: BorderSide(
-                      color: Colors.blue[
-                          100]!, // Border color when TextFormField is enabled
-                    ),
-                  ),
-                  filled: true,
-                  fillColor: Colors.lightBlue[100],
-                  suffixIcon: IconButton(
-                    icon: Icon(
-                      _isPasswordVisible
-                          ? Icons.visibility_off
-                          : Icons.visibility,
-                    ),
-                    onPressed: () {
-                      setState(() {
-                        _isPasswordVisible = !_isPasswordVisible;
-                      });
-                    },
-                  ),
-                ),
-              ),
+              text_form_field_blue_lighter(),
               SizedBox(height: 24),
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -164,7 +104,7 @@ class _LoginSignupScreenState extends State<SignInPage> {
                     context,
                     MaterialPageRoute(
                         builder: (context) =>
-                            ShoppingLists()), // Use the class name of your sign-in page
+                            MyShoppingLists()), // Use the class name of your sign-in page
                   );
                 },
                 child: Text(
@@ -206,6 +146,47 @@ class _LoginSignupScreenState extends State<SignInPage> {
               ),
             ],
           ),
+        ),
+      ),
+    );
+  }
+
+// well xd
+// tried to paste this on its file and got errors abour state
+  TextFormField text_form_field_blue_lighter() {
+    return TextFormField(
+      obscureText: !_isPasswordVisible,
+      decoration: InputDecoration(
+        labelText: 'Password',
+        labelStyle: TextStyle(
+          color:
+              Colors.black, // Color for when the TextFormField is not focused
+        ),
+        focusedBorder: OutlineInputBorder(
+          borderRadius: BorderRadius.circular(27),
+          borderSide: BorderSide(
+            color:
+                Colors.blue, // Border color when the TextFormField is focused
+          ),
+        ),
+        enabledBorder: OutlineInputBorder(
+          borderRadius: BorderRadius.circular(27),
+          borderSide: BorderSide(
+            color:
+                Colors.blue[100]!, // Border color when TextFormField is enabled
+          ),
+        ),
+        filled: true,
+        fillColor: Colors.lightBlue[100],
+        suffixIcon: IconButton(
+          icon: Icon(
+            _isPasswordVisible ? Icons.visibility_off : Icons.visibility,
+          ),
+          onPressed: () {
+            setState(() {
+              _isPasswordVisible = !_isPasswordVisible;
+            });
+          },
         ),
       ),
     );

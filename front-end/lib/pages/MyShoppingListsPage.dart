@@ -5,12 +5,12 @@ import 'package:pwfe/pages/MyProfilePage.dart';
 import 'package:pwfe/pages/SearchProductsPage.dart';
 import 'package:pwfe/pages/ShoppingListDetailsPage.dart';
 
-class ShoppingLists extends StatefulWidget {
+class MyShoppingLists extends StatefulWidget {
   @override
   _ShoppingListsScreenState createState() => _ShoppingListsScreenState();
 }
 
-class _ShoppingListsScreenState extends State<ShoppingLists> {
+class _ShoppingListsScreenState extends State<MyShoppingLists> {
   int _currentIndex = 0;
 
  /*

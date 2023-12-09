@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:pwfe/main.dart';
+import 'package:pwfe/components/text_form_field_blue_darker.dart';
+import 'package:pwfe/pages/HomePage.dart';
 
 class SignUpPage extends StatefulWidget {
   @override
@@ -41,57 +42,9 @@ class _SignUpScreenState extends State<SignUpPage> {
                 ),
               ),
               SizedBox(height: screenSize.height * 0.05),
-              TextFormField(
-                decoration: InputDecoration(
-                  labelText: 'Full Name',
-                  labelStyle: TextStyle(
-                    color: Colors
-                        .black, // Color for when the TextFormField is not focused
-                  ),
-                  focusedBorder: OutlineInputBorder(
-                    borderRadius: BorderRadius.circular(27),
-                    borderSide: BorderSide(
-                      color: Colors
-                          .blue, // Border color when the TextFormField is focused
-                    ),
-                  ),
-                  enabledBorder: OutlineInputBorder(
-                    borderRadius: BorderRadius.circular(27),
-                    borderSide: BorderSide(
-                      color: Colors.blue[
-                          200]!, // Border color when TextFormField is enabled
-                    ),
-                  ),
-                  filled: true,
-                  fillColor: Colors.lightBlue[200],
-                ),
-              ),
+              text_form_field_blue_darker("Full Name"),
               SizedBox(height: screenSize.height * 0.02),
-              TextFormField(
-                decoration: InputDecoration(
-                  labelText: 'Email',
-                  labelStyle: TextStyle(
-                    color: Colors
-                        .black, // Color for when the TextFormField is not focused
-                  ),
-                  focusedBorder: OutlineInputBorder(
-                    borderRadius: BorderRadius.circular(27),
-                    borderSide: BorderSide(
-                      color: Colors
-                          .blue, // Border color when the TextFormField is focused
-                    ),
-                  ),
-                  enabledBorder: OutlineInputBorder(
-                    borderRadius: BorderRadius.circular(27),
-                    borderSide: BorderSide(
-                      color: Colors.blue[
-                          200]!, // Border color when TextFormField is enabled
-                    ),
-                  ),
-                  filled: true,
-                  fillColor: Colors.lightBlue[200],
-                ),
-              ),
+              text_form_field_blue_darker("Email"),
               SizedBox(height: screenSize.height * 0.02),
               TextFormField(
                 obscureText: !_isPasswordVisible,
@@ -177,7 +130,7 @@ class _SignUpScreenState extends State<SignUpPage> {
                     context,
                     MaterialPageRoute(
                         builder: (context) =>
-                            MainPage()), // Use the class name of your sign-in page
+                            HomePage()), // Use the class name of your sign-in page
                   );
                 },
                 child: Text('Sign Up'),

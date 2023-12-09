@@ -1,8 +1,6 @@
 // shoppingListDetails.dart
 import 'package:flutter/material.dart';
-import 'package:pwfe/main.dart';
-import 'package:pwfe/components/button_helper.dart';
-import 'package:pwfe/pages/ShowSuggestedListsPage.dart';
+import 'package:pwfe/components/buttton_blue_darker_rounded.dart';
 import 'package:pwfe/pages/SignupPage.dart';
 
 class ShoppingListDetailsPage extends StatelessWidget {
@@ -16,7 +14,7 @@ class ShoppingListDetailsPage extends StatelessWidget {
           title: Text('shoppingListDetails'),
         ),
         body: Center(
-          child: xdButton(
+          child: buttton_blue_darker_rounded(
             context,
             'Go to Page 2',
             (context) => SignUpPage(),

@@ -1,5 +1,6 @@
 // main.dart
 import 'package:flutter/material.dart';
+import 'package:pwfe/pages/HomePage.dart';
 import 'package:pwfe/pages/MyShoppingListsPage.dart';
 import 'pages/SigninPage.dart'; // Import the sign-in page
 import 'pages/SignupPage.dart'; // Import the sign-up page
@@ -7,10 +8,12 @@ import 'pages/SignupPage.dart'; // Import the sign-up page
 // flutter_svg to make custom buttons from icons
 
 void main() {
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -19,18 +22,18 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: MainPage(),
+      home: HomePage(),
       // You can also define the route here if you prefer named routes
       routes: {
         '/signin': (context) => SignInPage(),
         '/signup': (context) => SignUpPage(),
-        '/shoppingLists': (context) => ShoppingLists(),
+        '/shoppingLists': (context) => MyShoppingLists(),
       },
     );
   }
 }
 
-class MainPage extends StatelessWidget {
+/*class MainPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // Getting screen size
@@ -148,34 +151,5 @@ class MainPage extends StatelessWidget {
         ),
       ),
     );
-  }
-
-  ElevatedButton ourButton(
-      BuildContext context, String text, Widget Function(BuildContext) route) {
-    return ElevatedButton(
-      onPressed: () {
-        Navigator.push(
-          context,
-          MaterialPageRoute(
-            builder: (context) => route(context),
-          ),
-        );
-      },
-      child: Text(text),
-      style: ElevatedButton.styleFrom(
-        backgroundColor: Colors.lightBlue,
-        foregroundColor: Colors.white,
-        minimumSize: Size(330, 54),
-        shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(47),
-        ),
-        padding: EdgeInsets.symmetric(vertical: 10),
-        textStyle: TextStyle(
-          fontFamily: 'Inter',
-          fontSize: 20,
-          fontWeight: FontWeight.bold,
-        ),
-      ),
-    );
-  }
-}
+  }*/
+//}
