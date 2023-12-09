@@ -1,10 +1,48 @@
 // shoppingLists.dart
 import 'package:flutter/material.dart';
+import 'package:pwfe/lists/my-shopping-lists.dart';
 import 'package:pwfe/pages/EditShoppingListPage.dart';
 import 'package:pwfe/pages/MyProfilePage.dart';
 import 'package:pwfe/pages/SearchProductsPage.dart';
 import 'package:pwfe/pages/ShoppingListDetailsPage.dart';
 
+class MyShoppingLists extends StatelessWidget {
+  const MyShoppingLists({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    List<TestData> testingData = [
+      TestData(productName: "Amasya Elmasi", price: 0.18, amountNumber: 4),
+      TestData(productName: "Tam yağli süt", price: 1.08, amountNumber: 2),
+      TestData(productName: "cikolatali gofret", price: 0.30, amountNumber: 2),
+      TestData(productName: "konserve misir", price: 2.22, amountNumber: 1),
+    ];
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Shopping Lists'),
+      ),
+      body: Column(
+        children: testingData.map((testingData) {
+          return Container(
+            child: ListTile(
+              title: Text(testingData.productName +
+                  "\t" +
+                  testingData.price.toString() +
+                  "\t" +
+                  testingData.amountNumber.toString()),
+              //subtitle: Text("Price: \$${testingData.price.toString()}"),
+            ),
+            margin: EdgeInsets.all(5),
+            padding: EdgeInsets.all(5),
+            color: Colors.green[100],
+          );
+        }).toList(),
+      ),
+    );
+  }
+}
+/*
+  old version commented out for improvements 
 class MyShoppingLists extends StatefulWidget {
   @override
   _ShoppingListsScreenState createState() => _ShoppingListsScreenState();
@@ -12,7 +50,8 @@ class MyShoppingLists extends StatefulWidget {
 
 class _ShoppingListsScreenState extends State<MyShoppingLists> {
   int _currentIndex = 0;
-
+  
+  
  /*
  // testing  
  @override
@@ -113,7 +152,7 @@ class _ShoppingListsScreenState extends State<MyShoppingLists> {
       child: Container(
         color: Colors.amber,
         child: ListTile(
-          title: Text('Item ${index + 1}'),
+          title: Text(),
           trailing: IconButton(
             icon: Icon(Icons.edit),
             onPressed: () {
@@ -168,3 +207,5 @@ class _ShoppingListsScreenState extends State<MyShoppingLists> {
     }
   }
 }
+
+*/

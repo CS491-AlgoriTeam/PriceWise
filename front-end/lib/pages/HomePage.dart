@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:pwfe/components/buttton_blue_darker_rounded.dart';
-import 'package:pwfe/components/button_blue_lighter_rounded.dart';
+import 'package:pwfe/components/buttons/buttton_blue_darker_rounded.dart';
+import 'package:pwfe/components/buttons/button_blue_lighter_rounded.dart';
 import 'package:pwfe/pages/SigninPage.dart';
 import 'package:pwfe/pages/SignupPage.dart';
 import 'package:pwfe/pages/MyShoppingListsPage.dart';

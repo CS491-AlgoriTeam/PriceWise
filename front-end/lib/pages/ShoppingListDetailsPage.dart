@@ -1,6 +1,6 @@
 // shoppingListDetails.dart
 import 'package:flutter/material.dart';
-import 'package:pwfe/components/buttton_blue_darker_rounded.dart';
+import 'package:pwfe/components/buttons/buttton_blue_darker_rounded.dart';
 import 'package:pwfe/pages/SignupPage.dart';
 
 class ShoppingListDetailsPage extends StatelessWidget {

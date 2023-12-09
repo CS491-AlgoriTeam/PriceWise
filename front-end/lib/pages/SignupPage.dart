@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pwfe/components/text_form_field_blue_darker.dart';
+import 'package:pwfe/components/text-form-fields/text_form_field_blue_darker.dart';
 import 'package:pwfe/pages/HomePage.dart';
 
 class SignUpPage extends StatefulWidget {
