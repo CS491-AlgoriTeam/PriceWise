@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 
-class EditShoppingList extends StatelessWidget {
+class ProductSellers extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Edit Shopping List'),
+        title: Text('Sellers Profile'),
       ),
       body: Center(
-        child: Text('Edit Shopping List content'),
+        child: Text('Sellers Content'),
       ),
     );
   }

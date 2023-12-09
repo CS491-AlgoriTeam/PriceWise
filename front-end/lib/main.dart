@@ -1,9 +1,8 @@
 // main.dart
 import 'package:flutter/material.dart';
-import 'package:pwfe/shoppingLists.dart';
-import 'signin.dart'; // Import the sign-in page
-import 'signup.dart'; // Import the sign-up page
-
+import 'package:pwfe/pages/MyShoppingListsPage.dart';
+import 'pages/SigninPage.dart'; // Import the sign-in page
+import 'pages/SignupPage.dart'; // Import the sign-up page
 void main() {
   runApp(MyApp());
 }

@@ -1,9 +1,9 @@
 // shoppingLists.dart
 import 'package:flutter/material.dart';
-import 'package:pwfe/editShoppingList.dart';
-import 'package:pwfe/profile.dart';
-import 'package:pwfe/search.dart';
-import 'package:pwfe/shoppingListDetails.dart';
+import 'package:pwfe/pages/EditShoppingListPage.dart';
+import 'package:pwfe/pages/MyProfilePage.dart';
+import 'package:pwfe/pages/SearchProductsPage.dart';
+import 'package:pwfe/pages/ShoppingListDetailsPage.dart';
 
 class ShoppingLists extends StatefulWidget {
   @override
@@ -51,7 +51,7 @@ class _ShoppingListsScreenState extends State<ShoppingLists> {
         Padding(
           padding: const EdgeInsets.all(8.0),
           child: Text(
-            'Shopping Lists',
+            'My Shopping Lists',
             style: TextStyle(
               fontSize: 20.0,
               fontWeight: FontWeight.bold,
@@ -96,7 +96,8 @@ class _ShoppingListsScreenState extends State<ShoppingLists> {
     // For example:
     Navigator.push(
       context,
-      MaterialPageRoute(builder: (context) => ShoppingListDetails(itemIndex: index)),
+      MaterialPageRoute(
+          builder: (context) => ShoppingListDetailsPage(itemIndex: index)),
     );
     print('ShoppingList Item ${index + 1}');
   }
@@ -126,7 +127,7 @@ class _ShoppingListsScreenState extends State<ShoppingLists> {
         // My Profile
         Navigator.push(
           context,
-          MaterialPageRoute(builder: (context) => ProfilePage()),
+          MaterialPageRoute(builder: (context) => MyProfilePage()),
         );
         break;
     }

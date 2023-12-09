@@ -1,15 +1,14 @@
-// search_page.dart
 import 'package:flutter/material.dart';
 
-class SearchPage extends StatelessWidget {
+class EditShoppingList extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Search Page'),
+        title: Text('Edit Shopping List'),
       ),
       body: Center(
-        child: Text('Search Page Content'),
+        child: Text('Edit Shopping List content'),
       ),
     );
   }

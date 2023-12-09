@@ -1,7 +1,7 @@
 // signin.dart
 import 'package:flutter/material.dart';
-import 'package:pwfe/shoppingLists.dart';
-import 'signup.dart'; // Import the sign-up page
+import 'package:pwfe/pages/MyShoppingListsPage.dart';
+import 'SignupPage.dart'; // Import the sign-up page
 
 class SignInPage extends StatefulWidget {
   @override
