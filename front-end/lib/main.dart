@@ -3,6 +3,9 @@ import 'package:flutter/material.dart';
 import 'package:pwfe/pages/MyShoppingListsPage.dart';
 import 'pages/SigninPage.dart'; // Import the sign-in page
 import 'pages/SignupPage.dart'; // Import the sign-up page
+
+// flutter_svg to make custom buttons from icons
+
 void main() {
   runApp(MyApp());
 }
@@ -85,31 +88,8 @@ class MainPage extends StatelessWidget {
             // Login Button
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 20.0),
-              child: ElevatedButton(
-                onPressed: () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                        builder: (context) =>
-                            SignInPage()), // Use the class name of your sign-in page
-                  );
-                },
-                child: Text('Sign In'),
-                style: ElevatedButton.styleFrom(
-                  backgroundColor: Colors.lightBlue,
-                  foregroundColor: Colors.white,
-                  minimumSize: Size(330, 54),
-                  shape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.circular(47),
-                  ),
-                  padding: EdgeInsets.symmetric(vertical: 10),
-                  textStyle: TextStyle(
-                    fontFamily: 'Inter',
-                    fontSize: 20,
-                    fontWeight: FontWeight.bold,
-                  ),
-                ),
-              ),
+              child: ourButton(
+                  context, "Sign tubiş", (context) => SignInPage()),
             ),
             SizedBox(height: screenSize.height * 0.02),
             // Sign Up Button
@@ -165,6 +145,35 @@ class MainPage extends StatelessWidget {
               ),
             ),
           ],
+        ),
+      ),
+    );
+  }
+
+  ElevatedButton ourButton(
+      BuildContext context, String text, Widget Function(BuildContext) route) {
+    return ElevatedButton(
+      onPressed: () {
+        Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (context) => route(context),
+          ),
+        );
+      },
+      child: Text(text),
+      style: ElevatedButton.styleFrom(
+        backgroundColor: Colors.lightBlue,
+        foregroundColor: Colors.white,
+        minimumSize: Size(330, 54),
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(47),
+        ),
+        padding: EdgeInsets.symmetric(vertical: 10),
+        textStyle: TextStyle(
+          fontFamily: 'Inter',
+          fontSize: 20,
+          fontWeight: FontWeight.bold,
         ),
       ),
     );

@@ -13,7 +13,9 @@ class ShoppingLists extends StatefulWidget {
 class _ShoppingListsScreenState extends State<ShoppingLists> {
   int _currentIndex = 0;
 
-  @override
+ /*
+ // testing  
+ @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
@@ -43,6 +45,39 @@ class _ShoppingListsScreenState extends State<ShoppingLists> {
       ),
     );
   }
+  */
+
+@override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('PriceWise'),
+        backgroundColor: Colors.lightBlue,
+      ),
+      body: _buildBody(),
+      bottomNavigationBar: BottomNavigationBar(
+        currentIndex: _currentIndex,
+        onTap: (int index) {
+          _navigateTo(index);
+        },
+        items: [
+          BottomNavigationBarItem(
+            icon: Icon(Icons.list),
+            label: 'Shopping Lists',
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(Icons.search),
+            label: 'Search',
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(Icons.settings),
+            label: 'My Profile',
+          ),
+        ],
+      ),
+    );
+  }
+
 
   Widget _buildBody() {
     return Column(
@@ -117,7 +152,7 @@ class _ShoppingListsScreenState extends State<ShoppingLists> {
         // No need to navigate if already on the Shopping Lists page
         break;
       case 1:
-        // Search
+        // Search Products
         Navigator.push(
           context,
           MaterialPageRoute(builder: (context) => SearchPage()),
