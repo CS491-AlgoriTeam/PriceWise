@@ -1,4 +1,4 @@
-import 'package:pwfe/models/Product.dart';
+import 'package:pwfe/classes/Product.dart';
 
 class ShoppingList {
   String shoppingListName;

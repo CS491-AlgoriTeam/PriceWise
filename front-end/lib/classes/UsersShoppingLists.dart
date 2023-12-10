@@ -1,4 +1,4 @@
-import 'package:pwfe/models/ShoppingLists.dart';
+import 'package:pwfe/classes/ShoppingLists.dart';
 
 class UsersShoppingListsList {
   List<ShoppingList> usersShoppingListsList;
