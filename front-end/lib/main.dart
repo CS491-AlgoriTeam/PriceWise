@@ -25,9 +25,10 @@ class MyApp extends StatelessWidget {
       home: const HomePage(),
       // You can also define the route here if you prefer named routes
       routes: {
+        '/homePage': (context) => const HomePage(),
         '/signin': (context) => const SignInPage(),
         '/signup': (context) => const SignUpPage(),
-        '/shoppingLists': (context) => const MyShoppingLists(),
+        '/myShoppingLists': (context) => const MyShoppingLists(),
       },
     );
   }
