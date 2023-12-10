@@ -3,6 +3,9 @@ import 'package:flutter/material.dart';
 import 'package:pwfe/classes/UsersShoppingLists.dart';
 import 'package:pwfe/components/bars/app_bar_top.dart';
 import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
+import 'package:pwfe/components/buttons/button_blue_lighter_rounded.dart';
+import 'package:pwfe/pages/AddShoppingListPage.dart';
+import 'package:pwfe/pages/EditShoppingListPage.dart';
 import 'package:pwfe/pages/ShoppingListDetailsPage.dart';
 
 class MyShoppingLists extends StatelessWidget {
@@ -15,6 +18,12 @@ class MyShoppingLists extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+   
+   
+    // this part of code causes bugs
+    // every time entered to myShoppingListPage it adds these values 
+    // this is just for testing
+    // it can be deleted
     testingShoppingLists.addShoppingList("shoppingList1");
     testingShoppingLists.addShoppingList("shoppingList2");
     testingShoppingLists.addShoppingList("shoppingList3");
@@ -36,22 +45,6 @@ class MyShoppingLists extends StatelessWidget {
     testingShoppingLists.addProductToShoppingList(3, "list4_item2", 42.0);
     testingShoppingLists.addProductToShoppingList(3, "list4_item3", 43.0);
     testingShoppingLists.addProductToShoppingList(3, "list4_item4", 44.0);
-    /*return Scaffold(
-      appBar: app_bar_top(),
-      body: ListView.builder(
-        itemCount: testingShoppingLists.getUsersShoppingListsSize(),
-        itemBuilder: (BuildContext context, int index) {
-          return SizedBox(
-            height: 50,
-            child: Center(
-              child: Text(
-                  (' ${testingShoppingLists.getShoppingList(index).shoppingListName}')),
-            ),
-          );
-        },
-      ),
-    );
-  }*/
     return Scaffold(
       appBar: app_bar_top(),
       body: Column(
@@ -85,6 +78,8 @@ class MyShoppingLists extends StatelessWidget {
               },
             ),
           ),
+          button_blue_lighter_rounded(
+              context, "addList", (p0) => AddShoppingListPage()),
           navigation_bar_bottom(context),
         ],
       ),
