@@ -9,7 +9,7 @@ BottomNavigationBar navigation_bar_bottom(BuildContext context) {
       // handle navigate to
       _navigateTo(context, index);
     },
-    items: [
+    items: const [
       BottomNavigationBarItem(
         icon: Icon(Icons.list),
         label: 'Shopping Lists',
@@ -72,14 +72,14 @@ void _navigateTo(BuildContext context, int index) {
       // Search Products
       Navigator.push(
         context,
-        MaterialPageRoute(builder: (context) => SearchPage()),
+        MaterialPageRoute(builder: (context) => const SearchPage()),
       );
       break;
     case 2:
       // My Profile
       Navigator.push(
         context,
-        MaterialPageRoute(builder: (context) => MyProfilePage()),
+        MaterialPageRoute(builder: (context) => const MyProfilePage()),
       );
       break;
   }

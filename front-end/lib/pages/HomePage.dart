@@ -78,7 +78,7 @@ class HomePage extends StatelessWidget {
             // Continue Without Register Button
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 20.0),
-              child: button_blue_lighter_rounded( context, "Continue Without Register", (p0) => const MyShoppingLists())),
+              child: button_blue_lighter_rounded( context, "Continue Without Register", (p0) =>  MyShoppingLists())),
           ],
         ),
       ),

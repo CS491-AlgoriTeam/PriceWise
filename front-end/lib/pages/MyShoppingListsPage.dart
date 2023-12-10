@@ -1,35 +1,104 @@
-// shoppingLists.dart
+// MyShoppingListsPage.dart
 import 'package:flutter/material.dart';
-import 'package:pwfe/pages/ShoppingListDetailsPage.dart';
+import 'package:pwfe/classes/UsersShoppingLists.dart';
+import 'package:pwfe/components/bars/app_bar_top.dart';
 import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
-
-class ShoppingListsList {
-  String shoppingListName;
-
-  ShoppingListsList({
-    required this.shoppingListName,
-  });
-}
+import 'package:pwfe/pages/ShoppingListDetailsPage.dart';
 
 class MyShoppingLists extends StatelessWidget {
-  const MyShoppingLists({Key? key}) : super(key: key);
-
+  MyShoppingLists({Key? key}) : super(key: key);
+  // test shopping lists
+  UsersShoppingLists testingShoppingLists =
+      UsersShoppingLists(usersShoppingLists: List.empty(growable: true));
+  int index = 0;
   @override
   Widget build(BuildContext context) {
-    List<ShoppingListsList> testingShoppingLists = [
-      ShoppingListsList(shoppingListName: "All I Need"),
-      ShoppingListsList(shoppingListName: "To Buy Later"),
-      ShoppingListsList(shoppingListName: "Grocery"),
-      ShoppingListsList(shoppingListName: "Pharmaceutical"),
-    ];
+    testingShoppingLists.addShoppingList("shoppingList1");
+    testingShoppingLists.addShoppingList("shoppingList2");
+    testingShoppingLists.addShoppingList("shoppingList3");
+    testingShoppingLists.addShoppingList("shoppingList4");
+
+    testingShoppingLists.addProductToShoppingList(0, "list1_item1", 11.0);
+    testingShoppingLists.addProductToShoppingList(0, "list1_item2", 12.0);
+    testingShoppingLists.addProductToShoppingList(0, "list1_item3", 13.0);
+    testingShoppingLists.addProductToShoppingList(0, "list1_item4", 14.0);
+    testingShoppingLists.addProductToShoppingList(0, "list2_item1", 21.0);
+    testingShoppingLists.addProductToShoppingList(0, "list2_item2", 22.0);
+    testingShoppingLists.addProductToShoppingList(0, "list2_item3", 23.0);
+    testingShoppingLists.addProductToShoppingList(0, "list2_item4", 24.0);
+    testingShoppingLists.addProductToShoppingList(0, "list3_item1", 31.0);
+    testingShoppingLists.addProductToShoppingList(0, "list3_item2", 32.0);
+    testingShoppingLists.addProductToShoppingList(0, "list3_item3", 33.0);
+    testingShoppingLists.addProductToShoppingList(0, "list3_item4", 34.0);
+    testingShoppingLists.addProductToShoppingList(0, "list4_item1", 41.0);
+    testingShoppingLists.addProductToShoppingList(0, "list4_item2", 42.0);
+    testingShoppingLists.addProductToShoppingList(0, "list4_item3", 43.0);
+    testingShoppingLists.addProductToShoppingList(0, "list4_item4", 44.0);
+    /*return Scaffold(
+      appBar: app_bar_top(),
+      body: ListView.builder(
+        itemCount: testingShoppingLists.getUsersShoppingListsSize(),
+        itemBuilder: (BuildContext context, int index) {
+          return SizedBox(
+            height: 50,
+            child: Center(
+              child: Text(
+                  (' ${testingShoppingLists.getShoppingList(index).shoppingListName}')),
+            ),
+          );
+        },
+      ),
+    );
+  }*/
     return Scaffold(
+      appBar: app_bar_top(),
+      body: Column(
+        children: [
+          Expanded(
+            child: ListView.builder(
+              itemCount: testingShoppingLists.getUsersShoppingListsSize(),
+              itemBuilder: (BuildContext context, int index) {
+                return GestureDetector(
+                  onTap: () {
+                    // Handle onTap for the selected shopping list
+                    Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                            builder: (context) =>
+                                ShoppingListDetailsPage(index: index)));
+                    print(
+                        "Tapped on ${testingShoppingLists.getShoppingList(index).shoppingListName}");
+                    // this print is for testing purposes
+                    print(testingShoppingLists.isReallyEmpty());
+                  },
+                  child: SizedBox(
+                    height: 50,
+                    child: Center(
+                      child: Text(
+                        (' ${testingShoppingLists.getShoppingList(index).shoppingListName}'),
+                      ),
+                    ),
+                  ),
+                );
+              },
+            ),
+          ),
+          navigation_bar_bottom(context),
+        ],
+      ),
+    );
+  }
+
+  static UsersShoppingLists getTestingShoppingLists() =>
+      MyShoppingLists().testingShoppingLists;
+}
+  /*return Scaffold(
       appBar: AppBar(
         title: const Text('Shopping Lists'),
       ),
       body: Column(
         children: testingShoppingLists.asMap().entries.map((entry) {
           int index = entry.key;
-          ShoppingListsList shoppingList = testingShoppingLists[index];
 
           return GestureDetector(
             onTap: () {
@@ -54,8 +123,8 @@ class MyShoppingLists extends StatelessWidget {
       ),
       bottomNavigationBar: navigation_bar_bottom(context),
     );
-  }
-}
+  }}*/
+
 
 /*
   old version commented out for improvements 

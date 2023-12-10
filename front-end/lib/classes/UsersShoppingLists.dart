@@ -1,15 +1,77 @@
-import 'package:pwfe/classes/ShoppingLists.dart';
+import 'package:pwfe/classes/ShoppingList.dart';
 
-class UsersShoppingListsList {
-  List<ShoppingList> usersShoppingListsList;
+class UsersShoppingLists {
+  List<ShoppingList> usersShoppingLists;
 
-  UsersShoppingListsList({required this.usersShoppingListsList});
+  UsersShoppingLists({
+    required this.usersShoppingLists,
+  });
 
-  int getNumberOfShoppingLists(String name) {
-    return usersShoppingListsList.length;
+  void addShoppingList(String name) {
+    usersShoppingLists.add(ShoppingList(shoppingListName: name, products: []));
   }
 
-  void addShoppingList(ShoppingList shoppingListName) {
-    // add shopping list logic
+  List<ShoppingList> getUsersShoppingLists() {
+    return usersShoppingLists;
+  }
+
+  ShoppingList getShoppingList(int index) {
+    return usersShoppingLists[index];
+  }
+
+  void addProductToShoppingList(int index, String name, double price) {
+    usersShoppingLists[index].addProduct(name, price);
+  }
+
+  int getUsersShoppingListsSize() {
+    return usersShoppingLists.length;
+  }
+
+  bool isReallyEmpty() {
+    return usersShoppingLists.isEmpty;
   }
 }
+
+
+/*
+Singleton version
+class UsersShoppingLists {
+  List<ShoppingList> usersShoppingLists;
+
+  // Private constructor
+  UsersShoppingLists._internal({required this.usersShoppingLists});
+
+  // Singleton instance
+  static final UsersShoppingLists _instance = UsersShoppingLists._internal(
+    usersShoppingLists: [],
+  );
+
+  // Static method to access the instance
+  static UsersShoppingLists get instance => _instance;
+
+  void addShoppingList(String name) {
+    usersShoppingLists.add(ShoppingList(shoppingListName: name, products: []));
+  }
+
+  List<ShoppingList> getUsersShoppingLists() {
+    return usersShoppingLists;
+  }
+
+  ShoppingList getShoppingList(int index) {
+    return usersShoppingLists[index];
+  }
+
+  void addProductToShoppingList(int index, String name, double price) {
+    usersShoppingLists[index].addProduct(name, price);
+  }
+
+  int getUsersShoppingListsSize() {
+    return usersShoppingLists.length;
+  }
+
+  bool isReallyEmpty() {
+    return usersShoppingLists.isEmpty;
+  }
+}
+
+ */

@@ -7,6 +7,10 @@ import 'pages/SignupPage.dart'; // Import the sign-up page
 
 // flutter_svg to make custom buttons from icons
 
+
+
+
+
 void main() {
   runApp(const MyApp());
 }
@@ -28,7 +32,7 @@ class MyApp extends StatelessWidget {
         '/homePage': (context) => const HomePage(),
         '/signin': (context) => const SignInPage(),
         '/signup': (context) => const SignUpPage(),
-        '/myShoppingLists': (context) => const MyShoppingLists(),
+        '/myShoppingLists': (context) => MyShoppingLists(),
       },
     );
   }
