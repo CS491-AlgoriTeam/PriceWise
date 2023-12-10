@@ -8,9 +8,11 @@ import 'package:pwfe/pages/ShoppingListDetailsPage.dart';
 class MyShoppingLists extends StatelessWidget {
   MyShoppingLists({Key? key}) : super(key: key);
   // test shopping lists
-  UsersShoppingLists testingShoppingLists =
-      UsersShoppingLists(usersShoppingLists: List.empty(growable: true));
+  // UsersShoppingLists testingShoppingLists =
+  //   UsersShoppingLists(usersShoppingLists: List.empty(growable: true));
   int index = 0;
+  UsersShoppingLists testingShoppingLists = UsersShoppingLists.instance;
+
   @override
   Widget build(BuildContext context) {
     testingShoppingLists.addShoppingList("shoppingList1");
@@ -22,18 +24,18 @@ class MyShoppingLists extends StatelessWidget {
     testingShoppingLists.addProductToShoppingList(0, "list1_item2", 12.0);
     testingShoppingLists.addProductToShoppingList(0, "list1_item3", 13.0);
     testingShoppingLists.addProductToShoppingList(0, "list1_item4", 14.0);
-    testingShoppingLists.addProductToShoppingList(0, "list2_item1", 21.0);
-    testingShoppingLists.addProductToShoppingList(0, "list2_item2", 22.0);
-    testingShoppingLists.addProductToShoppingList(0, "list2_item3", 23.0);
-    testingShoppingLists.addProductToShoppingList(0, "list2_item4", 24.0);
-    testingShoppingLists.addProductToShoppingList(0, "list3_item1", 31.0);
-    testingShoppingLists.addProductToShoppingList(0, "list3_item2", 32.0);
-    testingShoppingLists.addProductToShoppingList(0, "list3_item3", 33.0);
-    testingShoppingLists.addProductToShoppingList(0, "list3_item4", 34.0);
-    testingShoppingLists.addProductToShoppingList(0, "list4_item1", 41.0);
-    testingShoppingLists.addProductToShoppingList(0, "list4_item2", 42.0);
-    testingShoppingLists.addProductToShoppingList(0, "list4_item3", 43.0);
-    testingShoppingLists.addProductToShoppingList(0, "list4_item4", 44.0);
+    testingShoppingLists.addProductToShoppingList(1, "list2_item1", 21.0);
+    testingShoppingLists.addProductToShoppingList(1, "list2_item2", 22.0);
+    testingShoppingLists.addProductToShoppingList(1, "list2_item3", 23.0);
+    testingShoppingLists.addProductToShoppingList(1, "list2_item4", 24.0);
+    testingShoppingLists.addProductToShoppingList(2, "list3_item1", 31.0);
+    testingShoppingLists.addProductToShoppingList(2, "list3_item2", 32.0);
+    testingShoppingLists.addProductToShoppingList(2, "list3_item3", 33.0);
+    testingShoppingLists.addProductToShoppingList(2, "list3_item4", 34.0);
+    testingShoppingLists.addProductToShoppingList(3, "list4_item1", 41.0);
+    testingShoppingLists.addProductToShoppingList(3, "list4_item2", 42.0);
+    testingShoppingLists.addProductToShoppingList(3, "list4_item3", 43.0);
+    testingShoppingLists.addProductToShoppingList(3, "list4_item4", 44.0);
     /*return Scaffold(
       appBar: app_bar_top(),
       body: ListView.builder(

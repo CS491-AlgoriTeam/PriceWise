@@ -1,6 +1,6 @@
 import 'package:pwfe/classes/ShoppingList.dart';
 
-class UsersShoppingLists {
+/*class UsersShoppingLists {
   List<ShoppingList> usersShoppingLists;
 
   UsersShoppingLists({
@@ -31,10 +31,10 @@ class UsersShoppingLists {
     return usersShoppingLists.isEmpty;
   }
 }
+*/
 
 
-/*
-Singleton version
+//Singleton version
 class UsersShoppingLists {
   List<ShoppingList> usersShoppingLists;
 
@@ -74,4 +74,3 @@ class UsersShoppingLists {
   }
 }
 
- */

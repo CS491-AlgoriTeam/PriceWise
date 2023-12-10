@@ -9,23 +9,22 @@ class ShoppingListDetailsPage extends StatelessWidget {
   final int index;
   ShoppingListDetailsPage({Key? key, required this.index}) : super(key: key);
   UsersShoppingLists theShoppingList =
-      MyShoppingLists.;
+      MyShoppingLists.getTestingShoppingLists();
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('Shopping List Details'),
-      ),
-      body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Text('Product: ${theShoppingList.isReallyEmpty()}}'),
-            Text('Price: ${theShoppingList.isReallyEmpty()}'),
-            // Add more details based on the selected item if needed
-          ],
+        appBar: AppBar(
+          title: const Text('Shopping List Details'),
         ),
-      ),
-    );
+        body: Center(
+            child:
+                Column(mainAxisAlignment: MainAxisAlignment.center, children: [
+          Text(
+              'Product: ${theShoppingList.getShoppingList(0).getProduct(index).getProductName()}'),
+          Text(
+              'Price: ${theShoppingList.getShoppingList(0).getProduct(index).getProductPrice().toString()}'),
+          Text(
+              'Amount: ${theShoppingList.getShoppingList(0).getAmount(theShoppingList.getShoppingList(0).getProduct(index).getProductName())}'),
+        ])));
   }
 }
