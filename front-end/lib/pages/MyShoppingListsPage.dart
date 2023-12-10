@@ -1,7 +1,7 @@
 // shoppingLists.dart
 import 'package:flutter/material.dart';
 import 'package:pwfe/pages/ShoppingListDetailsPage.dart';
-import 'package:pwfe/components/navigation_bar_bottom.dart';
+import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
 
 class ShoppingListsList {
   String shoppingListName;
@@ -10,8 +10,6 @@ class ShoppingListsList {
     required this.shoppingListName,
   });
 }
-
-
 
 class MyShoppingLists extends StatelessWidget {
   const MyShoppingLists({Key? key}) : super(key: key);

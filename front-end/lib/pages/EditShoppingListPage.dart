@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class EditShoppingList extends StatelessWidget {
-  const EditShoppingList({super.key});
+class EditShoppingListPage extends StatelessWidget {
+  const EditShoppingListPage({super.key});
 
   @override
   Widget build(BuildContext context) {
