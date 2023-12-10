@@ -18,12 +18,11 @@ class MyShoppingLists extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-   
-   
     // this part of code causes bugs
-    // every time entered to myShoppingListPage it adds these values 
+    // every time entered to myShoppingListPage it adds these values
     // this is just for testing
     // it can be deleted
+
     testingShoppingLists.addShoppingList("shoppingList1");
     testingShoppingLists.addShoppingList("shoppingList2");
     testingShoppingLists.addShoppingList("shoppingList3");
@@ -45,6 +44,7 @@ class MyShoppingLists extends StatelessWidget {
     testingShoppingLists.addProductToShoppingList(3, "list4_item2", 42.0);
     testingShoppingLists.addProductToShoppingList(3, "list4_item3", 43.0);
     testingShoppingLists.addProductToShoppingList(3, "list4_item4", 44.0);
+
     return Scaffold(
       appBar: app_bar_top(),
       body: Column(
@@ -89,7 +89,7 @@ class MyShoppingLists extends StatelessWidget {
   static UsersShoppingLists getTestingShoppingLists() =>
       MyShoppingLists().testingShoppingLists;
 }
-  /*return Scaffold(
+/*return Scaffold(
       appBar: AppBar(
         title: const Text('Shopping Lists'),
       ),
@@ -121,7 +121,6 @@ class MyShoppingLists extends StatelessWidget {
       bottomNavigationBar: navigation_bar_bottom(context),
     );
   }}*/
-
 
 /*
   old version commented out for improvements 
