@@ -11,20 +11,20 @@ ElevatedButton button_blue_lighter_rounded(
         ),
       );
     },
-    child: Text(text),
     style: ElevatedButton.styleFrom(
       backgroundColor: Colors.lightBlue[300],
       foregroundColor: Colors.white,
-      minimumSize: Size(330, 54),
+      minimumSize: const Size(330, 54),
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(27),
       ),
-      padding: EdgeInsets.symmetric(vertical: 10),
-      textStyle: TextStyle(
+      padding: const EdgeInsets.symmetric(vertical: 10),
+      textStyle: const TextStyle(
         fontFamily: 'Inter',
         fontSize: 20,
         fontWeight: FontWeight.bold,
       ),
     ),
+    child: Text(text),
   );
 }

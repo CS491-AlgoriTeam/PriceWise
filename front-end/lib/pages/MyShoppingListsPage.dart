@@ -1,46 +1,60 @@
 // shoppingLists.dart
 import 'package:flutter/material.dart';
-import 'package:pwfe/lists/my-shopping-lists.dart';
-import 'package:pwfe/pages/EditShoppingListPage.dart';
-import 'package:pwfe/pages/MyProfilePage.dart';
-import 'package:pwfe/pages/SearchProductsPage.dart';
 import 'package:pwfe/pages/ShoppingListDetailsPage.dart';
+
+class ShoppingListsList {
+  String shoppingListName;
+
+  ShoppingListsList({
+    required this.shoppingListName,
+  });
+}
 
 class MyShoppingLists extends StatelessWidget {
   const MyShoppingLists({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    List<TestData> testingData = [
-      TestData(productName: "Amasya Elmasi", price: 0.18, amountNumber: 4),
-      TestData(productName: "Tam yağli süt", price: 1.08, amountNumber: 2),
-      TestData(productName: "cikolatali gofret", price: 0.30, amountNumber: 2),
-      TestData(productName: "konserve misir", price: 2.22, amountNumber: 1),
+    List<ShoppingListsList> testingShoppingLists = [
+      ShoppingListsList(shoppingListName: "All I Need"),
+      ShoppingListsList(shoppingListName: "To Buy Later"),
+      ShoppingListsList(shoppingListName: "Grocery"),
+      ShoppingListsList(shoppingListName: "Pharmaceutical"),
     ];
     return Scaffold(
       appBar: AppBar(
-        title: Text('Shopping Lists'),
+        title: const Text('Shopping Lists'),
       ),
       body: Column(
-        children: testingData.map((testingData) {
-          return Container(
-            child: ListTile(
-              title: Text(testingData.productName +
-                  "\t" +
-                  testingData.price.toString() +
-                  "\t" +
-                  testingData.amountNumber.toString()),
-              //subtitle: Text("Price: \$${testingData.price.toString()}"),
+        children: testingShoppingLists.asMap().entries.map((entry) {
+          int index = entry.key;
+          ShoppingListsList shoppingList = testingShoppingLists[index];
+
+          return GestureDetector(
+            onTap: () {
+              // Add your item click logic here
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => ShoppingListDetailsPage(index: index),
+                ),
+              );
+            },
+            child: Container(
+              margin: const EdgeInsets.all(5),
+              padding: const EdgeInsets.all(5),
+              color: Colors.green[100],
+              child: ListTile(
+                title: Text(shoppingList.shoppingListName),
+              ),
             ),
-            margin: EdgeInsets.all(5),
-            padding: EdgeInsets.all(5),
-            color: Colors.green[100],
           );
         }).toList(),
       ),
     );
   }
 }
+
 /*
   old version commented out for improvements 
 class MyShoppingLists extends StatefulWidget {

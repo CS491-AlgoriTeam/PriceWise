@@ -3,11 +3,13 @@ import 'package:flutter/material.dart';
 import 'package:pwfe/pages/ProductSellers.dart';
 
 class SearchPage extends StatelessWidget {
+  const SearchPage({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Search page'),
+        title: const Text('Search page'),
       ),
       body: ListView.builder(
         itemCount: 10, // Set the number of items in your list
@@ -17,7 +19,7 @@ class SearchPage extends StatelessWidget {
             onTap: () {
               // Add your item click logic here
               Navigator.push(context,
-                  MaterialPageRoute(builder: (context) => ProductSellers()));
+                  MaterialPageRoute(builder: (context) => const ProductSellers()));
             },
           );
         },

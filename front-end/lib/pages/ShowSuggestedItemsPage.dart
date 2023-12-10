@@ -12,9 +12,9 @@ class _SuggestedItemsState extends State<SuggestedItems> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Suggested Items Page'),
+        title: const Text('Suggested Items Page'),
       ),
-      body: Center(
+      body: const Center(
         child: Text('Suggested Items Content'),
       ),
     );

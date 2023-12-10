@@ -11,20 +11,20 @@ ElevatedButton buttton_blue_darker_rounded(
         ),
       );
     },
-    child: Text(text),
     style: ElevatedButton.styleFrom(
       backgroundColor: Colors.lightBlue,
       foregroundColor: Colors.white,
-      minimumSize: Size(330, 54),
+      minimumSize: const Size(330, 54),
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(47),
       ),
-      padding: EdgeInsets.symmetric(vertical: 10),
-      textStyle: TextStyle(
+      padding: const EdgeInsets.symmetric(vertical: 10),
+      textStyle: const TextStyle(
         fontFamily: 'Inter',
         fontSize: 20,
         fontWeight: FontWeight.bold,
       ),
     ),
+    child: Text(text),
   );
 }

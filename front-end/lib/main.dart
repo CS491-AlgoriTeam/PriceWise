@@ -22,12 +22,12 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: HomePage(),
+      home: const HomePage(),
       // You can also define the route here if you prefer named routes
       routes: {
-        '/signin': (context) => SignInPage(),
-        '/signup': (context) => SignUpPage(),
-        '/shoppingLists': (context) => MyShoppingLists(),
+        '/signin': (context) => const SignInPage(),
+        '/signup': (context) => const SignUpPage(),
+        '/shoppingLists': (context) => const MyShoppingLists(),
       },
     );
   }

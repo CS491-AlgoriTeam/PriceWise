@@ -1,13 +1,15 @@
 import 'package:flutter/material.dart';
 
 class MyHistoryPage extends StatelessWidget {
+  const MyHistoryPage({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('MyHistoryPage'),
+        title: const Text('MyHistoryPage'),
       ),
-      body: Center(
+      body: const Center(
         child: Text('MyHistoryPage Content'),
       ),
     );

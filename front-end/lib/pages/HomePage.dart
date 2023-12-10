@@ -6,6 +6,8 @@ import 'package:pwfe/pages/SignupPage.dart';
 import 'package:pwfe/pages/MyShoppingListsPage.dart';
 
 class HomePage extends StatelessWidget {
+  const HomePage({super.key});
+
   @override
   Widget build(BuildContext context) {
     // Getting screen size
@@ -38,7 +40,7 @@ class HomePage extends StatelessWidget {
             ),
             SizedBox(height: screenSize.height * 0.05),
             // Welcome Text
-            Text(
+            const Text(
               'Hello, Welcome!',
               style: TextStyle(
                 fontFamily: 'Jockey One',
@@ -46,8 +48,8 @@ class HomePage extends StatelessWidget {
                 color: Colors.black,
               ),
             ),
-            Padding(
-              padding: const EdgeInsets.all(16.0),
+            const Padding(
+              padding: EdgeInsets.all(16.0),
               child: Text(
                 'Welcome To PriceWise\nYour User Friendly Money Saving App',
                 textAlign: TextAlign.center,
@@ -64,19 +66,19 @@ class HomePage extends StatelessWidget {
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 20.0),
               child: buttton_blue_darker_rounded(
-                  context, "Sign In", (context) => SignInPage()),
+                  context, "Sign In", (context) => const SignInPage()),
             ),
             SizedBox(height: screenSize.height * 0.02),
             // Sign Up Button
             Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 20.0),
                 child: button_blue_lighter_rounded(
-                    context, "Sign Up", (p0) => SignUpPage())),
+                    context, "Sign Up", (p0) => const SignUpPage())),
             SizedBox(width: double.infinity, height: screenSize.height * 0.02),
             // Continue Without Register Button
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 20.0),
-              child: button_blue_lighter_rounded( context, "Continue Without Register", (p0) => MyShoppingLists())),
+              child: button_blue_lighter_rounded( context, "Continue Without Register", (p0) => const MyShoppingLists())),
           ],
         ),
       ),

@@ -4,12 +4,12 @@ TextFormField text_form_field_blue_darker(String text) {
   return TextFormField(
     decoration: InputDecoration(
       labelText: text,
-      labelStyle: TextStyle(
+      labelStyle: const TextStyle(
         color: Colors.black, // Color for when the TextFormField is not focused
       ),
       focusedBorder: OutlineInputBorder(
         borderRadius: BorderRadius.circular(27),
-        borderSide: BorderSide(
+        borderSide: const BorderSide(
           color: Colors.blue, // Border color when the TextFormField is focused
         ),
       ),
