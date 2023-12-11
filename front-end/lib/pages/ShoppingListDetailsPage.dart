@@ -9,8 +9,8 @@ import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
 class ShoppingListDetailsPage extends StatelessWidget {
   final int index;
   ShoppingListDetailsPage({Key? key, required this.index}) : super(key: key);
-  UsersShoppingLists theShoppingList =
-      MyShoppingLists.getTestingShoppingLists();
+  UsersShoppingLists theShoppingList = UsersShoppingLists.instance;
+
 
   @override
   Widget build(BuildContext context) {

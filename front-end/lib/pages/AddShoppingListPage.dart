@@ -15,8 +15,8 @@ class AddShoppingListPage extends StatefulWidget {
 
 class _AddShoppingListPageState extends State<AddShoppingListPage> {
   final addShoppingListController = TextEditingController();
-  UsersShoppingLists theShoppingList =
-      MyShoppingLists.getTestingShoppingLists();
+  UsersShoppingLists theShoppingList = UsersShoppingLists.instance;
+
   @override
   void dispose() {
     // Clean up the controller when the widget is disposed.

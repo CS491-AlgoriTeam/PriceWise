@@ -1,5 +1,6 @@
 // main.dart
 import 'package:flutter/material.dart';
+import 'package:pwfe/classes/UsersShoppingLists.dart';
 import 'package:pwfe/pages/HomePage.dart';
 import 'package:pwfe/pages/MyShoppingListsPage.dart';
 import 'pages/SigninPage.dart'; // Import the sign-in page
@@ -7,11 +8,8 @@ import 'pages/SignupPage.dart'; // Import the sign-up page
 
 // flutter_svg to make custom buttons from icons
 
-
-
-
-
 void main() {
+  initializeUsersShoppingLists();
   runApp(const MyApp());
 }
 
@@ -36,6 +34,31 @@ class MyApp extends StatelessWidget {
       },
     );
   }
+}
+
+void initializeUsersShoppingLists() {
+  UsersShoppingLists testingShoppingLists = UsersShoppingLists.instance;
+  testingShoppingLists.addShoppingList("shoppingList1");
+  testingShoppingLists.addShoppingList("shoppingList2");
+  testingShoppingLists.addShoppingList("shoppingList3");
+  testingShoppingLists.addShoppingList("shoppingList4");
+
+  testingShoppingLists.addProductToShoppingList(0, "list1_item1", 11.0);
+  testingShoppingLists.addProductToShoppingList(0, "list1_item2", 12.0);
+  testingShoppingLists.addProductToShoppingList(0, "list1_item3", 13.0);
+  testingShoppingLists.addProductToShoppingList(0, "list1_item4", 14.0);
+  testingShoppingLists.addProductToShoppingList(1, "list2_item1", 21.0);
+  testingShoppingLists.addProductToShoppingList(1, "list2_item2", 22.0);
+  testingShoppingLists.addProductToShoppingList(1, "list2_item3", 23.0);
+  testingShoppingLists.addProductToShoppingList(1, "list2_item4", 24.0);
+  testingShoppingLists.addProductToShoppingList(2, "list3_item1", 31.0);
+  testingShoppingLists.addProductToShoppingList(2, "list3_item2", 32.0);
+  testingShoppingLists.addProductToShoppingList(2, "list3_item3", 33.0);
+  testingShoppingLists.addProductToShoppingList(2, "list3_item4", 34.0);
+  testingShoppingLists.addProductToShoppingList(3, "list4_item1", 41.0);
+  testingShoppingLists.addProductToShoppingList(3, "list4_item2", 42.0);
+  testingShoppingLists.addProductToShoppingList(3, "list4_item3", 43.0);
+  testingShoppingLists.addProductToShoppingList(3, "list4_item4", 44.0);
 }
 
 /*class MainPage extends StatelessWidget {

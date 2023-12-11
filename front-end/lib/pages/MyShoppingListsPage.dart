@@ -10,41 +10,17 @@ import 'package:pwfe/pages/ShoppingListDetailsPage.dart';
 
 class MyShoppingLists extends StatelessWidget {
   MyShoppingLists({Key? key}) : super(key: key);
+  UsersShoppingLists testingShoppingLists = UsersShoppingLists.instance;
   // test shopping lists
   // UsersShoppingLists testingShoppingLists =
   //   UsersShoppingLists(usersShoppingLists: List.empty(growable: true));
   int index = 0;
-  UsersShoppingLists testingShoppingLists = UsersShoppingLists.instance;
-
   @override
   Widget build(BuildContext context) {
     // this part of code causes bugs
     // every time entered to myShoppingListPage it adds these values
     // this is just for testing
     // it can be deleted
-
-    testingShoppingLists.addShoppingList("shoppingList1");
-    testingShoppingLists.addShoppingList("shoppingList2");
-    testingShoppingLists.addShoppingList("shoppingList3");
-    testingShoppingLists.addShoppingList("shoppingList4");
-
-    testingShoppingLists.addProductToShoppingList(0, "list1_item1", 11.0);
-    testingShoppingLists.addProductToShoppingList(0, "list1_item2", 12.0);
-    testingShoppingLists.addProductToShoppingList(0, "list1_item3", 13.0);
-    testingShoppingLists.addProductToShoppingList(0, "list1_item4", 14.0);
-    testingShoppingLists.addProductToShoppingList(1, "list2_item1", 21.0);
-    testingShoppingLists.addProductToShoppingList(1, "list2_item2", 22.0);
-    testingShoppingLists.addProductToShoppingList(1, "list2_item3", 23.0);
-    testingShoppingLists.addProductToShoppingList(1, "list2_item4", 24.0);
-    testingShoppingLists.addProductToShoppingList(2, "list3_item1", 31.0);
-    testingShoppingLists.addProductToShoppingList(2, "list3_item2", 32.0);
-    testingShoppingLists.addProductToShoppingList(2, "list3_item3", 33.0);
-    testingShoppingLists.addProductToShoppingList(2, "list3_item4", 34.0);
-    testingShoppingLists.addProductToShoppingList(3, "list4_item1", 41.0);
-    testingShoppingLists.addProductToShoppingList(3, "list4_item2", 42.0);
-    testingShoppingLists.addProductToShoppingList(3, "list4_item3", 43.0);
-    testingShoppingLists.addProductToShoppingList(3, "list4_item4", 44.0);
-
     return Scaffold(
       appBar: app_bar_top(),
       body: Column(
@@ -85,9 +61,6 @@ class MyShoppingLists extends StatelessWidget {
       ),
     );
   }
-
-  static UsersShoppingLists getTestingShoppingLists() =>
-      MyShoppingLists().testingShoppingLists;
 }
 /*return Scaffold(
       appBar: AppBar(
