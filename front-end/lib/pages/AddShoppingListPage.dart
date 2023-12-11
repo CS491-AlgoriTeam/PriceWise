@@ -39,24 +39,32 @@ class _AddShoppingListPageState extends State<AddShoppingListPage> {
           // Add more widgets here as needed
         ],
       ),
-      floatingActionButton: FloatingActionButton(
-        // When the user presses the button, show an alert dialog containing
-        // the text that the user has entered into the text field.
-        onPressed: () {
-          showDialog(
-            context: context,
-            builder: (context) {
-              return AlertDialog(
-                // Retrieve the text that the user has entered by using the
-                // TextEditingController.
-                content: Text(addShoppingListController.text),
+      // Use a ButtonBar to contain the ElevatedButton
+      bottomNavigationBar: ButtonBar(
+        alignment: MainAxisAlignment.center,
+        children: [
+          ElevatedButton(
+            onPressed: () {
+              // Show the dialog
+              showDialog(
+                context: context,
+                builder: (context) {
+                  return AlertDialog(
+                    // Retrieve the text that the user has entered by using the
+                    // TextEditingController.
+                    content: Text(addShoppingListController.text),
+                  );
+                },
               );
+
+              // Add the shopping list
+              theShoppingList.addShoppingList(addShoppingListController.text);
+              Navigator.push(context,
+                  MaterialPageRoute(builder: (context) => MyShoppingLists()));
             },
-          );
-          theShoppingList.addShoppingList(addShoppingListController.text);
-        },
-        tooltip: 'Show me the value!',
-        child: const Icon(Icons.text_fields),
+            child: Text('Add Shopping List'),
+          ),
+        ],
       ),
     );
   }

@@ -11,16 +11,9 @@ import 'package:pwfe/pages/ShoppingListDetailsPage.dart';
 class MyShoppingLists extends StatelessWidget {
   MyShoppingLists({Key? key}) : super(key: key);
   UsersShoppingLists testingShoppingLists = UsersShoppingLists.instance;
-  // test shopping lists
-  // UsersShoppingLists testingShoppingLists =
-  //   UsersShoppingLists(usersShoppingLists: List.empty(growable: true));
   int index = 0;
   @override
   Widget build(BuildContext context) {
-    // this part of code causes bugs
-    // every time entered to myShoppingListPage it adds these values
-    // this is just for testing
-    // it can be deleted
     return Scaffold(
       appBar: app_bar_top(),
       body: Column(

@@ -106,7 +106,7 @@ class _LoginSignupScreenState extends State<SignInPage> {
                     context,
                     MaterialPageRoute(
                         builder: (context) =>
-                             MyShoppingLists()), // Use the class name of your sign-in page
+                            MyShoppingLists()), // Use the class name of your sign-in page
                   );
                 },
                 style: ElevatedButton.styleFrom(
@@ -115,7 +115,8 @@ class _LoginSignupScreenState extends State<SignInPage> {
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(27),
                   ),
-                  padding: const EdgeInsets.symmetric(horizontal: 50, vertical: 15),
+                  padding:
+                      const EdgeInsets.symmetric(horizontal: 50, vertical: 15),
                 ),
                 child: const Text(
                   'Signin',
@@ -154,7 +155,7 @@ class _LoginSignupScreenState extends State<SignInPage> {
   }
 
 // well xd
-// tried to paste this on its file and got errors abour state
+// tried to copy paste this on text_form_field_blue_lighter.dart file and got errors about the state
   TextFormField text_form_field_blue_lighter() {
     return TextFormField(
       obscureText: !_isPasswordVisible,

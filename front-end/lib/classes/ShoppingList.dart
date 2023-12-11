@@ -1,4 +1,3 @@
-
 import 'package:pwfe/classes/Product.dart';
 
 class ShoppingList {
@@ -10,10 +9,11 @@ class ShoppingList {
   List<Product> getProducts() {
     return products;
   }
-  Product getProduct(int index){
+
+  Product getProduct(int index) {
     return products[index];
   }
- 
+
   int getAmount(String name) {
     int amount = 0;
     for (int i = 0; i < products.length; i++) {
@@ -26,6 +26,14 @@ class ShoppingList {
 
   void addProduct(String name, double price) {
     products.add(Product(productName: name, productPrice: price));
+  }
+
+  double getShoppingListPrice() {
+    double productsPrice = 0;
+    for (int i = 0; i < products.length; i++) {
+      productsPrice += products[i].getProductPrice();
+    }
+    return productsPrice;
   }
 }
   /*Product addProduct(String productName, double productPrice) {

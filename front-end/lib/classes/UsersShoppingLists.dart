@@ -33,7 +33,6 @@ import 'package:pwfe/classes/ShoppingList.dart';
 }
 */
 
-
 //Singleton version
 class UsersShoppingLists {
   List<ShoppingList> usersShoppingLists;
@@ -72,5 +71,8 @@ class UsersShoppingLists {
   bool isReallyEmpty() {
     return usersShoppingLists.isEmpty;
   }
-}
 
+  double getTotalShoppingListPrice(int index) {
+    return usersShoppingLists[index].getShoppingListPrice();
+  }
+}

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:pwfe/pages/ShowSuggestedItemsPage.dart';
 
-class ShowSuggestions extends StatelessWidget {
-  const ShowSuggestions({super.key});
+class ShowSuggestedListsPage extends StatelessWidget {
+  const ShowSuggestedListsPage({super.key});
 
   @override
   Widget build(BuildContext context) {
