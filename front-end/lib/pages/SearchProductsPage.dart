@@ -1,21 +1,26 @@
 // search_page.dart
 import 'package:flutter/material.dart';
 import 'package:pwfe/classes/Product.dart';
+import 'package:pwfe/classes/ShoppingList.dart';
+import 'package:pwfe/classes/UsersShoppingLists.dart';
 import 'package:pwfe/pages/ProductSellers.dart';
 
 class SearchPage extends StatefulWidget {
   const SearchPage({Key? key}) : super(key: key);
-
   @override
   _SearchPageState createState() => _SearchPageState();
 }
 
 class _SearchPageState extends State<SearchPage> {
+  // variables
+  UsersShoppingLists shoppingLists = UsersShoppingLists.instance;
+  List<Product> displayedProducts = [];
+  String? selectedListName; // Variable to hold the selected list name
+
   List<Product> allProducts = List.generate(
       100,
       (index) =>
           Product(productName: 'Item $index', productPrice: index.toDouble()));
-  List<Product> displayedProducts = [];
 
   @override
   void initState() {
@@ -44,13 +49,43 @@ class _SearchPageState extends State<SearchPage> {
           SliverToBoxAdapter(
             child: Padding(
               padding: const EdgeInsets.all(8.0),
-              child: TextField(
-                onChanged: filterProducts,
-                decoration: InputDecoration(
-                  hintText: 'Search...',
-                  prefixIcon: Icon(Icons.search),
-                  border: OutlineInputBorder(),
-                ),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.stretch,
+                children: [
+                  TextField(
+                    onChanged: filterProducts,
+                    decoration: InputDecoration(
+                      hintText: 'Search...',
+                      prefixIcon: Icon(Icons.search),
+                      border: OutlineInputBorder(),
+                    ),
+                  ),
+                  SizedBox(
+                    height: 16.0,
+                  ),
+                  // Show the selected list name above the DropdownButton
+                  selectedListName != null
+                      ? Text('Selected List: $selectedListName')
+                      : Container(),
+                  // Add DropdownButton here
+                  DropdownButton<String>(
+                    value: selectedListName,
+                    onChanged: (String? newValue) {
+                      setState(() {
+                        selectedListName =
+                            newValue; // Update the selected list name
+                      });
+                    },
+                    items: shoppingLists
+                        .getUsersShoppingLists()
+                        .map((ShoppingList list) {
+                      return DropdownMenuItem<String>(
+                        value: list.shoppingListName,
+                        child: Text(list.shoppingListName),
+                      );
+                    }).toList(),
+                  ),
+                ],
               ),
             ),
           ),

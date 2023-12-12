@@ -6,11 +6,15 @@ class ShoppingList {
 
   ShoppingList({required this.shoppingListName, required this.products});
 
+  String getShoppingListName() {
+    return shoppingListName;
+  }
+
   List<Product> getProducts() {
     return products;
   }
 
-  Product getProduct(int index) {
+  Product getProductAtIndex(int index) {
     return products[index];
   }
 

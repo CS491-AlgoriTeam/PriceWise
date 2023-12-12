@@ -32,11 +32,11 @@ class ShoppingListDetailsPage extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       Text(
-                          'Product: ${theShoppingList.getShoppingList(index).getProduct(itemIndex).getProductName()}'),
+                          'Product: ${theShoppingList.getShoppingList(index).getProductAtIndex(itemIndex).getProductName()}'),
                       Text(
-                          'Price: ${theShoppingList.getShoppingList(index).getProduct(itemIndex).getProductPrice().toString()}'),
+                          'Price: ${theShoppingList.getShoppingList(index).getProductAtIndex(itemIndex).getProductPrice().toString()}'),
                       Text(
-                          'Amount: ${theShoppingList.getShoppingList(index).getAmount(theShoppingList.getShoppingList(index).getProduct(itemIndex).getProductName())}'),
+                          'Amount: ${theShoppingList.getShoppingList(index).getAmount(theShoppingList.getShoppingList(index).getProductAtIndex(itemIndex).getProductName())}'),
                     ],
                   ),
                 );
