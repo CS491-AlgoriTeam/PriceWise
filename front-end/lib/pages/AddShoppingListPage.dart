@@ -1,9 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:pwfe/classes/UsersShoppingLists.dart';
-import 'package:pwfe/components/bars/app_bar_top.dart';
-import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
-import 'package:pwfe/components/buttons/button_blue_lighter_rounded.dart';
-import 'package:pwfe/components/text-form-fields/text_form_field_blue_darker.dart';
 import 'package:pwfe/pages/MyShoppingListsPage.dart';
 
 class AddShoppingListPage extends StatefulWidget {
@@ -28,13 +24,13 @@ class _AddShoppingListPageState extends State<AddShoppingListPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Add Shopping List'),
+        title: const Text('Add Shopping List'),
       ),
       body: Column(
         children: [
           TextField(
             controller: addShoppingListController,
-            decoration: InputDecoration(labelText: 'Shopping List Name'),
+            decoration: const InputDecoration(labelText: 'Shopping List Name'),
           ),
           // Add more widgets here as needed
         ],
@@ -62,7 +58,7 @@ class _AddShoppingListPageState extends State<AddShoppingListPage> {
               Navigator.push(context,
                   MaterialPageRoute(builder: (context) => MyShoppingLists()));
             },
-            child: Text('Add Shopping List'),
+            child: const Text('Add Shopping List'),
           ),
         ],
       ),

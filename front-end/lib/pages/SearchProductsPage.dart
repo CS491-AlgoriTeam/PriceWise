@@ -54,19 +54,19 @@ class _SearchPageState extends State<SearchPage> {
                 children: [
                   TextField(
                     onChanged: filterProducts,
-                    decoration: InputDecoration(
+                    decoration: const InputDecoration(
                       hintText: 'Search...',
                       prefixIcon: Icon(Icons.search),
                       border: OutlineInputBorder(),
                     ),
                   ),
-                  SizedBox(
+                  const SizedBox(
                     height: 16.0,
                   ),
-                  // Show the selected list name above the DropdownButton
+                  /*// Show the selected list name above the DropdownButton
                   selectedListName != null
                       ? Text('Selected List: $selectedListName')
-                      : Container(),
+                      : Container(),*/
                   // Add DropdownButton here
                   DropdownButton<String>(
                     value: selectedListName,

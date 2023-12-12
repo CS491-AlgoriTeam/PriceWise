@@ -1,9 +1,6 @@
 // shoppingListDetails.dart
 import 'package:flutter/material.dart';
-import 'package:pwfe/classes/Product.dart';
-import 'package:pwfe/classes/ShoppingList.dart';
 import 'package:pwfe/classes/UsersShoppingLists.dart';
-import 'package:pwfe/pages/MyShoppingListsPage.dart';
 import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
 import 'package:pwfe/components/buttons/button_blue_lighter_rounded.dart';
 import 'package:pwfe/pages/ShowSuggestedListsPage.dart';
@@ -52,7 +49,7 @@ class ShoppingListDetailsPage extends StatelessWidget {
         children: [
           button_blue_lighter_rounded(context, "Show suggested Lists",
               (p0) => const ShowSuggestedListsPage()),
-          SizedBox(height: 16),
+          const SizedBox(height: 16),
           navigation_bar_bottom(context),
         ],
       ),

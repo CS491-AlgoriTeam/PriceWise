@@ -5,7 +5,6 @@ import 'package:pwfe/components/bars/app_bar_top.dart';
 import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
 import 'package:pwfe/components/buttons/button_blue_lighter_rounded.dart';
 import 'package:pwfe/pages/AddShoppingListPage.dart';
-import 'package:pwfe/pages/EditShoppingListPage.dart';
 import 'package:pwfe/pages/ShoppingListDetailsPage.dart';
 
 class MyShoppingLists extends StatelessWidget {
@@ -48,7 +47,7 @@ class MyShoppingLists extends StatelessWidget {
             ),
           ),
           button_blue_lighter_rounded(
-              context, "addList", (p0) => AddShoppingListPage()),
+              context, "addList", (p0) => const AddShoppingListPage()),
           navigation_bar_bottom(context),
         ],
       ),
