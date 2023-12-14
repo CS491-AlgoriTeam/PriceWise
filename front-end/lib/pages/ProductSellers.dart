@@ -1,17 +1,23 @@
 import 'package:flutter/material.dart';
+import 'package:pwfe/classes/Product.dart';
 
-class ProductSellers extends StatelessWidget {
-  const ProductSellers({super.key});
+class ProductSellers extends StatefulWidget {
+  const ProductSellers({
+    Key? key,
+  }) : super(key: key);
 
+  @override
+  _ProductSellersState createState() => _ProductSellersState();
+}
+
+class _ProductSellersState extends State<ProductSellers> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Sellers Profile'),
       ),
-      body: const Center(
-        child: Text('Sellers Content'),
-      ),
+      body: CustomScrollView(),
     );
   }
 }

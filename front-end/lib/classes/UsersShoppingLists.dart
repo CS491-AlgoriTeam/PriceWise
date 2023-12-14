@@ -1,3 +1,4 @@
+import 'package:pwfe/classes/Product.dart';
 import 'package:pwfe/classes/ShoppingList.dart';
 
 /*class UsersShoppingLists {
@@ -75,4 +76,14 @@ class UsersShoppingLists {
   double getTotalShoppingListPrice(int index) {
     return usersShoppingLists[index].getShoppingListPrice();
   }
+
+  List<Product> getShoppingListByName(String name) {
+    return getShoppingListByName(name);      
+  }
+
+  void removeShoppingList(int index) {
+    usersShoppingLists.removeAt(index);
+  }
+
+
 }

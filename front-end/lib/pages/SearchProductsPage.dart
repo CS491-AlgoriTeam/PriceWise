@@ -103,11 +103,10 @@ class _SearchPageState extends State<SearchPage> {
                   onTap: () {
                     // Add your item click logic here
                     Navigator.push(
-                      context,
-                      MaterialPageRoute(
-                        builder: (context) => const ProductSellers(),
-                      ),
-                    );
+                        context,
+                        MaterialPageRoute(
+                          builder: (context) => ProductSellers(),
+                        ));
                   },
                 );
               },
