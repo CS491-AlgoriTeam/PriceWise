@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 import 'dart:async';
 import 'package:path/path.dart';
 import 'package:pwfe/classes/Product.dart';
+import 'package:pwfe/classes/ShoppingList.dart';
+import 'package:pwfe/classes/ShoppingListsData.dart';
 import 'package:pwfe/classes/User.dart';
 import 'package:pwfe/utils/DatabaseHelper.dart';
 
@@ -28,7 +30,7 @@ void main() async {
       userName: "deniz",
       userSurname: "userSurname",
       userEmail: "xd",
-      userPassword: "userPassword"));
+      userPassword: "123"));
 
   databaseHelper
       .insertProduct(Product(productName: "product1", productPrice: 1.0));
@@ -36,6 +38,14 @@ void main() async {
   databaseHelper.insertProduct(Product(
       productName: "product2",
       productPrice: 2.0)); // Insert a product into the database
+/*
+ // ShoppingList shoppingList1 = ShoppingList(
+      shoppingListName: "shoppingList1",
+      products: [Product(productName: "product1", productPrice: 1.0)]);
+
+  //ShoppingList shoppingList2 = ShoppingList(shoppingListName: "shoppingList2", products: [Product(productName: "product2", productPrice: 2.0)]);
+*/
+  // shopping list datası patlado
   print(await databaseHelper.getUserMapList());
   print(await databaseHelper.getProductMapList());
   runApp(MyApp());

@@ -13,6 +13,8 @@ class SignUpPage extends StatefulWidget {
 class _SignUpScreenState extends State<SignUpPage> {
   bool _isPasswordVisible = false;
   bool _isConfirmPasswordVisible = false;
+
+  // use these to gather text from text form fields
   final TextEditingController _fullNameController = TextEditingController();
   final TextEditingController _emailController = TextEditingController();
   final TextEditingController _passwordController = TextEditingController();

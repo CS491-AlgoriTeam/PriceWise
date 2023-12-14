@@ -4,6 +4,8 @@ import 'package:pwfe/classes/Product.dart';
 import 'package:pwfe/classes/ShoppingList.dart';
 import 'package:pwfe/classes/UsersShoppingLists.dart';
 import 'package:pwfe/pages/ProductSellers.dart';
+import 'package:pwfe/utils/DatabaseHelper.dart';
+import 'package:sqflite/sqflite.dart';
 
 class SearchPage extends StatefulWidget {
   const SearchPage({Key? key}) : super(key: key);
@@ -15,7 +17,19 @@ class _SearchPageState extends State<SearchPage> {
   // variables
   UsersShoppingLists shoppingLists = UsersShoppingLists.instance;
   List<Product> displayedProducts = [];
+  // biraz ezikçe ama şimdilik böyle
+  List<ShoppingList> testShooingLists = [
+    ShoppingList(
+        shoppingListName: "shoppingList1",
+        products: [Product(productName: "product1", productPrice: 1.0)]),
+    ShoppingList(
+        shoppingListName: "shoppingList2",
+        products: [Product(productName: "product2", productPrice: 2.0)])
+  ];
+
   String? selectedListName; // Variable to hold the selected list name
+
+  DatabaseHelper _databaseController = DatabaseHelper();
 
   List<Product> allProducts = List.generate(
       100,
@@ -29,12 +43,22 @@ class _SearchPageState extends State<SearchPage> {
     allProducts.add(Product(productName: "xd", productPrice: 31.31));
   }
 
-  void filterProducts(String query) {
+  void filterProducts(String query) async {
+    final productMapList = await _databaseController.getProductMapList();
+
     setState(() {
-      displayedProducts = allProducts
-          .where((product) =>
-              product.productName.toLowerCase().contains(query.toLowerCase()))
-          .toList();
+      displayedProducts = productMapList
+          .where((product) => product['productName']
+              .toLowerCase()
+              .contains(query.toLowerCase()))
+          .map<Product>((product) {
+        var productInstance = Product(
+          productName: product['productName'],
+          productPrice: product['productPrice'],
+        );
+        productInstance.fromMapObject(product);
+        return productInstance;
+      }).toList();
     });
   }
 
@@ -92,6 +116,15 @@ class _SearchPageState extends State<SearchPage> {
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
                       Text(displayedProducts[index].productName),
+                      GestureDetector(
+                        onTap: () {
+                          // Add your logic for onPressed here
+                          // For example, you can call a function or navigate to another page.
+                          print(
+                              "Add to list pressed for ${displayedProducts[index].productName}");
+                        },
+                        child: Text("Add to list"),
+                      ),
                       Text(displayedProducts[index].productPrice.toString()),
                     ],
                   ),

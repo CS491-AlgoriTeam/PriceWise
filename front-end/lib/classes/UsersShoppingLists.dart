@@ -31,8 +31,7 @@ import 'package:pwfe/classes/ShoppingList.dart';
   bool isReallyEmpty() {
     return usersShoppingLists.isEmpty;
   }
-}
-*/
+}*/
 
 //Singleton version
 class UsersShoppingLists {
