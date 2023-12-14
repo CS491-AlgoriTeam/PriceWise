@@ -30,15 +30,14 @@ void main() async {
       userEmail: "xd",
       userPassword: "userPassword"));
 
-  /*databaseHelper
+  databaseHelper
       .insertProduct(Product(productName: "product1", productPrice: 1.0));
 
   databaseHelper.insertProduct(Product(
       productName: "product2",
       productPrice: 2.0)); // Insert a product into the database
-    */
   print(await databaseHelper.getUserMapList());
-  //print(await databaseHelper.getProductMapList());
+  print(await databaseHelper.getProductMapList());
   runApp(MyApp());
 }
 
