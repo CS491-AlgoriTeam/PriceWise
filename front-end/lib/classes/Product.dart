@@ -1,7 +1,11 @@
 class Product {
+  //int productID;
   String productName;
   double productPrice;
-  Product({required this.productName, required this.productPrice});
+  Product(
+      {/*required this.productID,*/
+      required this.productName,
+      required this.productPrice});
 
   String getProductName() {
     return productName;
@@ -27,8 +31,8 @@ class Product {
   }
 
   fromMapObject(Map<String, dynamic> map) {
-    this.productName = map['productName'];
-    this.productPrice = map['productPrice'];
+    productName = map['productName'];
+    productPrice = map['productPrice'];
   }
 
   @override

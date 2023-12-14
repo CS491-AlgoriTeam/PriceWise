@@ -1,8 +1,7 @@
 import 'dart:async';
 import 'dart:io';
 
-import 'dart:io';
-
+import 'package:pwfe/classes/Product.dart';
 import 'package:pwfe/classes/User.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
@@ -20,9 +19,8 @@ class DatabaseHelper {
   String colUserPassword = 'userPassword';
 
   String productTable = 'productTable';
-  String colProductId = 'productID';
   String colProductName = 'productName';
-
+  String colProductPrice = 'productPrice';
 
   factory DatabaseHelper() => _instance;
 
@@ -56,10 +54,12 @@ class DatabaseHelper {
   void _createDatabase(Database db, int newVersion) async {
     print("create database called");
     await db.execute(
-        'CREATE TABLE $userTable($colUserId INTEGER PRIMARY KEY AUTOINCREMENT, $colUserName TEXT, $colUserSurname TEXT, $colUserEmail TEXT, $colUserPassword TEXT)');
-        
+        'CREATE TABLE $userTable($colUserId INTEGER PRIMARY KEY AUTOINCREMENT, $colUserName TEXT, $colUserSurname TEXT, $colUserEmail TEXT, $colUserPassword TEXT);');
+    await db.execute(
+        'CREATE TABLE $productTable($colProductName TEXT, $colProductPrice REAL);');
   }
 
+  // User table methods
   Future<List<Map<String, dynamic>>> getUserMapList() async {
     final Database db = await database;
     return await db.query(userTable);
@@ -84,17 +84,24 @@ class DatabaseHelper {
     return await db
         .rawDelete('DELETE FROM $userTable WHERE $colUserId = ?', [id]);
   }
-}
-  /*static Future<List<User>> getAllUsers(){
-    var db = _database;
-    
-    final List<Map<String, dynamic>> maps =  db.query("userTable");
-    
-    if (maps.isEmpty) {
-      
-return null;
-      
-    }
-return List.generate(maps.length, (index) => Note.fromMap(maps[index]));
-  }*/
 
+  // product table methods
+  Future<List<Map<String, dynamic>>> getProductMapList() async {
+    final Database db = await database;
+    return await db.query(productTable);
+  }
+
+  Future<int> insertProduct(Product product) async {
+    var db = await database;
+    return await db.insert(productTable, product.toMap(),
+        conflictAlgorithm: ConflictAlgorithm.replace);
+  }
+
+  Future<int> updateProduct(Product product) async {
+    var db = await database;
+    return await db.update(productTable, product.toMap(),
+        where: '$colProductName = ?',
+        whereArgs: [product.getProductName()],
+        conflictAlgorithm: ConflictAlgorithm.replace);
+  }
+}

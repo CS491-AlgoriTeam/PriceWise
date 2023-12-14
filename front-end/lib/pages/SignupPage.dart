@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:pwfe/components/text-form-fields/text_form_field_blue_darker.dart';
 import 'package:pwfe/pages/HomePage.dart';
+import 'package:pwfe/utils/DatabaseHelper.dart';
 
 class SignUpPage extends StatefulWidget {
   const SignUpPage({super.key});
@@ -12,6 +13,13 @@ class SignUpPage extends StatefulWidget {
 class _SignUpScreenState extends State<SignUpPage> {
   bool _isPasswordVisible = false;
   bool _isConfirmPasswordVisible = false;
+  final TextEditingController _fullNameController = TextEditingController();
+  final TextEditingController _emailController = TextEditingController();
+  final TextEditingController _passwordController = TextEditingController();
+  final TextEditingController _confirmPasswordController =
+      TextEditingController();
+
+  DatabaseHelper databaseHelper = DatabaseHelper();
 
   @override
   Widget build(BuildContext context) {
@@ -44,11 +52,56 @@ class _SignUpScreenState extends State<SignUpPage> {
                 ),
               ),
               SizedBox(height: screenSize.height * 0.05),
-              text_form_field_blue_darker("Full Name"),
-              SizedBox(height: screenSize.height * 0.02),
-              text_form_field_blue_darker("Email"),
+              TextFormField(
+                controller: _fullNameController,
+                decoration: InputDecoration(
+                  labelText: "Full Name",
+                  labelStyle: const TextStyle(
+                    color: Colors.black,
+                  ),
+                  focusedBorder: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(27),
+                    borderSide: const BorderSide(
+                      color: Colors.blue,
+                    ),
+                  ),
+                  enabledBorder: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(27),
+                    borderSide: BorderSide(
+                      color: Colors.blue[200]!,
+                    ),
+                  ),
+                  filled: true,
+                  fillColor: Colors.lightBlue[200],
+                ),
+              ),
               SizedBox(height: screenSize.height * 0.02),
               TextFormField(
+                controller: _emailController,
+                decoration: InputDecoration(
+                  labelText: "Email",
+                  labelStyle: const TextStyle(
+                    color: Colors.black,
+                  ),
+                  focusedBorder: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(27),
+                    borderSide: const BorderSide(
+                      color: Colors.blue,
+                    ),
+                  ),
+                  enabledBorder: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(27),
+                    borderSide: BorderSide(
+                      color: Colors.blue[200]!,
+                    ),
+                  ),
+                  filled: true,
+                  fillColor: Colors.lightBlue[200],
+                ),
+              ),
+              SizedBox(height: screenSize.height * 0.02),
+              TextFormField(
+                controller: _passwordController,
                 obscureText: !_isPasswordVisible,
                 decoration: InputDecoration(
                   labelText: 'Password',
@@ -88,6 +141,7 @@ class _SignUpScreenState extends State<SignUpPage> {
               ),
               SizedBox(height: screenSize.height * 0.02),
               TextFormField(
+                controller: _confirmPasswordController,
                 obscureText: !_isConfirmPasswordVisible,
                 decoration: InputDecoration(
                   labelText: 'Confirm Password',
@@ -141,7 +195,8 @@ class _SignUpScreenState extends State<SignUpPage> {
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(27),
                   ),
-                  padding: const EdgeInsets.symmetric(horizontal: 50, vertical: 15),
+                  padding:
+                      const EdgeInsets.symmetric(horizontal: 50, vertical: 15),
                   textStyle: const TextStyle(
                     fontFamily: 'Inter',
                     fontSize: 20,

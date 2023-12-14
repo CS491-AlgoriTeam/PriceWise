@@ -63,11 +63,6 @@ class _SearchPageState extends State<SearchPage> {
                   const SizedBox(
                     height: 16.0,
                   ),
-                  /*// Show the selected list name above the DropdownButton
-                  selectedListName != null
-                      ? Text('Selected List: $selectedListName')
-                      : Container(),*/
-                  // Add DropdownButton here
                   DropdownButton<String>(
                     value: selectedListName,
                     onChanged: (String? newValue) {
