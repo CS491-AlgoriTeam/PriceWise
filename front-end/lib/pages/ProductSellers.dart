@@ -17,9 +17,9 @@ class ProductSellers extends StatefulWidget {
 class _ProductSellersState extends State<ProductSellers> {
   // Sample data, replace this with your actual data
   final List<Map<String, dynamic>> sellersData = [
-    {'sellerName': 'Seller A', 'price': 20.0},
-    {'sellerName': 'Seller B', 'price': 25.0},
-    {'sellerName': 'Seller C', 'price': 18.0},
+    {'sellerName': 'Seller A', 'price': 18.0},
+    {'sellerName': 'Seller B', 'price': 21.0},
+    {'sellerName': 'Seller C', 'price': 23.0},
     // Add more sellers as needed
   ];
 
@@ -28,32 +28,53 @@ class _ProductSellersState extends State<ProductSellers> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Seller Profile'),
+        backgroundColor: Colors.blue, // Customize app bar color
       ),
       bottomNavigationBar: navigation_bar_bottom(context),
-      body: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          Padding(
-            padding: const EdgeInsets.all(8.0),
-            child: Text(
+      body: Padding(
+        padding: const EdgeInsets.all(8.0),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(
               'Sellers of ${widget.product.getProductName()}',
               style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
             ),
-          ),
-          Expanded(
-            child: ListView.builder(
-              itemCount: sellersData.length,
-              itemBuilder: (context, index) {
-                return ListTile(
-                  title: Text(sellersData[index]['sellerName']),
-                  subtitle: Text('Price: \$${sellersData[index]['price']}'),
-                  // You can customize the ListTile as needed
-                );
-              },
+            SizedBox(height: 8),
+            Expanded(
+              child: ListView.builder(
+                itemCount: sellersData.length,
+                itemBuilder: (context, index) {
+                  return Card(
+                    elevation: 3,
+                    margin: EdgeInsets.symmetric(vertical: 8),
+                    child: ListTile(
+                      title: Text(
+                        sellersData[index]['sellerName'],
+                        style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+                      ),
+                      subtitle: Text('Price: \$${sellersData[index]['price']}'),
+                      trailing: TextButton(
+                        onPressed: () {
+                          _addToShoppingList(sellersData[index]);
+                        },
+                        style: ButtonStyle(
+                          backgroundColor: MaterialStateProperty.all(Colors.lightBlue),
+                        ),
+                        child: Text('+ Add to List', style: TextStyle(fontSize: 12)),
+                      ),
+                    ),
+                  );
+                },
+              ),
             ),
-          ),
-        ],
+          ],
+        ),
       ),
     );
+  }
+
+  void _addToShoppingList(Map<String, dynamic> sellerInfo) {
+    print('Added ${sellerInfo['sellerName']} to the shopping list');
   }
 }
