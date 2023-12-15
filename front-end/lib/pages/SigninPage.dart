@@ -1,22 +1,93 @@
 // signin.dart
 import 'package:flutter/material.dart';
-import 'package:pwfe/shoppingLists.dart';
-import 'signup.dart'; // Import the sign-up page
+import 'package:pwfe/components/text-form-fields/text_form_field_blue_darker.dart';
+import 'package:pwfe/pages/MyShoppingListsPage.dart';
+import 'package:pwfe/utils/DatabaseHelper.dart';
+import 'SignupPage.dart';
+import 'package:collection/collection.dart';
 
 class SignInPage extends StatefulWidget {
+  const SignInPage({Key? key}) : super(key: key);
+
   @override
   _LoginSignupScreenState createState() => _LoginSignupScreenState();
 }
 
 class _LoginSignupScreenState extends State<SignInPage> {
+  DatabaseHelper _databaseController = DatabaseHelper();
   bool _isPasswordVisible = false;
+  bool _isUserLoggedIn = false;
+  //DatabaseController _databaseController = DatabaseController();
+  final TextEditingController _usernameController = TextEditingController();
+  final TextEditingController _passwordController = TextEditingController();
+  late BuildContext initialContext;
+
+  @override
+  void initState() {
+    super.initState();
+    initialContext = context;
+  }
+
+  Future<void> _login() async {
+    print(await _databaseController.getUserMapList());
+
+    print("login");
+
+    // Wait for a short delay to ensure TextFormFields are updated
+    print("username: " + _usernameController.text);
+    print("password: " + _passwordController.text);
+    //print(_databaseController.colUserName);
+    //print(_databaseController.colUserPassword);
+
+    // Retrieve username and password from text fields
+    String username = _usernameController.text.trim();
+    String password = _passwordController.text.trim();
+
+    print("xddddddddddd------------------1");
+    List<Map<String, dynamic>> userList =
+        await _databaseController.getUserMapList();
+    userList.map((e) => print(e));
+
+    try {
+      // Using firstWhere directly, which will throw an exception if the user is not found
+      Map<String, dynamic> user = userList.firstWhere(
+        (user) =>
+            user[_databaseController.colUserName] == username &&
+            user[_databaseController.colUserPassword] == password,
+      );
+
+      print("xddddddddddd------------------4");
+      // User found, set a flag to indicate successful login
+      _isUserLoggedIn = true;
+    } catch (e) {
+      print("xddddddddddd------------------5");
+      // User not found, show an alert
+      showDialog(
+        context: context,
+        builder: (BuildContext context) {
+          return AlertDialog(
+            title: Text('Login Failed'),
+            content: Text('Incorrect username or password. Please try again.'),
+            actions: <Widget>[
+              TextButton(
+                onPressed: () {
+                  Navigator.of(context).pop();
+                },
+                child: Text('OK'),
+              ),
+            ],
+          );
+        },
+      );
+    }
+  }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
         child: Padding(
-          padding: EdgeInsets.all(20),
+          padding: const EdgeInsets.all(20),
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
@@ -29,8 +100,8 @@ class _LoginSignupScreenState extends State<SignInPage> {
                   color: Colors.blue[900],
                 ),
               ),
-              SizedBox(height: 32),
-              Text(
+              const SizedBox(height: 32),
+              const Text(
                 'Welcome Back!',
                 style: TextStyle(
                   fontFamily: 'Jockey One',
@@ -39,7 +110,7 @@ class _LoginSignupScreenState extends State<SignInPage> {
                   color: Colors.black,
                 ),
               ),
-              Text(
+              const Text(
                 'Login to continue',
                 style: TextStyle(
                   fontFamily: 'Inter',
@@ -48,53 +119,49 @@ class _LoginSignupScreenState extends State<SignInPage> {
                   color: Colors.black,
                 ),
               ),
-              SizedBox(height: 24),
+              const SizedBox(height: 24),
               TextFormField(
+                controller: _usernameController,
                 decoration: InputDecoration(
-                  labelText: 'Username',
-                  labelStyle: TextStyle(
-                    color: Colors
-                        .black, // Color for when the TextFormField is not focused
+                  labelText: "Username",
+                  labelStyle: const TextStyle(
+                    color: Colors.black,
                   ),
                   focusedBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(27),
-                    borderSide: BorderSide(
-                      color: Colors
-                          .blue, // Border color when the TextFormField is focused
+                    borderSide: const BorderSide(
+                      color: Colors.blue,
                     ),
                   ),
                   enabledBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(27),
                     borderSide: BorderSide(
-                      color: Colors.blue[
-                          200]!, // Border color when TextFormField is enabled
+                      color: Colors.blue[200]!,
                     ),
                   ),
                   filled: true,
                   fillColor: Colors.lightBlue[200],
                 ),
               ),
-              SizedBox(height: 16),
+              const SizedBox(height: 16),
               TextFormField(
+                controller: _passwordController,
                 obscureText: !_isPasswordVisible,
                 decoration: InputDecoration(
                   labelText: 'Password',
-                  labelStyle: TextStyle(
-                    color: Colors
-                        .black, // Color for when the TextFormField is not focused
+                  labelStyle: const TextStyle(
+                    color: Colors.black,
                   ),
                   focusedBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(27),
-                    borderSide: BorderSide(
-                      color: Colors
-                          .blue, // Border color when the TextFormField is focused
+                    borderSide: const BorderSide(
+                      color: Colors.blue,
                     ),
                   ),
                   enabledBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(27),
                     borderSide: BorderSide(
-                      color: Colors.blue[
-                          100]!, // Border color when TextFormField is enabled
+                      color: Colors.blue[100]!,
                     ),
                   ),
                   filled: true,
@@ -113,7 +180,8 @@ class _LoginSignupScreenState extends State<SignInPage> {
                   ),
                 ),
               ),
-              SizedBox(height: 24),
+              const SizedBox(height: 24),
+              // Start of added code
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: <Widget>[
@@ -122,11 +190,7 @@ class _LoginSignupScreenState extends State<SignInPage> {
                       Checkbox(
                         value: false,
                         onChanged: (bool? value) {
-                          if (value != null) {
-                            setState(() {
-                              value = true;
-                            }); // Handle remember me
-                          }
+                          // Handle remember me
                         },
                       ),
                       Text(
@@ -156,45 +220,59 @@ class _LoginSignupScreenState extends State<SignInPage> {
                   ),
                 ],
               ),
-              SizedBox(height: 24),
+              // End of added code
+              const SizedBox(height: 24),
               ElevatedButton(
                 onPressed: () {
-                  // Handle login
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                        builder: (context) =>
-                            ShoppingLists()), // Use the class name of your sign-in page
-                  );
+                  _login();
+                  if (_isUserLoggedIn) {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => MyShoppingLists(),
+                      ),
+                    );
+                  }
                 },
-                child: Text(
-                  'Signin',
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: Colors.lightBlue,
+                  foregroundColor: Colors.white,
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(27),
+                  ),
+                  padding:
+                      const EdgeInsets.symmetric(horizontal: 50, vertical: 15),
+                ),
+                child: const Text(
+                  'Sign in',
                   style: TextStyle(
                     fontFamily: 'Inter',
                     fontSize: 20,
                     fontWeight: FontWeight.bold,
                   ),
                 ),
-                style: ElevatedButton.styleFrom(
-                  primary: Colors.lightBlue,
-                  foregroundColor: Colors.white,
-                  shape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.circular(27),
-                  ),
-                  padding: EdgeInsets.symmetric(horizontal: 50, vertical: 15),
-                ),
               ),
-              SizedBox(height: 24),
-              TextButton(
+
+              const SizedBox(height: 24),
+              ElevatedButton(
                 onPressed: () {
                   Navigator.push(
                     context,
                     MaterialPageRoute(
-                        builder: (context) =>
-                            SignUpPage()), // Use the class name of your sign-in page
+                      builder: (context) => const SignUpPage(),
+                    ),
                   );
                 },
-                child: Text(
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: Colors.lightBlue[100],
+                  foregroundColor: Colors.white,
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(27),
+                  ),
+                  padding:
+                      const EdgeInsets.symmetric(horizontal: 50, vertical: 15),
+                ),
+                child: const Text(
                   'Don’t have an account? Sign Up',
                   style: TextStyle(
                     fontFamily: 'Inter',

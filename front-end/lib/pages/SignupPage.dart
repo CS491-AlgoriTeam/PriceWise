@@ -1,7 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:pwfe/main.dart';
+import 'package:pwfe/components/text-form-fields/text_form_field_blue_darker.dart';
+import 'package:pwfe/pages/HomePage.dart';
+import 'package:pwfe/utils/DatabaseHelper.dart';
 
 class SignUpPage extends StatefulWidget {
+  const SignUpPage({super.key});
+
   @override
   _SignUpScreenState createState() => _SignUpScreenState();
 }
@@ -10,6 +14,15 @@ class _SignUpScreenState extends State<SignUpPage> {
   bool _isPasswordVisible = false;
   bool _isConfirmPasswordVisible = false;
 
+  // use these to gather text from text form fields
+  final TextEditingController _fullNameController = TextEditingController();
+  final TextEditingController _emailController = TextEditingController();
+  final TextEditingController _passwordController = TextEditingController();
+  final TextEditingController _confirmPasswordController =
+      TextEditingController();
+
+  DatabaseHelper databaseHelper = DatabaseHelper();
+
   @override
   Widget build(BuildContext context) {
     final Size screenSize = MediaQuery.of(context).size;
@@ -17,7 +30,7 @@ class _SignUpScreenState extends State<SignUpPage> {
     return Scaffold(
       body: SingleChildScrollView(
         child: Padding(
-          padding: EdgeInsets.all(20),
+          padding: const EdgeInsets.all(20),
           child: Column(
             children: <Widget>[
               SizedBox(height: screenSize.height * 0.1),
@@ -31,7 +44,7 @@ class _SignUpScreenState extends State<SignUpPage> {
                 ),
               ),
               SizedBox(height: screenSize.height * 0.04),
-              Text(
+              const Text(
                 'Create Account Now!',
                 style: TextStyle(
                   fontFamily: 'Jockey One',
@@ -42,21 +55,22 @@ class _SignUpScreenState extends State<SignUpPage> {
               ),
               SizedBox(height: screenSize.height * 0.05),
               TextFormField(
+                controller: _fullNameController,
                 decoration: InputDecoration(
-                  labelText: 'Full Name',
-                  labelStyle: TextStyle(
-                    color: Colors.black, // Color for when the TextFormField is not focused
+                  labelText: "Full Name",
+                  labelStyle: const TextStyle(
+                    color: Colors.black,
                   ),
                   focusedBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(27),
-                    borderSide: BorderSide(
-                      color: Colors.blue, // Border color when the TextFormField is focused
+                    borderSide: const BorderSide(
+                      color: Colors.blue,
                     ),
                   ),
                   enabledBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(27),
                     borderSide: BorderSide(
-                      color: Colors.blue[200]!, // Border color when TextFormField is enabled
+                      color: Colors.blue[200]!,
                     ),
                   ),
                   filled: true,
@@ -65,21 +79,22 @@ class _SignUpScreenState extends State<SignUpPage> {
               ),
               SizedBox(height: screenSize.height * 0.02),
               TextFormField(
+                controller: _emailController,
                 decoration: InputDecoration(
-                  labelText: 'Email',
-                  labelStyle: TextStyle(
-                    color: Colors.black, // Color for when the TextFormField is not focused
+                  labelText: "Email",
+                  labelStyle: const TextStyle(
+                    color: Colors.black,
                   ),
                   focusedBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(27),
-                    borderSide: BorderSide(
-                      color: Colors.blue, // Border color when the TextFormField is focused
+                    borderSide: const BorderSide(
+                      color: Colors.blue,
                     ),
                   ),
                   enabledBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(27),
                     borderSide: BorderSide(
-                      color: Colors.blue[200]!, // Border color when TextFormField is enabled
+                      color: Colors.blue[200]!,
                     ),
                   ),
                   filled: true,
@@ -88,22 +103,26 @@ class _SignUpScreenState extends State<SignUpPage> {
               ),
               SizedBox(height: screenSize.height * 0.02),
               TextFormField(
+                controller: _passwordController,
                 obscureText: !_isPasswordVisible,
                 decoration: InputDecoration(
                   labelText: 'Password',
-                  labelStyle: TextStyle(
-                    color: Colors.black, // Color for when the TextFormField is not focused
+                  labelStyle: const TextStyle(
+                    color: Colors
+                        .black, // Color for when the TextFormField is not focused
                   ),
                   focusedBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(27),
-                    borderSide: BorderSide(
-                      color: Colors.blue, // Border color when the TextFormField is focused
+                    borderSide: const BorderSide(
+                      color: Colors
+                          .blue, // Border color when the TextFormField is focused
                     ),
                   ),
                   enabledBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(27),
                     borderSide: BorderSide(
-                      color: Colors.blue[100]!, // Border color when TextFormField is enabled
+                      color: Colors.blue[
+                          100]!, // Border color when TextFormField is enabled
                     ),
                   ),
                   filled: true,
@@ -124,22 +143,26 @@ class _SignUpScreenState extends State<SignUpPage> {
               ),
               SizedBox(height: screenSize.height * 0.02),
               TextFormField(
+                controller: _confirmPasswordController,
                 obscureText: !_isConfirmPasswordVisible,
                 decoration: InputDecoration(
                   labelText: 'Confirm Password',
-                  labelStyle: TextStyle(
-                    color: Colors.black, // Color for when the TextFormField is not focused
+                  labelStyle: const TextStyle(
+                    color: Colors
+                        .black, // Color for when the TextFormField is not focused
                   ),
                   focusedBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(27),
-                    borderSide: BorderSide(
-                      color: Colors.blue, // Border color when the TextFormField is focused
+                    borderSide: const BorderSide(
+                      color: Colors
+                          .blue, // Border color when the TextFormField is focused
                     ),
                   ),
                   enabledBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(27),
                     borderSide: BorderSide(
-                      color: Colors.blue[100]!, // Border color when TextFormField is enabled
+                      color: Colors.blue[
+                          100]!, // Border color when TextFormField is enabled
                     ),
                   ),
                   filled: true,
@@ -160,25 +183,30 @@ class _SignUpScreenState extends State<SignUpPage> {
               ),
               SizedBox(height: screenSize.height * 0.05),
               ElevatedButton(
-                onPressed: () {Navigator.push(
+                onPressed: () {
+                  Navigator.push(
                     context,
-                    MaterialPageRoute(builder: (context) => MainPage()), // Use the class name of your sign-in page
-                  );},
-                child: Text('Sign Up'),
+                    MaterialPageRoute(
+                        builder: (context) =>
+                            const HomePage()), // Use the class name of your sign-in page
+                  );
+                },
                 style: ElevatedButton.styleFrom(
-                  primary: Colors.lightBlue,
+                  backgroundColor: Colors.lightBlue,
                   foregroundColor: Colors.white,
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(27),
                   ),
-                  padding: EdgeInsets.symmetric(horizontal: 50, vertical: 15),
-                  textStyle: TextStyle(
+                  padding:
+                      const EdgeInsets.symmetric(horizontal: 50, vertical: 15),
+                  textStyle: const TextStyle(
                     fontFamily: 'Inter',
                     fontSize: 20,
                     fontWeight: FontWeight.bold,
                     color: Colors.black,
                   ),
                 ),
+                child: const Text('Sign Up'),
               ),
             ],
           ),
