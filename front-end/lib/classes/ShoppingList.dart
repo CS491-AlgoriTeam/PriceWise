@@ -27,7 +27,7 @@ class ShoppingList {
     }
     return amount;
   }
-  
+
   void addProduct(String name, double price) {
     products.add(Product(productName: name, productPrice: price));
   }
@@ -39,6 +39,8 @@ class ShoppingList {
     }
     return productsPrice;
   }
+
+  
 }
   /*Product addProduct(String productName, double productPrice) {
     Product newProduct =

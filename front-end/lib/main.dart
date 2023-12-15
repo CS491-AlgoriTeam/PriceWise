@@ -21,6 +21,20 @@ import 'pages/SignupPage.dart'; // Import the sign-up page
 // flutter_svg to make custom buttons from icons
 
 void main() async {
+  // add usersShoppingLists
+  UsersShoppingLists usersShoppingLists = UsersShoppingLists.instance;
+  ShoppingList shoppingList1 =
+      ShoppingList(shoppingListName: "shoppingList1", products: [
+    Product(productName: "anotherProduct", productPrice: 100.0),
+    Product(productName: "deniz", productPrice: 99.0)
+  ]);
+  ShoppingList shoppingList2 = ShoppingList(
+      shoppingListName: "shoppingList2",
+      products: [Product(productName: "deniz", productPrice: 99.0)]);
+
+  usersShoppingLists.addShoppingList("shoppingList1");
+  usersShoppingLists.addShoppingList("shoppingList2");
+
   WidgetsFlutterBinding.ensureInitialized();
   DatabaseHelper databaseHelper = DatabaseHelper();
   await databaseHelper.initDatabase(); // Wait for initialization to complete

@@ -5,6 +5,99 @@ import 'package:pwfe/components/bars/app_bar_top.dart';
 import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
 import 'package:pwfe/components/buttons/button_blue_lighter_rounded.dart';
 import 'package:pwfe/pages/AddShoppingListPage.dart';
+import 'package:pwfe/pages/EditShoppingListPage.dart';
+import 'package:pwfe/pages/ShoppingListDetailsPage.dart';
+
+class MyShoppingLists extends StatelessWidget {
+  MyShoppingLists({Key? key}) : super(key: key);
+  UsersShoppingLists testingShoppingLists = UsersShoppingLists.instance;
+  int index = 0;
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: app_bar_top(),
+      body: Column(
+        children: [
+          Expanded(
+            child: ListView.builder(
+              itemCount: testingShoppingLists.getUsersShoppingListsSize(),
+              itemBuilder: (BuildContext context, int index) {
+                return GestureDetector(
+                  onTap: () {
+                    // Handle onTap for the selected shopping list
+                    Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                            builder: (context) =>
+                                ShoppingListDetailsPage(index: index)));
+                    print(
+                        "Tapped on ${testingShoppingLists.getShoppingList(index).shoppingListName}");
+                    // this print is for testing purposes
+                    print(testingShoppingLists.isReallyEmpty());
+                  },
+                  child: Container(
+                    margin: EdgeInsets.all(16),
+                    height: 68, // Adjust height as needed
+                    decoration: BoxDecoration(
+                      color: Colors.lightBlue[100], // Background color
+                      borderRadius: BorderRadius.circular(12), // Border radius
+                      // Add more decoration as needed
+                    ),
+                    child: Row(
+                      children: [
+                        Padding(
+                          padding: EdgeInsets.all(16),
+                          child: Icon(Icons.shopping_cart,
+                              color: Colors.blue), // Replace with your icon
+                        ),
+                        Text(
+                          testingShoppingLists
+                              .getShoppingList(index)
+                              .shoppingListName,
+                          style: TextStyle(
+                            fontWeight: FontWeight.bold,
+                            fontSize: 22,
+                            color: Colors.black, // Font color
+                          ),
+                        ),
+                        Spacer(),
+                        IconButton(
+                          icon: Icon(Icons.edit,
+                              color: Colors.black), // Replace with your icon
+                          onPressed: () {
+                            // Handle edit button tap
+                            Navigator.push(
+                                context,
+                                MaterialPageRoute(
+                                    builder: (context) =>
+                                        EditShoppingListPage()));
+                          },
+                        ),
+                      ],
+                    ),
+                  ),
+                );
+              },
+            ),
+          ),
+          SizedBox(height: 20), // Adjust the height as needed
+          button_blue_lighter_rounded(
+              context, "addList", (p0) => const AddShoppingListPage()),
+          navigation_bar_bottom(context),
+        ],
+      ),
+    );
+  }
+}
+
+/*
+// MyShoppingListsPage.dart
+import 'package:flutter/material.dart';
+import 'package:pwfe/classes/UsersShoppingLists.dart';
+import 'package:pwfe/components/bars/app_bar_top.dart';
+import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
+import 'package:pwfe/components/buttons/button_blue_lighter_rounded.dart';
+import 'package:pwfe/pages/AddShoppingListPage.dart';
 import 'package:pwfe/pages/ShoppingListDetailsPage.dart';
 
 class MyShoppingLists extends StatelessWidget {
@@ -53,7 +146,7 @@ class MyShoppingLists extends StatelessWidget {
       ),
     );
   }
-}
+}*/
 /*return Scaffold(
       appBar: AppBar(
         title: const Text('Shopping Lists'),

@@ -52,6 +52,10 @@ class UsersShoppingLists {
     usersShoppingLists.add(ShoppingList(shoppingListName: name, products: []));
   }
 
+  void addShoppingListWithProducts(String name, List<Product> products) {
+    usersShoppingLists.add(ShoppingList(shoppingListName: name, products: products));
+  }
+
   List<ShoppingList> getUsersShoppingLists() {
     return usersShoppingLists;
   }

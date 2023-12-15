@@ -1,39 +1,44 @@
 // shoppingListDetails.dart
 import 'package:flutter/material.dart';
+import 'package:pwfe/classes/ShoppingList.dart';
 import 'package:pwfe/classes/UsersShoppingLists.dart';
 import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
 import 'package:pwfe/components/buttons/button_blue_lighter_rounded.dart';
 import 'package:pwfe/pages/ShowSuggestedListsPage.dart';
 
 class ShoppingListDetailsPage extends StatelessWidget {
-  final int index;
-  ShoppingListDetailsPage({Key? key, required this.index}) : super(key: key);
-  UsersShoppingLists theShoppingList = UsersShoppingLists.instance;
+  UsersShoppingLists usersShoppingLists = UsersShoppingLists.instance;
+  int index;
 
+  ShoppingListDetailsPage({Key? key, required this.index}) : super(key: key);
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Shopping List Details'),
+        title: const Text('Shopping List Detailzzzz'),
       ),
       body: Column(
         children: [
+          Text("debug------------"),
           Expanded(
             // Wrap the ListView.builder with Expanded
             child: ListView.builder(
-              itemCount:
-                  theShoppingList.getShoppingList(index).getProducts().length,
+              itemCount: usersShoppingLists
+                  .getShoppingList(index)
+                  .getProducts()
+                  .length,
               itemBuilder: (BuildContext context, int itemIndex) {
                 return Center(
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
+                      Text("your items: "),
                       Text(
-                          'Product: ${theShoppingList.getShoppingList(index).getProductAtIndex(itemIndex).getProductName()}'),
+                          'Product: ${usersShoppingLists.getShoppingList(index).getProductAtIndex(itemIndex).getProductName()}'),
                       Text(
-                          'Price: ${theShoppingList.getShoppingList(index).getProductAtIndex(itemIndex).getProductPrice().toString()}'),
+                          'Price: ${usersShoppingLists.getShoppingList(index).getProductAtIndex(itemIndex).getProductPrice().toString()}'),
                       Text(
-                          'Amount: ${theShoppingList.getShoppingList(index).getAmount(theShoppingList.getShoppingList(index).getProductAtIndex(itemIndex).getProductName())}'),
+                          'Amount: ${usersShoppingLists.getShoppingList(index).getAmount(usersShoppingLists.getShoppingList(index).getProductAtIndex(itemIndex).getProductName())}'),
                     ],
                   ),
                 );
@@ -41,7 +46,7 @@ class ShoppingListDetailsPage extends StatelessWidget {
             ),
           ),
           Text(
-              "Total Price: ${theShoppingList.getShoppingList(index).getShoppingListPrice()}"),
+              "Total Price: ${usersShoppingLists.getShoppingList(index).getShoppingListPrice()}"),
         ],
       ),
       bottomNavigationBar: Column(

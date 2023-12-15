@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:pwfe/classes/Product.dart';
 import 'package:pwfe/classes/ShoppingList.dart';
 import 'package:pwfe/classes/UsersShoppingLists.dart';
+import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
 import 'package:pwfe/pages/ProductSellers.dart';
 import 'package:pwfe/utils/DatabaseHelper.dart';
 import 'package:sqflite/sqflite.dart';
@@ -15,32 +16,20 @@ class SearchPage extends StatefulWidget {
 
 class _SearchPageState extends State<SearchPage> {
   // variables
-  UsersShoppingLists shoppingLists = UsersShoppingLists.instance;
   List<Product> displayedProducts = [];
   // biraz ezikçe ama şimdilik böyle
-  List<ShoppingList> testShooingLists = [
-    ShoppingList(
-        shoppingListName: "shoppingList1",
-        products: [Product(productName: "product1", productPrice: 1.0)]),
-    ShoppingList(
-        shoppingListName: "shoppingList2",
-        products: [Product(productName: "product2", productPrice: 2.0)])
-  ];
+  UsersShoppingLists usersShoppingLists = UsersShoppingLists.instance;
 
   String? selectedListName; // Variable to hold the selected list name
 
   DatabaseHelper _databaseController = DatabaseHelper();
 
-  List<Product> allProducts = List.generate(
-      100,
-      (index) =>
-          Product(productName: 'Item $index', productPrice: index.toDouble()));
-
   @override
   void initState() {
     super.initState();
     displayedProducts = List.from(List.empty());
-    allProducts.add(Product(productName: "xd", productPrice: 31.31));
+    selectedListName =
+        usersShoppingLists.getUsersShoppingLists()[0].shoppingListName;
   }
 
   void filterProducts(String query) async {
@@ -95,7 +84,7 @@ class _SearchPageState extends State<SearchPage> {
                             newValue; // Update the selected list name
                       });
                     },
-                    items: shoppingLists
+                    items: usersShoppingLists
                         .getUsersShoppingLists()
                         .map((ShoppingList list) {
                       return DropdownMenuItem<String>(
@@ -133,7 +122,10 @@ class _SearchPageState extends State<SearchPage> {
                     Navigator.push(
                         context,
                         MaterialPageRoute(
-                          builder: (context) => ProductSellers(),
+                          builder: (context) => ProductSellers(
+                            product: Product(
+                                productName: "Amasya Elması", productPrice: 20),
+                          ),
                         ));
                   },
                 );
@@ -143,6 +135,7 @@ class _SearchPageState extends State<SearchPage> {
           ),
         ],
       ),
+      bottomNavigationBar: navigation_bar_bottom(context),
     );
   }
 }
