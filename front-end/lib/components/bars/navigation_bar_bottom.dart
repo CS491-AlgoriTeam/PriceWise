@@ -79,7 +79,7 @@ void _navigateTo(BuildContext context, int index) {
       // My Profile
       Navigator.push(
         context,
-        MaterialPageRoute(builder: (context) => const MyProfilePage()),
+        MaterialPageRoute(builder: (context) =>  MyProfilePage()),
       );
       break;
   }

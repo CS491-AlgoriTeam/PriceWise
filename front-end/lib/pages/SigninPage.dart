@@ -181,6 +181,47 @@ class _LoginSignupScreenState extends State<SignInPage> {
                 ),
               ),
               const SizedBox(height: 24),
+              // Start of added code
+              Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                children: <Widget>[
+                  Row(
+                    children: <Widget>[
+                      Checkbox(
+                        value: false,
+                        onChanged: (bool? value) {
+                          // Handle remember me
+                        },
+                      ),
+                      Text(
+                        'Remember me',
+                        style: TextStyle(
+                          fontFamily: 'Inter',
+                          fontSize: 12,
+                          fontWeight: FontWeight.w600,
+                          color: Colors.black,
+                        ),
+                      ),
+                    ],
+                  ),
+                  TextButton(
+                    onPressed: () {
+                      // Handle forgot password
+                    },
+                    child: Text(
+                      'Forget password?',
+                      style: TextStyle(
+                        fontFamily: 'Inter',
+                        fontSize: 12,
+                        fontWeight: FontWeight.w600,
+                        color: Colors.black,
+                      ),
+                    ),
+                  ),
+                ],
+              ),
+              // End of added code
+              const SizedBox(height: 24),
               ElevatedButton(
                 onPressed: () {
                   _login();
@@ -211,6 +252,7 @@ class _LoginSignupScreenState extends State<SignInPage> {
                   ),
                 ),
               ),
+
               const SizedBox(height: 24),
               ElevatedButton(
                 onPressed: () {
@@ -222,7 +264,7 @@ class _LoginSignupScreenState extends State<SignInPage> {
                   );
                 },
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: Colors.lightBlue,
+                  backgroundColor: Colors.lightBlue[100],
                   foregroundColor: Colors.white,
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(27),

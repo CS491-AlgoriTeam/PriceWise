@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:pwfe/components/bars/app_bar_top.dart';
+import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
 
 class SuggestedItems extends StatefulWidget {
   const SuggestedItems({super.key});

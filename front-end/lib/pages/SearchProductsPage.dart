@@ -133,7 +133,7 @@ class _SearchPageState extends State<SearchPage> {
                     Navigator.push(
                         context,
                         MaterialPageRoute(
-                          builder: (context) => ProductSellers(),
+                          builder: (context) => ProductSellers(product: Product(productName: "Amasya Elması", productPrice: 20),),
                         ));
                   },
                 );
