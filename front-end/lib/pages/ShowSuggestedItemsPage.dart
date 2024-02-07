@@ -147,6 +147,7 @@ class _SuggestedItemsState extends State<SuggestedItems> {
                 children: [
                   Text(
                     'Out of Stock: ',
+
                     style: TextStyle(
                         color: Colors.black, fontFamily: 'sans-serif'),
                   ),
@@ -160,6 +161,7 @@ class _SuggestedItemsState extends State<SuggestedItems> {
                 children: [
                   Text(
                     'Tam Yağlı Süt',
+
                     style: TextStyle(
                         color: Colors.black, fontFamily: 'sans-serif'),
                   ),
@@ -176,6 +178,7 @@ class _SuggestedItemsState extends State<SuggestedItems> {
                 children: [
                   Text(
                     'Yarım Yağlı Süt',
+
                     style: TextStyle(
                         color: Colors.black, fontFamily: 'sans-serif'),
                   ),
@@ -240,6 +243,7 @@ class _SuggestedItemsState extends State<SuggestedItems> {
                 children: [
                   Text(
                     'Gofret 2',
+
                     style: TextStyle(
                         color: Colors.black, fontFamily: 'sans-serif'),
                   ),
@@ -300,6 +304,7 @@ class _SuggestedItemsState extends State<SuggestedItems> {
                   Text('0.8\$',
                       style: TextStyle(
                           color: Colors.black, fontFamily: 'sans-serif')),
+
                 ],
               ),
               SizedBox(width: 16),
