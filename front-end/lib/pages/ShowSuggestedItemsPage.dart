@@ -14,7 +14,8 @@ class _SuggestedItemsState extends State<SuggestedItems> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: app_bar_top(), // Custom app bar top
-      bottomNavigationBar: navigation_bar_bottom(context), // Custom navigation bar bottom
+      bottomNavigationBar:
+          navigation_bar_bottom(context), // Custom navigation bar bottom
       body: SingleChildScrollView(
         child: Padding(
           padding: const EdgeInsets.all(16.0),
@@ -146,10 +147,13 @@ class _SuggestedItemsState extends State<SuggestedItems> {
                 children: [
                   Text(
                     'Out of Stock: ',
-                    style: TextStyle(color: Colors.black, fontFamily: 'sans-serif'),
+
+                    style: TextStyle(
+                        color: Colors.black, fontFamily: 'sans-serif'),
                   ),
                   Text('Price',
-                      style: TextStyle(color: Colors.black, fontFamily: 'sans-serif')),
+                      style: TextStyle(
+                          color: Colors.black, fontFamily: 'sans-serif')),
                 ],
               ),
               Column(
@@ -157,10 +161,13 @@ class _SuggestedItemsState extends State<SuggestedItems> {
                 children: [
                   Text(
                     'Tam Yağlı Süt',
-                    style: TextStyle(color: Colors.black, fontFamily: 'sans-serif'),
+
+                    style: TextStyle(
+                        color: Colors.black, fontFamily: 'sans-serif'),
                   ),
                   Text('1.08\$',
-                      style: TextStyle(color: Colors.black, fontFamily: 'sans-serif')),
+                      style: TextStyle(
+                          color: Colors.black, fontFamily: 'sans-serif')),
                 ],
               ),
               SizedBox(width: 16),
@@ -171,10 +178,13 @@ class _SuggestedItemsState extends State<SuggestedItems> {
                 children: [
                   Text(
                     'Yarım Yağlı Süt',
-                    style: TextStyle(color: Colors.black, fontFamily: 'sans-serif'),
+
+                    style: TextStyle(
+                        color: Colors.black, fontFamily: 'sans-serif'),
                   ),
                   Text('1.16\$',
-                      style: TextStyle(color: Colors.black, fontFamily: 'sans-serif')),
+                      style: TextStyle(
+                          color: Colors.black, fontFamily: 'sans-serif')),
                 ],
               ),
             ],
@@ -204,10 +214,12 @@ class _SuggestedItemsState extends State<SuggestedItems> {
                 children: [
                   Text(
                     'In Sale:           ',
-                    style: TextStyle(color: Colors.black, fontFamily: 'sans-serif'),
+                    style: TextStyle(
+                        color: Colors.black, fontFamily: 'sans-serif'),
                   ),
                   Text(' ',
-                      style: TextStyle(color: Colors.black, fontFamily: 'sans-serif')),
+                      style: TextStyle(
+                          color: Colors.black, fontFamily: 'sans-serif')),
                 ],
               ),
               Column(
@@ -215,10 +227,12 @@ class _SuggestedItemsState extends State<SuggestedItems> {
                 children: [
                   Text(
                     'Gofret 1',
-                    style: TextStyle(color: Colors.black, fontFamily: 'sans-serif'),
+                    style: TextStyle(
+                        color: Colors.black, fontFamily: 'sans-serif'),
                   ),
                   Text('2\$',
-                      style: TextStyle(color: Colors.black, fontFamily: 'sans-serif')),
+                      style: TextStyle(
+                          color: Colors.black, fontFamily: 'sans-serif')),
                 ],
               ),
               SizedBox(width: 16),
@@ -229,10 +243,13 @@ class _SuggestedItemsState extends State<SuggestedItems> {
                 children: [
                   Text(
                     'Gofret 2',
-                    style: TextStyle(color: Colors.black, fontFamily: 'sans-serif'),
+
+                    style: TextStyle(
+                        color: Colors.black, fontFamily: 'sans-serif'),
                   ),
                   Text('1.5\$',
-                      style: TextStyle(color: Colors.black, fontFamily: 'sans-serif')),
+                      style: TextStyle(
+                          color: Colors.black, fontFamily: 'sans-serif')),
                 ],
               ),
             ],
@@ -262,12 +279,15 @@ class _SuggestedItemsState extends State<SuggestedItems> {
                 children: [
                   Text(
                     'Instead of: ',
-                    style: TextStyle(color: Colors.black, fontFamily: 'sans-serif'),
+                    style: TextStyle(
+                        color: Colors.black, fontFamily: 'sans-serif'),
                   ),
                   Text('Price',
-                      style: TextStyle(color: Colors.black, fontFamily: 'sans-serif')),
+                      style: TextStyle(
+                          color: Colors.black, fontFamily: 'sans-serif')),
                   Text('Save',
-                      style: TextStyle(color: Colors.black, fontFamily: 'sans-serif')),
+                      style: TextStyle(
+                          color: Colors.black, fontFamily: 'sans-serif')),
                 ],
               ),
               Column(
@@ -275,12 +295,16 @@ class _SuggestedItemsState extends State<SuggestedItems> {
                 children: [
                   Text(
                     'Amasya Elması',
-                    style: TextStyle(color: Colors.black, fontFamily: 'sans-serif'),
+                    style: TextStyle(
+                        color: Colors.black, fontFamily: 'sans-serif'),
                   ),
                   Text('0.18\$',
-                      style: TextStyle(color: Colors.black, fontFamily: 'sans-serif')),
+                      style: TextStyle(
+                          color: Colors.black, fontFamily: 'sans-serif')),
                   Text('0.8\$',
-                      style: TextStyle(color: Colors.black, fontFamily: 'sans-serif')),
+                      style: TextStyle(
+                          color: Colors.black, fontFamily: 'sans-serif')),
+
                 ],
               ),
               SizedBox(width: 16),
@@ -291,12 +315,15 @@ class _SuggestedItemsState extends State<SuggestedItems> {
                 children: [
                   Text(
                     'Normal Elma',
-                    style: TextStyle(color: Colors.black, fontFamily: 'sans-serif'),
+                    style: TextStyle(
+                        color: Colors.black, fontFamily: 'sans-serif'),
                   ),
                   Text('0.16\$',
-                      style: TextStyle(color: Colors.black, fontFamily: 'sans-serif')),
+                      style: TextStyle(
+                          color: Colors.black, fontFamily: 'sans-serif')),
                   Text('12%',
-                      style: TextStyle(color: Colors.black, fontFamily: 'sans-serif')),
+                      style: TextStyle(
+                          color: Colors.black, fontFamily: 'sans-serif')),
                 ],
               ),
             ],
@@ -305,7 +332,6 @@ class _SuggestedItemsState extends State<SuggestedItems> {
       ),
     );
   }
-
 }
 
 /*
