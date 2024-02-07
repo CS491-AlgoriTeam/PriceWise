@@ -33,11 +33,32 @@ void main() async {
       userPassword: "123"));
 
   databaseHelper
-      .insertProduct(Product(productName: "product1", productPrice: 1.0));
+      .insertProduct(Product(productName: "Muz", productPrice: 1.0));
 
   databaseHelper.insertProduct(Product(
-      productName: "product2",
-      productPrice: 2.0)); // Insert a product into the database
+      productName: "Elma",
+      productPrice: 1.5));
+  databaseHelper.insertProduct(Product(
+      productName: "Armut",
+      productPrice: 2.5));
+  databaseHelper.insertProduct(Product(
+      productName: "Solo Tuvalet Kağıdı",
+      productPrice: 5.0));
+  databaseHelper.insertProduct(Product(
+      productName: "Ülker Çikolatalı Gofret",
+      productPrice: 1.05)); // Insert a product into the database
+  databaseHelper.insertProduct(Product(
+      productName: "Domates",
+      productPrice: 3.5));
+  databaseHelper.insertProduct(Product(
+      productName: "Lays Cips Sade",
+      productPrice: 0.99));
+  databaseHelper.insertProduct(Product(
+      productName: "Selpak Tuvalet Kağıdı",
+      productPrice: 5.0));
+  databaseHelper.insertProduct(Product(
+      productName: "Eti Çikolatalı Gofret",
+      productPrice: 1.05));
 /*
  // ShoppingList shoppingList1 = ShoppingList(
       shoppingListName: "shoppingList1",

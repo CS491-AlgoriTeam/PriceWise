@@ -52,7 +52,7 @@ class _ProductSellersState extends State<ProductSellers> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Seller Profile'),
-        backgroundColor: Colors.blue, // Customize app bar color
+        backgroundColor: Colors.white, // Customize app bar color
       ),
       bottomNavigationBar: navigation_bar_bottom(context),
       body: Padding(
