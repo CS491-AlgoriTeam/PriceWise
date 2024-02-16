@@ -1,4 +1,5 @@
 // main.dart
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'dart:async';
 import 'package:path/path.dart';
@@ -20,9 +21,16 @@ import 'pages/SignupPage.dart'; // Import the sign-up page
 
 // flutter_svg to make custom buttons from icons
 
-void main() async {
+Future main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  DatabaseHelper databaseHelper = DatabaseHelper();
+  try {
+    await Firebase.initializeApp();
+    runApp(const MyApp());
+  } catch (e) {
+    print("Firebase initialization error: $e");
+    // Handle the error or display an error message to the user
+  }
+  /*DatabaseHelper databaseHelper = DatabaseHelper();
   await databaseHelper.initDatabase(); // Wait for initialization to complete
 
   databaseHelper.insertUser(User(
@@ -68,8 +76,8 @@ void main() async {
 */
   // shopping list datası patlado
   print(await databaseHelper.getUserMapList());
-  print(await databaseHelper.getProductMapList());
-  runApp(MyApp());
+  print(await databaseHelper.getProductMapList());*/
+  
 }
 
 class MyApp extends StatelessWidget {
