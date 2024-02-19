@@ -1,7 +1,9 @@
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:pwfe/components/text-form-fields/text_form_field_blue_darker.dart';
 import 'package:pwfe/pages/HomePage.dart';
 import 'package:pwfe/utils/DatabaseHelper.dart';
+import 'package:pwfe/dbServiceKeys/fire_base_auth.dart';
 //import 'package:cloud_firestore/cloud_firestore.dart';
 
 
@@ -17,6 +19,8 @@ class _SignUpScreenState extends State<SignUpPage> {
   bool _isConfirmPasswordVisible = false;
 
   // use these to gather text from text form fields
+  final FirebaseAuthService _auth = FirebaseAuthService();
+
   final TextEditingController _fullNameController = TextEditingController();
   final TextEditingController _emailController = TextEditingController();
   final TextEditingController _passwordController = TextEditingController();
@@ -187,35 +191,7 @@ class _SignUpScreenState extends State<SignUpPage> {
               ElevatedButton(
                 //onPressed: () {
                 onPressed: ()  {
-                  /*if (_passwordController.text == _confirmPasswordController.text) {
-                    try {
-                      // Add a new document in Firestore under "Users" collection
-                      final collection = FirebaseFirestore.instance.collection('Users');
-                      final docRef =  collection.add({
-                        'fullName': _fullNameController.text,
-                        'email': _emailController.text,
-                        'password': _passwordController.text, // Note: Storing plain text passwords is not secure.
-                      });
-
-                      // Navigate to HomePage after successful signup
-                      Navigator.push(
-                        context,
-                        MaterialPageRoute(builder: (context) => const HomePage()),
-                      );
-                    } catch (e) {
-                      // Handle errors or unsuccessful signup
-                      ScaffoldMessenger.of(context).showSnackBar(
-                        SnackBar(content: Text("Error signing up: $e")),
-                      );
-                    }
-                  } else {
-                    // If passwords don't match, show an error message
-                    ScaffoldMessenger.of(context).showSnackBar(
-                      SnackBar(content: Text("Passwords do not match")),
-                    );
-                  }
-                //},
-*/
+                  _signUp();
                   Navigator.push(
                     context,
                     MaterialPageRoute(
@@ -246,4 +222,12 @@ class _SignUpScreenState extends State<SignUpPage> {
       ),
     );
   }
+void _signUp() async {
+
+    String username_db = _fullNameController.text;
+    String email_db = _emailController.text;
+    String password_db = _passwordController.text;
+
+    User? user = await _auth.signUpWithEmailAndPassword(email_db, password_db); 
+  } 
 }

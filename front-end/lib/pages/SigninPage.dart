@@ -1,10 +1,12 @@
 // signin.dart
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:pwfe/components/text-form-fields/text_form_field_blue_darker.dart';
 import 'package:pwfe/pages/MyShoppingListsPage.dart';
 import 'package:pwfe/utils/DatabaseHelper.dart';
 import 'SignupPage.dart';
 import 'package:collection/collection.dart';
+import 'package:pwfe/dbServiceKeys/fire_base_auth.dart';
 
 class SignInPage extends StatefulWidget {
   const SignInPage({Key? key}) : super(key: key);
@@ -17,8 +19,11 @@ class _LoginSignupScreenState extends State<SignInPage> {
   DatabaseHelper _databaseController = DatabaseHelper();
   bool _isPasswordVisible = false;
   bool _isUserLoggedIn = false;
+  final FirebaseAuthService _auth = FirebaseAuthService();
+  final FirebaseAuth _firebaseAuth = FirebaseAuth.instance;
+
   //DatabaseController _databaseController = DatabaseController();
-  final TextEditingController _usernameController = TextEditingController();
+  final TextEditingController _emailController = TextEditingController();
   final TextEditingController _passwordController = TextEditingController();
   late BuildContext initialContext;
 
@@ -34,13 +39,13 @@ class _LoginSignupScreenState extends State<SignInPage> {
     print("login");
 
     // Wait for a short delay to ensure TextFormFields are updated
-    print("username: " + _usernameController.text);
+    print("username: " + _emailController.text);
     print("password: " + _passwordController.text);
     //print(_databaseController.colUserName);
     //print(_databaseController.colUserPassword);
 
     // Retrieve username and password from text fields
-    String username = _usernameController.text.trim();
+    String username = _emailController.text.trim();
     String password = _passwordController.text.trim();
 
     print("xddddddddddd------------------1");
@@ -121,7 +126,7 @@ class _LoginSignupScreenState extends State<SignInPage> {
               ),
               const SizedBox(height: 24),
               TextFormField(
-                controller: _usernameController,
+                controller: _emailController,
                 decoration: InputDecoration(
                   labelText: "Username",
                   labelStyle: const TextStyle(
@@ -287,5 +292,12 @@ class _LoginSignupScreenState extends State<SignInPage> {
         ),
       ),
     );
+  }
+  void _signIn() async {
+
+    String email = _emailController.text;
+    String password = _passwordController.text;
+
+    User? user = await _auth.signInWithEmailAndPassword(email, password);
   }
 }
