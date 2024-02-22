@@ -69,11 +69,11 @@ void _navigateTo(BuildContext context, int index) {
       );
       break;
     case 1:
-      // Search Products
+      /* Search Products
       Navigator.push(
         context,
         MaterialPageRoute(builder: (context) => const SearchPage()),
-      );
+      );*/
       break;
     case 2:
       // My Profile

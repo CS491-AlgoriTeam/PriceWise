@@ -1,37 +1,10 @@
-/*import 'package:flutter/material.dart';
-import 'package:pwfe/classes/Product.dart';
-
-class ProductSellers extends StatefulWidget {
-  const ProductSellers({
-    Key? key,
-  }) : super(key: key);
-
-  @override
-  _ProductSellersState createState() => _ProductSellersState();
-}
-
-class _ProductSellersState extends State<ProductSellers> {
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: const Text('Sellers Profile'),
-      ),
-      body: CustomScrollView(),
-    );
-  }
-}*/
-
 import 'package:flutter/material.dart';
-import 'package:pwfe/classes/Product.dart';
 import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
 
 class ProductSellers extends StatefulWidget {
-  final Product product;
 
   const ProductSellers({
     Key? key,
-    required this.product,
   }) : super(key: key);
 
   @override
@@ -61,7 +34,7 @@ class _ProductSellersState extends State<ProductSellers> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Text(
-              'Sellers of ${widget.product.getProductName()}',
+              'Sellers of }',//modified check again
               style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
             ),
             SizedBox(height: 8),

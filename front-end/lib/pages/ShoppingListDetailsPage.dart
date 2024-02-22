@@ -1,6 +1,5 @@
 // shoppingListDetails.dart
 import 'package:flutter/material.dart';
-import 'package:pwfe/classes/UsersShoppingLists.dart';
 import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
 import 'package:pwfe/components/buttons/button_blue_lighter_rounded.dart';
 import 'package:pwfe/pages/ShowSuggestedListsPage.dart';
@@ -9,7 +8,8 @@ import 'package:pwfe/pages/ShowSuggestedListsPage.dart';
 class ShoppingListDetailsPage extends StatelessWidget {
   final int index;
   ShoppingListDetailsPage({Key? key, required this.index}) : super(key: key);
-  UsersShoppingLists theShoppingList = UsersShoppingLists.instance;
+  //changed again check db
+  //UsersShoppingLists theShoppingList = UsersShoppingLists.instance;
   final List<Map<String, dynamic>> items = [
     {'name': 'Amasya Elması', 'amount': 4, 'price': 0.18},
     {'name': 'Tam Yağlı Süt', 'amount': 2, 'price': 1.08},

@@ -2,9 +2,14 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:pwfe/components/text-form-fields/text_form_field_blue_darker.dart';
 import 'package:pwfe/pages/HomePage.dart';
-import 'package:pwfe/utils/DatabaseHelper.dart';
-import 'package:pwfe/dbServiceKeys/fire_base_auth.dart';
+import 'package:pwfe/database/firebase_auth.dart';
 //import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:firebase_auth/firebase_auth.dart';
+import 'package:flutter/material.dart';
+import 'package:pwfe/database/firebase_auth.dart';
+import 'package:pwfe/pages/SigninPage.dart';
+import 'package:pwfe/components/widgets/form_container_widget.dart';
+import 'package:pwfe/components/alerts/toast.dart';
 
 
 class SignUpPage extends StatefulWidget {
@@ -17,17 +22,23 @@ class SignUpPage extends StatefulWidget {
 class _SignUpScreenState extends State<SignUpPage> {
   bool _isPasswordVisible = false;
   bool _isConfirmPasswordVisible = false;
+  bool isSigningUp = false;
+
+  @override
+  void dispose() {
+    _usernameController.dispose();
+    _emailController.dispose();
+    _passwordController.dispose();
+    super.dispose();
+  }
 
   // use these to gather text from text form fields
   final FirebaseAuthService _auth = FirebaseAuthService();
 
-  final TextEditingController _fullNameController = TextEditingController();
+  final TextEditingController _usernameController = TextEditingController();
   final TextEditingController _emailController = TextEditingController();
   final TextEditingController _passwordController = TextEditingController();
-  final TextEditingController _confirmPasswordController =
-      TextEditingController();
-
-  DatabaseHelper databaseHelper = DatabaseHelper();
+  final TextEditingController _confirmPasswordController = TextEditingController();
 
   @override
   Widget build(BuildContext context) {
@@ -61,7 +72,7 @@ class _SignUpScreenState extends State<SignUpPage> {
               ),
               SizedBox(height: screenSize.height * 0.05),
               TextFormField(
-                controller: _fullNameController,
+                controller: _usernameController,
                 decoration: InputDecoration(
                   labelText: "Full Name",
                   labelStyle: const TextStyle(
@@ -192,12 +203,14 @@ class _SignUpScreenState extends State<SignUpPage> {
                 //onPressed: () {
                 onPressed: ()  {
                   _signUp();
+                  if(isSigningUp == true){//bu doğru çalışmıyor ama sebep ne??
                   Navigator.push(
                     context,
                     MaterialPageRoute(
                         builder: (context) =>
-                            const HomePage()), // Use the class name of your sign-in page
+                            const SignInPage()), // Use the class name of your sign-in page
                   );
+                  }
                 },
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.lightBlue,
@@ -214,8 +227,39 @@ class _SignUpScreenState extends State<SignUpPage> {
                     color: Colors.black,
                   ),
                 ),
-                child: const Text('Sign Up'),
+                child: Center(
+                      child: isSigningUp ? CircularProgressIndicator(color: Colors.white,):Text(
+                    "Sign Up",
+                    style: TextStyle(
+                        color: Colors.white, fontWeight: FontWeight.bold),
+                  )),
+                //const Text('Sign Up'),
               ),
+              SizedBox(
+                height: 20,
+              ),
+              Row(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Text("Already have an account?"),
+                  SizedBox(
+                    width: 5,
+                  ),
+                  GestureDetector(
+                      onTap: () {
+                        Navigator.pushAndRemoveUntil(
+                            context,
+                            MaterialPageRoute(
+                                builder: (context) => SignInPage()),
+                            (route) => false);
+                      },
+                      child: Text(
+                        "Sign In",
+                        style: TextStyle(
+                            color: Colors.blue, fontWeight: FontWeight.bold),
+                      ))
+                ],
+              )
             ],
           ),
         ),
@@ -224,10 +268,24 @@ class _SignUpScreenState extends State<SignUpPage> {
   }
 void _signUp() async {
 
-    String username_db = _fullNameController.text;
-    String email_db = _emailController.text;
-    String password_db = _passwordController.text;
+setState(() {
+  isSigningUp = true;
+});
 
-    User? user = await _auth.signUpWithEmailAndPassword(email_db, password_db); 
-  } 
+    String username = _usernameController.text;
+    String email = _emailController.text;
+    String password = _passwordController.text;
+
+    User? user = await _auth.signUpWithEmailAndPassword(email, password);
+
+setState(() {
+  isSigningUp = false;
+});
+    if (user != null) {
+      showToast(message: "User is successfully created");
+      Navigator.pushNamed(context, "/home");
+    } else {
+      showToast(message: "Some error happend");
+    }
+  }
 }
