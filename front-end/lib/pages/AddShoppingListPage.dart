@@ -1,8 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:pwfe/classes/UsersShoppingLists.dart';
 import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
 import 'package:pwfe/components/buttons/button_blue_lighter_rounded.dart';
 import 'package:pwfe/pages/MyShoppingListsPage.dart';
+import 'package:flutter/material.dart';
+import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
+import 'package:firebase_auth/firebase_auth.dart'; // Import FirebaseAuth
+import 'package:cloud_firestore/cloud_firestore.dart'; // Import Firestore
 
 class AddShoppingListPage extends StatefulWidget {
   const AddShoppingListPage({Key? key}) : super(key: key);
@@ -13,7 +16,8 @@ class AddShoppingListPage extends StatefulWidget {
 
 class _AddShoppingListPageState extends State<AddShoppingListPage> {
   final addShoppingListController = TextEditingController();
-  UsersShoppingLists theShoppingList = UsersShoppingLists.instance;
+  final FirebaseAuth _auth = FirebaseAuth.instance; // FirebaseAuth instance
+  final FirebaseFirestore _firestore = FirebaseFirestore.instance; // Firestore instance
 
   Color selectedColor = Colors.blue; // Default color
   IconData? selectedIcon; // Default icon
@@ -60,6 +64,31 @@ class _AddShoppingListPageState extends State<AddShoppingListPage> {
     // Clean up the controller when the widget is disposed.
     addShoppingListController.dispose();
     super.dispose();
+  }
+
+  void _addShoppingList() async {
+    final User? user = _auth.currentUser; // Get current user
+    final String uid = user?.uid ?? ''; // Get user ID
+    final String listName = addShoppingListController.text.trim(); // Get list name from controller
+    final Color listColor = selectedColor; // Get selected color
+    final IconData? listIcon = selectedIcon; // Get selected icon
+
+    if (uid.isNotEmpty && listName.isNotEmpty) {
+      await _firestore.collection('shoppingLists').add({
+        'userId': uid, // Associate list with user ID
+        'listName': listName,
+        'color': listColor.value, // Store color value
+        'icon': listIcon?.codePoint, // Store icon code point
+        'createdAt': FieldValue.serverTimestamp(), // Add creation timestamp
+      }).then((value) => print("Shopping List Added"))
+        .catchError((error) => print("Failed to add shopping list: $error"));
+
+      // Navigate back to shopping lists page or show a success message
+      Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => MyShoppingLists()));
+    } else {
+      // Show error message if user is not logged in or list name is empty
+      print("User not logged in or list name is empty");
+    }
   }
 
   @override
@@ -129,12 +158,12 @@ class _AddShoppingListPageState extends State<AddShoppingListPage> {
               padding: const EdgeInsets.symmetric(horizontal: 16.0),
               child: ElevatedButton(
             onPressed: () {
-              // Show the dialog
+              print("Current user UID: ${FirebaseAuth.instance.currentUser?.uid}");//track only
 
+              _addShoppingList(); // Call the _addShoppingList method here
               // Add the shopping list
-              theShoppingList.addShoppingList(addShoppingListController.text);
-              Navigator.push(context,
-                  MaterialPageRoute(builder: (context) => MyShoppingLists()));
+              //Navigator.push(context,
+                //  MaterialPageRoute(builder: (context) => MyShoppingLists()));
             },
             
             style: ElevatedButton.styleFrom(
@@ -163,72 +192,3 @@ class _AddShoppingListPageState extends State<AddShoppingListPage> {
     );
   }
 }
-
-/*import 'package:flutter/material.dart';
-import 'package:pwfe/classes/UsersShoppingLists.dart';
-import 'package:pwfe/pages/MyShoppingListsPage.dart';
-
-class AddShoppingListPage extends StatefulWidget {
-  const AddShoppingListPage({Key? key}) : super(key: key);
-
-  @override
-  State<AddShoppingListPage> createState() => _AddShoppingListPageState();
-}
-
-class _AddShoppingListPageState extends State<AddShoppingListPage> {
-  final addShoppingListController = TextEditingController();
-  UsersShoppingLists theShoppingList = UsersShoppingLists.instance;
-
-  @override
-  void dispose() {
-    // Clean up the controller when the widget is disposed.
-    addShoppingListController.dispose();
-    super.dispose();
-  }
-  
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: const Text('Add Shopping List'),
-      ),
-      body: Column(
-        children: [
-          TextField(
-            controller: addShoppingListController,
-            decoration: const InputDecoration(labelText: 'Shopping List Name'),
-          ),
-          // Add more widgets here as needed
-        ],
-      ),
-      // Use a ButtonBar to contain the ElevatedButton
-      bottomNavigationBar: ButtonBar(
-        alignment: MainAxisAlignment.center,
-        children: [
-          ElevatedButton(
-            onPressed: () {
-              // Show the dialog
-              showDialog(
-                context: context,
-                builder: (context) {
-                  return AlertDialog(
-                    // Retrieve the text that the user has entered by using the
-                    // TextEditingController.
-                    content: Text(addShoppingListController.text),
-                  );
-                },
-              );
-
-              // Add the shopping list
-              theShoppingList.addShoppingList(addShoppingListController.text);
-              Navigator.push(context,
-                  MaterialPageRoute(builder: (context) => MyShoppingLists()));
-            },
-            child: const Text('Add Shopping List'),
-          ),
-        ],
-      ),
-    );
-  }
-}
-*/

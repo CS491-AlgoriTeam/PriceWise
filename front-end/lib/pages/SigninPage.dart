@@ -2,9 +2,19 @@
 import 'package:flutter/material.dart';
 import 'package:pwfe/components/text-form-fields/text_form_field_blue_darker.dart';
 import 'package:pwfe/pages/MyShoppingListsPage.dart';
-import 'package:pwfe/utils/DatabaseHelper.dart';
 import 'SignupPage.dart';
 import 'package:collection/collection.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:firebase_auth/firebase_auth.dart';
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+import 'package:pwfe/pages/SignupPage.dart';
+import 'package:pwfe/components/widgets/form_container_widget.dart';
+import 'package:pwfe/components/alerts/toast.dart';
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+import 'package:google_sign_in/google_sign_in.dart';
+
+import '../../database/firebase_auth.dart';
 
 class SignInPage extends StatefulWidget {
   const SignInPage({Key? key}) : super(key: key);
@@ -14,72 +24,20 @@ class SignInPage extends StatefulWidget {
 }
 
 class _LoginSignupScreenState extends State<SignInPage> {
-  DatabaseHelper _databaseController = DatabaseHelper();
   bool _isPasswordVisible = false;
   bool _isUserLoggedIn = false;
-  //DatabaseController _databaseController = DatabaseController();
-  final TextEditingController _usernameController = TextEditingController();
-  final TextEditingController _passwordController = TextEditingController();
-  late BuildContext initialContext;
+  bool _isSigning = false;
+
+  final FirebaseAuthService _auth = FirebaseAuthService();
+  final FirebaseAuth _firebaseAuth = FirebaseAuth.instance;
+  TextEditingController _emailController = TextEditingController();
+  TextEditingController _passwordController = TextEditingController();
 
   @override
-  void initState() {
-    super.initState();
-    initialContext = context;
-  }
-
-  Future<void> _login() async {
-    print(await _databaseController.getUserMapList());
-
-    print("login");
-
-    // Wait for a short delay to ensure TextFormFields are updated
-    print("username: " + _usernameController.text);
-    print("password: " + _passwordController.text);
-    //print(_databaseController.colUserName);
-    //print(_databaseController.colUserPassword);
-
-    // Retrieve username and password from text fields
-    String username = _usernameController.text.trim();
-    String password = _passwordController.text.trim();
-
-    print("xddddddddddd------------------1");
-    List<Map<String, dynamic>> userList =
-        await _databaseController.getUserMapList();
-    userList.map((e) => print(e));
-
-    try {
-      // Using firstWhere directly, which will throw an exception if the user is not found
-      Map<String, dynamic> user = userList.firstWhere(
-        (user) =>
-            user[_databaseController.colUserName] == username &&
-            user[_databaseController.colUserPassword] == password,
-      );
-
-      print("xddddddddddd------------------4");
-      // User found, set a flag to indicate successful login
-      _isUserLoggedIn = true;
-    } catch (e) {
-      print("xddddddddddd------------------5");
-      // User not found, show an alert
-      showDialog(
-        context: context,
-        builder: (BuildContext context) {
-          return AlertDialog(
-            title: Text('Login Failed'),
-            content: Text('Incorrect username or password. Please try again.'),
-            actions: <Widget>[
-              TextButton(
-                onPressed: () {
-                  Navigator.of(context).pop();
-                },
-                child: Text('OK'),
-              ),
-            ],
-          );
-        },
-      );
-    }
+  void dispose() {
+    _emailController.dispose();
+    _passwordController.dispose();
+    super.dispose();
   }
 
   @override
@@ -121,7 +79,7 @@ class _LoginSignupScreenState extends State<SignInPage> {
               ),
               const SizedBox(height: 24),
               TextFormField(
-                controller: _usernameController,
+                controller: _emailController,
                 decoration: InputDecoration(
                   labelText: "Username",
                   labelStyle: const TextStyle(
@@ -224,8 +182,8 @@ class _LoginSignupScreenState extends State<SignInPage> {
               const SizedBox(height: 24),
               ElevatedButton(
                 onPressed: () {
-                  _login();
-                  if (_isUserLoggedIn) {
+                  _signIn();
+                  if (_isSigning) {
                     Navigator.push(
                       context,
                       MaterialPageRoute(
@@ -253,39 +211,118 @@ class _LoginSignupScreenState extends State<SignInPage> {
                 ),
               ),
 
-              const SizedBox(height: 24),
-              ElevatedButton(
-                onPressed: () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                      builder: (context) => const SignUpPage(),
+              SizedBox(height: 5),
+              Center( // Add this wrapper
+                child: GestureDetector(
+                  onTap: () {
+                    _signInWithGoogle();
+                  },
+                  child: Container(
+                    width: 90, // Specify your desired width here
+                    height: 40, // Adjust height as needed
+                    decoration: BoxDecoration(
+                      color: Colors.orange,
+                      borderRadius: BorderRadius.circular(20),
                     ),
-                  );
-                },
-                style: ElevatedButton.styleFrom(
-                  backgroundColor: Colors.lightBlue[100],
-                  foregroundColor: Colors.white,
-                  shape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.circular(27),
-                  ),
-                  padding:
-                      const EdgeInsets.symmetric(horizontal: 50, vertical: 15),
-                ),
-                child: const Text(
-                  'Don’t have an account? Sign Up',
-                  style: TextStyle(
-                    fontFamily: 'Inter',
-                    fontSize: 12,
-                    fontWeight: FontWeight.w600,
-                    color: Colors.black,
+                    child: Center(
+                      child: Row(
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: [
+                          SizedBox(width: 3), // Adjust spacing between icon and text as needed
+                          Text(
+                            "with ",
+                            style: TextStyle(
+                              color: Colors.white,
+                              fontWeight: FontWeight.bold,
+                            ),
+                          ),
+                          Icon(FontAwesomeIcons.google, color: Colors.white),
+                        ],
+                      ),
+                    ),
                   ),
                 ),
               ),
+
+
+              const SizedBox(height: 24),
+              SizedBox(
+                height: 20,
+              ),
+              Row(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Text("Don't have an account?"),
+                  SizedBox(
+                    width: 5,
+                  ),
+                  GestureDetector(
+                      onTap: () {
+                        Navigator.pushAndRemoveUntil(
+                            context,
+                            MaterialPageRoute(
+                                builder: (context) => SignUpPage()),
+                            (route) => false);
+                      },
+                      child: Text(
+                        "Sign Up",
+                        style: TextStyle(
+                            color: Colors.blue, fontWeight: FontWeight.bold),
+                      ))
+                ],
+              )
             ],
           ),
         ),
       ),
     );
+  }
+  void _signIn() async {
+    setState(() {
+      _isSigning = true;
+    });
+
+    String email = _emailController.text;
+    String password = _passwordController.text;
+
+    User? user = await _auth.signInWithEmailAndPassword(email, password);
+
+    setState(() {
+      _isSigning = false;
+    });
+
+    if (user != null) {
+      showToast(message: "User is successfully signed in");
+      Navigator.pushNamed(context, "/home");
+    } else {
+      showToast(message: "some error occured");
+    }
+  }
+
+
+  _signInWithGoogle()async{
+
+    final GoogleSignIn _googleSignIn = GoogleSignIn();
+
+    try {
+
+      final GoogleSignInAccount? googleSignInAccount = await _googleSignIn.signIn();
+
+      if(googleSignInAccount != null ){
+        final GoogleSignInAuthentication googleSignInAuthentication = await
+        googleSignInAccount.authentication;
+
+        final AuthCredential credential = GoogleAuthProvider.credential(
+          idToken: googleSignInAuthentication.idToken,
+          accessToken: googleSignInAuthentication.accessToken,
+        );
+
+        await _firebaseAuth.signInWithCredential(credential);
+        Navigator.pushNamed(context, "/home");
+      }
+
+    }catch(e) {
+        showToast(message: "some error occured $e");
+    }
   }
 }

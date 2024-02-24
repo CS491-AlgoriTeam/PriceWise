@@ -1,10 +1,6 @@
-// search_page.dart
+/* search_page.dart
 import 'package:flutter/material.dart';
-import 'package:pwfe/classes/Product.dart';
-import 'package:pwfe/classes/ShoppingList.dart';
-import 'package:pwfe/classes/UsersShoppingLists.dart';
 import 'package:pwfe/pages/ProductSellers.dart';
-import 'package:pwfe/utils/DatabaseHelper.dart';
 import 'package:sqflite/sqflite.dart';
 
 class SearchPage extends StatefulWidget {
@@ -14,8 +10,8 @@ class SearchPage extends StatefulWidget {
 }
 
 class _SearchPageState extends State<SearchPage> {
-  // variables
-  UsersShoppingLists shoppingLists = UsersShoppingLists.instance;
+  /* variables
+  //UsersShoppingLists shoppingLists = UsersShoppingLists.instance;
   List<Product> displayedProducts = [];
   // biraz ezikçe ama şimdilik böyle
   List<ShoppingList> testShooingLists = [
@@ -26,21 +22,20 @@ class _SearchPageState extends State<SearchPage> {
         shoppingListName: "shoppingList2",
         products: [Product(productName: "product2", productPrice: 2.0)])
   ];
-
   String? selectedListName; // Variable to hold the selected list name
 
-  DatabaseHelper _databaseController = DatabaseHelper();
+  //DatabaseHelper _databaseController = DatabaseHelper();
 
   List<Product> allProducts = List.generate(
       100,
       (index) =>
           Product(productName: 'Item $index', productPrice: index.toDouble()));
-
+*/
   @override
   void initState() {
     super.initState();
-    displayedProducts = List.from(List.empty());
-    allProducts.add(Product(productName: "xd", productPrice: 31.31));
+    //displayedProducts = List.from(List.empty());
+    //allProducts.add(Product(productName: "xd", productPrice: 31.31));
   }
 
   void filterProducts(String query) async {
@@ -146,3 +141,4 @@ class _SearchPageState extends State<SearchPage> {
     );
   }
 }
+*/
