@@ -46,4 +46,4 @@ def add_product_to_firestore(product):
         'market_product_array': market_products_as_dicts,  # Assuming this is already converted
         'similar_product_array': similar_products_as_dicts,  # Use the converted list here
         'features': product.features  # Ensure this is also in a compatible format
-    })
+    }, merge =True)
