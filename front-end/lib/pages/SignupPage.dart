@@ -203,14 +203,14 @@ class _SignUpScreenState extends State<SignUpPage> {
                 //onPressed: () {
                 onPressed: ()  {
                   _signUp();
-                  if(isSigningUp == true){//bu doğru çalışmıyor ama sebep ne??
+                  /*if(isSigningUp == true){//bu doğru çalışmıyor ama sebep ne??
                   Navigator.push(
                     context,
                     MaterialPageRoute(
                         builder: (context) =>
                             const SignInPage()), // Use the class name of your sign-in page
                   );
-                  }
+                  }*/
                 },
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.lightBlue,

@@ -13,7 +13,7 @@ import 'package:pwfe/components/widgets/form_container_widget.dart';
 import 'package:pwfe/components/alerts/toast.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:google_sign_in/google_sign_in.dart';
-
+import 'MyShoppingListsPage.dart';
 import '../../database/firebase_auth.dart';
 
 class SignInPage extends StatefulWidget {
@@ -183,14 +183,14 @@ class _LoginSignupScreenState extends State<SignInPage> {
               ElevatedButton(
                 onPressed: () {
                   _signIn();
-                  if (_isSigning) {
+                  /*if (_isSigning) {
                     Navigator.push(
                       context,
                       MaterialPageRoute(
                         builder: (context) => MyShoppingLists(),
                       ),
                     );
-                  }
+                  }*/
                 },
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.lightBlue,
@@ -293,7 +293,7 @@ class _LoginSignupScreenState extends State<SignInPage> {
 
     if (user != null) {
       showToast(message: "User is successfully signed in");
-      Navigator.pushNamed(context, "/home");
+      Navigator.pushNamed(context, "/myShoppingLists");
     } else {
       showToast(message: "some error occured");
     }
@@ -318,7 +318,7 @@ class _LoginSignupScreenState extends State<SignInPage> {
         );
 
         await _firebaseAuth.signInWithCredential(credential);
-        Navigator.pushNamed(context, "/home");
+        Navigator.pushNamed(context, "/myShoppingLists");
       }
 
     }catch(e) {
