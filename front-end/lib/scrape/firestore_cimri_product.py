@@ -35,6 +35,8 @@ def add_product_to_firestore(product):
                 .document(product.main_category)\
                 .collection('Sub Category')\
                 .document(product.sub_category)\
+                .collection('Sub Category 2')\
+                .document(product.sub_category2)\
                 .collection('Product Name')\
                 .document(product.product_name)
     doc_ref.set({
@@ -45,5 +47,6 @@ def add_product_to_firestore(product):
         'product_cheapest_price': product.product_cheapest_price,
         'market_product_array': market_products_as_dicts,  # Assuming this is already converted
         'similar_product_array': similar_products_as_dicts,  # Use the converted list here
-        'features': product.features  # Ensure this is also in a compatible format
+        'features': product.features,  # Ensure this is also in a compatible format
+        'product_image_url': product.product_image_url
     }, merge =True)

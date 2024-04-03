@@ -2,6 +2,7 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'dart:async';
+import 'dart:io';
 import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:pwfe/pages/HomePage.dart';
@@ -13,13 +14,28 @@ import 'pages/SignupPage.dart'; // Import the sign-up page
 
 Future main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  try {
+  
+  FirebaseOptions firebaseOptions;
+
+  // Check the platform
+  if (Platform.isAndroid) {
+    // Android-specific Firebase options
+    firebaseOptions = const FirebaseOptions(
+      apiKey: "AIzaSyCySbCT34duT0KjRUuBB63yXqc2D5TQ7eU",
+      appId: "1:880861676478:android:55ca897f4c1bc682f02fef",
+      messagingSenderId: "880861676478",
+      projectId: "pricewise-cs",
+    );
+    await Firebase.initializeApp(
+    options: firebaseOptions,
+    );
+  } 
+  else {
     await Firebase.initializeApp();
-    runApp(const MyApp());
-  } catch (e) {
-    print("Firebase initialization error: $e");
-    // Handle the error or display an error message to the user
   }
+
+  runApp(MyApp());
+
 }
 
 class MyApp extends StatelessWidget {
