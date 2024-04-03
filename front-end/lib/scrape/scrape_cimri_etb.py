@@ -2,6 +2,7 @@ import scrape_cimri_product
 import scrape_cimri_url
 from requests_html import HTMLSession
 import time
+import firestore_cimri_product
 
 session = HTMLSession()
 
@@ -112,7 +113,7 @@ def scrape_balik_products():
 ####################################################################
 
 
-product_list = scrape_tavuk_products()
+product_list = scrape_balik_products()
 i = 0
 for product in product_list:
     i = i + 1
