@@ -11,16 +11,16 @@ BottomNavigationBar navigation_bar_bottom(BuildContext context) {
     },
     items: const [
       BottomNavigationBarItem(
-        icon: Icon(Icons.list),
-        label: 'Shopping Lists',
+        icon: Icon(Icons.home),
+        label: 'Main Page',
       ),
       BottomNavigationBarItem(
-        icon: Icon(Icons.search),
-        label: 'Search',
+        icon: Icon(Icons.explore),
+        label: 'Explore',
       ),
       BottomNavigationBarItem(
-        icon: Icon(Icons.settings),
-        label: 'My Profile',
+        icon: Icon(Icons.person),
+        label: 'Profile',
       ),
     ],
   );

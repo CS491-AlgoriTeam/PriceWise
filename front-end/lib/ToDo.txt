@@ -1,0 +1,11 @@
+-Basic item comparison
+-Personalized item suggestion
+-Similar products sugestion
+-List suggestion
+-Recepie sugestion
+-Profile page(redo)
+-Main(lists page)(redo) //done db connection for sale and recipe missing 
+-Elastic search
+-Admin portal
+-DB update for all of the items
+-DB changes for holding users selections
