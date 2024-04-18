@@ -1,0 +1,2228 @@
+1
+Product Name: Torku 5 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 165,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Şeker Toz 5000 G Torku         Price: 165,00 TL  Unit Price: 33,00 TL/kg
+ - Market: Migros               Product: Torku Toz Şeker 5 Kg           Price: 169,90 TL  Unit Price: 33,98 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/torku-5-kg-toz-seker-_280832.jpg 
+
+
+2
+Product Name: Bal Küpü 5 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 139,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Şeker Toz 5000 G Balkupu       Price: 139,90 TL  Unit Price: 27,98 TL/kg
+ - Market: Hakmar Express       Product: Toz Şeker 5kg Balkupu          Price: 145,90 TL  Unit Price: 29,18 TL/kg
+ - Market: Carrefour            Product: Balkupu Toz Şeker 5 Kg         Price: 159,90 TL  Unit Price: 31,98 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/bal-kupu-5-kg-toz-seker-_280825.jpg 
+
+
+3
+Product Name: Takita Tablet Tatlandırıcı 650 Adet 32 gr
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 56,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Takita Tablet Tatlandirici 650 Adet 39 G Price: 56,50 TL   Unit Price: 1.765,63 TL/kg
+ - Market: Carrefour            Product: Takita Tablet Tatl 650 Adet 39gr. Price: 61,90 TL   Unit Price: 1.934,38 TL/kg
+
+Similar Products:
+
+Features:
+ - Adet: 650 Adet
+ - Toplam Ağırlık: 32 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/takita-tablet-tatlandirici-650-adet-32-gr-_740689.jpg 
+
+
+4
+Product Name: Migros 5 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 139,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Migros Toz Şeker 5 Kg          Price: 139,50 TL  Unit Price: 27,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Organik: Evet
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-5-kg-toz-seker-_280939.jpg 
+
+
+5
+Product Name: Şafak 5 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 143,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Şeker Toz 5 Kg Şafak           Price: 143,50 TL  Unit Price: 28,70 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/safak-5-kg-toz-seker-_1432047.jpg 
+
+
+6
+Product Name: Doğuş 5 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 139,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Şeker Toz 5000 G Dogus         Price: 139,90 TL  Unit Price: 27,98 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+7
+Product Name: Bor Şeker 1 kg Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 31,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Bor Şeker Kup Şeker 1 Kg       Price: 31,00 TL   Unit Price: 31,00 TL/kg
+ - Market: Carrefour            Product: Bor Kup Şeker 1 Kg             Price: 36,90 TL   Unit Price: 36,90 TL/kg
+ - Market: Migros               Product: Bor Şeker Kup Şeker 1 Kg       Price: 36,90 TL   Unit Price: 36,90 TL/kg
+ - Market: A101                 Product: Şeker Kup 1000 G Borseker      Price: 42,50 TL   Unit Price: 42,50 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/bor-seker-1-kg-kup-seker-_1094968.jpg 
+
+
+8
+Product Name: Akşeker 5 kg Beyaz Kristal Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 139,75 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Toz Şeker 5kg Akseker          Price: 139,75 TL  Unit Price: 27,95 TL/kg
+
+Similar Products:
+ - Similar Product: Akşeker 2 kg Beyaz Kristal Toz Şeker               Price: 58,50 TL  
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/akseker-5-kg-beyaz-kristal-toz-seker-_645797.jpg 
+
+
+9
+Product Name: Carrefour 5 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 139,75 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Toz Şeker 5 Kg       Price: 139,75 TL  Unit Price: 27,95 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Organik: Evet
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-5-kg-toz-seker-_322953.jpg 
+
+
+10
+Product Name: Bor Şeker 1 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 25,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: R.k Bor Toz Şeker 1000 G       Price: 25,90 TL   Unit Price: 25,90 TL/kg
+ - Market: Bim                  Product: Şeker Toz 1 Kg Borseker        Price: 29,75 TL   Unit Price: 29,75 TL/kg
+ - Market: Carrefour            Product: Bor Toz Şeker 1 Kg             Price: 33,90 TL   Unit Price: 33,90 TL/kg
+ - Market: Migros               Product: Bor Şeker Toz Şeker 1 Kg       Price: 34,90 TL   Unit Price: 34,90 TL/kg
+ - Market: A101                 Product: Şeker Toz 1000 G Borseker      Price: 39,90 TL   Unit Price: 39,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+11
+Product Name: Irmak 750 gr Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 22,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Irmak Kup Şeker 750 Gr         Price: 22,90 TL   Unit Price: 30,53 TL/kg
+ - Market: Migros               Product: Irmak Kup Şeker 750 G          Price: 27,75 TL   Unit Price: 37,00 TL/kg
+
+Similar Products:
+ - Similar Product: Tatküpü 750 gr Küp Şeker                           Price: 22,00 TL  
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Küp
+ - Küp Şeker Adedi: 360
+ - Toplam Ağırlık: 750 gr
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/irmak-750-gr-kup-seker-_280930.jpg 
+
+
+12
+Product Name: Torku 750 gr 360'lı Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 28,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Torku Kup Şeker 750 G          Price: 28,90 TL   Unit Price: 4,82 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Küp
+ - Küp Şeker Adedi: 2880
+ - Toplam Ağırlık: 6 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 8 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/torku-750-gr-360li-kup-seker-_1261395.jpg 
+
+
+13
+Product Name: Torku 3kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 104,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Şeker Toz 3000 G Torku         Price: 104,90 TL  Unit Price: 4,37 TL/kg
+ - Market: Migros               Product: Torku Toz Şeker 3 Kg           Price: 104,90 TL  Unit Price: 4,37 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Küp
+ - Toplam Ağırlık: 24 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 8 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/torku-3kg-toz-seker-_1261391.jpg 
+
+
+14
+Product Name: Irmak 5 kg Küp Şeker Tek Sargılı Dökme
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 19,63 TL 
+
+Market Products:
+ - Market: Migros               Product: Irmak Tekli Sargili Dokme Kup Şeker 5 Kg Price: 19,63 TL   Unit Price: 3,93 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/irmak-5-kg-kup-seker-tek-sargili-dokme-_1301795.jpg 
+
+
+15
+Product Name: Carrefour 2 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 58,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Toz Şeker 2000 Gr    Price: 58,50 TL   Unit Price: 14,63 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-2-kg-toz-seker-_909550.jpg 
+
+
+16
+Product Name: Altın Küp 2 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 58,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Altinkup Toz Şeker 2000 Gr     Price: 58,50 TL   Unit Price: 29,25 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Küp
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Kategori: Toz ve Küp Şeker
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/altin-kup-2-kg-toz-seker-_1435062.jpg 
+
+
+17
+Product Name: Şafak 2 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 58,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Şeker Toz 2 Kg Şafak           Price: 58,50 TL   Unit Price: 29,25 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Küp
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/safak-2-kg-toz-seker-_1432044.jpg 
+
+
+18
+Product Name: Tatküpü 750 gr Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 22,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Şeker Kup 750 G Tatkupu        Price: 22,00 TL   Unit Price: 29,33 TL/kg
+ - Market: Carrefour            Product: Rk Tatkupu Kup Şeker 750 G     Price: 28,90 TL   Unit Price: 38,53 TL/kg
+
+Similar Products:
+ - Similar Product: Bal Küpü 750 gr Çift Sargı Küp Şeker               Price: 41,90 TL  
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Küp
+ - Toplam Ağırlık: 750 gr
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/tatkupu-750-gr-kup-seker-_562994.jpg 
+
+
+19
+Product Name: Safi 5 kg Beyaz Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 129,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Safi Beyaz Toz Şeker 5 Kg      Price: 129,95 TL  Unit Price: 25,99 TL/kg
+
+Similar Products:
+ - Similar Product: Safi 1 kg Beyaz Toz Şeker                          Price: 29,75 TL  
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Küp
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/safi-5-kg-beyaz-toz-seker-_1248327.jpg 
+
+
+20
+Product Name: Petek 5000 gr Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 139,75 TL 
+
+Market Products:
+ - Market: A101                 Product: Şeker Toz 5000 G Petek         Price: 139,75 TL  Unit Price: 27,95 TL/kg
+
+Similar Products:
+ - Similar Product: Altın Küp 5000 gr Toz Şeker                        Price: 132,75 TL 
+ - Similar Product: Bal Küpü 5000 gr Çift Sargılı Küp Şeker            Price: 159,00 TL 
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Küp
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/petek-5000-gr-toz-seker-_280932.jpg 
+
+
+21
+Product Name: Doğuş 1000 gr 405 Adet Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 31,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Dogus Kup Şeker 1 Kg           Price: 31,00 TL   Unit Price: 31,00 TL/kg
+ - Market: A101                 Product: Şeker Kup 1000 G Dogus         Price: 42,50 TL   Unit Price: 42,50 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Küp Şeker Adedi: 405
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Organik: Evet
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/dogus-1000-gr-405-adet-kup-seker-_329440.jpg 
+
+
+22
+Product Name: Altın Küp 5000 gr Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 132,75 TL 
+
+Market Products:
+ - Market: Şok                  Product: Altinkup Toz Şeker 5 Kg        Price: 132,75 TL  Unit Price: 26,55 TL/kg
+
+Similar Products:
+ - Similar Product: Petek 5000 gr Toz Şeker                            Price: 139,75 TL 
+ - Similar Product: Bal Küpü 5000 gr Çift Sargılı Küp Şeker            Price: 159,00 TL 
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/altin-kup-5000-gr-toz-seker-_1301611.jpg 
+
+
+23
+Product Name: Zümrüt 5 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 139,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Şeker Toz 5000 G Zumrut        Price: 139,90 TL  Unit Price: 27,98 TL/kg
+ - Market: Migros               Product: Zumrut Toz Şeker 5 Kg          Price: 159,90 TL  Unit Price: 31,98 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/zumrut-5-kg-toz-seker-_1661273.jpg 
+
+
+24
+Product Name: Akşeker 2 kg Beyaz Kristal Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 58,50 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Toz Şeker 2kg Akseker          Price: 58,50 TL   Unit Price: 29,25 TL/kg
+
+Similar Products:
+ - Similar Product: Akşeker 5 kg Beyaz Kristal Toz Şeker               Price: 139,75 TL 
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/akseker-2-kg-beyaz-kristal-toz-seker-_1299167.jpg 
+
+
+25
+Product Name: Erkar 3 Kg Kesme Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 169,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Erkar Kesme Şeker 3 Kg         Price: 169,00 TL  Unit Price: 56,33 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Küp
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 3 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Kategori: Toz ve Küp Şeker
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+26
+Product Name: Türk Şeker 1000 gr Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 26,75 TL 
+
+Market Products:
+ - Market: Şok                  Product: Turk Şeker Toz Şeker 1 Kg      Price: 26,75 TL   Unit Price: 26,75 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+27
+Product Name: Dr. Oetker 13 gr Baharatlı Esmer Şeker Toz Karışımı
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 3,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Dr.oetker Baharatli Esmer Şeker 13 G Price: 3,00 TL    Unit Price: 230,77 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Esmer Şeker-Toz Tarçın-Limon Suyu-Zencefil Tozu-Kakule Tozu
+ - Ürün Tipi: Toz Karışım
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 13 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-13-gr-baharatli-esmer-seker-toz-karisimi-_95252.jpg 
+
+
+28
+Product Name: Gül Aras 405 Adet 1 kg Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 31,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Gul Aras Kup Şeker 405 Adet 1 Kg Price: 31,00 TL   Unit Price: 31,00 TL/kg
+
+Similar Products:
+ - Similar Product: Doğuş 1000 gr 405 Adet Küp Şeker                   Price: 31,00 TL  
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Kategori: Toz ve Küp Şeker
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/gul-aras-405-adet-1-kg-kup-seker-_1434908.jpg 
+
+
+29
+Product Name: Tarım Kredi 1 kg Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 31,75 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tk Toz Şeker 1 Kg              Price: 31,75 TL   Unit Price: 31,75 TL/kg
+ - Market: Tarım Kredi Kooperatifi Product: Tkk Kup Şeker 1 Kg (405 Ad)    Price: 34,50 TL   Unit Price: 34,50 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Küp
+ - Küp Şeker Adedi: 405
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/tarim-kredi-1-kg-kup-seker-_281095.jpg 
+
+
+30
+Product Name: Carrefour Kahverengi 500 gr Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 47,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Kahverengi Kup Şeker 500 G Price: 47,90 TL   Unit Price: 95,80 TL/kg
+
+Similar Products:
+ - Similar Product: Takita 500gr Kahverengi Küp Şeker                  Price: 57,50 TL  
+ - Similar Product: Irmak 500 gr Kahverengi Toz Şeker                  Price: 41,50 TL  
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Küp
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Organik: Evet
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-kahverengi-500-gr-kup-seker-_322956.jpg 
+
+
+31
+Product Name: Migros 3 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 87,75 TL 
+
+Market Products:
+ - Market: Migros               Product: Migros Toz Şeker 3 Kg          Price: 87,75 TL   Unit Price: 29,25 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 3 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Organik: Evet
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-3-kg-toz-seker-_280941.jpg 
+
+
+32
+Product Name: Migros 500 gr Sarma Esmer Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 47,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Migros Kahverengi Esmer Kup Şeker 500 G Price: 47,90 TL   Unit Price: 95,80 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Esmer Şeker
+ - Ürün Tipi: Küp
+ - Küp Şeker Adedi: 200
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Organik: Evet
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-500-gr-sarma-esmer-kup-seker-_280951.jpg 
+
+
+33
+Product Name: Doğuş 3000 Gr Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 90,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Şeker Toz 3000 G Dogus         Price: 90,00 TL   Unit Price: 30,00 TL/kg
+
+Similar Products:
+ - Similar Product: Irmak 3000 gr Kristal Toz Şeker                    Price: 89,50 TL  
+ - Similar Product: Zümrüt 3000 gr Kıtlama Şeker                       Price: 119,00 TL 
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 3 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/dogus-3000-gr-toz-seker-_280843.jpg 
+
+
+34
+Product Name: Aras 3 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 104,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Şeker Toz 3000 G Aras          Price: 104,90 TL  Unit Price: 34,97 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/aras-3-kg-toz-seker-_1661272.jpg 
+
+
+35
+Product Name: Bor Şeker 2 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 65,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Bor Toz Şeker 2 Kg             Price: 65,90 TL   Unit Price: 32,95 TL/kg
+ - Market: Migros               Product: Bor Şeker Toz Şeker 2 Kg       Price: 67,90 TL   Unit Price: 33,95 TL/kg
+ - Market: A101                 Product: Şeker Toz 2000 G Borseker      Price: 69,50 TL   Unit Price: 34,75 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/bor-seker-2-kg-toz-seker-_985683.jpg 
+
+
+36
+Product Name: Erkar 5 Kg Erzurum Beyaz Kesme Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 199,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Erkar Erzurum Beyaz Kesme Şeker 5 Kg Price: 199,50 TL  Unit Price: 39,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Küp
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Kategori: Toz ve Küp Şeker
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/erkar-5-kg-erzurum-beyaz-kesme-seker-_1434433.jpg 
+
+
+37
+Product Name: Gül Aras 1000 gr 360'lı Beyaz Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 42,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Şeker Kup 1000 G Aras          Price: 42,50 TL   Unit Price: 42,50 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Küp
+ - Küp Şeker Adedi: 360
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Organik: Evet
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/gul-aras-1000-gr-360li-beyaz-kup-seker-_280937.jpg 
+
+
+38
+Product Name: Altın Küp 500 gr Esmer Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 42,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Altinkup Esmer Kup Şeker 500 Gr Price: 42,50 TL   Unit Price: 85,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/altin-kup-500-gr-esmer-kup-seker-_1373688.jpg 
+
+
+39
+Product Name: Zümrüt 3000 gr Kıtlama Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 119,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Şeker Kitlama 3000 G Zumrut    Price: 119,00 TL  Unit Price: 39,67 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/zumrut-3000-gr-kitlama-seker-_1625759.jpg 
+
+
+40
+Product Name: Nar 3 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 104,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Şeker Toz 3000 G Nar           Price: 104,90 TL  Unit Price: 34,97 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 3 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/nar-3-kg-toz-seker-_794223.jpg 
+
+
+41
+Product Name: Pekşeker 5 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 145,90 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Toz Şeker 5kg Pekseker         Price: 145,90 TL  Unit Price: 29,18 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/pekseker-5-kg-toz-seker-_280839.jpg 
+
+
+42
+Product Name: Torku 1 Kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 35,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Torku Toz Şeker 1 Kg           Price: 35,90 TL   Unit Price: 35,90 TL/kg
+ - Market: A101                 Product: Şeker Toz 1000 G Torku         Price: 39,90 TL   Unit Price: 39,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/torku-1-kg-toz-seker-_1245840.jpg 
+
+
+43
+Product Name: Irmak 5 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 139,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Şeker Toz 5000 G Irmak         Price: 139,90 TL  Unit Price: 27,98 TL/kg
+ - Market: Hakmar Express       Product: Toz Şeker 5kg Irmak            Price: 145,90 TL  Unit Price: 29,18 TL/kg
+ - Market: Migros               Product: Irmak Toz Şeker 5 Kg           Price: 159,90 TL  Unit Price: 31,98 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/irmak-5-kg-toz-seker-_280824.jpg 
+
+
+44
+Product Name: Kayseri Şeker Kristal 5 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 159,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Kristal Şeker 5 Kg             Price: 159,90 TL  Unit Price: 31,98 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Organik: Evet
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/kayseri-seker-kristal-5-kg-toz-seker-_319241.jpg 
+
+
+45
+Product Name: Huxol 39 gr Tablet Tatlandırıcı
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 26,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Tatlandirici Tablet 39 G Huxol Price: 26,90 TL   Unit Price: 689,74 TL/kg
+ - Market: Şok                  Product: Huxol Tablet Tatlandirici 39 Gr Price: 41,90 TL   Unit Price: 1.074,36 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Tatlandırıcı
+ - Ürün Tipi: Küp
+ - Toplam Ağırlık: 39 gr
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/huxol-39-gr-tablet-tatlandirici-_1436062.jpg 
+
+
+46
+Product Name: Takita 225 gr Stevia Zero Kahverengi Küp Tatlandırıcı
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 185,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Takita Stevia Zero Kup Tatlandirici 225 G Price: 185,90 TL  Unit Price: 826,22 TL/kg
+ - Market: Carrefour            Product: Takita Stevia Zero Kahverengi Kup 225g Price: 281,90 TL  Unit Price: 1.252,89 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Esmer Şeker
+ - Ürün Tipi: Küp
+ - Toplam Ağırlık: 225 gr
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/takita-225-gr-stevia-zero-kahverengi-kup-tatlandirici-_1252317.jpg 
+
+
+47
+Product Name: Şafak 1 kg Beyaz Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 3,95 TL 
+
+Market Products:
+ - Market: Bim                  Product: Şeker Kup 1kg Şafak            Price: 3,95 TL    Unit Price: 3,95 TL/kg
+ - Market: Bim                  Product: Şeker Kup 1kg Şafak            Price: 3,95 TL    Unit Price: 3,95 TL/kg
+
+Similar Products:
+ - Similar Product: Safi 1 kg Beyaz Toz Şeker                          Price: 29,75 TL  
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Küp
+ - Küp Şeker Adedi: 405
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/safak-1-kg-beyaz-kup-seker-_1431940.jpg 
+
+
+48
+Product Name: Safi 1 kg Beyaz Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 29,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Şeker Toz 1 Kg Safi Beyaz      Price: 29,75 TL   Unit Price: 29,75 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/safi-1-kg-beyaz-toz-seker-_1789323.jpg 
+
+
+49
+Product Name: Takita 400 gr %100 Eritritol Bazlı Sofralık Tatlandırıcı
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 201,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Takita Eritritol 400 G         Price: 201,90 TL  Unit Price: 504,75 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Tatlandırıcı
+ - Ürün Tipi: Tatlandırıcı
+ - Toplam Ağırlık: 400 gr
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/takita-400-gr-100-eritritol-bazli-sofralik-tatlandirici-_861189.jpg 
+
+
+50
+Product Name: Doğal Sofra 180 ml Sıvı Stevia Tatlandırıcı
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 59,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Dogal Sofra Sivi Stevia Tatlandirici180m Price: 59,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/dogal-sofra-180-ml-sivi-stevia-tatlandirici-_1450340.jpg 
+
+
+51
+Product Name: Bal Küpü 3 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 96,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Balkupu Toz Şeker 3 Kg         Price: 96,90 TL   Unit Price: 32,30 TL/kg
+ - Market: Hakmar Express       Product: Toz Şeker 3kg Balkupu          Price: 99,90 TL   Unit Price: 33,30 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 3 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/bal-kupu-3-kg-toz-seker-_280827.jpg 
+
+
+52
+Product Name: Carrefour 1000 Gr Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 32,75 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Kup Şeker 1000 Gr    Price: 32,75 TL   Unit Price: 32,75 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Küp
+ - Küp Şeker Adedi: 405
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Organik: Evet
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-1000-gr-kup-seker-_322951.jpg 
+
+
+53
+Product Name: Carrefour Kahverengi 500 gr Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 47,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Kahverengi Toz Şeker 500 G Price: 47,90 TL   Unit Price: 95,80 TL/kg
+
+Similar Products:
+ - Similar Product: Irmak 500 gr Kahverengi Toz Şeker                  Price: 41,50 TL  
+ - Similar Product: Takita 500gr Kahverengi Toz Şeker                  Price: 46,50 TL  
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Küp
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Organik: Evet
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-kahverengi-500-gr-toz-seker-_322955.jpg 
+
+
+54
+Product Name: Altınküp 1 kg Küp Şeker Tek Sargılı
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 45,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Altinkup Kup Şeker Tek Sargili 1 Kg Price: 45,50 TL   Unit Price: 45,50 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/altinkup-1-kg-kup-seker-tek-sargili-_1707086.jpg 
+
+
+55
+Product Name: Nar 2 kg Doğal Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 69,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Şeker Toz 2000 G Nar           Price: 69,50 TL   Unit Price: 34,75 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Organik: Evet
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/nar-2-kg-dogal-toz-seker-_280873.jpg 
+
+
+56
+Product Name: Petek 1000 gr Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 32,75 TL 
+
+Market Products:
+ - Market: A101                 Product: Şeker Kup 1000 G Petek         Price: 32,75 TL   Unit Price: 32,75 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Küp Şeker Adedi: 405
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+57
+Product Name: Albeyaz 2000 gr Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 69,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Şeker Toz 2000 G Albeyaz       Price: 69,50 TL   Unit Price: 34,75 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/albeyaz-2000-gr-toz-seker-_1443890.jpg 
+
+
+58
+Product Name: Tatküpü 2 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 62,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Şeker Toz 2000 G Tatkupu       Price: 62,50 TL   Unit Price: 31,25 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/tatkupu-2-kg-toz-seker-_1432926.jpg 
+
+
+59
+Product Name: Albeyaz 5 kg Kristal Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 139,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Şeker Toz 5000 G Albeyaz       Price: 139,90 TL  Unit Price: 27,98 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Küp
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/albeyaz-5-kg-kristal-seker-_1095393.jpg 
+
+
+60
+Product Name: Irmak 2 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 62,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Şeker Toz 2000 G Irmak         Price: 62,50 TL   Unit Price: 31,25 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Küp
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Organik: Evet
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/irmak-2-kg-toz-seker-_1252292.jpg 
+
+
+61
+Product Name: Irmak 3000 gr Kristal Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 89,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Irmak Toz Şeker 3000 G         Price: 89,50 TL   Unit Price: 29,83 TL/kg
+ - Market: A101                 Product: Şeker Toz 3000 G Irmak         Price: 90,00 TL   Unit Price: 30,00 TL/kg
+ - Market: Migros               Product: Irmak Toz Şeker 3 Kg           Price: 100,90 TL  Unit Price: 33,63 TL/kg
+
+Similar Products:
+ - Similar Product: Doğuş 3000 Gr Toz Şeker                            Price: 90,00 TL  
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 3 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/irmak-3000-gr-kristal-toz-seker-_280865.jpg 
+
+
+62
+Product Name: Irmak 1 kg Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 28,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Irmak Kup Şeker 1 Kg           Price: 28,90 TL   Unit Price: 28,90 TL/kg
+ - Market: Migros               Product: Irmak Kup Şeker 1 Kg           Price: 36,90 TL   Unit Price: 36,90 TL/kg
+ - Market: A101                 Product: Şeker Kup 1000 G Irmak         Price: 42,50 TL   Unit Price: 42,50 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/irmak-1-kg-kup-seker-_1096881.jpg 
+
+
+63
+Product Name: Canderel Green 100 Tablet Tatlandırıcı
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 59,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Canderel Sukraloz Tatlandirici 100 Tablet 8.5 G Price: 59,90 TL   Unit Price: 7.047,06 TL/kg
+ - Market: Migros               Product: Canderel Green 100'lu Tablet Tatlandirici 8,5 G Price: 118,50 TL  Unit Price: 13.941,18 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Tatlandırıcı
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 8.5 gr
+ - Menşei: Çek Cumhuriyeti
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/canderel-green-100-tablet-tatlandirici-_1446023.jpg 
+
+
+64
+Product Name: Takita 500gr Kahverengi Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 46,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Takita Kahverengi Toz Şeker 500 G Price: 46,50 TL   Unit Price: 31,00 TL/kg
+
+Similar Products:
+ - Similar Product: Takita 500gr Kahverengi Küp Şeker                  Price: 57,50 TL  
+ - Similar Product: Irmak 500 gr Kahverengi Toz Şeker                  Price: 41,50 TL  
+
+Features:
+ - Ürün Türü: Esmer Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 1.5 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 3 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/takita-500gr-kahverengi-toz-seker-_922137.jpg 
+
+
+65
+Product Name: Takita 500 gr Formtat Prebiyotik Lifli Tatlandırıcı
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 241,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Takita-stevia Prebiyotik Lifli Tatlandirici 500 G Price: 241,50 TL  Unit Price: 483,00 TL/kg
+ - Market: Carrefour            Product: Takita Formtat 60 500 Gr       Price: 250,60 TL  Unit Price: 501,20 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Tatlandırıcı
+ - Ürün Tipi: Tatlandırıcı
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/takita-500-gr-formtat-prebiyotik-lifli-tatlandirici-_861187.jpg 
+
+
+66
+Product Name: Migros 1 kg Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 32,75 TL 
+
+Market Products:
+ - Market: Migros               Product: Migros Kup Şeker 1 Kg          Price: 32,75 TL   Unit Price: 32,75 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Küp
+ - Küp Şeker Adedi: 360
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Organik: Evet
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-1-kg-kup-seker-_280946.jpg 
+
+
+67
+Product Name: Destan 5 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 143,50 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Destan Toz Şeker 5 Kg          Price: 143,50 TL  Unit Price: 28,70 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/destan-5-kg-toz-seker-_1326118.jpg 
+
+
+68
+Product Name: Albeyaz 1 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 29,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Toz Şeker 1 Kg Albeyaz         Price: 29,75 TL   Unit Price: 29,75 TL/kg
+ - Market: A101                 Product: Şeker Toz 1000 G Albeyaz       Price: 39,90 TL   Unit Price: 39,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/albeyaz-1-kg-toz-seker-_1433342.jpg 
+
+
+69
+Product Name: Bal Küpü 750 gr Çift Sargı Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 41,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Balkupu Elite Kup Şeker 750 Gr Price: 41,90 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Bal Küpü 5000 gr Çift Sargılı Küp Şeker            Price: 159,00 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/bal-kupu-750-gr-cift-sargi-kup-seker-_1685568.jpg 
+
+
+70
+Product Name: Tatküpü 5 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 139,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Şeker Toz 5000 G Tatkupu       Price: 139,90 TL  Unit Price: 27,98 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/tatkupu-5-kg-toz-seker-_280883.jpg 
+
+
+71
+Product Name: Pekşeker 1 kg 360 Adet Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 32,90 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Kup Şeker 1000g Pekseker       Price: 32,90 TL   Unit Price: 32,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/pekseker-1-kg-360-adet-kup-seker-_1587539.jpg 
+
+
+72
+Product Name: Carrefour 3 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 87,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Toz Şeker 3 Kg       Price: 87,50 TL   Unit Price: 9,72 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 3 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Organik: Evet
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-3-kg-toz-seker-_322952.jpg 
+
+
+73
+Product Name: Tarım Kredi Kooperatifleri 2 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 58,50 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tk Toz Şeker 2 Kg              Price: 58,50 TL   Unit Price: 29,25 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/tarim-kredi-kooperatifleri-2-kg-toz-seker-_280978.jpg 
+
+
+74
+Product Name: Carrefour 1000 gr Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 29,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Toz Şeker 1 Kg       Price: 29,90 TL   Unit Price: 29,90 TL/kg
+
+Similar Products:
+ - Similar Product: Türk Şeker 1000 gr Toz Şeker                       Price: 26,75 TL  
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Küp
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Organik: Evet
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+75
+Product Name: Migros 1 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 31,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Migros Toz Şeker 1kg           Price: 31,90 TL   Unit Price: 31,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Organik: Evet
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-1-kg-toz-seker-_280940.jpg 
+
+
+76
+Product Name: Carrefour Sargılı 500 gr Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 41,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Sargili Kup Şeker 500 G Price: 41,50 TL   Unit Price: 83,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Organik: Evet
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-sargili-500-gr-kup-seker-_322957.jpg 
+
+
+77
+Product Name: Carrefour 750 Gr Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 26,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Kup Şeker 750 Gr     Price: 26,90 TL   Unit Price: 35,87 TL/kg
+
+Similar Products:
+ - Similar Product: Tatküpü 750 gr Küp Şeker                           Price: 22,00 TL  
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Küp Şeker Adedi: 360
+ - Toplam Ağırlık: 750 gr
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Organik: Evet
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-750-gr-kup-seker-_322954.jpg 
+
+
+78
+Product Name: Bal Küpü 5000 gr Çift Sargılı Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 159,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Şeker Kup 5000 G Balkupu       Price: 159,00 TL  Unit Price: 31,80 TL/kg
+
+Similar Products:
+ - Similar Product: Petek 5000 gr Toz Şeker                            Price: 139,75 TL 
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Küp
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/bal-kupu-5000-gr-cift-sargili-kup-seker-_280903.jpg 
+
+
+79
+Product Name: Bor Şeker 1 kg Sargılı Küp Şekeri
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 51,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Bor Şeker Tekli Sargili Kup Şeker 1 Kg Price: 51,90 TL   Unit Price: 51,90 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/bor-seker-1-kg-sargili-kup-sekeri-_1805523.jpg 
+
+
+80
+Product Name: Takita 500gr Kahverengi Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 57,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Takita Kahverengi Kup Şeker 500 G Price: 57,50 TL   Unit Price: 38,33 TL/kg
+
+Similar Products:
+ - Similar Product: Takita 500gr Kahverengi Toz Şeker                  Price: 46,50 TL  
+ - Similar Product: Irmak 500 gr Kahverengi Toz Şeker                  Price: 41,50 TL  
+
+Features:
+ - Ürün Türü: Esmer Şeker
+ - Ürün Tipi: Küp
+ - Toplam Ağırlık: 1.5 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 3 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/takita-500gr-kahverengi-kup-seker-_923425.jpg 
+
+
+81
+Product Name: Gül Aras 1000 gr Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 39,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Şeker Toz 1000 G Aras          Price: 39,90 TL   Unit Price: 39,90 TL/kg
+
+Similar Products:
+ - Similar Product: Türk Şeker 1000 gr Toz Şeker                       Price: 26,75 TL  
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Küp
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/gul-aras-1000-gr-toz-seker-_280950.jpg 
+
+
+82
+Product Name: Zümrüt 3 kg Sargılı Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 125,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Şeker Kup Sargili 3000 G Zumrut Price: 125,00 TL  Unit Price: 41,67 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/zumrut-3-kg-sargili-kup-seker-_1744708.jpg 
+
+
+83
+Product Name: Irmak 1 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 26,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Irmak Toz Şeker 1 Kg           Price: 26,90 TL   Unit Price: 26,90 TL/kg
+ - Market: Migros               Product: Irmak Toz Şeker 1 Kg           Price: 34,90 TL   Unit Price: 34,90 TL/kg
+ - Market: A101                 Product: Şeker Toz 1000 G Irmak         Price: 39,90 TL   Unit Price: 39,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/irmak-1-kg-toz-seker-_280836.jpg 
+
+
+84
+Product Name: Nar 1 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 29,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Şeker Toz 1 Kg Nar             Price: 29,75 TL   Unit Price: 29,75 TL/kg
+ - Market: Migros               Product: Nar Toz Şeker 1kg              Price: 32,95 TL   Unit Price: 32,95 TL/kg
+ - Market: A101                 Product: Şeker Toz 1000 G Nar           Price: 39,90 TL   Unit Price: 39,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/nar-1-kg-toz-seker-_280985.jpg 
+
+
+85
+Product Name: Carrefour Sargılı 500 gr Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 41,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Sargili Kup Şeker 500 G Price: 41,50 TL   Unit Price: 83,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Organik: Evet
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-sargili-500-gr-kup-seker-_322957.jpg 
+
+
+86
+Product Name: Carrefour 1000 gr Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 29,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Toz Şeker 1 Kg       Price: 29,90 TL   Unit Price: 29,90 TL/kg
+
+Similar Products:
+ - Similar Product: Türk Şeker 1000 gr Toz Şeker                       Price: 26,75 TL  
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Küp
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Organik: Evet
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+87
+Product Name: Carrefour 750 Gr Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 26,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Kup Şeker 750 Gr     Price: 26,90 TL   Unit Price: 35,87 TL/kg
+
+Similar Products:
+ - Similar Product: Tatküpü 750 gr Küp Şeker                           Price: 22,00 TL  
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Küp Şeker Adedi: 360
+ - Toplam Ağırlık: 750 gr
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Organik: Evet
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-750-gr-kup-seker-_322954.jpg 
+
+
+88
+Product Name: Nar 1 kg Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 42,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Şeker Kup 1000 G Nar           Price: 42,50 TL   Unit Price: 42,50 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Küp Şeker Adedi: 405
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/nar-1-kg-kup-seker-_765696.jpg 
+
+
+89
+Product Name: Irmak 500 gr Kahverengi Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 41,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Irmak Kahverengi Fisek Toz Şeker 500 Gr Price: 41,50 TL   Unit Price: 83,00 TL/kg
+ - Market: Carrefour            Product: Irmak Kahverengi Toz Şeker 500 Gr Price: 43,50 TL   Unit Price: 87,00 TL/kg
+ - Market: Şok                  Product: Irmak Esmer Toz Şeker 500 Gr   Price: 43,50 TL   Unit Price: 87,00 TL/kg
+ - Market: Migros               Product: Irmak Kahverengi Toz Şeker 500g Price: 49,90 TL   Unit Price: 99,80 TL/kg
+
+Similar Products:
+ - Similar Product: Carrefour Kahverengi 500 gr Küp Şeker              Price: 47,90 TL  
+ - Similar Product: Carrefour Kahverengi 500 gr Toz Şeker              Price: 47,90 TL  
+ - Similar Product: Takita 500gr Kahverengi Toz Şeker                  Price: 46,50 TL  
+
+Features:
+ - Ürün Türü: Esmer Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/irmak-500-gr-kahverengi-toz-seker-_1570630.jpg 
+
+
+90
+Product Name: Bor Şeker 1 kg Sargılı Küp Şekeri
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 51,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Bor Şeker Tekli Sargili Kup Şeker 1 Kg Price: 51,90 TL   Unit Price: 51,90 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/bor-seker-1-kg-sargili-kup-sekeri-_1805523.jpg 
+
+
+91
+Product Name: Zümrüt 2.5 kg Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 89,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Şeker Toz 2500 G Zumrut        Price: 89,90 TL   Unit Price: 35,96 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/zumrut-2-5-kg-toz-seker-_1744710.jpg 
+
+
+92
+Product Name: Petek 2000 gr Toz Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 58,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Şeker Toz 2000 G Petek         Price: 58,50 TL   Unit Price: 29,25 TL/kg
+
+Similar Products:
+ - Similar Product: Albeyaz 2000 gr Toz Şeker                          Price: 69,50 TL  
+
+Features:
+ - İçerik: Sade
+ - Ürün Tipi: Toz
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/petek-2000-gr-toz-seker-_243468.jpg 
+
+
+93
+Product Name: Altın Küp 1 kg Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 32,75 TL 
+
+Market Products:
+ - Market: Şok                  Product: Altinkup Kup Şeker 1 Kg        Price: 32,75 TL   Unit Price: 32,75 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/altin-kup-1-kg-kup-seker-_849631.jpg 
+
+
+94
+Product Name: Altın Küp 750 gr Tek Sargılı Küp Şeker
+Main Category: Gıda
+Sub-categories: Tuz, Şeker ve Baharat, Şeker
+Cheapest Price: 37,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Altinkup Tek Sargili Kup Şeker 750 Gr Price: 37,90 TL   Unit Price: 50,53 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Şeker
+ - Ürün Tipi: Toz
+ - Toplam Ağırlık: 750 gr
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/altin-kup-750-gr-tek-sargili-kup-seker-_1600159.jpg 
+
+
+Word Dictionary:
+torku: 4
+5: 17
+kg: 53
+toz: 51
+şeker: 92
+bal: 4
+küpü: 4
+takita: 6
+tablet: 3
+tatlandırıcı: 7
+650: 1
+adet: 4
+32: 1
+gr: 36
+migros: 5
+şafak: 3
+doğuş: 3
+bor: 5
+1: 19
+küp: 38
+akşeker: 2
+beyaz: 7
+kristal: 5
+carrefour: 12
+irmak: 8
+750: 7
+360'lı: 2
+3kg: 1
+tek: 3
+sargılı: 9
+dökme: 1
+2: 9
+altın: 5
+tatküpü: 3
+safi: 2
+petek: 3
+5000: 3
+1000: 8
+405: 2
+zümrüt: 4
+erkar: 2
+3: 7
+kesme: 2
+türk: 1
+dr.: 1
+oetker: 1
+13: 1
+baharatlı: 1
+esmer: 3
+karışımı: 1
+gül: 3
+aras: 4
+tarım: 2
+kredi: 2
+kahverengi: 6
+500: 8
+sarma: 1
+3000: 3
+erzurum: 1
+kıtlama: 1
+nar: 4
+pekşeker: 2
+kayseri: 1
+huxol: 1
+39: 1
+225: 1
+stevia: 2
+zero: 1
+400: 1
+%100: 1
+eritritol: 1
+bazlı: 1
+sofralık: 1
+doğal: 2
+sofra: 1
+180: 1
+ml: 1
+sıvı: 1
+altınküp: 1
+albeyaz: 3
+2000: 2
+canderel: 1
+green: 1
+100: 1
+500gr: 2
+formtat: 1
+prebiyotik: 1
+lifli: 1
+destan: 1
+çift: 2
+sargı: 1
+360: 1
+kooperatifleri: 1
+şekeri: 2
+2.5: 1
+
+Feature List:
+Ürün Türü
+Ürün Tipi
+Toplam Ağırlık
+Menşei
+Saklama Koşulları
+Ambalaj Tipi
+Adet
+Organik
+Küp Şeker Adedi
+Kategori
+İçerik
+
+
+
+
+seker_icerik_dict = {
+        "toz": "Toz",
+        "küpü": "Küp",
+	    "kesme": "Kesme"
+}
+
+seker_urun_turu_dict = {
+        "toz": "Şeker", 
+        "küp": "Şeker", 
+        "takita": "Tatlandırıcı", 
+        "tablet": "Şeker Tablet", 
+        "tatlandırıcı": "Tatlandırıcı", 
+        "beyaz": "Beyaz Şeker", 
+        "kristal": "Kristal Şeker", 
+        "esmer": "Esmer Şeker", 
+        "stevia": "Tatlandırıcı", 
+        "eritritol": "Tatlandırıcı", 
+        "bazlı": "Tatlandırıcı", 
+        "sofralık": "Sofralık Şeker", 
+        "sıvı": "Sıvı Şeker", 
+        "canderel": "Tatlandırıcı", 
+        "formtat": "Tatlandırıcı", 
+        "prebiyotik": "Tatlandırıcı",
+	    "stevia": "Tatlandırıcı"
+}
+
+seker_urun_tipi_dict = {
+        "toz": "Toz", "küp": "Küp", "kesme": "Küp", "tatlandırıcı": "Tatlandırıcı",
+        "kristal": "Kristal", "esmer": "Esmer", "zero": "Sıfır Şeker", "sıvı": "Sıvı"
+}

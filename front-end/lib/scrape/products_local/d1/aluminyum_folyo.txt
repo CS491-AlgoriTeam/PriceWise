@@ -1,0 +1,100 @@
+1
+Product Name: Cook 8 mt Alüminyum Folyo
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Mutfak Sarf Malzemeleri, Aluminyum Folyo
+Cheapest Price: 29,95 TL
+
+Market Products:
+ - Market: Hakmar Express       Product: Aluminyum Folyo 8 Mt Cook      Price: 29,95 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/cook-8-mt-aluminyum-folyo-_1557292.jpg
+
+
+2
+Product Name: Sera 8 m 16 Adet Aluminyum Folyo
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Mutfak Sarf Malzemeleri, Aluminyum Folyo
+Cheapest Price: 28,45 TL
+
+Market Products:
+ - Market: Şok                  Product: Sera Aluminyum Folyo 8 M 16 Adet Price: 28,45 TL   Unit Price: 1,78 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 16 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/sera-8-m-16-adet-aluminyum-folyo-_1435834.jpg
+
+
+3
+Product Name: Tuttaze 30 cm x 30 m Alüminyum Folyo
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Mutfak Sarf Malzemeleri, Aluminyum Folyo
+Cheapest Price: 30,40 TL
+
+Market Products:
+ - Market: Şok                  Product: Tuttaze Aluminyum Folyo 30cm*30m Price: 30,40 TL   Unit Price: 30,40 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/tuttaze-30-cm-x-30-m-aluminyum-folyo-_1432698.jpg
+
+
+4
+Product Name: Migros 30 m Alüminyum Folyo
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Mutfak Sarf Malzemeleri, Aluminyum Folyo
+Cheapest Price: 18,00 TL
+
+Market Products:
+ - Market: Migros               Product: Migros Aluminyum Folyo 30m     Price: 18,00 TL   Unit Price: 0,60 TL/m
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Uzunluk: 30 m
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-30-m-aluminyum-folyo-_306500.jpg
+
+
+5
+Product Name: Sera 15 m Alüminyum Folyo
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Mutfak Sarf Malzemeleri, Aluminyum Folyo
+Cheapest Price: 9,15 TL
+
+Market Products:
+ - Market: Şok                  Product: Sera Aluminyum Folyo 15 Mt     Price: 9,15 TL    Unit Price: 0,61 TL/m
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Uzunluk: 15 m
+Product Image URL: https://cdn.cimri.io/market/260x260/sera-15-m-aluminyum-folyo-_1415091.jpg
+
+
+{'cook': 1, '8': 2, 'mt': 1, 'alüminyum': 4, 'folyo': 5, 'sera': 2, 'm': 4, '16': 1, 'adet': 1, 'aluminyum': 1, 'tuttaze': 1, '30': 3, 'cm': 1, 'x': 1, 'migros': 1, 
+'15': 1}
+['Adet', 'Uzunluk']
+
+alüminyum_folyo_içerik_dict = {
+'cook':'Cook', '8':"8'li", 'alüminyum': 'Alüminyum','sera':'Sera', '16':"16'lı",'15':"15'li", '30':"30'lu",'tuttaze':'Tuttaze','migros':'Migros'
+}
+
+alüminyum_folyo_ürün_tipi_dict = {
+'cook':'Alüminyum Folyo', '8':'Alüminyum Folyo', 'alüminyum': 'Alüminyum Folyo','sera':'Alüminyum Folyo', '16':'Alüminyum Folyo',
+'15':'Alüminyum Folyo', '30':'Alüminyum Folyo','tuttaze':'Alüminyum Folyo','migros':'Alüminyum Folyo'
+}
+
+
+
+alüminyum_folyo_ürün_türü_dict = {
+'cook':'Cook Alüminyum Folyo', '8':"8'li Alüminyum Folyo", 'alüminyum': 'Alüminyum Folyo','sera':'Sera Alüminyum Folyo', '16':"16'lı Alüminyum Folyo",
+'15':"15'li Alüminyum Folyo", '30':"30'lu Alüminyum Folyo",'tuttaze':'Tuttaze Alüminyum Folyo','migros':'Migros Alüminyum Folyo'
+}

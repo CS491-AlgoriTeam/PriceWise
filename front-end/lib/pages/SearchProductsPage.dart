@@ -142,3 +142,129 @@ class _SearchPageState extends State<SearchPage> {
   }
 }
 */
+import 'package:flutter/material.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
+
+class SearchPage extends StatefulWidget {
+  @override
+  _SearchPageState createState() => _SearchPageState();
+}
+
+class _SearchPageState extends State<SearchPage> {
+  final FirebaseFirestore _firestore = FirebaseFirestore.instance;
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Explore'),
+        automaticallyImplyLeading: false,
+
+      ),
+      body: StreamBuilder<QuerySnapshot>(
+        stream: _firestore.collection('Products').snapshots(),
+        builder: (context, snapshot) {
+          if (!snapshot.hasData) {
+            return Center(child: CircularProgressIndicator());
+          }
+          // List to hold all category widgets
+          List<Widget> categoryWidgets = [];
+          snapshot.data!.docs.forEach((categoryDoc) {
+            // For each category, create a widget
+            Widget categoryWidget = buildCategory(categoryDoc);
+            categoryWidgets.add(categoryWidget);
+          });
+
+          return ListView(
+            children: categoryWidgets,
+          );
+        },
+      ),
+      bottomNavigationBar: navigation_bar_bottom(context), // Assuming this method is defined elsewhere
+    );
+  }
+
+  Widget buildCategory(DocumentSnapshot categoryDoc) {
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Container(
+          padding: EdgeInsets.all(8),
+          color: Colors.lightBlue[50],
+          child: Text(
+            categoryDoc.id, // Category name
+            style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+          ),
+        ),
+        StreamBuilder<QuerySnapshot>(
+          stream: _firestore.collection('Products/${categoryDoc.id}/Sub Category').snapshots(),
+          builder: (context, subSnapshot) {
+            if (!subSnapshot.hasData) {
+              return SizedBox();
+            }
+            List<Widget> productListWidgets = [];
+            subSnapshot.data!.docs.forEach((subCategoryDoc) {
+              productListWidgets.add(buildSubCategory(subCategoryDoc, categoryDoc.id));
+            });
+            return Column(children: productListWidgets);
+          },
+        ),
+      ],
+    );
+  }
+
+  Widget buildSubCategory(DocumentSnapshot subCategoryDoc, String categoryName) {
+    return ExpansionTile(
+      title: Text(subCategoryDoc.id),
+      children: [
+        StreamBuilder<QuerySnapshot>(
+          stream: _firestore.collection('Products/$categoryName/Sub Category/${subCategoryDoc.id}/Product Name').snapshots(),
+          builder: (context, productSnapshot) {
+            if (!productSnapshot.hasData) {
+              return SizedBox();
+            }
+            List<Widget> productWidgets = productSnapshot.data!.docs.map((productDoc) {
+              return buildProductItem(productDoc);
+            }).toList();
+            return GridView.count(
+              shrinkWrap: true,
+              physics: NeverScrollableScrollPhysics(),
+              crossAxisCount: 2,
+              childAspectRatio: 1 / 1.2, // Adjust the ratio based on your content
+              children: productWidgets,
+            );
+          },
+        ),
+      ],
+    );
+  }
+
+  Widget buildProductItem(DocumentSnapshot productDoc) {
+    Map<String, dynamic> productData = productDoc.data() as Map<String, dynamic>;
+    return Card(
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: <Widget>[
+          Expanded(
+            child: Image.network(
+              productData['product_image_url'],
+              fit: BoxFit.cover,
+              width: double.infinity,
+            ),
+          ),
+          Padding(
+            padding: const EdgeInsets.all(8.0),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(productData['product_name'], style: TextStyle(fontWeight: FontWeight.bold)),
+                Text('\$${productData['product_cheapest_price']}'),
+              ],
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}

@@ -1,0 +1,477 @@
+1
+Product Name: Maylo 150 Yaprak Puf Mendil
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Kağıt Mendil
+Cheapest Price: 17,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Kagit Mendil 3kat 150'li Mand. Puf Maylo Price: 17,50 TL   Unit Price: 17,50 TL/Adet
+ - Market: A101                 Product: Kagit Mendil 3 Katli 150'li Puf Maylo Price: 17,75 TL   Unit Price: 17,75 TL/Adet   
+ - Market: Tarım Kredi Kooperatifi Product: Maylo Puf Mendil 150 Li        Price: 24,90 TL   Unit Price: 24,90 TL/Adet       
+ - Market: Migros               Product: Maylo Puf Mendil 150'li        Price: 34,95 TL   Unit Price: 34,95 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Yaprak Sayısı: 150
+Product Image URL: https://cdn.cimri.io/market/260x260/maylo-150-yaprak-puf-mendil-_863551.jpg
+
+
+2
+Product Name: Beyaz Güvercin 10'lu Mendil
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Kağıt Mendil
+Cheapest Price: 19,00 TL
+
+Market Products:
+ - Market: Şok                  Product: Beyaz Guvercin Mendil 10'lu    Price: 19,00 TL   Unit Price: 1,90 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/beyaz-guvercin-10lu-mendil-_1341659.jpg
+
+
+3
+Product Name: Sofia Skin Love 100'lü Mendil
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Kağıt Mendil
+Cheapest Price: 16,50 TL
+
+Market Products:
+ - Market: A101                 Product: Kagit Mendil Skin Love Pud. 100'lu Sofia Price: 16,50 TL   Unit Price: 0,17 TL/Adet
+ - Market: Migros               Product: Sofia Skin Love Mendil 100'lu  Price: 39,95 TL   Unit Price: 0,40 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sofia-skin-love-100lu-mendil-_1294863.jpg
+
+
+4
+Product Name: Solo 24x150 Adet Çek-Al Günlük Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Kağıt Mendil
+Cheapest Price: 45,50 TL
+
+Market Products:
+ - Market: Carrefour            Product: Solo Çek Al Mendil 150 Li      Price: 45,50 TL   Unit Price: 0,30 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/solo-24x150-adet-cek-al-gunluk-pecete-_1482399.jpg
+
+
+5
+Product Name: Komili 80'li Kutu Mendil
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Kağıt Mendil
+Cheapest Price: 5,50 TL
+
+Market Products:
+ - Market: Şok                  Product: Komili Kutu Mendil 80 Adet     Price: 5,50 TL    Unit Price: 5,50 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Yaprak Sayısı: 80
+Product Image URL: https://cdn.cimri.io/market/260x260/komili-80li-kutu-mendil-_763097.jpg
+
+
+6
+Product Name: Selpak 100'lü Çek-al Mendil
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Kağıt Mendil
+Cheapest Price: 29,95 TL
+
+Market Products:
+ - Market: Migros               Product: Selpak Çek-al Mendil 100lu     Price: 29,95 TL   Unit Price: 0,30 TL/Adet
+
+Similar Products:
+ - Similar Product: Maylo 100'lü Çek-Al Puf Mendil                     Price: 10,00 TL
+ - Similar Product: Solo 24x150 Adet Çek-Al Günlük Peçete              Price: 45,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/selpak-100lu-cek-al-mendil-_1275949.jpg
+
+
+7
+Product Name: Mendiva 40'lı Gözlük Temizleme Mendili
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Kağıt Mendil
+Cheapest Price: 29,50 TL
+
+Market Products:
+ - Market: A101                 Product: Gozluk Temizleme Mendili 40'li Mendiva Price: 29,50 TL   Unit Price: 29,50 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Yaprak Sayısı: 40
+Product Image URL: https://cdn.cimri.io/market/260x260/mendiva-40li-gozluk-temizleme-mendili-_368954.jpg
+
+
+8
+Product Name: Kleenex 56'lı Küp Kutu Mendil
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Kağıt Mendil
+Cheapest Price: 8,00 TL
+
+Market Products:
+ - Market: Migros               Product: Kleenex Kup Kutu Mendil 56li   Price: 8,00 TL    Unit Price: 8,00 TL/Adet
+ - Market: Carrefour            Product: Kleenex Kup Kutu Mendil 56 Li  Price: 26,75 TL   Unit Price: 26,75 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Yaprak Sayısı: 56
+Product Image URL: https://cdn.cimri.io/market/260x260/kleenex-56li-kup-kutu-mendil-_369047.jpg
+
+
+9
+Product Name: Ritmo 1=3 Dev Kağıt Havlu
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Kağıt Mendil
+Cheapest Price: 37,75 TL
+
+Market Products:
+ - Market: A101                 Product: Kagit Havlu Dev Ritmo          Price: 37,75 TL   Unit Price: 37,75 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/ritmo-13-dev-kagit-havlu-_1608505.jpg
+
+
+10
+Product Name: Selpak Klasik Ultra Soft 10'lu Cep Mendili
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Kağıt Mendil
+Cheapest Price: 43,50 TL
+
+Market Products:
+ - Market: Carrefour            Product: Selpak Klasik Mend 10lu        Price: 43,50 TL   Unit Price: 4,35 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/selpak-klasik-ultra-soft-10lu-cep-mendili-_1428556.jpg
+
+
+11
+Product Name: Selpak 48'li Kutu Mendil
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Kağıt Mendil
+Cheapest Price: 48,90 TL
+
+Market Products:
+ - Market: Carrefour            Product: Selpak Kutu Mendil             Price: 48,90 TL   Unit Price: 48,90 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Yaprak Sayısı: 48
+Product Image URL: https://cdn.cimri.io/market/260x260/selpak-48li-kutu-mendil-_1276488.jpg
+
+
+12
+Product Name: Berrak 10x10'lu Cep Mendili
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Kağıt Mendil
+Cheapest Price: 15,25 TL
+
+Market Products:
+ - Market: Şok                  Product: Berrak Cep Mendili 10*10       Price: 15,25 TL   Unit Price: 0,15 TL/Adet
+
+Similar Products:
+ - Similar Product: Maylo 10x10 Yaprak Cep Mendili                     Price: 17,50 TL
+
+Features:
+ - Çoklu Paket: Evet
+ - Adet: 100 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/berrak-10x10lu-cep-mendili-_1436075.jpg
+
+
+13
+Product Name: Mistral 3 Katlı 10'lu Kağıt Mendil
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Kağıt Mendil
+Cheapest Price: 19,00 TL
+
+Market Products:
+ - Market: A101                 Product: Kagit Mendil 3 Katli 10'lu Mistral Price: 19,00 TL   Unit Price: 1,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Blume 3 Katlı 10'lu Kağıt Mendil                   Price: 16,50 TL
+
+Features:
+ - Adet: 10 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/mistral-3-katli-10lu-kagit-mendil-_1001509.jpg
+
+
+14
+Product Name: Selpak 70'li Kutu Kağıt Mendil
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Kağıt Mendil
+Cheapest Price: 11,00 TL
+
+Market Products:
+ - Market: A101                 Product: Kagit Mendil 70'li Selpak Kutu Price: 11,00 TL   Unit Price: 0,16 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/selpak-70li-kutu-kagit-mendil-_1367941.jpg
+
+
+15
+Product Name: Selpak Mentollü 10'lu Mendil
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Kağıt Mendil
+Cheapest Price: 58,95 TL
+
+Market Products:
+ - Market: Migros               Product: Selpak Mentollu Mendil 10lu    Price: 58,95 TL   Unit Price: 5,89 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/selpak-mentollu-10lu-mendil-_1734179.jpg
+
+
+16
+Product Name: Blume 3 Katlı 10'lu Kağıt Mendil
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Kağıt Mendil
+Cheapest Price: 16,50 TL
+
+Market Products:
+ - Market: Bim                  Product: Kagit Mendil 3 Katli 10' Lu Blume Price: 16,50 TL   Unit Price: 0,17 TL/Adet
+
+Similar Products:
+ - Similar Product: Mistral 3 Katlı 10'lu Kağıt Mendil                 Price: 19,00 TL
+
+Features:
+ - Çoklu Paket: Evet
+ - Adet: 100 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/blume-3-katli-10lu-kagit-mendil-_1431948.jpg
+
+
+17
+Product Name: Maylo 100'lü Çek-Al Puf Mendil
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Kağıt Mendil
+Cheapest Price: 10,00 TL
+
+Market Products:
+ - Market: Migros               Product: Maylo Puf Mendil 100'lu        Price: 10,00 TL   Unit Price: 0,10 TL/Adet
+ - Market: Tarım Kredi Kooperatifi Product: Maylo Puf Mendil 100 Lu        Price: 13,90 TL   Unit Price: 0,14 TL/Adet
+
+Similar Products:
+ - Similar Product: Selpak 100'lü Çek-al Mendil                        Price: 29,95 TL
+ - Similar Product: Solo 24x150 Adet Çek-Al Günlük Peçete              Price: 45,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/maylo-100lu-cek-al-puf-mendil-_1568357.jpg
+
+
+18
+Product Name: Selpak 4 Katlı Tekli Kağıt Mendil
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Kağıt Mendil
+Cheapest Price: 4,00 TL
+
+Market Products:
+ - Market: A101                 Product: Kagit Mendil 4 Katli Tekli Selpak Price: 4,00 TL    Unit Price: 4,00 TL/Adet
+
+Similar Products:
+ - Similar Product: Mistral 3 Katlı 10'lu Kağıt Mendil                 Price: 19,00 TL
+
+Features:
+ - Adet: 1 Adet
+ - Kategori: Kağıt Mendil
+Product Image URL: https://cdn.cimri.io/market/260x260/selpak-4-katli-tekli-kagit-mendil-_1433163.jpg
+
+
+19
+Product Name: Papia 100'lü Kutu Mendil
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Kağıt Mendil
+Cheapest Price: 33,00 TL
+
+Market Products:
+ - Market: Migros               Product: Papia Kutu Mendil 100'lu       Price: 33,00 TL   Unit Price: 33,00 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Yaprak Sayısı: 100
+Product Image URL: https://cdn.cimri.io/market/260x260/papia-100lu-kutu-mendil-_1279423.jpg
+
+
+20
+Product Name: Familia 10'lu Cep Mendil
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Kağıt Mendil
+Cheapest Price: 35,90 TL
+
+Market Products:
+ - Market: Carrefour            Product: Familia Cep Mendil 10 Lu       Price: 35,90 TL   Unit Price: 3,59 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/familia-10lu-cep-mendil-_1281235.jpg
+
+
+21
+Product Name: Kleenex 64'lü Oval Kutu Mendil
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Kağıt Mendil
+Cheapest Price: 24,00 TL
+
+Market Products:
+ - Market: Migros               Product: Kleenex Oval Kutu Mendil 64lu  Price: 24,00 TL   Unit Price: 24,00 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Yaprak Sayısı: 64
+Product Image URL: https://cdn.cimri.io/market/260x260/kleenex-64lu-oval-kutu-mendil-_369060.jpg
+
+
+22
+Product Name: Kleenex 80'li Original Kutu Mendil
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Kağıt Mendil
+Cheapest Price: 15,00 TL
+
+Market Products:
+ - Market: Migros               Product: Kleenex Original Kutu Mendil 80li Price: 15,00 TL   Unit Price: 15,00 TL/Adet
+
+Similar Products:
+ - Similar Product: Kleenex Original 72'li Kutu Mendil                 Price: 53,95 TL
+
+Features:
+ - Adet: 1 Adet
+ - Yaprak Sayısı: 80
+Product Image URL: https://cdn.cimri.io/market/260x260/kleenex-80li-original-kutu-mendil-_369120.jpg
+
+
+23
+Product Name: Kleenex 6'lı Cep Mendili
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Kağıt Mendil
+Cheapest Price: 20,00 TL
+
+Market Products:
+ - Market: Migros               Product: Kleenex Cep Mendil 6li         Price: 20,00 TL   Unit Price: 3,33 TL/Adet
+
+Similar Products:
+
+Features:
+ - Çoklu Paket: Evet
+ - Adet: 6 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/kleenex-6li-cep-mendili-_369025.jpg
+
+
+24
+Product Name: Kleenex Original 72'li Kutu Mendil
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Kağıt Mendil
+Cheapest Price: 53,95 TL
+
+Market Products:
+ - Market: Migros               Product: Kleenex Original Kutu Mendil 72'li Price: 53,95 TL   Unit Price: 0,75 TL/Adet
+
+Similar Products:
+ - Similar Product: Kleenex 80'li Original Kutu Mendil                 Price: 15,00 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kleenex-original-72li-kutu-mendil-_1232898.jpg
+
+
+25
+Product Name: Maylo 10x10 Yaprak Cep Mendili
+Main Category: Deterjan ve Temizlik Ürünleri
+Cheapest Price: 17,50 TL
+
+Market Products:
+ - Market: Hakmar Express       Product: Kagit Mendil 10lu Maylo        Price: 17,50 TL   Unit Price: 1,75 TL/Adet
+ - Market: Migros               Product: Maylo Mendil 10'lu             Price: 32,90 TL   Unit Price: 3,29 TL/Adet
+
+Similar Products:
+ - Similar Product: Berrak 10x10'lu Cep Mendili                        Price: 15,25 TL
+
+Features:
+ - Çoklu Paket: Evet
+ - Adet: 10 Yaprak
+Product Image URL: https://cdn.cimri.io/market/260x260/maylo-10x10-yaprak-cep-mendili-_305270.jpg
+
+
+{'maylo': 3, '150': 1, 'yaprak': 2, 'puf': 2, 'mendil': 18, 'beyaz': 1, 'güvercin': 1, "10'lu": 6, 'sofia': 1, 'skin': 1, 'love': 1, "100'lü": 4, 'solo': 1, '24x150': 1, 'adet': 1, 'çek-al': 3, 'günlük': 1, 'peçete': 1, 'komili': 1, "80'li": 2, 'kutu': 8, 'selpak': 6, 'mendiva': 1, "40'lı": 1, 'gözlük': 1, 'temizleme': 1, 'mendili': 5, 'kleenex': 5, "56'lı": 1, 'küp': 1, 'ritmo': 1, '1=3': 1, 'dev': 1, 'kağıt': 5, 'havlu': 1, 'klasik': 1, 'ultra': 1, 'soft': 1, 'cep': 5, "48'li": 1, 'berrak': 1, "10x10'lu": 1, 'mistral': 1, '3': 2, 'katlı': 3, "70'li": 1, 'mentollü': 1, 'blume': 1, '4': 1, 'tekli': 1, 'papia': 1, 'familia': 1, "64'lü": 1, 'oval': 1, 'original': 2, "6'lı": 1, "72'li": 1, '10x10': 1}
+['Adet', 'Yaprak Sayısı', 'Çoklu Paket', 'Kategori']
+
+
+kağıt_mendil_içerik_dict = {
+    'maylo': 'Maylo', '150': '150 Adet', 'yaprak': 'Yaprak', 'puf': 'Puf', 
+    'beyaz': 'Beyaz', 'güvercin': 'Güvercin', "10'lu": "10'lu", 'sofia': 'Sofia', 'skin': 'Skin', 
+    'love': 'Love', "100'lü": "100'lu", 'solo': 'Solo', '24x150': '24x150 Adet', 'adet': 'Adet',
+    'çek-al': 'Çek-Al', 'günlük': 'Günlük', 'peçete': 'Peçete', 'komili': 'Komili', "80'li": "80'li",
+    'kutu': 'Kutu', 'selpak': 'Selpak', 'mendiva': 'Mendiva', "40'lı": "40'lı", 'gözlük': 'Gözlük',
+    'temizleme': 'Temizleme', 'mendili': 'Mendili', 'kleenex': 'Kleenex', "56'lı": "56'lı", 'küp': 'Küp',
+    'ritmo': 'Ritmo', 'dev': 'Dev Kağıt Havlu', 'kağıt':'Dev Kağıt Havlu', 'havlu': 'Dev Kağıt Havlu', 'klasik': 'Klasik',
+    'ultra': 'Ultra Soft', 'soft': 'Ultra Soft', 'cep': 'Cep', "48'li": "48'li", 'berrak': 'Berrak', "10x10'lu": "10x10'lu",
+    'mistral': 'Mistral', '3': '3 Adet', 'katlı': 'Katlı', "70'li": "70'li", 'mentollü': 'Mentollü',
+    'blume': 'Blume', '4': '4 Adet', 'tekli': 'Tekli', 'papia': 'Papia', 'familia': 'Familia',
+    "64'lü": "64'lü", 'oval': 'Oval', 'original': 'Original', "6'lı": "6'lı", "72'li": "72'li",
+    '10x10': '10x10 Adet'
+}
+
+kağıt_mendil_ürün_tipi_dict = {
+    'maylo': 'Kağıt Mendil', '150': 'Kağıt Mendil', 'yaprak': 'Kağıt Mendil', 'puf': 'Kağıt Mendil', 
+    'mendil': 'Kağıt Mendil', 'beyaz': 'Kağıt Mendil', 'güvercin': 'Kağıt Mendil', "10'lu": 'Kağıt Mendil', 
+    'sofia': 'Kağıt Mendil', 'skin': 'Kağıt Mendil', 'love': 'Kağıt Mendil', "100'lü": 'Kağıt Mendil', 
+    'solo': 'Kağıt Mendil', '24x150': 'Kağıt Mendil', 'adet': 'Kağıt Mendil', 'çek-al': 'Kağıt Mendil', 
+    'günlük': 'Kağıt Mendil', 'peçete': 'Kağıt Mendil', 'komili': 'Kağıt Mendil', "80'li": 'Kağıt Mendil', 
+    'kutu': 'Kağıt Mendil', 'selpak': 'Kağıt Mendil', 'mendiva': 'Kağıt Mendil', "40'lı": 'Kağıt Mendil', 
+    'gözlük': 'Kağıt Mendil', 'temizleme': 'Kağıt Mendil', 'mendili': 'Kağıt Mendil', 'kleenex': 'Kağıt Mendil', 
+    "56'lı": 'Kağıt Mendil', 'küp': 'Kağıt Mendil', 'ritmo': 'Kağıt Mendil', '1=3': 'Kağıt Mendil', 'dev': 'Kağıt Mendil', 
+    'kağıt': 'Kağıt Mendil', 'havlu': 'Kağıt Mendil', 'klasik': 'Kağıt Mendil', 'ultra': 'Kağıt Mendil', 
+    'soft': 'Kağıt Mendil', 'cep': 'Kağıt Mendil', "48'li": 'Kağıt Mendil', 'berrak': 'Kağıt Mendil', 
+    "10x10'lu": 'Kağıt Mendil', 'mistral': 'Kağıt Mendil', '3': 'Kağıt Mendil', 'katlı': 'Kağıt Mendil', 
+    "70'li": 'Kağıt Mendil', 'mentollü': 'Kağıt Mendil', 'blume': 'Kağıt Mendil', '4': 'Kağıt Mendil', 
+    'tekli': 'Kağıt Mendil', 'papia': 'Kağıt Mendil', 'familia': 'Kağıt Mendil', "64'lü": 'Kağıt Mendil', 
+    'oval': 'Kağıt Mendil', 'original': 'Kağıt Mendil', "6'lı": 'Kağıt Mendil', "72'li": 'Kağıt Mendil', 
+    '10x10': 'Kağıt Mendil'
+}
+
+kağıt_mendil_ürün_türü_dict = {
+    'maylo': 'Maylo Kağıt Mendil', '150': '150 Adet Kağıt Mendil', 'yaprak': 'Yaprak Kağıt Mendil', 
+    'puf': 'Puf Kağıt Mendil', 'beyaz': 'Beyaz Kağıt Mendil', 'güvercin': 'Güvercin Kağıt Mendil', 
+    "10'lu": "10'lu Kağıt Mendil", 'sofia': 'Sofia Kağıt Mendil', 'skin': 'Skin Kağıt Mendil', 
+    'love': 'Love Kağıt Mendil', "100'lü": "100'lu Kağıt Mendil", 'solo': 'Solo Kağıt Mendil', 
+    '24x150': '24x150 Adet Kağıt Mendil', 'adet': 'Adet Kağıt Mendil', 'çek-al': 'Çek-Al Kağıt Mendil', 
+    'günlük': 'Günlük Kağıt Mendil', 'peçete': 'Peçete Kağıt Mendil', 'komili': 'Komili Kağıt Mendil', 
+    "80'li": "80'li Kağıt Mendil", 'kutu': 'Kutu Kağıt Mendil', 'selpak': 'Selpak Kağıt Mendil', 
+    'mendiva': 'Mendiva Kağıt Mendil', "40'lı": "40'lı Kağıt Mendil", 'gözlük': 'Gözlük Kağıt Mendil', 
+    'temizleme': 'Temizleme Kağıt Mendil', 'mendili': 'Mendili Kağıt Mendil', 'kleenex': 'Kleenex Kağıt Mendil', 
+    "56'lı": "56'lı Kağıt Mendil", 'küp': 'Küp Kağıt Mendil', 'ritmo': 'Ritmo Kağıt Mendil', 
+    'dev': 'Dev Kağıt Havlu', 'kağıt':'Dev Kağıt Havlu', 'havlu': 'Dev Kağıt Havlu', 'klasik': 'Klasik Kağıt Mendil', 
+    'ultra': 'Ultra Soft Kağıt Mendil', 'soft': 'Ultra Soft Kağıt Mendil', 'cep': 'Cep Kağıt Mendil', 
+    "48'li": "48'li Kağıt Mendil", 'berrak': 'Berrak Kağıt Mendil', "10x10'lu": "10x10'lu Kağıt Mendil", 
+    'mistral': 'Mistral Kağıt Mendil', '3': '3 Adet Kağıt Mendil', 'katlı': 'Katlı Kağıt Mendil', 
+    "70'li": "70'li Kağıt Mendil", 'mentollü': 'Mentollü Kağıt Mendil', 'blume': 'Blume Kağıt Mendil', 
+    '4': '4 Adet Kağıt Mendil', 'tekli': 'Tekli Kağıt Mendil', 'papia': 'Papia Kağıt Mendil', 
+    'familia': 'Familia Kağıt Mendil', "64'lü": "64'lü Kağıt Mendil", 'oval': 'Oval Kağıt Mendil', 
+    'original': 'Original Kağıt Mendil', "6'lı": "6'lı Kağıt Mendil", "72'li": "72'li Kağıt Mendil", 
+    '10x10': '10x10 Adet Kağıt Mendil'
+}

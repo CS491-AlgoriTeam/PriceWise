@@ -1,0 +1,1464 @@
+1
+Product Name: Hüner 5 lt Pet Mısır Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 185,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Huner Misir Yagi Pet 5l        Price: 185,00 TL  Unit Price: 37,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 5 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/huner-5-lt-pet-misir-yagi-_356244.jpg 
+
+
+2
+Product Name: Amoy 150 ml Susam Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 142,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Amoy Susam Yagi 150gr          Price: 142,90 TL  Unit Price: 952,67 TL/lt
+
+Similar Products:
+
+Features:
+ - İçerik: Susam
+ - Ürün Tipi: Susam Yağı
+ - Toplam Ağırlık: 150 ml
+ - Menşei: Çin
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Cam
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/amoy-150-ml-susam-yagi-_470959.jpg 
+
+
+3
+Product Name: Hekimce 150 ml Hindistan Cevizi Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 19,95 TL 
+
+Market Products:
+ - Market: A101                 Product: Baharat Yag Hindistancevizi 150g Hekimce Price: 19,95 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/hekimce-150-ml-hindistan-cevizi-yagi-_1516768.jpg 
+
+
+4
+Product Name: Datça 50 ml Badem Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 99,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Datca Koy Ürunleri Badem Yagi 50 Ml Price: 99,90 TL   Unit Price: 1.998,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Badem Yağı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 50 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/datca-50-ml-badem-yagi-_817518.jpg 
+
+
+5
+Product Name: Talya 20 ml Kantaron Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 33,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Talya Kantaron Yagi 20 Ml      Price: 33,00 TL   Unit Price: 1.650,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Toplam Ağırlık: 20 ml
+Product Image URL:  
+
+
+6
+Product Name: Oneva 250 ml Aspir Tohumu Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 129,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Oneva Aspir Tohumu Yagi 250 Ml Price: 129,90 TL  Unit Price: 519,60 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Aspir Tohumu Yağı
+ - Toplam Ağırlık: 250 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/oneva-250-ml-aspir-tohumu-yagi-_802870.jpg 
+
+
+7
+Product Name: Toroslar 250 ml Çörekotu Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 180,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Çorekotu Yagi 250 Ml.          Price: 180,00 TL  Unit Price: 720,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Toplam Ağırlık: 250 ml
+Product Image URL:  
+
+
+8
+Product Name: Univita 6x4 ml Çörekotu Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 18,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Univita Corekotu Yagi 4ml Saset 6 Li Price: 18,00 TL   Unit Price: 750,00 TL/lt
+
+Similar Products:
+ - Similar Product: Univita 6x4 ml Tatlı Badem Yağı                    Price: 18,00 TL  
+ - Similar Product: Univita 6x4 ml Sarı Kantaron Yağı                  Price: 26,00 TL  
+
+Features:
+ - Ürün Tipi: Çörek Otu Yağı
+ - Toplam Ağırlık: 24 ml
+Product Image URL:  
+
+
+9
+Product Name: Talya 10 ml Biberiye Uçucu Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 95,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Talya Biberiye Ucucu Yagi 10ml Price: 95,00 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/talya-10-ml-biberiye-ucucu-yagi-_1104224.jpg 
+
+
+10
+Product Name: Arifoğlu 30 ml Nane Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 175,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Arifoglu Nane Yagi 30 Ml       Price: 175,50 TL  Unit Price: 5.850,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Nane Yağı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 30 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/arifoglu-30-ml-nane-yagi-_1463556.jpg 
+
+
+11
+Product Name: Avofarm 250 ml Tatlı Badem Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 58,20 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Avofarm Tatli Badem Yagi 250ml Price: 58,20 TL   Unit Price: 232,80 TL/lt
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 ml
+Product Image URL:  
+
+
+12
+Product Name: Univita 6x4 ml Sarı Kantaron Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 26,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Univita Sari Kantaron Yagi 4 Ml X 6 Adet Price: 26,00 TL   Unit Price: 1.083,33 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Sarı Kantoron Yağı
+ - Toplam Ağırlık: 24 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/univita-6x4-ml-sari-kantaron-yagi-_784741.jpg 
+
+
+13
+Product Name: Talya 20 ml Hindistan Cevizi Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 34,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Talya Hindistan Cevizi Yagi 20 Ml Price: 34,00 TL   Unit Price: 1.700,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Hindistan Cevizi Yağı
+ - Toplam Ağırlık: 20 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/talya-20-ml-hindistan-cevizi-yagi-_730106.jpg 
+
+
+14
+Product Name: Talya 20 ml Kakao Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 25,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Talya Kakao Yagi 20 Ml         Price: 25,00 TL   Unit Price: 1.250,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Kakao Yağı
+ - Toplam Ağırlık: 20 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/talya-20-ml-kakao-yagi-_729912.jpg 
+
+
+15
+Product Name: Alvin 50 ml Çörekotu Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 34,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Alvin Çorekotu Yagi 50 Ml      Price: 34,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/alvin-50-ml-corekotu-yagi-_1375439.jpg 
+
+
+16
+Product Name: Arifoğlu 30 ml Limon Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 146,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Arifoglu Limon Yagi 30 Ml      Price: 146,50 TL  Unit Price: 4.883,33 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Limon Yağı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 30 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/arifoglu-30-ml-limon-yagi-_1463655.jpg 
+
+
+17
+Product Name: Talya 50 ml Gliserin Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 42,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Talya Gliserin 50 Ml           Price: 42,00 TL   Unit Price: 840,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Gliserin Yağı
+ - Toplam Ağırlık: 50 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/talya-50-ml-gliserin-yagi-_1464664.jpg 
+
+
+18
+Product Name: Talya 30 ml Argan Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 74,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Talya Argan Yagi 30 Ml         Price: 74,00 TL   Unit Price: 2.466,67 TL/lt
+
+Similar Products:
+
+Features:
+ - Toplam Ağırlık: 30 ml
+Product Image URL:  
+
+
+19
+Product Name: Escabel 50 ml Gül Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 119,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Escabel Gul Yagi 50 Ml         Price: 119,95 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/escabel-50-ml-gul-yagi-_1742302.jpg 
+
+
+20
+Product Name: Beuta 150 ml Hindistan Cevizi Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 74,85 TL 
+
+Market Products:
+ - Market: Şok                  Product: Beuta 150 Ml Hindistan Cevizi Yagi Price: 74,85 TL   Unit Price: 499,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Hindistan Cevizi Yağı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 150 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/beuta-150-ml-hindistan-cevizi-yagi-_1130985.jpg 
+
+
+21
+Product Name: Talya 20 ml Çam Terebentin Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 56,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Talya Çam Terebentin Yagi 20 Ml Price: 56,90 TL   Unit Price: 2.845,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Çam Terebentin Yağı
+ - Toplam Ağırlık: 20 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/talya-20-ml-cam-terebentin-yagi-_735245.jpg 
+
+
+22
+Product Name: Talya 20 ml Tatlı Badem Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 32,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Talya Tatli Badem Yagi 20 Ml   Price: 32,00 TL   Unit Price: 1.600,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Badem Yağı
+ - Toplam Ağırlık: 20 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/talya-20-ml-tatli-badem-yagi-_1068216.jpg 
+
+
+23
+Product Name: Talya 10 ml Kekik Uçucu Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 91,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Talya Kekik Ucucu Yagi 10 Ml   Price: 91,00 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/talya-10-ml-kekik-ucucu-yagi-_1104254.jpg 
+
+
+24
+Product Name: Oneva 300 ml Hindistan Cevizi Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 159,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Oneva Hindistan Cevizi Yagi 300 Ml Price: 159,90 TL  Unit Price: 533,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Hindistan Cevizi Yağı
+ - Toplam Ağırlık: 300 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/oneva-300-ml-hindistan-cevizi-yagi-_802863.jpg 
+
+
+25
+Product Name: Arifoğlu 30 ml Sarımsak Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 43,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Arifoglu Sarimsak Yagi 30 Ml   Price: 43,00 TL   Unit Price: 1.433,33 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Sarımsak Yağı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 30 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/arifoglu-30-ml-sarimsak-yagi-_1463550.jpg 
+
+
+26
+Product Name: Arifoğlu 30 ml Kekik Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 74,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Arifoglu Kekik Yagi 30 Ml      Price: 74,00 TL   Unit Price: 2.466,67 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Kekik Yağı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 30 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/arifoglu-30-ml-kekik-yagi-_564938.jpg 
+
+
+27
+Product Name: Talya 20 ml Jojoba Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 33,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Talya Jojoba Yagi 20 Ml        Price: 33,00 TL   Unit Price: 1.650,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Jojoba Yağı
+ - Toplam Ağırlık: 20 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/talya-20-ml-jojoba-yagi-_729844.jpg 
+
+
+28
+Product Name: Güzel Ada 300 ml Organik Hindistan Cevizi Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 280,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Guzel Ada Organik Hindistan Cevizi Yagi 300 Ml Price: 280,00 TL  Unit Price: 933,33 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Hindistan Cevizi Yağı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 300 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/guzel-ada-300-ml-organik-hindistan-cevizi-yagi-_765694.jpg 
+
+
+29
+Product Name: Univita 4 ml Saset 6'lı Argan Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 23,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Univita Argan Yagi 4ml Saset 6 Li Price: 23,00 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/univita-4-ml-saset-6li-argan-yagi-_230860.jpg 
+
+
+30
+Product Name: Talya 50 ml Hint Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 50,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Talya Hint Yagi 50 Ml          Price: 50,00 TL   Unit Price: 1.000,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Hint Yağı
+ - Toplam Ağırlık: 50 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/talya-50-ml-hint-yagi-_735249.jpg 
+
+
+31
+Product Name: Hüner 2 lt Mısır Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 78,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Huner Misir Yagi 2l            Price: 78,90 TL   Unit Price: 39,45 TL/lt
+
+Similar Products:
+ - Similar Product: Hüner 5 lt Pet Mısır Yağı                          Price: 185,00 TL 
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 2 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/huner-2-lt-misir-yagi-_1388151.jpg 
+
+
+32
+Product Name: Arifoğlu 30 ml Biberiye Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 147,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Arifoglu Biberiye Yagi 30 Ml   Price: 147,50 TL  Unit Price: 4.916,67 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Biberiye Yağı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 30 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/arifoglu-30-ml-biberiye-yagi-_1463516.jpg 
+
+
+33
+Product Name: Ecolife 250 ml Organik Hindistan Cevizi Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 78,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Ecolife Organik Hindistan Cevizi Yagi 250 Ml Price: 78,50 TL   Unit Price: 314,00 TL/lt
+ - Market: Carrefour            Product: Ecolife Organik Hindistan Cevizi Yagi 30 Price: 187,00 TL  Unit Price: 748,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Hindistan Cevizi Yağı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/ecolife-250-ml-organik-hindistan-cevizi-yagi-_1044339.jpg 
+
+
+34
+Product Name: Bibigo 160 ml Susam Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 259,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Bibigo %100 Susam Yagi 160ml   Price: 259,90 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/bibigo-160-ml-susam-yagi-_1734027.jpg 
+
+
+35
+Product Name: The Lifeco 250 ml Avokado Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 356,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Thelifeco Avokado Yagi 250 Ml  Price: 356,00 TL  Unit Price: 1.424,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Avokado Yağı
+ - Toplam Ağırlık: 250 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/the-lifeco-250-ml-avokado-yagi-_732388.jpg 
+
+
+36
+Product Name: Univita 6x3 ml İncir Çekirdeği Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 31,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Univita Incir Çekirdegi Yagi 3 Ml X 6 Adet Price: 31,00 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: İncir Çekirdeği Yağı
+Product Image URL: https://cdn.cimri.io/market/260x260/univita-6x3-ml-incir-cekirdegi-yagi-_873601.jpg 
+
+
+37
+Product Name: Thelifeco 80 gr Organik Pul Kakao Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 114,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Thelifeco Organik Pul Kakao Yagi 80g Price: 114,00 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/thelifeco-80-gr-organik-pul-kakao-yagi-_1024378.jpg 
+
+
+38
+Product Name: Beuta 20 ml Çay Ağacı Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 73,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Beuta 20 Ml Çay Agaci Yagi     Price: 73,50 TL   Unit Price: 3.675,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Çay Ağacı Yağı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 20 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/beuta-20-ml-cay-agaci-yagi-_800576.jpg 
+
+
+39
+Product Name: Talya 10 ml Limon Uçucu Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 69,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Talya Limon Ucucu Yagi 10 Ml   Price: 69,00 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/talya-10-ml-limon-ucucu-yagi-_1464285.jpg 
+
+
+40
+Product Name: Arifoğlu 50 ml Kakao Çekirdeği Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 94,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Arifoglu Kakao Çekirdegi Yagi 50 Ml Price: 94,50 TL   Unit Price: 1.890,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Kakao Yağı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 50 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/arifoglu-50-ml-kakao-cekirdegi-yagi-_1463654.jpg 
+
+
+41
+Product Name: Thelifeco 337 ml Organik Hindistan Cevizi Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 241,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Thelifeco Org.hindistan Cevizi Yagi 337m Price: 241,00 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/thelifeco-337-ml-organik-hindistan-cevizi-yagi-_1164632.jpg 
+
+
+42
+Product Name: Arifoğlu 30 ml Çay Ağacı Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 190,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Arifoglu Çay Agaci Yagi 30 Ml  Price: 190,90 TL  Unit Price: 6.363,33 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Çay Ağacı Yağı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 30 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/arifoglu-30-ml-cay-agaci-yagi-_1463652.jpg 
+
+
+43
+Product Name: Eznevita 20 ml Propolis Damla
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 19,95 TL 
+
+Market Products:
+ - Market: A101                 Product: Propolis Damla 20 Ml Eznevita  Price: 19,95 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/eznevita-20-ml-propolis-damla-_1633290.jpg 
+
+
+44
+Product Name: Arifoğlu 30 ml Kayısı Çekirdeği Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 124,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Arifoglu Kayisi Çekirdegi Yagi 30 Ml Price: 124,90 TL  Unit Price: 4.163,33 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Kayısı Çekirdeği Yağı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 30 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/arifoglu-30-ml-kayisi-cekirdegi-yagi-_1463611.jpg 
+
+
+45
+Product Name: Talya 20 ml Kekik Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 11,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Talya Kekik Yagi 20 Ml         Price: 11,00 TL   Unit Price: 550,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Kekik Yağı
+ - Toplam Ağırlık: 20 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/talya-20-ml-kekik-yagi-_729847.jpg 
+
+
+46
+Product Name: Çotanak 2 lt Fındık Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 339,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Çotanak Findik Yagi 2 Lt. Teneke Price: 339,90 TL  Unit Price: 169,95 TL/lt
+
+Similar Products:
+
+Features:
+ - Toplam Ağırlık: 2 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Teneke
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/cotanak-2-lt-findik-yagi-_62658.jpg 
+
+
+47
+Product Name: Çotanak 2 lt Fındık Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 339,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Çotanak Findik Yagi 2 Lt. Teneke Price: 339,90 TL  Unit Price: 169,95 TL/lt
+
+Similar Products:
+
+Features:
+ - Toplam Ağırlık: 2 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Teneke
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/cotanak-2-lt-findik-yagi-_62658.jpg 
+
+
+48
+Product Name: Arifoğlu 30 ml Çay Ağacı Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 190,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Arifoglu Çay Agaci Yagi 30 Ml  Price: 190,90 TL  Unit Price: 6.363,33 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Çay Ağacı Yağı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 30 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/arifoglu-30-ml-cay-agaci-yagi-_1463652.jpg 
+
+
+49
+Product Name: Arifoğlu 30 ml Okaliptus Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 189,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Arifoglu Okaliptus Yagi 30 Ml  Price: 189,50 TL  Unit Price: 6.316,67 TL/lt
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 30 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/arifoglu-30-ml-okaliptus-yagi-_714448.jpg 
+
+
+50
+Product Name: Oneva 250 ml Çörekotu Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 249,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Oneva Çorekotu Yagi 250 Ml     Price: 249,90 TL  Unit Price: 999,60 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Çörek Otu Yağı
+ - Toplam Ağırlık: 250 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/oneva-250-ml-corekotu-yagi-_1464670.jpg 
+
+
+51
+Product Name: Önce 45 ml Isırgan Tohumu Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 37,30 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Önce Isirgan Tohumu Yagi 45 Ml Price: 37,30 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/once-45-ml-isirgan-tohumu-yagi-_1164388.jpg 
+
+
+52
+Product Name: Escabel 50 ml Nar Çekirdeği Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 119,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Escabel Nar Çekirdegi Yagi 50 Ml Price: 119,95 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/escabel-50-ml-nar-cekirdegi-yagi-_1742292.jpg 
+
+
+53
+Product Name: Önce 45 ml Badem Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 37,30 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Önce Badem Yagi 45 Ml          Price: 37,30 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Önce 45 ml Isırgan Tohumu Yağı                     Price: 37,30 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/once-45-ml-badem-yagi-_1164389.jpg 
+
+
+54
+Product Name: Talya 20 ml Gül Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 129,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Talya Gul Yagi 20 Ml           Price: 129,00 TL  Unit Price: 6.450,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Gül Yağı
+ - Toplam Ağırlık: 20 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/talya-20-ml-gul-yagi-_729807.jpg 
+
+
+55
+Product Name: Univita 6x4 ml Tatlı Badem Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 18,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Univita Tatli Badem Yagi 4ml Saset 6 Li Price: 18,00 TL   Unit Price: 750,00 TL/lt
+
+Similar Products:
+ - Similar Product: Univita 6x4 ml Çörekotu Yağı                       Price: 18,00 TL  
+ - Similar Product: Univita 6x4 ml Sarı Kantaron Yağı                  Price: 26,00 TL  
+
+Features:
+ - Ürün Tipi: Badem Yağı
+ - Toplam Ağırlık: 24 ml
+Product Image URL:  
+
+
+56
+Product Name: Zade 175 ml Hindistan Cevizi Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 140,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Zade Organik Hindistan Cevizi Yagi 175 Ml Price: 140,50 TL  Unit Price: 802,86 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Hindistan Cevizi Yağı
+ - Toplam Ağırlık: 175 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/zade-175-ml-hindistan-cevizi-yagi-_1366379.jpg 
+
+
+57
+Product Name: Alvin 20 ml Çay Ağacı Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 51,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Alvin Çay Agaci Yagi 20 Ml     Price: 51,90 TL   Unit Price: 2.595,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Çay Ağacı Yağı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 20 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/alvin-20-ml-cay-agaci-yagi-_792785.jpg 
+
+
+58
+Product Name: Alvin 50 ml Sarı Kantaron Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 34,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Alvin Sari Kantaron Yagi 50 Ml Price: 34,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/alvin-50-ml-sari-kantaron-yagi-_1839250.jpg 
+
+
+59
+Product Name: Alvin 50 ml Tatlı Badem Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 34,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Alvin Badem Yagi Tatli 50 Ml   Price: 34,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/alvin-50-ml-tatli-badem-yagi-_1839249.jpg 
+
+
+60
+Product Name: Talya 20 ml Biberiye Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 11,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Talya Biberiye Yagi 20 Ml      Price: 11,00 TL   Unit Price: 550,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Biberiye Yağı
+ - Toplam Ağırlık: 20 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/talya-20-ml-biberiye-yagi-_729836.jpg 
+
+
+61
+Product Name: Arifoğlu 30 ml Portakal Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 116,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Arifoglu Portakal Yagi 30 Ml   Price: 116,90 TL  Unit Price: 3.896,67 TL/lt
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 30 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/arifoglu-30-ml-portakal-yagi-_714574.jpg 
+
+
+62
+Product Name: Talya 10 ml Okaliptus Uçucu Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 91,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Talya Okaliptus Ucucu Yagi 10 Ml Price: 91,00 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/talya-10-ml-okaliptus-ucucu-yagi-_1075543.jpg 
+
+
+63
+Product Name: City Farm 320 gr Organik Hindistan Cevizi Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 138,20 TL 
+
+Market Products:
+ - Market: Carrefour            Product: City Farm Org. Hind. Cevizi Yagi 320g Price: 138,20 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/city-farm-320-gr-organik-hindistan-cevizi-yagi-_1166826.jpg 
+
+
+64
+Product Name: Organik Gurme 330 ml Hindistan Cevizi Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 196,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Organik Gurme Org.hindistan Cevizi Yagi Price: 196,50 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/organik-gurme-330-ml-hindistan-cevizi-yagi-_1529317.jpg 
+
+
+65
+Product Name: Talya 10 ml Saf Portakal Uçucu Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 68,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Talya Portakal Ucucu Yagi 10 Ml Price: 68,00 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/talya-10-ml-saf-portakal-ucucu-yagi-_1191499.jpg 
+
+
+66
+Product Name: Olitalia 500 ml Üzüm Çekirdeği Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 295,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Olitalia Üzum Çekirdegi Yagi 0.5 L Price: 295,00 TL  Unit Price: 0
+ - Market: Carrefour            Product: Olitalia Üzum Çekirdegi Yagi 500ml Price: 297,90 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/olitalia-500-ml-uzum-cekirdegi-yagi-_1378399.jpg 
+
+
+67
+Product Name: Beuta 50 ml Sarı Kantaron Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 65,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Beuta 50 Ml Sari Kantaron Yagi Price: 65,90 TL   Unit Price: 1.318,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Sarı Kantoron Yağı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 50 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/beuta-50-ml-sari-kantaron-yagi-_800553.jpg 
+
+
+68
+Product Name: Talya 50 ml Shea Butter Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 66,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Talya Shea Butter 50 Ml        Price: 66,00 TL   Unit Price: 1.320,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Shea Yağı
+ - Toplam Ağırlık: 50 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/talya-50-ml-shea-butter-yagi-_730095.jpg 
+
+
+69
+Product Name: Arifoğlu 30 ml Avokado Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 44,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Arifoglu Avokado Yagi 30 Ml    Price: 44,00 TL   Unit Price: 1.466,67 TL/lt
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 30 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/arifoglu-30-ml-avokado-yagi-_714340.jpg 
+
+
+70
+Product Name: Oneva 250 ml Keten Tohumu Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 159,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Oneva Keten Tohumu Yagi 250 Ml Price: 159,90 TL  Unit Price: 639,60 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Keten Tohumu Yağı
+ - Toplam Ağırlık: 250 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/oneva-250-ml-keten-tohumu-yagi-_1464611.jpg 
+
+
+71
+Product Name: Talya 20 ml Çörekotu Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 20,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Talya Çorekotu Yagi 20 Ml      Price: 20,00 TL   Unit Price: 1.000,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Çörek Otu Yağı
+ - Toplam Ağırlık: 20 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/talya-20-ml-corekotu-yagi-_1068208.jpg 
+
+
+72
+Product Name: Arifoğlu 30 ml Argan Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 216,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Arifoglu Argan Yagi 30 Ml      Price: 216,50 TL  Unit Price: 7.216,67 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Argan Yağı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 30 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/arifoglu-30-ml-argan-yagi-_1463567.jpg 
+
+
+73
+Product Name: Talya 20 ml Sarımsak Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 26,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Talya Sarimsak Yagi 20 Ml      Price: 26,00 TL   Unit Price: 1.300,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Sarımsak Yağı
+ - Toplam Ağırlık: 20 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/talya-20-ml-sarimsak-yagi-_736405.jpg 
+
+
+74
+Product Name: Talya 10 ml %100 Saf Nane Uçucu Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 79,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Talya Nane Ucucu Yagi 10 Ml    Price: 79,00 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/talya-10-ml-100-saf-nane-ucucu-yagi-_1457585.jpg 
+
+
+75
+Product Name: Talya 10 ml Çay Ağacı Uçucu Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 109,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Talya Çay Agaci Ucucu Yagi 10 Ml Price: 109,00 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/talya-10-ml-cay-agaci-ucucu-yagi-_1464286.jpg 
+
+
+76
+Product Name: Arifoğlu 30 ml Argan Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 216,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Arifoglu Argan Yagi 30 Ml      Price: 216,50 TL  Unit Price: 7.216,67 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Argan Yağı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 30 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/arifoglu-30-ml-argan-yagi-_1463567.jpg 
+
+
+77
+Product Name: Talya 10 ml Çay Ağacı Uçucu Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 109,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Talya Çay Agaci Ucucu Yagi 10 Ml Price: 109,00 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/talya-10-ml-cay-agaci-ucucu-yagi-_1464286.jpg 
+
+
+78
+Product Name: Fine Taste 310 ml Hindistan Cevizi Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 155,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Fine Taste Hindistan Cevizi Yagi 310 Ml Price: 155,00 TL  Unit Price: 0
+ - Market: Carrefour            Product: Fine Taste Hind. Cev. Yagi 310 Ml Price: 160,00 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/fine-taste-310-ml-hindistan-cevizi-yagi-_1086724.jpg 
+
+
+79
+Product Name: Avofarm 150 ml Hindistan Cevizi Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Bitkisel Yağlar
+Cheapest Price: 119,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Avofarm Organik Hindistan Cevizi Yagi 150 Ml Price: 119,90 TL  Unit Price: 799,33 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Hindistan Cevizi Yağı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 150 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/avofarm-150-ml-hindistan-cevizi-yagi-_803062.jpg 
+
+
+Word Dictionary:
+hüner: 2
+5: 1
+lt: 4
+pet: 1
+mısır: 2
+yağı: 78
+amoy: 1
+150: 4
+ml: 73
+susam: 2
+hekimce: 1
+hindistan: 12
+cevizi: 12
+datça: 1
+50: 11
+badem: 6
+talya: 23
+20: 14
+kantaron: 4
+oneva: 4
+250: 7
+aspir: 1
+tohumu: 3
+toroslar: 1
+çörekotu: 5
+univita: 5
+6x4: 3
+10: 8
+biberiye: 3
+uçucu: 8
+arifoğlu: 14
+30: 14
+nane: 2
+avofarm: 2
+tatlı: 4
+sarı: 3
+kakao: 3
+alvin: 4
+limon: 2
+gliserin: 1
+argan: 4
+escabel: 2
+gül: 2
+beuta: 3
+çam: 1
+terebentin: 1
+kekik: 3
+300: 2
+sarımsak: 2
+jojoba: 1
+güzel: 1
+ada: 1
+organik: 6
+4: 1
+saset: 1
+6'lı: 1
+hint: 1
+2: 3
+ecolife: 1
+bibigo: 1
+160: 1
+the: 1
+lifeco: 1
+avokado: 2
+6x3: 1
+i̇ncir: 1
+çekirdeği: 5
+thelifeco: 2
+80: 1
+gr: 2
+pul: 1
+çay: 6
+ağacı: 6
+337: 1
+eznevita: 1
+propolis: 1
+damla: 1
+kayısı: 1
+çotanak: 2
+fındık: 2
+okaliptus: 2
+önce: 2
+45: 2
+isırgan: 1
+nar: 1
+zade: 1
+175: 1
+portakal: 2
+city: 1
+farm: 1
+320: 1
+gurme: 1
+330: 1
+saf: 2
+olitalia: 1
+500: 1
+üzüm: 1
+shea: 1
+butter: 1
+keten: 1
+%100: 1
+fine: 1
+taste: 1
+310: 1
+
+Feature List:
+Adet
+Toplam Ağırlık
+İçerik
+Ürün Tipi
+Menşei
+Saklama Koşulları
+Ambalaj Tipi
+
+
+
+bitkisel_yaglar_icerik_dict = {"mısır": "Mısır", "susam": "Susam", "hindistan": "Hindistan Cevizi",
+                                   "badem": "Badem", "kantaron": "Kantaron", "çörekotu": "Çörekotu",
+                                   "biberiye": "Biberiye", "nane": "Nane", "tatlı": "Tatlı Badem",
+                                   "sarı": "Sarı Kantoron", "sarımsak": "Sarımsak", "kakao": "Kakao", "limon": "Limon",
+                                   "argan": "Argan", "kekik": "Kekik", "avokado": "Avokado", "i̇ncir": "İncir Çekirdeği",
+                                   "çay": "Çay Ağacı", "propolis": "Propolis", "üzüm": "Üzüm Çekirdeği Yağı",
+                                   "kayısı": "Kayısı Çekirdeği", "fındık": "Fındık", "okaliptus": "Okaliptüs",
+                                   "ısırgan": "Isırgan Tohumu", "nar": "Nar Çekirdeği", "portakal": "Portakal"}
+
+bitkisel_yaglar_urun_turu_dict = {"mısır": "Mısır Yağı", "susam": "Susam Yağı", "hindistan": "Hindistan Cevizi Yağı",
+                                   "badem": "Badem Yağı", "kantaron": "Kantaron Yağı", "çörekotu": "Çörekotu Yağı",
+                                   "biberiye": "Biberiye Yağı", "nane": "Nane Yağı", "tatlı": "Tatlı Badem Yağı",
+                                   "sarı": "Sarı Kantoron Yağı", "sarımsak": "Sarımsak Yağı", "kakao": "Kakao Yağı", "limon": "Limon Yağı",
+                                   "argan": "Argan Yağı", "kekik": "Kekik Yağı", "jojoba": "Jojoba Yağı",
+                                   "avokado": "Avokado Yağı", "i̇ncir": "İncir Çekirdeği Yağı",
+                                   "çam": "Çam Terebentin Yağı", "çay": "Çay Ağacı Yağı", "propolis": "Propolis Damla",
+                                   "kayısı": "Kayısı Çekirdeği Yağı", "fındık": "Fındık Yağı", "okaliptus": "Okaliptüs Yağı",
+                                   "ısırgan": "Isırgan Yağı", "nar": "Nar Çekirdeği Yağı", "portakal": "Portakal Yağı",
+                                   "üzüm": "Üzüm Çekirdeği Yağı", "shea": "Shea Butter Yağı", "keten": "Keten Yağı"}
+
+bitkisel_yaglar_urun_tipi_dict = {"organik": "Organik Yağ", "yağ": "yağ", "damla": "Damla"}

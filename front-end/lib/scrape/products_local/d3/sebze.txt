@@ -1,0 +1,2871 @@
+1
+Product Name: Patates
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 9,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Patates Ekonomik Boy File Kg   Price: 9,95 TL    Unit Price: 9,95 TL/kg
+ - Market: Migros               Product: Hemen Patates Taze 1 Kg Paket Adet Price: 13,90 TL   Unit Price: 13,90 TL/kg
+ - Market: Migros               Product: Patates Kg                     Price: 13,90 TL   Unit Price: 13,90 TL/kg
+ - Market: Tarım Kredi Kooperatifi Product: Patates Kg                     Price: 13,90 TL   Unit Price: 13,90 TL/kg
+ - Market: Şok                  Product: Patates Kg.                    Price: 13,90 TL   Unit Price: 13,90 TL/kg
+ - Market: Bim                  Product: Patates Kg                     Price: 17,75 TL   Unit Price: 17,75 TL/kg
+ - Market: A101                 Product: Patates                        Price: 19,75 TL   Unit Price: 19,75 TL/kg
+ - Market: Carrefour            Product: Patates Yemeklik Kg            Price: 19,90 TL   Unit Price: 19,90 TL/kg
+ - Market: Şok                  Product: Patates 2 Kg                   Price: 19,95 TL   Unit Price: 9,97 TL/kg
+ - Market: Carrefour            Product: Patates Pazar.                 Price: 19,99 TL   Unit Price: 19,99 TL/kg
+ - Market: Migros               Product: Patates Ödemis kg              Price: 27,90 TL   Unit Price: 27,90 TL/kg
+ - Market: Carrefour            Product: Patates Taze Gurme             Price: 35,90 TL   Unit Price: 35,90 TL/kg
+ - Market: Migros               Product: Patates Kg. Eko                Price: 59,95 TL   Unit Price: 59,95 TL/kg
+
+Similar Products:
+ - Similar Product: Kumpirlik Patates                                  Price: 35,90 TL  
+
+Features:
+ - Ürün Tipi: Patates
+Product Image URL:  
+
+
+2
+Product Name: Kuru Soğan
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 9,50 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Kuru Sogan Kg                  Price: 9,50 TL    Unit Price: 9,50 TL/kg
+ - Market: Bim                  Product: Sogan Kg                       Price: 9,75 TL    Unit Price: 9,75 TL/kg
+ - Market: Şok                  Product: Kuru Sogan Kg.                 Price: 9,75 TL    Unit Price: 9,75 TL/kg
+ - Market: Migros               Product: Hemen Sogan Kuru 1 Kg Paket Adet Price: 9,90 TL    Unit Price: 9,90 TL/kg
+ - Market: Migros               Product: Sogan Kuru Dokme Kg            Price: 9,90 TL    Unit Price: 9,90 TL/kg
+ - Market: Şok                  Product: Sogan 1 Kg                     Price: 11,50 TL   Unit Price: 5,75 TL/kg
+ - Market: A101                 Product: Sogan                          Price: 12,75 TL   Unit Price: 12,75 TL/kg
+ - Market: Carrefour            Product: Sogan Kuru Kg                  Price: 12,90 TL   Unit Price: 12,90 TL/kg
+ - Market: Hakmar Express       Product: Sebze Sogan Kg Fiyati          Price: 14,95 TL   Unit Price: 14,95 TL/kg
+ - Market: Şok                  Product: Organik Sogan 750 G            Price: 34,90 TL   Unit Price: 46,53 TL/kg
+
+Similar Products:
+ - Similar Product: Soyulmuş Arpacık Soğan                             Price: 129,90 TL 
+ - Similar Product: Taze Soğan (Bağ)                                   Price: 24,50 TL  
+ - Similar Product: Taze Soğan                                         Price: 200,00 TL 
+
+Features:
+ - Ürün Tipi: Kuru Soğan
+Product Image URL:  
+
+
+3
+Product Name: Kapya Biber
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 49,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Biber Kapya Kg Fl/lb           Price: 49,75 TL   Unit Price: 49,75 TL/kg
+ - Market: Şok                  Product: Kirmizi Kapya Biber 500 Gr     Price: 49,75 TL   Unit Price: 49,75 TL/kg
+ - Market: Migros               Product: Biber Kirmizi Kg               Price: 89,95 TL   Unit Price: 89,95 TL/kg
+
+Similar Products:
+ - Similar Product: Kırmızı Biber (Paket)                              Price: 29,95 TL  
+ - Similar Product: Üçburun Köy Biberi                                 Price: 29,50 TL  
+
+Features:
+ - Ürün Tipi: Biber
+Product Image URL:  
+
+
+4
+Product Name: Patlıcan
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 23,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Patlican Kg                    Price: 23,75 TL   Unit Price: 23,75 TL/kg
+ - Market: Bim                  Product: Patlican Dokme Kg              Price: 24,75 TL   Unit Price: 24,75 TL/kg
+ - Market: A101                 Product: Patlican                       Price: 59,90 TL   Unit Price: 59,90 TL/kg
+
+Similar Products:
+ - Similar Product: Kemer Patlıcan                                     Price: 11,90 TL  
+
+Features:
+ - Ürün Tipi: Patlıcan
+Product Image URL:  
+
+
+5
+Product Name: Marul (Adet)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 28,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Marul Adet                     Price: 28,90 TL   Unit Price: 28,90 TL/Adet
+ - Market: A101                 Product: Marul Adet                     Price: 29,90 TL   Unit Price: 29,90 TL/Adet
+ - Market: A101                 Product: Marul                          Price: 29,90 TL   Unit Price: 29,90 TL/Adet
+ - Market: Şok                  Product: Marul Adet                     Price: 29,90 TL   Unit Price: 29,90 TL/Adet
+ - Market: Migros               Product: Marul Adet                     Price: 32,95 TL   Unit Price: 32,95 TL/Adet
+
+Similar Products:
+ - Similar Product: Kıvırcık Marul (Adet)                              Price: 29,90 TL  
+ - Similar Product: Kırmızı Kıvırcık Marul (Adet)                      Price: 26,95 TL  
+ - Similar Product: Göbek Marul (Adet)                                 Price: 28,90 TL  
+
+Features:
+ - Ürün Tipi: Marul
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+6
+Product Name: Brokoli
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 36,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Gunes Brokoli 500 G Adet       Price: 36,95 TL   Unit Price: 73,90 TL/kg
+ - Market: Şok                  Product: Brokoli 500 Gr Pkt             Price: 39,90 TL   Unit Price: 79,80 TL/kg
+ - Market: A101                 Product: Brokoli                        Price: 39,95 TL   Unit Price: 39,95 TL/kg
+ - Market: Migros               Product: Brokoli Kg.                    Price: 54,95 TL   Unit Price: 54,95 TL/kg
+ - Market: Şok                  Product: Brokoli Kg.                    Price: 79,90 TL   Unit Price: 79,90 TL/kg
+
+Similar Products:
+ - Similar Product: Yıkanmış Brokoli                                   Price: 17,90 TL  
+
+Features:
+ - Ürün Tipi: Brokoli
+Product Image URL:  
+
+
+7
+Product Name: Göbek Marul (Adet)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 28,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Gobek Salata Adet              Price: 28,90 TL   Unit Price: 28,90 TL/Adet
+ - Market: A101                 Product: Marul Gobek                    Price: 32,75 TL   Unit Price: 32,75 TL/Adet
+
+Similar Products:
+ - Similar Product: Kıvırcık Marul (Adet)                              Price: 29,90 TL  
+ - Similar Product: Kırmızı Kıvırcık Marul (Adet)                      Price: 26,95 TL  
+ - Similar Product: Marul (Adet)                                       Price: 28,90 TL  
+ - Similar Product: Göbek Marul (Adet)                                 Price: 28,90 TL  
+
+Features:
+ - Ürün Tipi: Göbek
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+8
+Product Name: Kuşkonmaz kg
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 199,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Kuskonmaz 300g                 Price: 199,90 TL  Unit Price: 666,33 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kuskonmaz-kg-_1440646.jpg 
+
+
+9
+Product Name: Kıvırcık Marul (Adet)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 29,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Kivircik Adet                  Price: 29,90 TL   Unit Price: 29,90 TL/Adet
+ - Market: A101                 Product: Kivircik                       Price: 29,90 TL   Unit Price: 29,90 TL/Adet
+ - Market: Migros               Product: Salata Kivircik Adet           Price: 29,95 TL   Unit Price: 29,95 TL/Adet
+ - Market: Carrefour            Product: Kivircik Demet                 Price: 32,90 TL   Unit Price: 32,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Kırmızı Kıvırcık Marul (Adet)                      Price: 26,95 TL  
+ - Similar Product: Marul (Adet)                                       Price: 28,90 TL  
+ - Similar Product: Göbek Marul (Adet)                                 Price: 28,90 TL  
+ - Similar Product: Göbek Marul (Adet)                                 Price: 28,90 TL  
+
+Features:
+ - Ürün Tipi: Kıvırcık
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+10
+Product Name: Yer Elması
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 24,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Yer Elmasi 500 G               Price: 24,90 TL   Unit Price: 49,80 TL/kg
+ - Market: Migros               Product: Hemen Yer Elmasi 500 G Paket Adet Price: 33,95 TL   Unit Price: 67,90 TL/kg
+ - Market: Şok                  Product: Yer Elmasi Kg.                 Price: 89,90 TL   Unit Price: 89,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Yer Elması
+Product Image URL:  
+
+
+11
+Product Name: Tarla Domates
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 5,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Tarla Domates Kg               Price: 5,75 TL    Unit Price: 5,75 TL/kg
+ - Market: Bim                  Product: Tarla Domates Dokme Kg         Price: 9,50 TL    Unit Price: 9,50 TL/kg
+ - Market: Migros               Product: Tarla Domates Kg.              Price: 9,90 TL    Unit Price: 9,90 TL/kg
+
+Similar Products:
+ - Similar Product: Rio Domates                                        Price: 9,90 TL   
+ - Similar Product: Kokteyl Siyah Domates                              Price: 69,95 TL  
+
+Features:
+ - Ürün Tipi: Domates
+Product Image URL: https://cdn.cimri.io/market/260x260/tarla-domates-_213207.jpg 
+
+
+12
+Product Name: Çarliston Biber
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 24,95 TL 
+
+Market Products:
+ - Market: A101                 Product: Biber Çarliston Paket          Price: 24,95 TL   Unit Price: 83,17 TL/kg
+ - Market: Migros               Product: Biber Çarliston Ekonomik Kg.   Price: 28,90 TL   Unit Price: 28,90 TL/kg
+ - Market: Migros               Product: Hemen Biber Çarliston 500 Gr Pkt Adt Price: 37,50 TL   Unit Price: 75,00 TL/kg
+ - Market: Hakmar Express       Product: Sebze Biber Çarliston Kg Fiyati Price: 49,95 TL   Unit Price: 49,95 TL/kg
+ - Market: Şok                  Product: Çarliston Biber Kg.            Price: 52,90 TL   Unit Price: 52,90 TL/kg
+ - Market: Şok                  Product: Çarliston Biber 500 Gr         Price: 52,90 TL   Unit Price: 105,80 TL/kg
+ - Market: A101                 Product: Biber Çarliston                Price: 59,95 TL   Unit Price: 59,95 TL/kg
+ - Market: Carrefour            Product: Biber Çarliston                Price: 69,90 TL   Unit Price: 69,90 TL/kg
+ - Market: Migros               Product: Biber Çarliston(1) Kg          Price: 69,95 TL   Unit Price: 69,95 TL/kg
+ - Market: Migros               Product: Biber Çarliston Pkt.kg         Price: 72,95 TL   Unit Price: 72,95 TL/kg
+ - Market: Migros               Product: Biber Çarliston  Ekstra Kg.    Price: 84,95 TL   Unit Price: 84,95 TL/kg
+
+Similar Products:
+ - Similar Product: Kırmızı Biber (Paket)                              Price: 29,95 TL  
+ - Similar Product: Üçburun Köy Biberi                                 Price: 29,50 TL  
+
+Features:
+ - Ürün Tipi: Çarliston Biber
+Product Image URL:  
+
+
+13
+Product Name: İstiridye Mantarı
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 46,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Mantar Istiridye               Price: 46,90 TL   Unit Price: 46,90 TL/Adet
+ - Market: Carrefour            Product: Mantar Istiridye(kayin)200 Gr  Price: 49,90 TL   Unit Price: 49,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Izgaralık Mantar                                   Price: 79,50 TL  
+ - Similar Product: Fındık Mantar                                      Price: 39,90 TL  
+ - Similar Product: Kültür Mantar                                      Price: 33,75 TL  
+ - Similar Product: Kestane Mantarı                                    Price: 49,99 TL  
+
+Features:
+ - Ürün Tipi: Mantar
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+14
+Product Name: Üçburun Köy Biberi
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 29,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Üc Burun Biber Kg              Price: 29,50 TL   Unit Price: 29,50 TL/kg
+ - Market: Şok                  Product: Koy Biberi Kg                  Price: 76,90 TL   Unit Price: 76,90 TL/kg
+ - Market: Migros               Product: Koy Biberi Kg.                 Price: 84,95 TL   Unit Price: 84,95 TL/kg
+
+Similar Products:
+ - Similar Product: Organik Köy Domates                                Price: 79,90 TL  
+ - Similar Product: Kırmızı Biber (Paket)                              Price: 29,95 TL  
+
+Features:
+ - Ürün Tipi: Biber
+Product Image URL:  
+
+
+15
+Product Name: Kabak
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 7,43 TL 
+
+Market Products:
+ - Market: Migros               Product: Kabak Çorbalik Kg              Price: 7,43 TL    Unit Price: 7,43 TL/kg
+ - Market: A101                 Product: Kabak                          Price: 34,90 TL   Unit Price: 34,90 TL/kg
+
+Similar Products:
+ - Similar Product: Organik Sakız Kabak                                Price: 39,95 TL  
+ - Similar Product: Sakız Kabak                                        Price: 23,90 TL  
+
+Features:
+ - Ürün Tipi: Kabak
+Product Image URL:  
+
+
+16
+Product Name: Karnabahar
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 22,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Gunes Karnabahar 500 G Adet    Price: 22,95 TL   Unit Price: 45,90 TL/kg
+ - Market: A101                 Product: Karnabahar                     Price: 29,75 TL   Unit Price: 29,75 TL/kg
+ - Market: Şok                  Product: Karnabahar Kg.                 Price: 29,75 TL   Unit Price: 29,75 TL/kg
+ - Market: Carrefour            Product: Karnabahar                     Price: 29,90 TL   Unit Price: 29,90 TL/kg
+ - Market: Şok                  Product: Karnabahar 500 Gr Pkt          Price: 36,45 TL   Unit Price: 72,90 TL/kg
+ - Market: Migros               Product: Karnabahar Kg.                 Price: 39,95 TL   Unit Price: 39,95 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Karnabahar
+Product Image URL:  
+
+
+17
+Product Name: Salatalık
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 18,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Salatalik Kg                   Price: 18,50 TL   Unit Price: 18,50 TL/kg
+ - Market: Tarım Kredi Kooperatifi Product: Salatalik Kg                   Price: 19,90 TL   Unit Price: 19,90 TL/kg
+ - Market: Migros               Product: Hiyar Ekonomik Kg.             Price: 29,95 TL   Unit Price: 29,95 TL/kg
+ - Market: Migros               Product: Hiyar Yerli Kg.                Price: 32,95 TL   Unit Price: 32,95 TL/kg
+ - Market: Bim                  Product: Salatalik Kg                   Price: 39,75 TL   Unit Price: 39,75 TL/kg
+ - Market: Şok                  Product: Salatalik Kg.                  Price: 39,75 TL   Unit Price: 39,75 TL/kg
+ - Market: Şok                  Product: Salatalik 500 Gr               Price: 39,90 TL   Unit Price: 79,80 TL/kg
+ - Market: Hakmar Express       Product: Sebze Salatalik Kg Fiyati      Price: 39,95 TL   Unit Price: 39,95 TL/kg
+
+Similar Products:
+ - Similar Product: Salatalık ve Domates                               Price: 42,90 TL  
+ - Similar Product: Salatalık ve Domates                               Price: 42,90 TL  
+ - Similar Product: Çengelköy Salatalık                                Price: 19,75 TL  
+
+Features:
+ - Ürün Tipi: Salatalık
+Product Image URL:  
+
+
+18
+Product Name: Beyaz Soğan
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 19,95 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Sebze Sogan Beyaz Kg Fiyati    Price: 19,95 TL   Unit Price: 19,95 TL/kg
+ - Market: Şok                  Product: Sogan Gumus File Kg.           Price: 69,90 TL   Unit Price: 69,90 TL/kg
+ - Market: Migros               Product: Sogan Gumus File Kg.           Price: 200,00 TL  Unit Price: 200,00 TL/kg
+
+Similar Products:
+ - Similar Product: Soyulmuş Arpacık Soğan                             Price: 129,90 TL 
+ - Similar Product: Taze Soğan (Bağ)                                   Price: 24,50 TL  
+ - Similar Product: Taze Soğan                                         Price: 200,00 TL 
+
+Features:
+ - Ürün Tipi: Beyaz Soğan
+Product Image URL:  
+
+
+19
+Product Name: Taze Zencefil
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 74,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Taze Zencefil 250 G            Price: 74,90 TL   Unit Price: 299,60 TL/kg
+
+Similar Products:
+ - Similar Product: Taze Kekik (Demet)                                 Price: 39,95 TL  
+ - Similar Product: Taze Soğan (Bağ)                                   Price: 24,50 TL  
+
+Features:
+ - Ürün Tipi: Zencefil
+Product Image URL:  
+
+
+20
+Product Name: Bakla
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 64,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Bakla Kg                       Price: 64,90 TL   Unit Price: 64,90 TL/kg
+
+Similar Products:
+ - Similar Product: Sakız Bakla (Paket)                                Price: 36,90 TL  
+ - Similar Product: Sakız Bakla                                        Price: 54,95 TL  
+
+Features:
+ - Ürün Tipi: Bakla
+Product Image URL:  
+
+
+21
+Product Name: Kültür Mantar
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 33,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Mantar Kulturlu 400gr          Price: 33,75 TL   Unit Price: 84,38 TL/kg
+
+Similar Products:
+ - Similar Product: Izgaralık Mantar                                   Price: 79,50 TL  
+ - Similar Product: Fındık Mantar                                      Price: 39,90 TL  
+ - Similar Product: Kestane Mantarı                                    Price: 49,99 TL  
+
+Features:
+ - Ürün Tipi: Mantar
+Product Image URL: https://cdn.cimri.io/market/260x260/kultur-mantar-_1414916.jpg 
+
+
+22
+Product Name: Mini Patates
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 34,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Patates Taze Mini Kg.          Price: 34,90 TL   Unit Price: 34,90 TL/kg
+ - Market: Migros               Product: Patates Taze Mini Kg.          Price: 54,95 TL   Unit Price: 54,95 TL/kg
+
+Similar Products:
+ - Similar Product: Kumpirlik Patates                                  Price: 35,90 TL  
+
+Features:
+ - Ürün Tipi: Patates
+Product Image URL:  
+
+
+23
+Product Name: Kırmızı Biber (Paket)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 29,95 TL 
+
+Market Products:
+ - Market: A101                 Product: Biber Kirmizi Paket            Price: 29,95 TL   Unit Price: 29,95 TL/Adet
+
+Similar Products:
+ - Similar Product: Çengelköy Salatalık (Paket)                        Price: 31,95 TL  
+ - Similar Product: Havuç (Paket)                                      Price: 12,90 TL  
+ - Similar Product: Pırasa (Paket)                                     Price: 21,95 TL  
+
+Features:
+ - Ürün Tipi: Kırmızı Biber
+Product Image URL: https://cdn.cimri.io/market/260x260/kirmizi-biber-paket-_1433323.jpg 
+
+
+24
+Product Name: Tatlı Patates
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 59,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Tatli Patates 1 Kg             Price: 59,90 TL   Unit Price: 59,90 TL/kg
+ - Market: Şok                  Product: Tatli Patates Ithal Kg         Price: 69,90 TL   Unit Price: 69,90 TL/kg
+
+Similar Products:
+ - Similar Product: Kumpirlik Patates                                  Price: 35,90 TL  
+
+Features:
+ - Ürün Tipi: Patates
+Product Image URL:  
+
+
+25
+Product Name: Semizotu (Demet)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 24,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Semizotu Demet                 Price: 24,95 TL   Unit Price: 24,95 TL/Adet
+ - Market: A101                 Product: Semizotu                       Price: 29,90 TL   Unit Price: 29,90 TL/Adet
+ - Market: Carrefour            Product: Semizotu                       Price: 33,90 TL   Unit Price: 33,90 TL/Adet
+ - Market: Şok                  Product: Semizotu Demet                 Price: 44,90 TL   Unit Price: 44,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Kuzu Kulağı (Demet)                                Price: 13,90 TL  
+ - Similar Product: Reyhan (Demet)                                     Price: 14,95 TL  
+ - Similar Product: Ispanak (Demet)                                    Price: 24,90 TL  
+
+Features:
+ - Ürün Tipi: Semizotu
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+26
+Product Name: Domates kg
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 9,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Rio Domates 1 Kg Paket         Price: 9,90 TL    Unit Price: 9,90 TL/kg
+ - Market: Migros               Product: Domates Ekonomik Kg.           Price: 19,90 TL   Unit Price: 19,90 TL/kg
+ - Market: Bim                  Product: Domates Kg                     Price: 29,75 TL   Unit Price: 29,75 TL/kg
+ - Market: Tarım Kredi Kooperatifi Product: Domates Kg                     Price: 29,90 TL   Unit Price: 29,90 TL/kg
+ - Market: Şok                  Product: Domates Kg                     Price: 29,90 TL   Unit Price: 29,90 TL/kg
+ - Market: Bim                  Product: Domates Kg                     Price: 33,75 TL   Unit Price: 33,75 TL/kg
+ - Market: A101                 Product: Domates                        Price: 38,75 TL   Unit Price: 38,75 TL/kg
+ - Market: Migros               Product: Domates(1) Kg                  Price: 38,75 TL   Unit Price: 38,75 TL/kg
+ - Market: Migros               Product: Tatli Domates 250 G Paket Adet Price: 42,95 TL   Unit Price: 171,80 TL/kg
+ - Market: Migros               Product: Hemen Domates 1 Kg Paket Adet  Price: 46,25 TL   Unit Price: 46,25 TL/kg
+ - Market: Migros               Product: Domates  Ekstra Kg             Price: 49,95 TL   Unit Price: 49,95 TL/kg
+ - Market: Migros               Product: Domates Pkt Kg.                Price: 54,95 TL   Unit Price: 54,95 TL/kg
+
+Similar Products:
+ - Similar Product: Rio Domates                                        Price: 9,90 TL   
+ - Similar Product: Kokteyl Siyah Domates                              Price: 69,95 TL  
+
+Features:
+Product Image URL:  
+
+
+27
+Product Name: Kumpirlik Patates
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 35,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Patates Kumpirlik Kg           Price: 35,90 TL   Unit Price: 35,90 TL/kg
+ - Market: Migros               Product: Patates Kumpirlik Kg           Price: 44,95 TL   Unit Price: 44,95 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Patates
+Product Image URL:  
+
+
+28
+Product Name: Siyah Turp
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 19,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Turp Siyah Kg.                 Price: 19,95 TL   Unit Price: 19,95 TL/kg
+ - Market: Şok                  Product: Turp Siyah Kg.                 Price: 24,90 TL   Unit Price: 24,90 TL/kg
+ - Market: Şok                  Product: Siyah Turp (ort. 500 G)        Price: 24,90 TL   Unit Price: 49,80 TL/kg
+
+Similar Products:
+ - Similar Product: Alabaş Turp                                        Price: 59,90 TL  
+ - Similar Product: Kırmızı Turp Demet                                 Price: 10,00 TL  
+ - Similar Product: Vezir Turp                                         Price: 19,95 TL  
+ - Similar Product: Vezir Turp                                         Price: 19,95 TL  
+ - Similar Product: Kırmızı Turp                                       Price: 17,95 TL  
+ - Similar Product: Beyaz Turp                                         Price: 24,90 TL  
+
+Features:
+ - Ürün Tipi: Siyah Turp
+Product Image URL:  
+
+
+29
+Product Name: Rio Domates
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 9,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Domates Rio                    Price: 9,90 TL    Unit Price: 9,90 TL/kg
+ - Market: Şok                  Product: Domates Rio Tarla Kg.          Price: 29,90 TL   Unit Price: 29,90 TL/kg
+ - Market: Şok                  Product: Rio Domates 5 Kg Kasa          Price: 49,50 TL   Unit Price: 9,90 TL/kg
+
+Similar Products:
+ - Similar Product: Kokteyl Siyah Domates                              Price: 69,95 TL  
+ - Similar Product: Şeker Domates                                      Price: 19,75 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/rio-domates-_1131997.jpg 
+
+
+30
+Product Name: Taze Soğan (Bağ)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 24,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sogan Taze Demet               Price: 24,50 TL   Unit Price: 24,50 TL/Adet
+ - Market: Migros               Product: Sogan Taze Demet               Price: 24,95 TL   Unit Price: 24,95 TL/Adet
+ - Market: A101                 Product: Sogan Taze Adet                Price: 29,90 TL   Unit Price: 29,90 TL/Adet
+ - Market: Şok                  Product: Sogan Taze Demet               Price: 38,90 TL   Unit Price: 38,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Deniz Börülcesi (Bağ)                              Price: 14,95 TL  
+ - Similar Product: Dereotu (Bağ)                                      Price: 13,45 TL  
+ - Similar Product: Maydanoz (Bağ)                                     Price: 14,95 TL  
+ - Similar Product: Frenk Maydanozu (Bağ)                              Price: 1,99 TL   
+
+Features:
+ - Ürün Tipi: Yeşil Soğan
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+31
+Product Name: Mini Roka (Paket)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 12,45 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Roka                           Price: 12,45 TL   Unit Price: 12,45 TL/Adet
+ - Market: A101                 Product: Roka                           Price: 17,90 TL   Unit Price: 17,90 TL/Adet
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Roka
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/mini-roka-paket-_213166.jpg 
+
+
+32
+Product Name: Taze Fasulye
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 42,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Fasulye Taze                   Price: 42,90 TL   Unit Price: 42,90 TL/kg
+
+Similar Products:
+ - Similar Product: Ayşe Kadın Fasulye                                 Price: 49,90 TL  
+ - Similar Product: Çalı Fasulye                                       Price: 49,90 TL  
+ - Similar Product: Taze Kekik (Demet)                                 Price: 39,95 TL  
+
+Features:
+ - Ürün Tipi: Taze Fasulye
+Product Image URL:  
+
+
+33
+Product Name: Kara Lahana (Adet)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 25,95 TL 
+
+Market Products:
+ - Market: A101                 Product: Lahana Kara Adet               Price: 25,95 TL   Unit Price: 25,95 TL/Adet
+ - Market: Şok                  Product: Kara Lahana Demet              Price: 39,90 TL   Unit Price: 39,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Beyaz Lahana (Adet)                                Price: 6,95 TL   
+ - Similar Product: Kara Lahana                                        Price: 24,90 TL  
+
+Features:
+ - Ürün Tipi: Kara Lahana
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+34
+Product Name: Kırmızı Turp
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 17,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Turp Kirmizi Kg.               Price: 17,95 TL   Unit Price: 17,95 TL/kg
+ - Market: A101                 Product: Turp Kirmizi                   Price: 19,90 TL   Unit Price: 19,90 TL/kg
+ - Market: Hakmar Express       Product: Yesillik Turp Kirmizi Kg Fiyati Price: 19,95 TL   Unit Price: 19,95 TL/kg
+ - Market: Carrefour            Product: Turp Kirmizi                   Price: 20,90 TL   Unit Price: 20,90 TL/kg
+ - Market: Şok                  Product: Kirmizi Turp (ort. 500 G)      Price: 22,90 TL   Unit Price: 45,80 TL/kg
+ - Market: Şok                  Product: Turp Kg                        Price: 22,90 TL   Unit Price: 22,90 TL/kg
+ - Market: Migros               Product: Turp Kirmizi (isl.)kg.         Price: 22,95 TL   Unit Price: 22,95 TL/kg
+
+Similar Products:
+ - Similar Product: Kırmızı Turp Demet                                 Price: 10,00 TL  
+ - Similar Product: Vezir Turp                                         Price: 19,95 TL  
+ - Similar Product: Vezir Turp                                         Price: 19,95 TL  
+ - Similar Product: Alabaş Turp                                        Price: 59,90 TL  
+ - Similar Product: Beyaz Turp                                         Price: 24,90 TL  
+ - Similar Product: Siyah Turp                                         Price: 19,95 TL  
+
+Features:
+ - Ürün Tipi: Kırmızı Turp
+Product Image URL:  
+
+
+35
+Product Name: Yerli Domates
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 59,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Domates Yerli                  Price: 59,90 TL   Unit Price: 59,90 TL/kg
+ - Market: Migros               Product: Domates Yerli Kg               Price: 64,90 TL   Unit Price: 64,90 TL/kg
+
+Similar Products:
+ - Similar Product: Rio Domates                                        Price: 9,90 TL   
+ - Similar Product: Kokteyl Siyah Domates                              Price: 69,95 TL  
+
+Features:
+Product Image URL:  
+
+
+36
+Product Name: Beyaz Lahana (Adet)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 6,95 TL 
+
+Market Products:
+ - Market: A101                 Product: Lahana Beyaz                   Price: 6,95 TL    Unit Price: 6,95 TL/Adet
+ - Market: Carrefour            Product: Beyaz Lahana                   Price: 8,99 TL    Unit Price: 8,99 TL/Adet
+ - Market: Migros               Product: Lahana Beyaz Adet              Price: 200,00 TL  Unit Price: 200,00 TL/Adet
+
+Similar Products:
+ - Similar Product: Kara Lahana (Adet)                                 Price: 25,95 TL  
+ - Similar Product: Beyaz Lahana (kg)                                  Price: 5,90 TL   
+
+Features:
+ - Ürün Tipi: Beyaz Lahana
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+37
+Product Name: Fesleğen
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 89,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Taze Feslegen                  Price: 89,90 TL   Unit Price: 89.900,00 TL/kg
+ - Market: Migros               Product: Feslegen Kg                    Price: 389,90 TL  Unit Price: 389,90 TL/kg
+
+Similar Products:
+ - Similar Product: Fesleğen (Paket)                                   Price: 29,90 TL  
+
+Features:
+ - Ürün Tipi: Fesleğen
+Product Image URL:  
+
+
+38
+Product Name: Kırmızı Soğan
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 21,90 TL 
+
+Market Products:
+ - Market: Bim                  Product: Mor Sogan Kg                   Price: 21,90 TL   Unit Price: 21,90 TL/kg
+ - Market: Hakmar Express       Product: Sebze Sogan Mor Paket          Price: 29,95 TL   Unit Price: 29,95 TL/kg
+ - Market: A101                 Product: Sogan Mor                      Price: 37,95 TL   Unit Price: 37,95 TL/kg
+ - Market: Carrefour            Product: Sogan Mor Kg-cografi Ürun      Price: 49,90 TL   Unit Price: 49,90 TL/kg
+ - Market: Şok                  Product: Kirmizi Sogan Kg.              Price: 59,90 TL   Unit Price: 59,90 TL/kg
+ - Market: Migros               Product: Sogan Kirmizi Kg               Price: 59,95 TL   Unit Price: 59,95 TL/kg
+ - Market: Migros               Product: Migros Secilmis Sogan Kirmizi 1 Kg Price: 69,95 TL   Unit Price: 69,95 TL/kg
+
+Similar Products:
+ - Similar Product: Soyulmuş Arpacık Soğan                             Price: 129,90 TL 
+ - Similar Product: Taze Soğan (Bağ)                                   Price: 24,50 TL  
+ - Similar Product: Taze Soğan                                         Price: 200,00 TL 
+
+Features:
+ - Ürün Tipi: Kırmızı Soğan
+Product Image URL:  
+
+
+39
+Product Name: Fındık Turp (Adet)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 22,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Findik Turp Adet               Price: 22,90 TL   Unit Price: 22,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Alabaş Turp (Adet)                                 Price: 26,90 TL  
+
+Features:
+ - Ürün Tipi: Turp
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+40
+Product Name: Organik Sarımsak
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 69,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Organik Sarimsak 250 G         Price: 69,90 TL   Unit Price: 279,60 TL/kg
+
+Similar Products:
+ - Similar Product: File Sarımsak                                      Price: 42,50 TL  
+
+Features:
+ - Ürün Tipi: Sarımsak
+ - Organik: Evet
+Product Image URL:  
+
+
+41
+Product Name: Maydanoz (Bağ)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 14,95 TL 
+
+Market Products:
+ - Market: Şok                  Product: Maydanoz Dmt                   Price: 14,95 TL   Unit Price: 14,95 TL/Adet
+
+Similar Products:
+ - Similar Product: Frenk Maydanozu (Bağ)                              Price: 1,99 TL   
+ - Similar Product: Deniz Börülcesi (Bağ)                              Price: 14,95 TL  
+ - Similar Product: Dereotu (Bağ)                                      Price: 13,45 TL  
+ - Similar Product: Tere (Bağ)                                         Price: 10,00 TL  
+
+Features:
+ - Ürün Tipi: Maydanoz
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+42
+Product Name: Reyhan (Demet)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 14,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Reyhan Demet                   Price: 14,95 TL   Unit Price: 14,95 TL/Adet
+ - Market: A101                 Product: Reyhan Adet                    Price: 26,90 TL   Unit Price: 26,90 TL/Adet
+ - Market: Şok                  Product: Reyhan Demet                   Price: 39,90 TL   Unit Price: 39,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Kuzu Kulağı (Demet)                                Price: 13,90 TL  
+ - Similar Product: Ispanak (Demet)                                    Price: 24,90 TL  
+ - Similar Product: Taze Kekik (Demet)                                 Price: 39,95 TL  
+
+Features:
+ - Ürün Tipi: Reyhan
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+43
+Product Name: Kırmızı Lolorosso
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 39,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Akdeniz Kirmizi Lolorosso Ad.  Price: 39,90 TL   Unit Price: 39,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Kırmızı Kıvırcık Marul (Adet)                      Price: 26,95 TL  
+ - Similar Product: Kırmızı Biber (Paket)                              Price: 29,95 TL  
+ - Similar Product: Kırmızı Soğan                                      Price: 21,90 TL  
+ - Similar Product: Kırmızı Biber                                      Price: 39,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kirmizi-lolorosso-_1434337.jpg 
+
+
+44
+Product Name: Dolma Biber
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 25,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Hemen Biber Dolma 500 G Paket Adet Price: 25,00 TL   Unit Price: 50,00 TL/kg
+ - Market: Migros               Product: Biber Dolma Pkt Kg             Price: 49,95 TL   Unit Price: 49,95 TL/kg
+ - Market: Migros               Product: Biber Dolma Ekonomik Kg.       Price: 49,95 TL   Unit Price: 49,95 TL/kg
+ - Market: Migros               Product: Biber Dolma  Ekstra Kg         Price: 49,95 TL   Unit Price: 49,95 TL/kg
+ - Market: Migros               Product: Biber Dolma Kg.                Price: 49,95 TL   Unit Price: 49,95 TL/kg
+ - Market: A101                 Product: Biber Dolma                    Price: 59,95 TL   Unit Price: 59,95 TL/kg
+ - Market: Hakmar Express       Product: Sebze Biber Dolma Kg Fiyati    Price: 59,95 TL   Unit Price: 59,95 TL/kg
+ - Market: Carrefour            Product: Biber Dolma                    Price: 72,90 TL   Unit Price: 72,90 TL/kg
+
+Similar Products:
+ - Similar Product: Kırmızı Biber (Paket)                              Price: 29,95 TL  
+ - Similar Product: Üçburun Köy Biberi                                 Price: 29,50 TL  
+
+Features:
+ - Ürün Tipi: Dolma Biber
+Product Image URL:  
+
+
+45
+Product Name: Alabaş Turp (Adet)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 26,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Turp Alabas Adet               Price: 26,90 TL   Unit Price: 26,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Alabaş Turp                                        Price: 59,90 TL  
+ - Similar Product: Fındık Turp (Adet)                                 Price: 22,90 TL  
+ - Similar Product: Kırmızı Kıvırcık Marul (Adet)                      Price: 26,95 TL  
+ - Similar Product: Kıvırcık Marul (Adet)                              Price: 29,90 TL  
+
+Features:
+ - Ürün Tipi: Alabaş Turp
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+46
+Product Name: Jalapeno Biber
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 26,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Biber Jalapeno Kg.             Price: 26,90 TL   Unit Price: 26,90 TL/Adet
+ - Market: Şok                  Product: Tursuluk Jalapeno Biber Kg.    Price: 29,90 TL   Unit Price: 29,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Kırmızı Biber (Paket)                              Price: 29,95 TL  
+ - Similar Product: Üçburun Köy Biberi                                 Price: 29,50 TL  
+
+Features:
+ - Ürün Tipi: Biber
+ - Adet: 1 Adet
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/jalapeno-biber-_572879.jpg 
+
+
+47
+Product Name: Sap Kereviz (Adet)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 99,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Kereviz Sap Adet (erust)       Price: 99,90 TL   Unit Price: 99,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Kereviz Sapı                                       Price: 79,90 TL  
+ - Similar Product: Soyulmuş Enginar (Adet)                            Price: 124,50 TL 
+
+Features:
+ - Ürün Tipi: Kereviz
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+48
+Product Name: Tere (Bağ)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 10,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Tere (isl) Ad.                 Price: 10,00 TL   Unit Price: 10,00 TL/Adet
+ - Market: Carrefour            Product: Tere                           Price: 11,90 TL   Unit Price: 11,90 TL/Adet
+ - Market: Migros               Product: Tere Demet                     Price: 12,95 TL   Unit Price: 12,95 TL/Adet
+ - Market: A101                 Product: Tere                           Price: 13,90 TL   Unit Price: 13,90 TL/Adet
+ - Market: Migros               Product: Tere (isl) Ad.                 Price: 19,95 TL   Unit Price: 19,95 TL/Adet
+ - Market: Şok                  Product: Tere Dmt.                      Price: 22,90 TL   Unit Price: 22,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Maydanoz (Bağ)                                     Price: 14,95 TL  
+ - Similar Product: Deniz Börülcesi (Bağ)                              Price: 14,95 TL  
+ - Similar Product: Dereotu (Bağ)                                      Price: 13,45 TL  
+ - Similar Product: Frenk Maydanozu (Bağ)                              Price: 1,99 TL   
+
+Features:
+ - Ürün Tipi: Tere
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+49
+Product Name: Sivri Biber
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 27,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Biber Sivri Ekonomik Kg.       Price: 27,90 TL   Unit Price: 27,90 TL/kg
+ - Market: A101                 Product: Biber Sivri Paket              Price: 29,90 TL   Unit Price: 99,67 TL/kg
+ - Market: Migros               Product: Hemen Biber Sivri 500 G Paket Adet Price: 42,50 TL   Unit Price: 85,00 TL/kg
+ - Market: Hakmar Express       Product: Sebze Biber Sivri Kg Fiyati    Price: 59,95 TL   Unit Price: 59,95 TL/kg
+ - Market: Şok                  Product: Biber Sivri 500 Gr             Price: 69,90 TL   Unit Price: 139,80 TL/kg
+ - Market: Şok                  Product: Sivri Biber Kg.                Price: 69,90 TL   Unit Price: 69,90 TL/kg
+ - Market: Migros               Product: Biber Sivri Pkt Kg             Price: 69,95 TL   Unit Price: 69,95 TL/kg
+ - Market: Migros               Product: Biber Sivri Kg.                Price: 79,95 TL   Unit Price: 79,95 TL/kg
+ - Market: Migros               Product: Biber Sivri Ekstra Kg.         Price: 99,95 TL   Unit Price: 99,95 TL/kg
+
+Similar Products:
+ - Similar Product: Sivri Kıl Biber                                    Price: 111,95 TL 
+ - Similar Product: Kırmızı Biber (Paket)                              Price: 29,95 TL  
+
+Features:
+ - Ürün Tipi: Sivri Biber
+Product Image URL:  
+
+
+50
+Product Name: Kaliforniya Biber
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 49,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Biber California 400 Gr Pkt    Price: 49,90 TL   Unit Price: 124,75 TL/kg
+ - Market: Şok                  Product: California Biber Kg.           Price: 59,90 TL   Unit Price: 59,90 TL/kg
+
+Similar Products:
+ - Similar Product: Kırmızı Biber (Paket)                              Price: 29,95 TL  
+ - Similar Product: Üçburun Köy Biberi                                 Price: 29,50 TL  
+
+Features:
+ - Ürün Tipi: Kaliforniya Biber
+Product Image URL:  
+
+
+51
+Product Name: Kemer Patlıcan
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 11,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Patlican Kemer                 Price: 11,90 TL   Unit Price: 11,90 TL/kg
+ - Market: Şok                  Product: Patlican Kemer Kg              Price: 59,90 TL   Unit Price: 59,90 TL/kg
+ - Market: Carrefour            Product: Patlican Kemer Pazar           Price: 66,90 TL   Unit Price: 66,90 TL/kg
+ - Market: Migros               Product: Patlican Kemer Kg.             Price: 66,95 TL   Unit Price: 66,95 TL/kg
+ - Market: Migros               Product: Patlican Kemer Ekonomik Kg.    Price: 66,95 TL   Unit Price: 66,95 TL/kg
+
+Similar Products:
+ - Similar Product: Patlıcan                                           Price: 23,75 TL  
+
+Features:
+ - Ürün Tipi: Patlıcan
+Product Image URL:  
+
+
+52
+Product Name: Kereviz Sapı
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 79,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Kereviz Sapi 250 G             Price: 79,90 TL   Unit Price: 319,60 TL/kg
+ - Market: Carrefour            Product: Kereviz Sapi                   Price: 99,90 TL   Unit Price: 99,90 TL/kg
+
+Similar Products:
+ - Similar Product: Sap Kereviz (Adet)                                 Price: 99,90 TL  
+ - Similar Product: Kereviz                                            Price: 29,90 TL  
+
+Features:
+ - Ürün Tipi: Kereviz Sapı
+Product Image URL:  
+
+
+53
+Product Name: Fındık Mantar
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 39,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Mantar Findik 350 Gr           Price: 39,90 TL   Unit Price: 114,00 TL/kg
+
+Similar Products:
+ - Similar Product: Izgaralık Mantar                                   Price: 79,50 TL  
+ - Similar Product: Kültür Mantar                                      Price: 33,75 TL  
+ - Similar Product: Kestane Mantarı                                    Price: 49,99 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/findik-mantar-_1710464.jpg 
+
+
+54
+Product Name: Mini Roka
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 89,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Baby Roka                      Price: 89,90 TL   Unit Price: 89,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Mini Roka (Paket)                                  Price: 12,45 TL  
+
+Features:
+ - Ürün Tipi: Roka
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+55
+Product Name: Salçalık Domates
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 200,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Domates Tarla Rio (salcalik) Kg. Price: 200,00 TL  Unit Price: 200,00 TL/kg
+
+Similar Products:
+ - Similar Product: Rio Domates                                        Price: 9,90 TL   
+ - Similar Product: Kokteyl Siyah Domates                              Price: 69,95 TL  
+
+Features:
+ - Ürün Tipi: Domates
+Product Image URL:  
+
+
+56
+Product Name: Yıkanmış Hazır Kök Ispanak
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 20,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Eurofresh Yikanmis Hazir Kok Ispanak 500g Price: 20,90 TL   Unit Price: 41,80 TL/kg
+
+Similar Products:
+ - Similar Product: Yıkanmış Hazır Ispanak                             Price: 49,90 TL  
+ - Similar Product: Yıkanmış Brokoli                                   Price: 17,90 TL  
+ - Similar Product: Ayıklanmış Ispanak                                 Price: 59,95 TL  
+
+Features:
+ - Ürün Tipi: Ispanak
+Product Image URL: https://cdn.cimri.io/market/260x260/yikanmis-hazir-kok-ispanak-_210306.jpg 
+
+
+57
+Product Name: Kahvaltılık Domates
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 5,99 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Domates Kumato Kahvaltilik     Price: 5,99 TL    Unit Price: 5,99 TL/kg
+ - Market: Carrefour            Product: Domates Kahvaltilik            Price: 26,90 TL   Unit Price: 26,90 TL/kg
+
+Similar Products:
+ - Similar Product: Rio Domates                                        Price: 9,90 TL   
+ - Similar Product: Kokteyl Siyah Domates                              Price: 69,95 TL  
+
+Features:
+ - Ürün Tipi: Domates
+Product Image URL: https://cdn.cimri.io/market/260x260/kahvaltilik-domates-_1433767.jpg 
+
+
+58
+Product Name: Kisnis Demet
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 3,99 TL 
+
+Market Products:
+ - Market: Şok                  Product: Kisnis Demet                   Price: 3,99 TL    Unit Price: 3,99 TL/Adet
+
+Similar Products:
+ - Similar Product: Kırmızı Turp Demet                                 Price: 10,00 TL  
+ - Similar Product: Kuzu Kulağı (Demet)                                Price: 13,90 TL  
+ - Similar Product: Semizotu (Demet)                                   Price: 24,95 TL  
+ - Similar Product: Reyhan (Demet)                                     Price: 14,95 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kisnis-demet-_1480675.jpg 
+
+
+59
+Product Name: Organik Salatalık
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 64,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Organik Salatalik 500 Gr Paket Price: 64,90 TL   Unit Price: 129,80 TL/kg
+
+Similar Products:
+ - Similar Product: Salatalık ve Domates                               Price: 42,90 TL  
+ - Similar Product: Salatalık ve Domates                               Price: 42,90 TL  
+ - Similar Product: Çengelköy Salatalık                                Price: 19,75 TL  
+
+Features:
+ - Ürün Tipi: Salatalık
+ - Organik: Evet
+Product Image URL:  
+
+
+60
+Product Name: Taze Soğan
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 200,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Sogan Taze Kg.                 Price: 200,00 TL  Unit Price: 200,00 TL/kg
+
+Similar Products:
+ - Similar Product: Taze Soğan (Bağ)                                   Price: 24,50 TL  
+ - Similar Product: Soyulmuş Arpacık Soğan                             Price: 129,90 TL 
+ - Similar Product: Kırmızı Soğan                                      Price: 21,90 TL  
+
+Features:
+ - Ürün Tipi: Taze Soğan
+Product Image URL:  
+
+
+61
+Product Name: Çıtır Marul
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 89,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Çitir Marul                    Price: 89,90 TL   Unit Price: 89,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Kıvırcık Marul (Adet)                              Price: 29,90 TL  
+ - Similar Product: Kırmızı Kıvırcık Marul (Adet)                      Price: 26,95 TL  
+
+Features:
+ - Ürün Tipi: Marul
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/citir-marul-_1419895.jpg 
+
+
+62
+Product Name: Siyah Kabak
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 19,95 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Kabak Siyah                    Price: 19,95 TL   Unit Price: 19,95 TL/kg
+ - Market: Migros               Product: Kabak Taze Siyah Kg.           Price: 29,95 TL   Unit Price: 29,95 TL/kg
+
+Similar Products:
+ - Similar Product: Organik Sakız Kabak                                Price: 39,95 TL  
+ - Similar Product: Sakız Kabak                                        Price: 23,90 TL  
+
+Features:
+ - Ürün Tipi: Siyah Kabak
+Product Image URL:  
+
+
+63
+Product Name: Çengelköy Salatalık (Paket)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 31,95 TL 
+
+Market Products:
+ - Market: A101                 Product: Salatalik Çengelkoy Paket      Price: 31,95 TL   Unit Price: 31,95 TL/Adet
+
+Similar Products:
+ - Similar Product: Çengelköy Salatalık                                Price: 19,75 TL  
+ - Similar Product: Havuç (Paket)                                      Price: 12,90 TL  
+ - Similar Product: Kırmızı Biber (Paket)                              Price: 29,95 TL  
+
+Features:
+ - Ürün Tipi: Salatalık
+Product Image URL: https://cdn.cimri.io/market/260x260/cengelkoy-salatalik-paket-_1432936.jpg 
+
+
+64
+Product Name: Havuç (Paket)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 12,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Havuc Paket                    Price: 12,90 TL   Unit Price: 12,90 TL/Adet
+ - Market: Migros               Product: Migros Havuc Beypazari Pkt Kg. Price: 33,90 TL   Unit Price: 33,90 TL/Adet
+ - Market: Carrefour            Product: Havuc Paket Gurme              Price: 44,90 TL   Unit Price: 44,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Çengelköy Salatalık (Paket)                        Price: 31,95 TL  
+ - Similar Product: Kırmızı Biber (Paket)                              Price: 29,95 TL  
+ - Similar Product: Pırasa (Paket)                                     Price: 21,95 TL  
+
+Features:
+ - Ürün Tipi: Havuç
+Product Image URL: https://cdn.cimri.io/market/260x260/havuc-paket-_1433380.jpg 
+
+
+65
+Product Name: Bamya
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 29,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Bamya Kg.                      Price: 29,90 TL   Unit Price: 29,90 TL/kg
+ - Market: Migros               Product: Bamya Kg.                      Price: 69,90 TL   Unit Price: 69,90 TL/kg
+ - Market: Şok                  Product: Taze Bamya 500 Gr Pkt          Price: 69,95 TL   Unit Price: 139,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Bamya
+Product Image URL:  
+
+
+66
+Product Name: Kırmızı Kıvırcık Marul (Adet)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 26,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Lolorosso Adet                 Price: 26,95 TL   Unit Price: 26,95 TL/Adet
+
+Similar Products:
+ - Similar Product: Kıvırcık Marul (Adet)                              Price: 29,90 TL  
+ - Similar Product: Göbek Marul (Adet)                                 Price: 28,90 TL  
+ - Similar Product: Marul (Adet)                                       Price: 28,90 TL  
+ - Similar Product: Göbek Marul (Adet)                                 Price: 28,90 TL  
+
+Features:
+ - Ürün Tipi: Marul
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+67
+Product Name: Şalgam Turp
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 21,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Şalgam Kg                      Price: 21,90 TL   Unit Price: 21,90 TL/kg
+ - Market: Migros               Product: Şalgam Kg.                     Price: 29,95 TL   Unit Price: 29,95 TL/kg
+
+Similar Products:
+ - Similar Product: Vezir Turp                                         Price: 19,95 TL  
+ - Similar Product: Vezir Turp                                         Price: 19,95 TL  
+ - Similar Product: Kırmızı Turp Demet                                 Price: 10,00 TL  
+ - Similar Product: Alabaş Turp                                        Price: 59,90 TL  
+ - Similar Product: Kırmızı Turp                                       Price: 17,95 TL  
+ - Similar Product: Beyaz Turp                                         Price: 24,90 TL  
+
+Features:
+ - Ürün Tipi: Turp
+Product Image URL:  
+
+
+68
+Product Name: File Patates (kg)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 21,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Patates File Kg                Price: 21,90 TL   Unit Price: 21,90 TL/kg
+ - Market: Migros               Product: Spesiyal Patates File Kg       Price: 34,95 TL   Unit Price: 34,95 TL/kg
+
+Similar Products:
+ - Similar Product: Beyaz Lahana (kg)                                  Price: 5,90 TL   
+ - Similar Product: Kumpirlik Patates                                  Price: 35,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/file-patates-kg-_1479795.jpg 
+
+
+69
+Product Name: Mini Ispanak
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 64,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Greenada Mini Ispanak 150 G    Price: 64,90 TL   Unit Price: 64,90 TL/Adet
+ - Market: Migros               Product: Erust Mini Ispanak 150 G Pkt.  Price: 92,90 TL   Unit Price: 92,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Ayıklanmış Ispanak                                 Price: 59,95 TL  
+ - Similar Product: Ispanak (Demet)                                    Price: 24,90 TL  
+ - Similar Product: Yıkanmış Hazır Ispanak                             Price: 49,90 TL  
+
+Features:
+ - Ürün Tipi: Ispanak
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+70
+Product Name: Kestane Mantarı
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 49,99 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Mantar Kestane Pkt 350 Gr      Price: 49,99 TL   Unit Price: 142,83 TL/kg
+ - Market: Şok                  Product: Kestane Mantari 350 Gr         Price: 54,90 TL   Unit Price: 156,86 TL/kg
+ - Market: Carrefour            Product: Mantar Kestane 400 Gr          Price: 59,90 TL   Unit Price: 149,75 TL/kg
+
+Similar Products:
+ - Similar Product: Izgaralık Mantar                                   Price: 79,50 TL  
+ - Similar Product: Fındık Mantar                                      Price: 39,90 TL  
+ - Similar Product: Kültür Mantar                                      Price: 33,75 TL  
+
+Features:
+ - Ürün Tipi: Mantar
+Product Image URL:  
+
+
+71
+Product Name: Sakız Bakla
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 54,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Bakla Sakiz Kg.                Price: 54,95 TL   Unit Price: 54,95 TL/Adet
+ - Market: Şok                  Product: Bakla Sakiz Kg.                Price: 79,90 TL   Unit Price: 79,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Sakız Bakla (Paket)                                Price: 36,90 TL  
+ - Similar Product: Bakla                                              Price: 64,90 TL  
+
+Features:
+ - Ürün Tipi: Bakla
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+72
+Product Name: Organik Pancar
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 49,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Organik Pancar 500 G           Price: 49,90 TL   Unit Price: 49,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Pancar                                             Price: 15,90 TL  
+ - Similar Product: Pancar (Paket)                                     Price: 44,90 TL  
+
+Features:
+ - Ürün Tipi: Pancar
+ - Adet: 1 Adet
+ - Organik: Evet
+Product Image URL:  
+
+
+73
+Product Name: Pazı
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 10,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Pazi (isl) Kg.                 Price: 10,00 TL   Unit Price: 10,00 TL/kg
+ - Market: A101                 Product: Pazi                           Price: 25,90 TL   Unit Price: 25,90 TL/kg
+ - Market: Carrefour            Product: Pazi                           Price: 29,90 TL   Unit Price: 29,90 TL/kg
+
+Similar Products:
+ - Similar Product: Pazı (Demet)                                       Price: 14,95 TL  
+
+Features:
+ - Ürün Tipi: Pazı
+Product Image URL:  
+
+
+74
+Product Name: Organik Patates
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 59,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Organik Patates 750 Gr Paket   Price: 59,90 TL   Unit Price: 79,87 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Patates
+ - Organik: Evet
+Product Image URL:  
+
+
+75
+Product Name: Beef Domates
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 24,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Domates Beef                   Price: 24,90 TL   Unit Price: 24,90 TL/kg
+ - Market: Migros               Product: Domates Beef Kg                Price: 49,90 TL   Unit Price: 49,90 TL/kg
+
+Similar Products:
+ - Similar Product: Kokteyl Siyah Domates                              Price: 69,95 TL  
+ - Similar Product: Şeker Domates                                      Price: 19,75 TL  
+
+Features:
+ - Ürün Tipi: Beef Domates
+Product Image URL:  
+
+
+76
+Product Name: Pırasa (Paket)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 21,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Pirasa Demet (adet)            Price: 21,95 TL   Unit Price: 21,95 TL/Adet
+ - Market: Şok                  Product: Pirasa Dmt.                    Price: 39,90 TL   Unit Price: 39,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Çengelköy Salatalık (Paket)                        Price: 31,95 TL  
+ - Similar Product: Havuç (Paket)                                      Price: 12,90 TL  
+ - Similar Product: Kırmızı Biber (Paket)                              Price: 29,95 TL  
+
+Features:
+ - Ürün Tipi: Pırasa
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+77
+Product Name: Organik Havuç
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 49,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Organik Havuc 500 Gr Paket     Price: 49,90 TL   Unit Price: 99,80 TL/kg
+
+Similar Products:
+ - Similar Product: Beypazarı Havuç                                    Price: 46,95 TL  
+ - Similar Product: Havuç (Paket)                                      Price: 12,90 TL  
+
+Features:
+ - Ürün Tipi: Havuç
+ - Organik: Evet
+Product Image URL:  
+
+
+78
+Product Name: Kereviz
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 29,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Kereviz Kg                     Price: 29,90 TL   Unit Price: 29,90 TL/kg
+ - Market: Migros               Product: Kereviz Kg.                    Price: 29,95 TL   Unit Price: 29,95 TL/kg
+ - Market: A101                 Product: Kereviz                        Price: 34,90 TL   Unit Price: 34,90 TL/kg
+ - Market: Hakmar Express       Product: Yesillik Kereviz Kg Fiyati     Price: 34,95 TL   Unit Price: 34,95 TL/kg
+ - Market: Şok                  Product: Kereviz 1 Kg Paket             Price: 49,90 TL   Unit Price: 49,90 TL/kg
+ - Market: Şok                  Product: Organik Kereviz 500 G          Price: 49,90 TL   Unit Price: 99,80 TL/kg
+ - Market: Şok                  Product: Kereviz Kg                     Price: 54,90 TL   Unit Price: 54,90 TL/kg
+
+Similar Products:
+ - Similar Product: Kereviz Sapı                                       Price: 79,90 TL  
+ - Similar Product: Sap Kereviz (Adet)                                 Price: 99,90 TL  
+
+Features:
+ - Ürün Tipi: Kereviz
+Product Image URL:  
+
+
+79
+Product Name: Kırmızı Biber
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 39,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Biber Kirmizi Eko Kg.          Price: 39,90 TL   Unit Price: 39,90 TL/kg
+ - Market: Migros               Product: Hemen Biber Kirmizi 500 G Paket Adet Price: 42,50 TL   Unit Price: 85,00 TL/kg
+ - Market: Şok                  Product: Kirmizi Biber Kg               Price: 69,90 TL   Unit Price: 69,90 TL/kg
+ - Market: Hakmar Express       Product: Sebze Biber Kirmizi Kg Fiyati  Price: 69,95 TL   Unit Price: 69,95 TL/kg
+ - Market: A101                 Product: Biber Kirmizi                  Price: 72,95 TL   Unit Price: 72,95 TL/kg
+ - Market: Migros               Product: Biber Kirmizi Pkt Kg           Price: 84,95 TL   Unit Price: 84,95 TL/kg
+ - Market: Migros               Product: Biber Kirmizi  Ekstra Kg.      Price: 99,95 TL   Unit Price: 99,95 TL/kg
+
+Similar Products:
+ - Similar Product: Kırmızı Biber (Paket)                              Price: 29,95 TL  
+ - Similar Product: Kırmızı Kıvırcık Marul (Adet)                      Price: 26,95 TL  
+ - Similar Product: Kırmızı Soğan                                      Price: 21,90 TL  
+ - Similar Product: Kırmızı Lolorosso                                  Price: 39,90 TL  
+ - Similar Product: Kırmızı Lahana Adet                                Price: 22,90 TL  
+
+Features:
+ - Ürün Tipi: Kırmızı Acı Biber
+Product Image URL:  
+
+
+80
+Product Name: Yeşil Biber
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 27,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Yesil Biber Kg                 Price: 27,75 TL   Unit Price: 27,75 TL/kg
+ - Market: Bim                  Product: Yesil Biber Kg                 Price: 49,75 TL   Unit Price: 49,75 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Yeşil Biber
+Product Image URL:  
+
+
+81
+Product Name: Frenk Maydanozu (Bağ)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 1,99 TL 
+
+Market Products:
+ - Market: Şok                  Product: Frenk Maydanozu Demet          Price: 1,99 TL    Unit Price: 1,99 TL/Adet
+
+Similar Products:
+ - Similar Product: Maydanoz (Bağ)                                     Price: 14,95 TL  
+ - Similar Product: Deniz Börülcesi (Bağ)                              Price: 14,95 TL  
+ - Similar Product: Dereotu (Bağ)                                      Price: 13,45 TL  
+ - Similar Product: Tere (Bağ)                                         Price: 10,00 TL  
+
+Features:
+ - Ürün Tipi: Maydanoz
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+82
+Product Name: Yıkanmış Brokoli
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 17,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Ayiklanmis Brokoli 300 Gr      Price: 17,90 TL   Unit Price: 17,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Yıkanmış Hazır Ispanak                             Price: 49,90 TL  
+ - Similar Product: Yıkanmış Hazır Kök Ispanak                         Price: 20,90 TL  
+ - Similar Product: Brokoli                                            Price: 36,95 TL  
+
+Features:
+ - Ürün Tipi: Brokoli
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+83
+Product Name: Ispanak (Demet)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 24,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Ispanak Demet                  Price: 24,90 TL   Unit Price: 24,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Kuzu Kulağı (Demet)                                Price: 13,90 TL  
+ - Similar Product: Taze Kekik (Demet)                                 Price: 39,95 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/ispanak-demet-_1443655.jpg 
+
+
+84
+Product Name: Yıkanmış Hazır Ispanak
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 49,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Eurofresh Yikanmis Ispanak (500 Gr) Price: 49,90 TL   Unit Price: 99,80 TL/kg
+
+Similar Products:
+ - Similar Product: Yıkanmış Hazır Kök Ispanak                         Price: 20,90 TL  
+ - Similar Product: Yıkanmış Brokoli                                   Price: 17,90 TL  
+ - Similar Product: Ayıklanmış Ispanak                                 Price: 59,95 TL  
+
+Features:
+ - Ürün Tipi: Ispanak
+Product Image URL:  
+
+
+85
+Product Name: Kara Lahana
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 24,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Kara Lahana                    Price: 24,90 TL   Unit Price: 24,90 TL/kg
+
+Similar Products:
+ - Similar Product: Kara Lahana (Adet)                                 Price: 25,95 TL  
+ - Similar Product: Beyaz Lahana (Adet)                                Price: 6,95 TL   
+ - Similar Product: Brüksel Lahanası (Paket)                           Price: 55,95 TL  
+ - Similar Product: Kırmızı Lahana Adet                                Price: 22,90 TL  
+
+Features:
+ - Ürün Tipi: Kara Lahana
+Product Image URL:  
+
+
+86
+Product Name: Shitake Mantar kg
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 57,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Mantar Shitake 200 Gr          Price: 57,90 TL   Unit Price: 289,50 TL/kg
+
+Similar Products:
+ - Similar Product: Izgaralık Mantar                                   Price: 79,50 TL  
+ - Similar Product: Fındık Mantar                                      Price: 39,90 TL  
+ - Similar Product: Kültür Mantar                                      Price: 33,75 TL  
+ - Similar Product: Kestane Mantarı                                    Price: 49,99 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/shitake-mantar-kg-_1701621.jpg 
+
+
+87
+Product Name: Soyulmuş Arpacık Soğan
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 129,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Soyulmus Arpacik 500 Gr        Price: 129,90 TL  Unit Price: 259,80 TL/kg
+
+Similar Products:
+ - Similar Product: Soyulmuş Enginar (Adet)                            Price: 124,50 TL 
+ - Similar Product: Taze Soğan (Bağ)                                   Price: 24,50 TL  
+
+Features:
+ - Ürün Tipi: Soğan
+Product Image URL:  
+
+
+88
+Product Name: Organik Dolmalık Biber
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 44,95 TL 
+
+Market Products:
+ - Market: Şok                  Product: Organik Dolmalik Biber 500 Gr  Price: 44,95 TL   Unit Price: 89,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Dolmalık Biber
+ - Organik: Evet
+Product Image URL:  
+
+
+89
+Product Name: Bal Kabağı
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 49,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Bal Kabak Pkt Kg.              Price: 49,90 TL   Unit Price: 49,90 TL/kg
+
+Similar Products:
+ - Similar Product: Organik Sakız Kabak                                Price: 39,95 TL  
+ - Similar Product: Sakız Kabak                                        Price: 23,90 TL  
+
+Features:
+ - Ürün Tipi: Bal Kabak
+Product Image URL:  
+
+
+90
+Product Name: Taze Kekik (Demet)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 39,95 TL 
+
+Market Products:
+ - Market: Şok                  Product: Kekik Taze Demet               Price: 39,95 TL   Unit Price: 39,95 TL/Adet
+
+Similar Products:
+ - Similar Product: Kuzu Kulağı (Demet)                                Price: 13,90 TL  
+ - Similar Product: Ispanak (Demet)                                    Price: 24,90 TL  
+
+Features:
+ - Ürün Tipi: Taze Kekik
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+91
+Product Name: Semizotu
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 89,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Semizotu 150 Gr                Price: 89,90 TL   Unit Price: 599,33 TL/kg
+
+Similar Products:
+ - Similar Product: Semizotu (Demet)                                   Price: 24,95 TL  
+
+Features:
+ - Ürün Tipi: Semizotu
+Product Image URL:  
+
+
+92
+Product Name: Pancar
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 15,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Pancar                         Price: 15,90 TL   Unit Price: 15,90 TL/kg
+ - Market: A101                 Product: Pancar                         Price: 25,90 TL   Unit Price: 25,90 TL/kg
+ - Market: Migros               Product: Pancar Kg.                     Price: 26,95 TL   Unit Price: 26,95 TL/kg
+ - Market: Şok                  Product: Pancar 1 Kg Paket              Price: 29,90 TL   Unit Price: 29,90 TL/kg
+ - Market: Şok                  Product: Pancar Kg.                     Price: 34,90 TL   Unit Price: 34,90 TL/kg
+
+Similar Products:
+ - Similar Product: Pancar (Paket)                                     Price: 44,90 TL  
+
+Features:
+ - Ürün Tipi: Kırmızı Pancar
+Product Image URL:  
+
+
+93
+Product Name: Ayşe Kadın Fasulye
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 49,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Fasulye Taze Paket Kg.         Price: 49,90 TL   Unit Price: 49,90 TL/kg
+ - Market: Şok                  Product: Ayse Kadin Fasulyesi 500 G     Price: 89,90 TL   Unit Price: 179,80 TL/kg
+ - Market: Hakmar Express       Product: Sebze Fasulye Ayse Kg Fiyati   Price: 109,95 TL  Unit Price: 109,95 TL/kg
+ - Market: Şok                  Product: Fasulye Ayse Kadin Kg          Price: 129,90 TL  Unit Price: 129,90 TL/kg
+
+Similar Products:
+ - Similar Product: Çalı Fasulye                                       Price: 49,90 TL  
+ - Similar Product: Taze Fasulye                                       Price: 42,90 TL  
+
+Features:
+ - Ürün Tipi: Ayşe Kadın Fasulye
+Product Image URL:  
+
+
+94
+Product Name: Kırmızı Lahana Adet
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 22,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Kirmizi Lahana Adet            Price: 22,90 TL   Unit Price: 22,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Kırmızı Lahana                                     Price: 14,95 TL  
+ - Similar Product: Beyaz Lahana (Adet)                                Price: 6,95 TL   
+ - Similar Product: Kara Lahana                                        Price: 24,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kirmizi-lahana-adet-_1691471.jpg 
+
+
+95
+Product Name: Enginar Adet
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 49,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Taze Enginar Adet              Price: 49,90 TL   Unit Price: 49,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Soyulmuş Enginar (Adet)                            Price: 124,50 TL 
+
+Features:
+Product Image URL:  
+
+
+96
+Product Name: Zerdeçal
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 49,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Taze Zerdecal 100 G            Price: 49,90 TL   Unit Price: 499,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Taze Zerdeçal
+Product Image URL:  
+
+
+97
+Product Name: Şili Biber
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 49,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Yesil Aci Şili Biber 250 Gr Pkt Price: 49,90 TL   Unit Price: 199,60 TL/kg
+ - Market: Migros               Product: Biber Şili Kg.                 Price: 99,95 TL   Unit Price: 99,95 TL/kg
+ - Market: Carrefour            Product: Biber Şili Yesil               Price: 129,90 TL  Unit Price: 129,90 TL/kg
+ - Market: Carrefour            Product: Biber Sili Kirmizi             Price: 149,90 TL  Unit Price: 149,90 TL/kg
+
+Similar Products:
+ - Similar Product: Kırmızı Biber (Paket)                              Price: 29,95 TL  
+ - Similar Product: Üçburun Köy Biberi                                 Price: 29,50 TL  
+
+Features:
+ - Ürün Tipi: Acı Şili Biber
+Product Image URL:  
+
+
+98
+Product Name: Brüksel Lahanası (Paket)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 55,95 TL 
+
+Market Products:
+ - Market: A101                 Product: Lahana Bruksel Paket           Price: 55,95 TL   Unit Price: 55,95 TL/Adet
+ - Market: Şok                  Product: Bruksel Lahanasi Pkt Adet      Price: 69,90 TL   Unit Price: 69,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Brüksel Lahanası                                   Price: 49,95 TL  
+ - Similar Product: Çengelköy Salatalık (Paket)                        Price: 31,95 TL  
+ - Similar Product: Havuç (Paket)                                      Price: 12,90 TL  
+ - Similar Product: Kırmızı Biber (Paket)                              Price: 29,95 TL  
+
+Features:
+ - Ürün Tipi: Brüksel Lahanası
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+99
+Product Name: Organik Pırasa
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 49,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Organik Pirasa 500 Gr          Price: 49,90 TL   Unit Price: 49,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Pırasa Kg                                          Price: 10,90 TL  
+ - Similar Product: Pırasa (Paket)                                     Price: 21,95 TL  
+ - Similar Product: Organik Salatalık                                  Price: 64,90 TL  
+
+Features:
+ - Ürün Tipi: Pırasa
+ - Adet: 1 Adet
+ - Organik: Evet
+Product Image URL:  
+
+
+100
+Product Name: Beyaz Turp
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 24,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Turp Beyaz Kg                  Price: 24,90 TL   Unit Price: 24,90 TL/kg
+ - Market: Migros               Product: Turp Beyaz Kg.                 Price: 27,75 TL   Unit Price: 27,75 TL/kg
+ - Market: Migros               Product: Turp ( Çin ) Kg.               Price: 30,95 TL   Unit Price: 30,95 TL/kg
+
+Similar Products:
+ - Similar Product: Vezir Turp                                         Price: 19,95 TL  
+ - Similar Product: Vezir Turp                                         Price: 19,95 TL  
+ - Similar Product: Kırmızı Turp Demet                                 Price: 10,00 TL  
+ - Similar Product: Alabaş Turp                                        Price: 59,90 TL  
+ - Similar Product: Kırmızı Turp                                       Price: 17,95 TL  
+ - Similar Product: Siyah Turp                                         Price: 19,95 TL  
+
+Features:
+ - Ürün Tipi: Beyaz Turp
+Product Image URL:  
+
+
+101
+Product Name: Beypazarı Havuç
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 46,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Hemen Havuc Beypazari 1 Kg Paket Adet Price: 46,95 TL   Unit Price: 46,95 TL/Adet
+
+Similar Products:
+ - Similar Product: Havuç (Paket)                                      Price: 12,90 TL  
+ - Similar Product: Organik Havuç                                      Price: 49,90 TL  
+
+Features:
+ - Ürün Tipi: Havuç
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+102
+Product Name: Kokteyl Siyah Domates
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 69,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Domates Siyah Kg               Price: 69,95 TL   Unit Price: 69,95 TL/kg
+
+Similar Products:
+ - Similar Product: Kokteyl Domates                                    Price: 12,90 TL  
+ - Similar Product: Rio Domates                                        Price: 9,90 TL   
+
+Features:
+ - Ürün Tipi: Kokteyl Siyah Domates
+Product Image URL:  
+
+
+103
+Product Name: Pancar (Paket)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 44,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Pancar Paket                   Price: 44,90 TL   Unit Price: 44,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Pırasa (Paket)                                     Price: 21,95 TL  
+ - Similar Product: Kırmızı Biber (Paket)                              Price: 29,95 TL  
+ - Similar Product: Çengelköy Salatalık (Paket)                        Price: 31,95 TL  
+ - Similar Product: Havuç (Paket)                                      Price: 12,90 TL  
+
+Features:
+ - Ürün Tipi: Pancar
+Product Image URL: https://cdn.cimri.io/market/260x260/pancar-paket-_1433448.jpg 
+
+
+104
+Product Name: File Sarımsak
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 42,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Sarimsak File                  Price: 42,50 TL   Unit Price: 0,04 TL/Adet
+ - Market: Migros               Product: Sarimsak File Kg               Price: 119,60 TL  Unit Price: 0,12 TL/Adet
+
+Similar Products:
+ - Similar Product: Kuru Soğan File                                    Price: 18,95 TL  
+ - Similar Product: File Mor Soğan                                     Price: 15,90 TL  
+ - Similar Product: File Patates (kg)                                  Price: 21,90 TL  
+
+Features:
+ - Ürün Tipi: Sarımsak
+Product Image URL: https://cdn.cimri.io/market/260x260/file-sarimsak-_1432716.jpg 
+
+
+105
+Product Name: Şeker Domates
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 19,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Şeker Domates 250 Gr           Price: 19,75 TL   Unit Price: 79,00 TL/kg
+ - Market: Hakmar Express       Product: Sebze Domates Şeker Paket      Price: 27,95 TL   Unit Price: 27,95 TL/kg
+ - Market: Carrefour            Product: Domates Şeker 250              Price: 32,90 TL   Unit Price: 131,60 TL/kg
+ - Market: A101                 Product: Domates Şeker                  Price: 34,75 TL   Unit Price: 34,75 TL/kg
+ - Market: Şok                  Product: Şeker Domates Kg.              Price: 39,90 TL   Unit Price: 39,90 TL/kg
+ - Market: Migros               Product: Şeker Domates Kg               Price: 107,60 TL  Unit Price: 107,60 TL/kg
+
+Similar Products:
+ - Similar Product: Kokteyl Siyah Domates                              Price: 69,95 TL  
+ - Similar Product: Rio Domates                                        Price: 9,90 TL   
+
+Features:
+ - Ürün Tipi: Şeker Domates
+Product Image URL:  
+
+
+106
+Product Name: Pırasa Kg
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 10,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Pirasa Paket 500g              Price: 10,90 TL   Unit Price: 21,80 TL/kg
+ - Market: Migros               Product: Migros Pirasa Paket Kg         Price: 34,95 TL   Unit Price: 34,95 TL/kg
+ - Market: Şok                  Product: Pirasa Kg.                     Price: 49,90 TL   Unit Price: 49,90 TL/kg
+
+Similar Products:
+ - Similar Product: Organik Pırasa                                     Price: 49,90 TL  
+ - Similar Product: Pırasa (Paket)                                     Price: 21,95 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/pirasa-kg-_1731291.jpg 
+
+
+107
+Product Name: Çalı Fasulye
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 49,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Çali Fasulyesi 500 G           Price: 49,90 TL   Unit Price: 99,80 TL/kg
+ - Market: Carrefour            Product: Fasulye Çali                   Price: 79,90 TL   Unit Price: 79,90 TL/kg
+ - Market: A101                 Product: Fasulye Çali                   Price: 99,95 TL   Unit Price: 99,95 TL/kg
+ - Market: Şok                  Product: Fasulye Çali Kg                Price: 129,90 TL  Unit Price: 129,90 TL/kg
+
+Similar Products:
+ - Similar Product: Ayşe Kadın Fasulye                                 Price: 49,90 TL  
+ - Similar Product: Taze Fasulye                                       Price: 42,90 TL  
+
+Features:
+Product Image URL:  
+
+
+108
+Product Name: Pazı (Demet)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 14,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Pazi Demet                     Price: 14,95 TL   Unit Price: 14,95 TL/Adet
+ - Market: Şok                  Product: Pazi Demet                     Price: 37,90 TL   Unit Price: 37,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Kuzu Kulağı (Demet)                                Price: 13,90 TL  
+ - Similar Product: Ispanak (Demet)                                    Price: 24,90 TL  
+ - Similar Product: Taze Kekik (Demet)                                 Price: 39,95 TL  
+
+Features:
+ - Ürün Tipi: Pazı
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+109
+Product Name: Araka Bezelye
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 49,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Taze Bezelye Araka Kg          Price: 49,90 TL   Unit Price: 49,90 TL/Adet
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Bezelye
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+110
+Product Name: Organik Sakız Kabak
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 39,95 TL 
+
+Market Products:
+ - Market: Şok                  Product: Organik Kabak Sakiz 500 Gr Paket Price: 39,95 TL   Unit Price: 79,90 TL/kg
+
+Similar Products:
+ - Similar Product: Sakız Kabak                                        Price: 23,90 TL  
+ - Similar Product: Siyah Kabak                                        Price: 19,95 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/organik-sakiz-kabak-_1731288.jpg 
+
+
+111
+Product Name: Taze Barbunya
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 89,45 TL 
+
+Market Products:
+ - Market: Şok                  Product: Barbunya 750 Gr Paket          Price: 89,45 TL   Unit Price: 119,27 TL/kg
+ - Market: Şok                  Product: Barbunya Kg..                  Price: 89,90 TL   Unit Price: 89,90 TL/kg
+
+Similar Products:
+ - Similar Product: Taze Kekik (Demet)                                 Price: 39,95 TL  
+ - Similar Product: Taze Soğan (Bağ)                                   Price: 24,50 TL  
+ - Similar Product: Taze Fasulye                                       Price: 42,90 TL  
+
+Features:
+Product Image URL:  
+
+
+112
+Product Name: Sakız Bakla (Paket)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 36,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Bakla Sakiz Paket              Price: 36,90 TL   Unit Price: 36,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Çengelköy Salatalık (Paket)                        Price: 31,95 TL  
+ - Similar Product: Havuç (Paket)                                      Price: 12,90 TL  
+ - Similar Product: Kırmızı Biber (Paket)                              Price: 29,95 TL  
+ - Similar Product: Pırasa (Paket)                                     Price: 21,95 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sakiz-bakla-paket-_1487148.jpg 
+
+
+113
+Product Name: Vezir Turp
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 19,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Turp Vezir Kg.                 Price: 19,95 TL   Unit Price: 19,95 TL/kg
+
+Similar Products:
+ - Similar Product: Alabaş Turp                                        Price: 59,90 TL  
+ - Similar Product: Kırmızı Turp Demet                                 Price: 10,00 TL  
+ - Similar Product: Kırmızı Turp                                       Price: 17,95 TL  
+ - Similar Product: Alabaş Turp (Adet)                                 Price: 26,90 TL  
+ - Similar Product: Siyah Turp                                         Price: 19,95 TL  
+
+Features:
+ - Ürün Tipi: Turp
+Product Image URL:  
+
+
+114
+Product Name: Salatalık ve Domates
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 42,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Erust Mini Mini Mix 250 G      Price: 42,90 TL   Unit Price: 171,60 TL/kg
+
+Similar Products:
+ - Similar Product: Çengelköy Salatalık                                Price: 19,75 TL  
+
+Features:
+ - Ürün Tipi: Salatalık Domates
+Product Image URL: https://cdn.cimri.io/market/260x260/salatalik-ve-domates-_144497.jpg 
+
+
+115
+Product Name: Mini Domates
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 35,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Erust Mini Mini Domates 250 Gr Price: 35,90 TL   Unit Price: 143,60 TL/kg
+ - Market: Migros               Product: Erust Mini Mini Domates 250 G  Price: 35,90 TL   Unit Price: 143,60 TL/kg
+
+Similar Products:
+ - Similar Product: Mini Roka (Paket)                                  Price: 12,45 TL  
+
+Features:
+ - Ürün Tipi: Domates
+Product Image URL:  
+
+
+116
+Product Name: Soyulmuş Enginar (Adet)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 124,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Taze Enginar Soyulmus 5 Li     Price: 124,50 TL  Unit Price: 124,50 TL/Adet
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Enginar
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+117
+Product Name: Meksika Biber
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 69,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Meksika Biber 150gr            Price: 69,90 TL   Unit Price: 466,00 TL/kg
+
+Similar Products:
+ - Similar Product: Kırmızı Biber (Paket)                              Price: 29,95 TL  
+ - Similar Product: Üçburun Köy Biberi                                 Price: 29,50 TL  
+
+Features:
+ - Ürün Tipi: Biber
+Product Image URL:  
+
+
+118
+Product Name: Izgaralık Mantar
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 79,50 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Mantar Izgaralik 800 Gr Safkar Price: 79,50 TL   Unit Price: 99,38 TL/kg
+
+Similar Products:
+ - Similar Product: Fındık Mantar                                      Price: 39,90 TL  
+ - Similar Product: Kültür Mantar                                      Price: 33,75 TL  
+ - Similar Product: Kestane Mantarı                                    Price: 49,99 TL  
+
+Features:
+ - Ürün Tipi: Mantar
+Product Image URL: https://cdn.cimri.io/market/260x260/izgaralik-mantar-_97437.jpg 
+
+
+119
+Product Name: Salatalık ve Domates
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 42,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Erust Mini Mini Mix 250 G      Price: 42,90 TL   Unit Price: 171,60 TL/kg
+
+Similar Products:
+ - Similar Product: Çengelköy Salatalık                                Price: 19,75 TL  
+
+Features:
+ - Ürün Tipi: Salatalık Domates
+Product Image URL: https://cdn.cimri.io/market/260x260/salatalik-ve-domates-_144497.jpg 
+
+
+120
+Product Name: File Mor Soğan
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 15,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Migros Sogan Kirmizi File Kg   Price: 15,90 TL   Unit Price: 15,90 TL/kg
+ - Market: Şok                  Product: Mor Sogan 1 Kg File            Price: 59,90 TL   Unit Price: 59,90 TL/kg
+
+Similar Products:
+ - Similar Product: Kuru Soğan File                                    Price: 18,95 TL  
+ - Similar Product: Soyulmuş Arpacık Soğan                             Price: 129,90 TL 
+ - Similar Product: Taze Soğan (Bağ)                                   Price: 24,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/file-mor-sogan-_1441772.jpg 
+
+
+121
+Product Name: Alabaş Turp
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 59,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Alabas Kg.                     Price: 59,90 TL   Unit Price: 59,90 TL/kg
+
+Similar Products:
+ - Similar Product: Alabaş Turp (Adet)                                 Price: 26,90 TL  
+ - Similar Product: Vezir Turp                                         Price: 19,95 TL  
+ - Similar Product: Vezir Turp                                         Price: 19,95 TL  
+ - Similar Product: Kırmızı Turp Demet                                 Price: 10,00 TL  
+ - Similar Product: Kırmızı Turp                                       Price: 17,95 TL  
+ - Similar Product: Beyaz Turp                                         Price: 24,90 TL  
+
+Features:
+ - Ürün Tipi: Alabaş Turp
+Product Image URL:  
+
+
+122
+Product Name: Fesleğen (Paket)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 29,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Feslegen Demet                 Price: 29,90 TL   Unit Price: 29,90 TL/Adet
+ - Market: Şok                  Product: Feslegen 25 Gr Pkt             Price: 49,90 TL   Unit Price: 49,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Çengelköy Salatalık (Paket)                        Price: 31,95 TL  
+ - Similar Product: Havuç (Paket)                                      Price: 12,90 TL  
+ - Similar Product: Kırmızı Biber (Paket)                              Price: 29,95 TL  
+
+Features:
+ - Ürün Tipi: Fesleğen
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+123
+Product Name: Beyaz Lahana (kg)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 5,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Beyaz Lahana Kg.               Price: 5,90 TL    Unit Price: 5,90 TL/kg
+ - Market: Migros               Product: Lahana Beyaz Kg.               Price: 9,90 TL    Unit Price: 9,90 TL/kg
+
+Similar Products:
+ - Similar Product: File Patates (kg)                                  Price: 21,90 TL  
+ - Similar Product: Beyaz Lahana (Adet)                                Price: 6,95 TL   
+
+Features:
+ - Ürün Tipi: Beyaz Lahana
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/beyaz-lahana-kg-_1432849.jpg 
+
+
+124
+Product Name: Sakız Kabak
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 23,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Kabak Sakiz                    Price: 23,90 TL   Unit Price: 23,90 TL/kg
+ - Market: Migros               Product: Kabak Sakiz Kg.                Price: 34,95 TL   Unit Price: 34,95 TL/kg
+ - Market: Şok                  Product: Kabak Sakiz Kg                 Price: 49,95 TL   Unit Price: 49,95 TL/kg
+
+Similar Products:
+ - Similar Product: Bal Kabağı                                         Price: 49,90 TL  
+ - Similar Product: Siyah Kabak                                        Price: 19,95 TL  
+
+Features:
+ - Ürün Tipi: Kabak
+Product Image URL:  
+
+
+125
+Product Name: Organik Köy Domates
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 79,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Organik Koy Domates 750 Gr Paket Price: 79,90 TL   Unit Price: 106,53 TL/kg
+
+Similar Products:
+ - Similar Product: Rio Domates                                        Price: 9,90 TL   
+ - Similar Product: Kokteyl Siyah Domates                              Price: 69,95 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/organik-koy-domates-_1701721.jpg 
+
+
+126
+Product Name: Deniz Börülcesi (Bağ)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 14,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Deniz Borulcesi Demet          Price: 14,95 TL   Unit Price: 14,95 TL/Adet
+ - Market: Şok                  Product: Deniz Borulcesi Demet          Price: 29,90 TL   Unit Price: 29,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Maydanoz (Bağ)                                     Price: 14,95 TL  
+ - Similar Product: Dereotu (Bağ)                                      Price: 13,45 TL  
+ - Similar Product: Frenk Maydanozu (Bağ)                              Price: 1,99 TL   
+ - Similar Product: Tere (Bağ)                                         Price: 10,00 TL  
+
+Features:
+ - Ürün Tipi: Deniz Börülcesi
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+127
+Product Name: Kırmızı Turp Demet
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 10,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Turp Kirmizi Demet             Price: 10,00 TL   Unit Price: 10,00 TL/Adet
+ - Market: Migros               Product: Turp Kirmizi Demet             Price: 13,95 TL   Unit Price: 13,95 TL/Adet
+
+Similar Products:
+ - Similar Product: Kırmızı Turp                                       Price: 17,95 TL  
+ - Similar Product: Vezir Turp                                         Price: 19,95 TL  
+ - Similar Product: Vezir Turp                                         Price: 19,95 TL  
+ - Similar Product: Alabaş Turp                                        Price: 59,90 TL  
+ - Similar Product: Kuzu Kulağı (Demet)                                Price: 13,90 TL  
+
+Features:
+ - Ürün Tipi: Kırmızı Turp
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+128
+Product Name: Vezir Turp
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 19,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Turp Vezir Kg.                 Price: 19,95 TL   Unit Price: 19,95 TL/kg
+
+Similar Products:
+ - Similar Product: Alabaş Turp                                        Price: 59,90 TL  
+ - Similar Product: Kırmızı Turp Demet                                 Price: 10,00 TL  
+ - Similar Product: Kırmızı Turp                                       Price: 17,95 TL  
+ - Similar Product: Alabaş Turp (Adet)                                 Price: 26,90 TL  
+ - Similar Product: Siyah Turp                                         Price: 19,95 TL  
+
+Features:
+ - Ürün Tipi: Turp
+Product Image URL:  
+
+
+129
+Product Name: Ayıklanmış Ispanak
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 59,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Eurofresh Yikanmis Hazir Ispanak 700g Price: 59,95 TL   Unit Price: 85,64 TL/kg
+
+Similar Products:
+ - Similar Product: Ispanak (Demet)                                    Price: 24,90 TL  
+ - Similar Product: Yıkanmış Hazır Ispanak                             Price: 49,90 TL  
+
+Features:
+ - Ürün Tipi: Ispanak
+Product Image URL:  
+
+
+130
+Product Name: Mini Domates
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 35,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Erust Mini Mini Domates 250 Gr Price: 35,90 TL   Unit Price: 143,60 TL/kg
+ - Market: Migros               Product: Erust Mini Mini Domates 250 G  Price: 35,90 TL   Unit Price: 143,60 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Domates
+Product Image URL:  
+
+
+131
+Product Name: Kırmızı Lahana
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 14,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Lahana Kirmizi Kg.             Price: 14,95 TL   Unit Price: 14,95 TL/kg
+ - Market: A101                 Product: Lahana Kirmizi                 Price: 15,95 TL   Unit Price: 15,95 TL/kg
+ - Market: Carrefour            Product: Kirmizi Lahana                 Price: 23,95 TL   Unit Price: 23,95 TL/kg
+
+Similar Products:
+ - Similar Product: Kırmızı Lahana Adet                                Price: 22,90 TL  
+ - Similar Product: Beyaz Lahana (Adet)                                Price: 6,95 TL   
+ - Similar Product: Kara Lahana                                        Price: 24,90 TL  
+
+Features:
+ - Ürün Tipi: Kırmızı Lahana
+Product Image URL:  
+
+
+132
+Product Name: Kuzu Kulağı (Demet)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 13,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Kulagi Demet              Price: 13,90 TL   Unit Price: 13,90 TL/Adet
+ - Market: Şok                  Product: Kuzu Kulagi Demet              Price: 24,90 TL   Unit Price: 24,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Ispanak (Demet)                                    Price: 24,90 TL  
+ - Similar Product: Taze Kekik (Demet)                                 Price: 39,95 TL  
+
+Features:
+ - Ürün Tipi: Kuzu Kulağı
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+133
+Product Name: Brüksel Lahanası
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 49,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Lahana Buruksel 500 G Pkt Ad.  Price: 49,95 TL   Unit Price: 99,90 TL/kg
+ - Market: Şok                  Product: Bruksel Lahanasi Kg            Price: 79,90 TL   Unit Price: 79,90 TL/kg
+ - Market: Migros               Product: Lahana Bruksel Kg.             Price: 84,90 TL   Unit Price: 84,90 TL/kg
+
+Similar Products:
+ - Similar Product: Brüksel Lahanası (Paket)                           Price: 55,95 TL  
+ - Similar Product: Beyaz Lahana (Adet)                                Price: 6,95 TL   
+ - Similar Product: Kara Lahana                                        Price: 24,90 TL  
+
+Features:
+ - Ürün Tipi: Brüksel Lahanası
+Product Image URL:  
+
+
+134
+Product Name: Kuru Soğan File
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 18,95 TL 
+
+Market Products:
+ - Market: A101                 Product: Sogan File                     Price: 18,95 TL   Unit Price: 18,95 TL/Adet
+ - Market: Migros               Product: Spesiyal Sogan File Kg         Price: 29,95 TL   Unit Price: 29,95 TL/Adet
+
+Similar Products:
+ - Similar Product: File Mor Soğan                                     Price: 15,90 TL  
+ - Similar Product: Soyulmuş Arpacık Soğan                             Price: 129,90 TL 
+ - Similar Product: Taze Soğan (Bağ)                                   Price: 24,50 TL  
+
+Features:
+ - Ürün Tipi: Soğan
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+135
+Product Name: Pembe Domates
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 29,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Cc Domates Pembe Kg            Price: 29,90 TL   Unit Price: 29,90 TL/kg
+ - Market: Bim                  Product: Pembe Domates                  Price: 37,50 TL   Unit Price: 37,50 TL/kg
+ - Market: Bim                  Product: Pembe Domates Kg               Price: 42,50 TL   Unit Price: 42,50 TL/kg
+ - Market: Hakmar Express       Product: Sebze Domates Pembe Kg Fiyati  Price: 44,95 TL   Unit Price: 44,95 TL/kg
+ - Market: A101                 Product: Domates Pembe                  Price: 49,95 TL   Unit Price: 49,95 TL/kg
+ - Market: Migros               Product: Domates Pembe Kg               Price: 49,95 TL   Unit Price: 49,95 TL/kg
+ - Market: Carrefour            Product: Domates Pembe                  Price: 51,90 TL   Unit Price: 51,90 TL/kg
+ - Market: Şok                  Product: Pembe Domates Kg               Price: 59,90 TL   Unit Price: 59,90 TL/kg
+ - Market: Şok                  Product: Domates Pembe 1 Kg Paket       Price: 64,90 TL   Unit Price: 64,90 TL/kg
+
+Similar Products:
+ - Similar Product: Kokteyl Siyah Domates                              Price: 69,95 TL  
+ - Similar Product: Rio Domates                                        Price: 9,90 TL   
+
+Features:
+ - Ürün Tipi: Domates
+Product Image URL:  
+
+
+136
+Product Name: Sivri Kıl Biber
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 111,95 TL 
+
+Market Products:
+ - Market: A101                 Product: Biber Kil Sivri                Price: 111,95 TL  Unit Price: 111,95 TL/kg
+ - Market: Carrefour            Product: Biber Kil Sivri                Price: 129,90 TL  Unit Price: 129,90 TL/kg
+ - Market: Şok                  Product: Kil Sivri Biber Kg.            Price: 129,90 TL  Unit Price: 129,90 TL/kg
+ - Market: Migros               Product: Kil Sivri Biber Kg             Price: 139,95 TL  Unit Price: 139,95 TL/kg
+
+Similar Products:
+ - Similar Product: Sivri Biber                                        Price: 27,90 TL  
+
+Features:
+Product Image URL:  
+
+
+137
+Product Name: Çeri Domates
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 29,95 TL 
+
+Market Products:
+ - Market: Şok                  Product: Cherry Domates 250 G           Price: 29,95 TL   Unit Price: 119,80 TL/kg
+ - Market: Carrefour            Product: Domates Cherry 250             Price: 69,90 TL   Unit Price: 279,60 TL/kg
+
+Similar Products:
+ - Similar Product: Kokteyl Siyah Domates                              Price: 69,95 TL  
+ - Similar Product: Rio Domates                                        Price: 9,90 TL   
+
+Features:
+ - Ürün Tipi: Çeri Domates
+Product Image URL:  
+
+
+138
+Product Name: Çengelköy Salatalık
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 19,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Salatalik Çengelkoy            Price: 19,75 TL   Unit Price: 19,75 TL/kg
+ - Market: Bim                  Product: Salatalik Çengelkoy Kg         Price: 23,75 TL   Unit Price: 23,75 TL/kg
+ - Market: Carrefour            Product: Salatalik Çengelkoy            Price: 48,90 TL   Unit Price: 48,90 TL/kg
+ - Market: Şok                  Product: Çengelkoy Salatalik Kg         Price: 69,90 TL   Unit Price: 69,90 TL/kg
+
+Similar Products:
+ - Similar Product: Çengelköy Salatalık (Paket)                        Price: 31,95 TL  
+ - Similar Product: Salatalık ve Domates                               Price: 42,90 TL  
+ - Similar Product: Salatalık ve Domates                               Price: 42,90 TL  
+
+Features:
+ - Ürün Tipi: Salatalık
+Product Image URL:  
+
+
+139
+Product Name: Kokteyl Domates
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 12,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Domates Kaplan Kokteyl Kg      Price: 12,90 TL   Unit Price: 12,90 TL/kg
+ - Market: A101                 Product: Domates Kokteyl Paket          Price: 37,95 TL   Unit Price: 37,95 TL/kg
+ - Market: Şok                  Product: Kokteyl Domates 500 Gr Pkt.    Price: 39,90 TL   Unit Price: 79,80 TL/kg
+ - Market: Hakmar Express       Product: Sebze Domates Sivri Kg         Price: 39,95 TL   Unit Price: 39,95 TL/kg
+ - Market: Şok                  Product: Organik Kokteyl Domates 500 G  Price: 49,95 TL   Unit Price: 99,90 TL/kg
+ - Market: Bim                  Product: Domates Kokteyl Kg Fl/lb       Price: 54,75 TL   Unit Price: 54,75 TL/kg
+ - Market: Carrefour            Product: Domates Kokteyl                Price: 61,90 TL   Unit Price: 61,90 TL/kg
+ - Market: Migros               Product: Domates Kokteyl Kg.            Price: 64,95 TL   Unit Price: 64,95 TL/kg
+ - Market: Carrefour            Product: Domates Kokteyl 500g           Price: 69,90 TL   Unit Price: 139,80 TL/kg
+ - Market: Migros               Product: Domates Kokteyl Pkt Kg         Price: 74,95 TL   Unit Price: 74,95 TL/kg
+ - Market: Şok                  Product: Kokteyl Domates Kg.            Price: 79,90 TL   Unit Price: 79,90 TL/kg
+
+Similar Products:
+ - Similar Product: Kokteyl Siyah Domates                              Price: 69,95 TL  
+ - Similar Product: Şeker Domates                                      Price: 19,75 TL  
+
+Features:
+ - Ürün Tipi: Domates
+Product Image URL:  
+
+
+140
+Product Name: Dereotu (Bağ)
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 13,45 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Dereotu                        Price: 13,45 TL   Unit Price: 13,45 TL/Adet
+ - Market: A101                 Product: Dereotu                        Price: 16,90 TL   Unit Price: 16,90 TL/Adet
+ - Market: Şok                  Product: Dereotu Demet.                 Price: 19,95 TL   Unit Price: 19,95 TL/Adet
+
+Similar Products:
+ - Similar Product: Maydanoz (Bağ)                                     Price: 14,95 TL  
+ - Similar Product: Deniz Börülcesi (Bağ)                              Price: 14,95 TL  
+ - Similar Product: Frenk Maydanozu (Bağ)                              Price: 1,99 TL   
+ - Similar Product: Tere (Bağ)                                         Price: 10,00 TL  
+
+Features:
+ - Ürün Tipi: Dereotu
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+141
+Product Name: Salkım Domates
+Main Category: Meyve ve Sebze
+Sub-categories: Sebze, 
+Cheapest Price: 22,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Domates Salkim Pazar           Price: 22,90 TL   Unit Price: 22,90 TL/kg
+ - Market: Hakmar Express       Product: Sebze Domates Salkim Çikma     Price: 31,95 TL   Unit Price: 31,95 TL/kg
+ - Market: Hakmar Express       Product: Sebze Domates Salkim Kg Fiyati Price: 39,95 TL   Unit Price: 39,95 TL/kg
+ - Market: Şok                  Product: Salkim Domates Kg.             Price: 44,75 TL   Unit Price: 44,75 TL/kg
+ - Market: Migros               Product: Domates Salkim Kg              Price: 44,95 TL   Unit Price: 44,95 TL/kg
+ - Market: A101                 Product: Domates Salkim                 Price: 47,50 TL   Unit Price: 47,50 TL/kg
+ - Market: Carrefour            Product: Domates Salkim                 Price: 48,90 TL   Unit Price: 48,90 TL/kg
+ - Market: Bim                  Product: Domates Salkim Dokme Kg        Price: 49,75 TL   Unit Price: 49,75 TL/kg
+
+Similar Products:
+ - Similar Product: Kokteyl Siyah Domates                              Price: 69,95 TL  
+ - Similar Product: Rio Domates                                        Price: 9,90 TL   
+
+Features:
+ - Ürün Tipi: Domates
+Product Image URL:  
+
+
+{'patates': 6, 'kuru': 2, 'soğan': 8, 'kapya': 1, 'biber': 13, 'patlıcan': 2, 'marul': 5, '(adet)': 10, 'brokoli': 2, 'göbek': 1, 'kuşkonmaz': 1, 'kg': 4, 'kıvırcık': 2, 'yer': 1, 'elması': 1, 'tarla': 1, 'domates': 18, 'çarliston': 1, 'i̇stiridye': 1, 'mantarı': 2, 'üçburun': 1, 'köy': 2, 'biberi': 1, 'kabak': 4, 'karnabahar': 1, 'salatalık': 6, 'beyaz': 4, 'taze': 6, 'zencefil': 1, 'bakla': 3, 'kültür': 1, 'mantar': 4, 'mini': 6, 'kırmızı': 9, '(paket)': 9, 'tatlı': 1, 'semizotu': 2, '(demet)': 6, 'kumpirlik': 1, 'siyah': 3, 'turp': 10, 'rio': 1, '(bağ)': 6, 'roka': 2, 'fasulye': 3, 'kara': 2, 'lahana': 6, 'yerli': 1, 'fesleğen': 2, 'fındık': 2, 'organik': 9, 'sarımsak': 2, 'maydanoz': 1, 'reyhan': 1, 'lolorosso': 1, 'dolma': 1, 'alabaş': 2, 'jalapeno': 1, 'sap': 1, 'kereviz': 3, 'tere': 1, 'sivri': 2, 'kaliforniya': 1, 'kemer': 1, 'sapı': 1, 'salçalık': 1, 'yıkanmış': 3, 'hazır': 2, 'kök': 1, 'ispanak': 5, 'kahvaltılık': 1, 'kisnis': 1, 'demet': 2, 'çıtır': 1, 'çengelköy': 2, 'havuç': 3, 'bamya': 1, 'şalgam': 1, 'file': 4, '(kg)': 2, 'kestane': 1, 'sakız': 4, 'pancar': 3, 'pazı': 2, 'beef': 1, 'pırasa': 3, 'yeşil': 1, 'frenk': 1, 'maydanozu': 1, 'shitake': 1, 'soyulmuş': 2, 'arpacık': 1, 'dolmalık': 1, 'bal': 1, 'kabağı': 1, 'kekik': 1, 'ayşe': 1, 'kadın': 1, 'adet': 2, 'enginar': 2, 'zerdeçal': 1, 'şili': 1, 'brüksel': 2, 'lahanası': 2, 'beypazarı': 1, 'kokteyl': 2, 'şeker': 1, 'çalı': 1, 'araka': 1, 'bezelye': 1, 'barbunya': 1, 'vezir': 2, 've': 2, 'meksika': 1, 'izgaralık': 1, 'mor': 1, 'deniz': 1, 'börülcesi': 1, 'ayıklanmış': 1, 'kuzu': 1, 'kulağı': 1, 'pembe': 1, 'kıl': 1, 'çeri': 1, 'dereotu': 1, 'salkım': 1}
+['Ürün Tipi', 'Adet', 'Organik', 'Toplam Ağırlık']
+
+Process finished with exit code 0
