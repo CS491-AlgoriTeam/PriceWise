@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "880861676478",
+    "project_id": "pricewise-cs",
+    "storage_bucket": "pricewise-cs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880861676478:android:55ca897f4c1bc682f02fef",
+        "android_client_info": {
+          "package_name": "com.example.pwfe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCySbCT34duT0KjRUuBB63yXqc2D5TQ7eU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

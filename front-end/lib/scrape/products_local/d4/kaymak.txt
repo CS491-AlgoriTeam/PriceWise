@@ -1,0 +1,493 @@
+1
+Product Name: Ayca 150 gr Rulo Kaymak
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Kaymak, 
+Cheapest Price: 62,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Ayca Rulo Kaymak 150 G         Price: 62,90 TL   Unit Price: 419,33 TL/kg
+
+Similar Products:
+ - Similar Product: Carrefour 150 gr Rulo Kaymak                       Price: 57,00 TL  
+ - Similar Product: Milkten 150 gr Rulo Kaymak                         Price: 56,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/ayca-150-gr-rulo-kaymak-_1633676.jpg
+
+
+2
+Product Name: Carrefour 150 gr Rulo Kaymak
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Kaymak,
+Cheapest Price: 57,00 TL
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Rulo Kaymak 150g     Price: 57,00 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Milkten 150 gr Rulo Kaymak                         Price: 56,50 TL
+ - Similar Product: Ayca 150 gr Rulo Kaymak                            Price: 62,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-150-gr-rulo-kaymak-_1453806.jpg
+
+
+3
+Product Name: Tkk 200 gr Kaymak
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Kaymak,
+Cheapest Price: 47,00 TL
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tkk Kaymak 200 G               Price: 47,00 TL   Unit Price: 235,00 TL/kg
+
+Similar Products:
+ - Similar Product: Milkten 200 gr Kaymak                              Price: 55,00 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tkk-200-gr-kaymak-_1886020.jpg
+
+
+4
+Product Name: Kerem 200 gr Kaymak
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Kaymak,
+Cheapest Price: 47,50 TL
+
+Market Products:
+ - Market: Bim                  Product: Kaymak Kerem 200 Gr.           Price: 47,50 TL   Unit Price: 237,50 TL/kg
+
+Similar Products:
+ - Similar Product: Milkten 200 gr Kaymak                              Price: 55,00 TL
+
+Features:
+ - Ürün Tipi: Kaymak
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/kerem-200-gr-kaymak-_1431741.jpg
+
+
+5
+Product Name: Milkten 150 gr Rulo Kaymak
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Kaymak,
+Cheapest Price: 56,50 TL
+
+Market Products:
+ - Market: A101                 Product: Kaymak Rulo 150 G Milkten      Price: 56,50 TL   Unit Price: 376,67 TL/kg
+
+Similar Products:
+ - Similar Product: Carrefour 150 gr Rulo Kaymak                       Price: 57,00 TL
+ - Similar Product: Ayca 150 gr Rulo Kaymak                            Price: 62,90 TL
+
+Features:
+ - Ürün Tipi: Kaymak
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 150 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/milkten-150-gr-rulo-kaymak-_1448508.jpg
+
+
+6
+Product Name: Milkten 200 gr Kaymak
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Kaymak,
+Cheapest Price: 55,00 TL
+
+Market Products:
+ - Market: A101                 Product: Kaymak 200 G Milkten           Price: 55,00 TL   Unit Price: 275,00 TL/kg
+
+Similar Products:
+ - Similar Product: Tkk 200 gr Kaymak                                  Price: 47,00 TL
+
+Features:
+ - Ürün Tipi: Kaymak
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 gr
+Product Image URL:
+
+
+7
+Product Name: 1 kg Süt Kaymağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Kaymak,
+Cheapest Price: 729,00 TL
+
+Market Products:
+ - Market: Migros               Product: Velioglu Sut Kaymagi Kg        Price: 729,00 TL  Unit Price: 729,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/1-kg-sut-kaymagi-_647251.jpg
+
+
+8
+Product Name: Boyacıoğlu 1 kg Kaymak
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Kaymak,
+Cheapest Price: 450,00 TL
+
+Market Products:
+ - Market: Carrefour            Product: Boyacioglu Kaymak Kg           Price: 450,00 TL  Unit Price: 450,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/boyacioglu-1-kg-kaymak-_1433776.jpg
+
+
+9
+Product Name: Velioğlu 160 gr Manda&İnek Karışımı Kaymak
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Kaymak,
+Cheapest Price: 867,95 TL
+
+Market Products:
+ - Market: Carrefour            Product: Velioglu Manda-inek Kaymak     Price: 867,95 TL  Unit Price: 867,95 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/velioglu-160-gr-mandainek-karisimi-kaymak-_1075807.jpg
+
+
+10
+Product Name: Mis 200 gr Kaymak
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Kaymak,
+Cheapest Price: 55,00 TL
+
+Market Products:
+ - Market: Şok                  Product: Mis Kaymak 200 Gr              Price: 55,00 TL   Unit Price: 275,00 TL/kg
+
+Similar Products:
+ - Similar Product: Milkten 200 gr Kaymak                              Price: 55,00 TL
+
+Features:
+ - Ürün Tipi: Kaymak
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/mis-200-gr-kaymak-_1434958.jpg
+
+
+11
+Product Name: Yörüksüt 100 gr Kaymak
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Kaymak,
+Cheapest Price: 37,95 TL
+
+Market Products:
+ - Market: Migros               Product: Yoruksut Kaymak 100 G          Price: 37,95 TL   Unit Price: 379,50 TL/kg
+
+Similar Products:
+ - Similar Product: Yörük 100 gr Rulo Kaymak                           Price: 41,95 TL
+ - Similar Product: Duranlar 100 gr Kaymak                             Price: 26,95 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/yoruksut-100-gr-kaymak-_1861021.jpg
+
+
+12
+Product Name: Duranlar 200 gr 5'li Rulo Kaymak
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Kaymak,
+Cheapest Price: 99,90 TL
+
+Market Products:
+ - Market: Migros               Product: Duranlar 5li Rulo Kaymak 200 G Price: 99,90 TL   Unit Price: 499,50 TL/kg
+
+Similar Products:
+ - Similar Product: Carrefour 150 gr Rulo Kaymak                       Price: 57,00 TL
+ - Similar Product: Milkten 150 gr Rulo Kaymak                         Price: 56,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/duranlar-200-gr-5li-rulo-kaymak-_1439196.jpg
+
+
+13
+Product Name: Yörük 100 gr Rulo Kaymak
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Kaymak,
+Cheapest Price: 41,95 TL
+
+Market Products:
+ - Market: Migros               Product: Yoruksut Rulo Kaymak 100 G     Price: 41,95 TL   Unit Price: 419,50 TL/kg
+ - Market: Carrefour            Product: Yoruksut Rulo Kaymak 100 Gr    Price: 49,95 TL   Unit Price: 499,50 TL/kg
+
+Similar Products:
+ - Similar Product: Carrefour 150 gr Rulo Kaymak                       Price: 57,00 TL
+ - Similar Product: Milkten 150 gr Rulo Kaymak                         Price: 56,50 TL
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 100 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/yoruk-100-gr-rulo-kaymak-_1004345.jpg
+
+
+14
+Product Name: Velioğlu 1 kg Manda Kaymak
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Kaymak,
+Cheapest Price: 867,90 TL
+
+Market Products:
+ - Market: Migros               Product: Velioglu Kaymak (%80 Manda %20 Inek Sutu) Kg Price: 867,90 TL  Unit Price: 867,90 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL:
+
+
+15
+Product Name: Migros Kaymak 200 G
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Kaymak,
+Cheapest Price: 55,00 TL
+
+Market Products:
+ - Market: Migros               Product: Migros Kaymak 200 G            Price: 55,00 TL   Unit Price: 275,00 TL/kg
+
+Similar Products:
+ - Similar Product: Milkten 200 gr Kaymak                              Price: 55,00 TL
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-kaymak-200-g-_647415.jpg
+
+
+16
+Product Name: Mandamia 150 gr Manda Kaymağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Kaymak,
+Cheapest Price: 214,90 TL
+
+Market Products:
+ - Market: Migros               Product: Mandamia Manda Kaymagi 150 G   Price: 214,90 TL  Unit Price: 1.432,67 TL/kg
+
+Similar Products:
+ - Similar Product: Buffa 150 gr Manda Kaymağı                         Price: 239,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/mandamia-150-gr-manda-kaymagi-_1633675.jpg
+
+
+17
+Product Name: Lente 150 gr Rulo Süt Kaymağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Kaymak,
+Cheapest Price: 73,50 TL
+
+Market Products:
+ - Market: Migros               Product: Lente Rulo Sut Kaymagi 150 G   Price: 73,50 TL   Unit Price: 490,00 TL/kg
+
+Similar Products:
+ - Similar Product: Milkten 150 gr Rulo Kaymak                         Price: 56,50 TL
+ - Similar Product: Carrefour 150 gr Rulo Kaymak                       Price: 57,00 TL
+
+Features:
+ - Ürün Tipi: Kaymak
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 150 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/lente-150-gr-rulo-sut-kaymagi-_763559.jpg
+
+
+18
+Product Name: Aynes 200 gr Kaymak
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Kaymak,
+Cheapest Price: 49,90 TL
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Aynes Kaymak 200 Gr            Price: 49,90 TL   Unit Price: 249,50 TL/kg
+
+Similar Products:
+ - Similar Product: Milkten 200 gr Kaymak                              Price: 55,00 TL
+
+Features:
+ - Ürün Türü: İnek Sütü
+ - Ürün Tipi: Kaymak
+ - Toplam Ağırlık: 200 gr
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/aynes-200-gr-kaymak-_228318.jpg
+
+
+19
+Product Name: Velioğlu 1 kg Kaymak
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Kaymak,
+Cheapest Price: 735,95 TL
+
+Market Products:
+ - Market: Carrefour            Product: Velioglu Kaymak                Price: 735,95 TL  Unit Price: 735,95 TL/kg
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/velioglu-1-kg-kaymak-_574358.jpg
+
+
+20
+Product Name: Yörükoğlu 150 gr Süt Kaymağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Kaymak,
+Cheapest Price: 68,50 TL
+
+Market Products:
+ - Market: Carrefour            Product: Yorukoglu Kaymak 150 Gr        Price: 68,50 TL   Unit Price: 456,67 TL/kg
+ - Market: Migros               Product: Yorukoglu Sut Kaymagi 150 G    Price: 68,50 TL   Unit Price: 456,67 TL/kg
+
+Similar Products:
+ - Similar Product: Lente 150 gr Rulo Süt Kaymağı                      Price: 73,50 TL
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: İnek Sütü
+ - Ürün Tipi: Kaymak
+ - Toplam Ağırlık: 150 gr
+ - Menşei: Türkiye
+ - Yağ Oranı: Tam Yağlı
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/yorukoglu-150-gr-sut-kaymagi-_95942.jpg
+
+
+21
+Product Name: Ayca 180 gr Kaymak
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Kaymak,
+Cheapest Price: 79,95 TL
+
+Market Products:
+ - Market: Migros               Product: Ayca Kaymak Tava 180 G         Price: 79,95 TL   Unit Price: 444,17 TL/kg
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 180 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/ayca-180-gr-kaymak-_881048.jpg
+
+
+22
+Product Name: Belkıs 1 kg Kaymak
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Kaymak,
+Cheapest Price: 709,00 TL
+
+Market Products:
+ - Market: Migros               Product: Belkis Çiftligi Kaymak Kg      Price: 709,00 TL  Unit Price: 709,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: İnek Sütü
+ - Ürün Tipi: Kaymak
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/belkis-1-kg-kaymak-_95901.jpg
+
+
+23
+Product Name: Buffa 150 gr Manda Kaymağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Kaymak,
+Cheapest Price: 239,90 TL
+
+Market Products:
+ - Market: Migros               Product: Buffa Manda Kaymagi 150 G      Price: 239,90 TL  Unit Price: 1.599,33 TL/kg
+ - Market: Carrefour            Product: Buffa Manda Kaymak 150 Gr      Price: 249,50 TL  Unit Price: 1.663,33 TL/kg
+
+Similar Products:
+ - Similar Product: Mandamia 150 gr Manda Kaymağı                      Price: 214,90 TL
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: Manda Sütü
+ - Toplam Ağırlık: 150 gr
+ - Menşei: Türkiye
+ - Ürün Tipi: Kaymak
+ - Laktozsuz: Evet
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL:
+
+
+24
+Product Name: Sakıpağa 150 gr Rulo Kaymak
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Kaymak,
+Cheapest Price: 68,75 TL
+
+Market Products:
+ - Market: Migros               Product: Sakipaga Rulo Kaymak 150 G     Price: 68,75 TL   Unit Price: 458,33 TL/kg
+ - Market: Carrefour            Product: Sakipaga Rulo Kaymak 150 Gr    Price: 74,25 TL   Unit Price: 495,00 TL/kg
+
+Similar Products:
+ - Similar Product: Milkten 150 gr Rulo Kaymak                         Price: 56,50 TL
+ - Similar Product: Ayca 150 gr Rulo Kaymak                            Price: 62,90 TL
+
+Features:
+ - İçerik: Sade
+ - Ürün Tipi: Kaymak
+ - Toplam Ağırlık: 150 gr
+ - Menşei: Türkiye
+ - Yağ Oranı: Tam Yağlı
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/sakipaga-150-gr-rulo-kaymak-_230654.jpg
+
+
+25
+Product Name: Duranlar 100 gr Kaymak
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Kaymak,
+Cheapest Price: 26,95 TL
+
+Market Products:
+ - Market: Migros               Product: Duranlar Kaymak (pastorize) 100 G Price: 26,95 TL   Unit Price: 269,50 TL/kg
+
+Similar Products:
+ - Similar Product: Yörüksüt 100 gr Kaymak                             Price: 37,95 TL
+ - Similar Product: Yörük 100 gr Rulo Kaymak                           Price: 41,95 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/duranlar-100-gr-kaymak-_1524336.jpg
+
+
+{'ayca': 2, '150': 8, 'gr': 19, 'rulo': 7, 'kaymak': 20, 'carrefour': 1, 'tkk': 1, '200': 7, 'kerem': 1, 'milkten': 2, '1': 5, 'kg': 5, 'süt': 3, 'kaymağı': 5, 'boyacıoğlu': 1, 'velioğlu': 3, '160': 1, 'manda&i̇nek': 1, 'karışımı': 1, 'mis': 1, 'yörüksüt': 1, '100': 3, 'duranlar': 2, "5'li": 1, 'yörük': 1, 
+'manda': 3, 'migros': 1, 'g': 1, 'mandamia': 1, 'lente': 1, 'aynes': 1, 'yörükoğlu': 1, '180': 1, 'belkıs': 1, 'buffa': 1, 'sakıpağa': 1}
+['Ürün Tipi', 'Adet', 'Toplam Ağırlık', 'Ürün Türü', 'Menşei', 'Ambalaj Tipi', 'İçerik', 'Yağ Oranı', 'Laktozsuz']
+
+# Kaymak ürünleri içeriğini içeren sözlük
+kaymak_içerik_dict = {
+    'süt': 'Süt', 'karışımı': 'Karışım', 'manda': 'Manda Sütü', 'inek': 'İnek Sütü', 
+}
+
+# Kaymak ürünlerinin tipini belirten sözlük
+kaymak_ürün_tipi_dict = {
+    'rulo': 'Rulo Kaymak', 'kaymak': 'Kaymak', 'sakıpağa': 'Kaymak', 'yörük': 'Kaymak',
+    'manda': 'Manda Kaymağı', 'migros': 'Kaymak', 'yörüksüt': 'Kaymak', 
+    'ayca': 'Kaymak', 'carrefour': 'Kaymak', 'kerem': 'Kaymak', 'milkten': 'Kaymak',
+    'boyacıoğlu': 'Kaymak', 'velioğlu': 'Kaymak', 'duranlar': 'Kaymak', 'mandamia': 'Kaymak',
+    'aynes': 'Kaymak', 'yörükoğlu': 'Kaymak', 'belkıs': 'Kaymak', 'buffa': 'Kaymak'
+}
+
+# Kaymak ürünlerinin türünü belirten sözlük
+kaymak_ürün_türü_dict = {
+    'rulo': 'Rulo Kaymak', 'kaymak': 'Kaymak', 'sakıpağa': 'Kaymak', 'yörük': 'Yörük Kaymak',
+    'manda': 'Manda Kaymak', 'migros': 'Migros Kaymak', 'yörüksüt': 'Yörüksüt Kaymak',
+    'ayca': 'Ayca Kaymak', 'carrefour': 'Carrefour Kaymak', 'kerem': 'Kerem Kaymak',
+    'milkten': 'Milkten Kaymak', 'boyacıoğlu': 'Boyacıoğlu Kaymak', 'velioğlu': 'Velioğlu Kaymak',
+    'duranlar': 'Duranlar Kaymak', 'mandamia': 'Mandamia Kaymak', 'aynes': 'Aynes Kaymak',
+    'yörükoğlu': 'Yörükoğlu Kaymak', 'belkıs': 'Belkıs Kaymak', 'buffa': 'Buffa Kaymak'
+}

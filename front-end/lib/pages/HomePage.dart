@@ -34,7 +34,7 @@ class HomePage extends StatelessWidget {
             SizedBox(height: screenSize.height * 0.05),
             // Illustration
             Image.asset(
-              'assets/logo.png',
+              'assets/pwMaskot.webp',
               width: screenSize.width * 0.7,
               height: screenSize.height * 0.25,
             ),

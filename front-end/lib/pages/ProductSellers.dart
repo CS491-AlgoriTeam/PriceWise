@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:pwfe/classes/Product.dart';
 import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
 
 class ProductSellers extends StatefulWidget {
-  final Product product;
 
   const ProductSellers({
     Key? key,
@@ -28,7 +26,7 @@ class _ProductSellersState extends State<ProductSellers> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Seller Profile'),
-        backgroundColor: Colors.blue, // Customize app bar color
+        backgroundColor: Colors.white, // Customize app bar color
       ),
       bottomNavigationBar: navigation_bar_bottom(context),
       body: Padding(
@@ -37,7 +35,7 @@ class _ProductSellersState extends State<ProductSellers> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Text(
-              'Sellers of ${widget.product.getProductName()}',
+              'Sellers of }',//modified check again
               style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
             ),
             SizedBox(height: 8),
@@ -51,17 +49,22 @@ class _ProductSellersState extends State<ProductSellers> {
                     child: ListTile(
                       title: Text(
                         sellersData[index]['sellerName'],
-                        style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+                        style: TextStyle(
+                            fontSize: 16, fontWeight: FontWeight.bold),
                       ),
-                      subtitle: Text('Price: \$${sellersData[index]['price']}'),
+                      subtitle: Text('Price: ${sellersData[index]['price']}'),
                       trailing: TextButton(
                         onPressed: () {
                           _addToShoppingList(sellersData[index]);
                         },
                         style: ButtonStyle(
-                          backgroundColor: MaterialStateProperty.all(Colors.lightBlue),
-                        ),
-                        child: Text('+ Add to List', style: TextStyle(fontSize: 12)),
+                        backgroundColor: MaterialStateProperty.all(Colors.blue),
+                        foregroundColor: MaterialStateProperty.all(Colors.white), // Text color
+                      ),
+                      child: Text(
+                        '+ Add to List',
+                        style: TextStyle(fontSize: 12, color: Colors.white), // Ensure text is white
+                      ),
                       ),
                     ),
                   );

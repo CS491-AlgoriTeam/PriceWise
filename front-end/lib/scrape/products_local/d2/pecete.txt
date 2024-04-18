@@ -1,0 +1,731 @@
+1
+Product Name: Solo Çek Al 150'li Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 14,95 TL
+
+Market Products:
+ - Market: Hakmar Express       Product: Pecete Çek Al 150li Solo       Price: 14,95 TL   Unit Price: 14,95 TL/Adet
+ - Market: A101                 Product: Kagit Mendil Çek-al 150'li Solo Price: 18,25 TL   Unit Price: 18,25 TL/Adet
+ - Market: Migros               Product: Solo Çek-al Pecete 150li       Price: 42,90 TL   Unit Price: 42,90 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Yaprak Sayısı: 150
+Product Image URL: https://cdn.cimri.io/market/260x260/solo-cek-al-150li-pecete-_1280613.jpg
+
+
+2
+Product Name: Solo 200'lü Kağıt Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 32,50 TL
+
+Market Products:
+ - Market: Şok                  Product: Solo Super Pecete 200 Yp       Price: 32,50 TL   Unit Price: 32,50 TL/Adet
+ - Market: A101                 Product: Pecete 30x30 Cm 200'lu Solo    Price: 37,50 TL   Unit Price: 37,50 TL/Adet
+ - Market: Hakmar Express       Product: Pecete 30x30 200lu Solo-050324 Price: 39,90 TL   Unit Price: 39,90 TL/Adet
+ - Market: Migros               Product: Solo Pecete 200'lu             Price: 69,90 TL   Unit Price: 69,90 TL/Adet
+ - Market: Carrefour            Product: Solo Super Pecete 200lu        Price: 75,50 TL   Unit Price: 75,50 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Yaprak Sayısı: 200
+Product Image URL: https://cdn.cimri.io/market/260x260/solo-200lu-kagit-pecete-_1280624.jpg
+
+
+3
+Product Name: Beyaz Güvercin 50'li Premium Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 19,50 TL
+
+Market Products:
+ - Market: Şok                  Product: Beyaz Guvercin Premium Pecete 50'li Price: 19,50 TL   Unit Price: 0,39 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 50 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/beyaz-guvercin-50li-premium-pecete-_1434642.jpg
+
+
+4
+Product Name: Selpak 20'li Extra Desenli Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 19,90 TL
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Selpak Pecete Extra 20 Li      Price: 19,90 TL   Unit Price: 0,99 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/selpak-20li-extra-desenli-pecete-_1722715.jpg
+
+
+5
+Product Name: Solo Süper 3x200 Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 192,99 TL
+
+Market Products:
+ - Market: Migros               Product: Sanal Solo Pecete 3*200'lu     Price: 192,99 TL  Unit Price: 64,33 TL/Adet
+
+Similar Products:
+ - Similar Product: Migros 200'lü Süper Ekonomik Peçete                Price: 17,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/solo-super-3x200-pecete-_1280087.jpg
+
+
+6
+Product Name: Duni 10'lu Kumaş Dokulu Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 180,00 TL
+
+Market Products:
+ - Market: Migros               Product: Duni 40*40 Elegance Kumas Dokulu Pecete 10lu Price: 180,00 TL  Unit Price: 18,00 TL/Adet
+
+Similar Products:
+ - Similar Product: Duni 40X40 Desenli Kumaş Dokulu Peçete 12'li       Price: 190,00 TL
+ - Similar Product: Sofia 25'li Kumaş Dokulu Beyaz Peçete              Price: 39,95 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg
+
+
+7
+Product Name: Duni 40X40 Desenli Kumaş Dokulu Peçete 12'li
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 190,00 TL
+
+Market Products:
+ - Market: Migros               Product: Duni 40*40 Desenli Kumas Dokulu Pecete 12li Price: 190,00 TL  Unit Price: 190,00 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Yaprak Sayısı: 12
+Product Image URL: https://cdn.cimri.io/market/260x260/duni-40x40-desenli-kumas-dokulu-pecete-12li-_316021.jpg
+
+
+8
+Product Name: Duni 20'lı Yılbaşı Desenli Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 77,75 TL
+
+Market Products:
+ - Market: Migros               Product: Duni Pecete Yilbas Desenli 33*33 20li Price: 77,75 TL   Unit Price: 3,89 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/duni-20li-yilbasi-desenli-pecete-_1444414.jpg
+
+
+9
+Product Name: Blume 100'lü Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 17,25 TL
+
+Market Products:
+ - Market: Bim                  Product: Pecete 100'lu Blume            Price: 17,25 TL   Unit Price: 0,17 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 100 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/blume-100lu-pecete-_1430703.jpg
+
+
+10
+Product Name: Mistral 200'lü 24x26,5 Cm Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 17,50 TL
+
+Market Products:
+ - Market: A101                 Product: Pecete 200'lu Mistral          Price: 17,50 TL   Unit Price: 17,50 TL/Adet
+
+Similar Products:
+ - Similar Product: Carrefour 200 Adet 26x24 cm Peçete                 Price: 17,50 TL
+
+Features:
+ - Adet: 1 Adet
+ - Yaprak Sayısı: 200
+Product Image URL: https://cdn.cimri.io/market/260x260/mistral-200lu-24x265-cm-pecete-_478216.jpg
+
+
+11
+Product Name: Ecco Mavi Dünya 200'lü Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 11,00 TL
+
+Market Products:
+ - Market: Migros               Product: Ecco Mavi Dunya Pecete 200'lu  Price: 11,00 TL   Unit Price: 0,06 TL/Adet
+ - Market: A101                 Product: Pecete Mavi Dunya 200'lu Ecco  Price: 16,00 TL   Unit Price: 0,08 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/ecco-mavi-dunya-200lu-pecete-_1267549.jpg
+
+
+12
+Product Name: Beyaz Güvercin 200 Adet Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 26,00 TL
+
+Market Products:
+ - Market: Şok                  Product: Beyaz Guvercin Pecete 200 Yp   Price: 26,00 TL   Unit Price: 26,00 TL/Adet
+
+Similar Products:
+ - Similar Product: Beyaz Güvercin 50'li Premium Peçete                Price: 19,50 TL
+
+Features:
+ - Yaprak: 200
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/beyaz-guvercin-200-adet-pecete-_668611.jpg
+
+
+13
+Product Name: Sofia 25'li Kumaş Dokulu Beyaz Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 39,95 TL
+
+Market Products:
+ - Market: Migros               Product: Sofia Kumas Dokulu Pecete Beyaz 25'li Price: 39,95 TL   Unit Price: 1,60 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sofia-25li-kumas-dokulu-beyaz-pecete-_1743452.jpg
+
+
+14
+Product Name: Viva 100'lü Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 19,95 TL
+
+Market Products:
+ - Market: Migros               Product: Viva Pecete 100lu              Price: 19,95 TL   Unit Price: 0,20 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/viva-100lu-pecete-_1002334.jpg
+
+
+15
+Product Name: Elit 100'lü Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 17,90 TL
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Elit Pecete 100 Lu             Price: 17,90 TL   Unit Price: 0,18 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 100 Adet
+ - Kategori: Peçete
+Product Image URL: https://cdn.cimri.io/market/260x260/elit-100lu-pecete-_1444764.jpg
+
+
+16
+Product Name: Duni 24x24 Düz 20'li Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 64,50 TL
+
+Market Products:
+ - Market: Migros               Product: Duni 24*24 Duz Pecete 20'li    Price: 64,50 TL   Unit Price: 64,50 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Yaprak Sayısı: 20
+Product Image URL: https://cdn.cimri.io/market/260x260/duni-24x24-duz-20li-pecete-_478558.jpg
+
+
+17
+Product Name: Yeşil Beyaz 24x25 cm 100'lü Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 8,95 TL
+
+Market Products:
+ - Market: Hakmar Express       Product: Pecete 24x25cm 100 Lu Yesil Beyaz Price: 8,95 TL    Unit Price: 0,09 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/yesil-beyaz-24x25-cm-100lu-pecete-_1442320.jpg
+
+
+18
+Product Name: Selis 100'lü Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 18,50 TL
+
+Market Products:
+ - Market: Hakmar Express       Product: Pecete 30x30cm 100lu Selis     Price: 18,50 TL   Unit Price: 18,50 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Yaprak Sayısı: 100
+Product Image URL: https://cdn.cimri.io/market/260x260/selis-100lu-pecete-_410506.jpg
+
+
+19
+Product Name: Rulopak 200 Adet Tekçek Bi'Dolu Maxi Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 7,00 TL
+
+Market Products:
+ - Market: Migros               Product: Tekcek Bidolu Maxi Pecete 2 Katli 200lu Price: 7,00 TL    Unit Price: 0,04 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/rulopak-200-adet-tekcek-bidolu-maxi-pecete-_1178128.jpg
+
+
+20
+Product Name: Ecco 30x30 200'lü Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 18,75 TL
+
+Market Products:
+ - Market: A101                 Product: Pecete 30x30 200'lu Ecco       Price: 18,75 TL   Unit Price: 0,09 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 200 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/ecco-30x30-200lu-pecete-_1436751.jpg
+
+
+21
+Product Name: Migros 200'lü Süper Ekonomik Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 17,50 TL
+
+Market Products:
+ - Market: Migros               Product: Migros Super Ekonomik Pecete 200lu Price: 17,50 TL   Unit Price: 17,50 TL/Adet
+
+Similar Products:
+ - Similar Product: Solo Süper 3x200 Peçete                            Price: 192,99 TL
+
+Features:
+ - Adet: 1 Adet
+ - Yaprak Sayısı: 200
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-200lu-super-ekonomik-pecete-_478665.jpg
+
+
+22
+Product Name: Carrefour 200 Adet 26x24 cm Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 17,50 TL
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour 26x24 200lu Pecete   Price: 17,50 TL   Unit Price: 17,50 TL/Adet
+
+Similar Products:
+ - Similar Product: Mistral 200'lü 24x26,5 Cm Peçete                   Price: 17,50 TL
+
+Features:
+ - Yaprak: 200
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-200-adet-26x24-cm-pecete-_861219.jpg
+
+
+23
+Product Name: Blume 200'lü Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 15,00 TL
+
+Market Products:
+ - Market: Bim                  Product: Pecete 200'lu Blume            Price: 15,00 TL   Unit Price: 0,07 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 200 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/blume-200lu-pecete-_1431960.jpg
+
+
+24
+Product Name: Duni 33x33 Düz 20'li Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 66,90 TL
+
+Market Products:
+ - Market: Migros               Product: Duni 33*33 Duz Pecete 20li     Price: 66,90 TL   Unit Price: 66,90 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Yaprak Sayısı: 20
+Product Image URL: https://cdn.cimri.io/market/260x260/duni-33x33-duz-20li-pecete-_478572.jpg
+
+
+25
+Product Name: Servis 200'lü Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 11,50 TL
+
+Market Products:
+ - Market: Şok                  Product: Servis Pecete 200'lu           Price: 11,50 TL   Unit Price: 11,50 TL/Adet
+ - Market: Carrefour            Product: Servis Pecete 200lu            Price: 26,90 TL   Unit Price: 26,90 TL/Adet
+ - Market: Migros               Product: Servis Pecete 200 Lu           Price: 29,90 TL   Unit Price: 29,90 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Yaprak Sayısı: 200
+Product Image URL: https://cdn.cimri.io/market/260x260/servis-200lu-pecete-_303744.jpg
+
+
+26
+Product Name: Duni 12 Adet Runner Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 260,00 TL
+
+Market Products:
+ - Market: Migros               Product: Duni Runner 40x480cm Pecete 12 Adet Price: 260,00 TL  Unit Price: 260,00 TL/Adet
+
+Similar Products:
+ - Similar Product: Duni 40X40 Desenli Kumaş Dokulu Peçete 12'li       Price: 190,00 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/duni-12-adet-runner-pecete-_1442953.jpg
+
+
+27
+Product Name: Maylo 150'li Puf Tweety Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 17,95 TL
+
+Market Products:
+ - Market: Hakmar Express       Product: Pecete Puf 150li Maylo         Price: 17,95 TL   Unit Price: 0,12 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/maylo-150li-puf-tweety-pecete-_1578686.jpg
+
+
+28
+Product Name: Duni 20'lı Desenli Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 65,50 TL
+
+Market Products:
+ - Market: Migros               Product: Duni 33*33 Desenli Pecete 20li Price: 65,50 TL   Unit Price: 3,27 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/duni-20li-desenli-pecete-_1444391.jpg
+
+
+29
+Product Name: Solo Rengarenk 100'lü Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 37,65 TL
+
+Market Products:
+ - Market: Carrefour            Product: Solo Rengarenk Pecete 100lu    Price: 37,65 TL   Unit Price: 37,65 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Yaprak Sayısı: 100
+Product Image URL: https://cdn.cimri.io/market/260x260/solo-rengarenk-100lu-pecete-_1280625.jpg
+
+
+30
+Product Name: Rulopak Maxi Tek Çek Bidolu 3 Katlı 150'li Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 11,00 TL
+
+Market Products:
+ - Market: Migros               Product: Tekcek Bidolu Maxi Pecete 3 Katli 150li Price: 11,00 TL   Unit Price: 0,07 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/rulopak-maxi-tek-cek-bidolu-3-katli-150li-pecete-_1441451.jpg
+
+
+31
+Product Name: Elit 200'lü Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 16,90 TL
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Elit Pecete 200 Lu             Price: 16,90 TL   Unit Price: 0,08 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/elit-200lu-pecete-_1445520.jpg
+
+
+32
+Product Name: Selpak Deluxe 20'li Çiçek Desenli Peçetesi
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 17,90 TL
+
+Market Products:
+ - Market: Migros               Product: Selpak Deluxe Pecete 20li      Price: 17,90 TL   Unit Price: 0,90 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/selpak-deluxe-20li-cicek-desenli-pecetesi-_1275330.jpg
+
+
+33
+Product Name: Confort 200 Adet Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 17,50 TL
+
+Market Products:
+ - Market: Şok                  Product: Confort Pecete 200'lu          Price: 17,50 TL   Unit Price: 0,09 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/confort-200-adet-pecete-_1178100.jpg
+
+
+34
+Product Name: Papia Desenli 20'li Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 17,90 TL
+
+Market Products:
+ - Market: A101                 Product: Pecete Desenli 20'li Papia     Price: 17,90 TL   Unit Price: 17,90 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Yaprak Sayısı: 20
+Product Image URL: https://cdn.cimri.io/market/260x260/papia-desenli-20li-pecete-_1279470.jpg
+
+
+35
+Product Name: Carrefour 100'lü 30x30 cm Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 20,00 TL
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Pecete 100 Lu 30x30 Cm Price: 20,00 TL   Unit Price: 0,20 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg
+
+
+36
+Product Name: Mistral 30x30 cm 100'lü Kağıt Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 20,00 TL
+
+Market Products:
+ - Market: A101                 Product: Pecete 30x30cm 100'lu Mistral  Price: 20,00 TL   Unit Price: 0,20 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/mistral-30x30-cm-100lu-kagit-pecete-_1813736.jpg
+
+
+37
+Product Name: Teno 200'lü Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 13,30 TL
+
+Market Products:
+ - Market: A101                 Product: Pecete 200'lu Teno             Price: 13,30 TL   Unit Price: 13,30 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Yaprak Sayısı: 200
+Product Image URL: https://cdn.cimri.io/market/260x260/teno-200lu-pecete-_476190.jpg
+
+
+38
+Product Name: Sofia 50'li Kumaş Dokulu Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 34,00 TL
+
+Market Products:
+ - Market: Migros               Product: Sofia Kumas Dokulu Pecete 50'li Price: 34,00 TL   Unit Price: 34,00 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Yaprak Sayısı: 50
+Product Image URL: https://cdn.cimri.io/market/260x260/sofia-50li-kumas-dokulu-pecete-_713525.jpg
+
+
+39
+Product Name: Maylo 100'lü Hamarat Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 15,00 TL
+
+Market Products:
+ - Market: Migros               Product: Maylo Tegv Pecete 100'lu       Price: 15,00 TL   Unit Price: 15,00 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Yaprak Sayısı: 100
+Product Image URL: https://cdn.cimri.io/market/260x260/maylo-100lu-hamarat-pecete-_304183.jpg
+
+
+40
+Product Name: Familia 200'lü Servis Peçete
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Peçete
+Cheapest Price: 35,90 TL
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Familia Pecete 200 Lu          Price: 35,90 TL   Unit Price: 35,90 TL/Adet
+ - Market: Carrefour            Product: Familia Pecete 200 Lu          Price: 75,90 TL   Unit Price: 75,90 TL/Adet
+ - Market: Migros               Product: Familia Pecete 200lu           Price: 75,90 TL   Unit Price: 75,90 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Yaprak Sayısı: 200
+Product Image URL: https://cdn.cimri.io/market/260x260/familia-200lu-servis-pecete-_1281578.jpg
+
+
+{'solo': 4, 'çek': 2, 'al': 1, "150'li": 3, 'peçete': 39, "200'lü": 10, 'kağıt': 2, 'beyaz': 4, 'güvercin': 2, "50'li": 2, 'premium': 1, 'selpak': 2, "20'li": 5, 'extra': 1, 'desenli': 6, 'süper': 2, '3x200': 1, 'duni': 7, "10'lu": 1, 'kumaş': 4, 'dokulu': 4, '40x40': 1, "12'li": 1, "20'lı": 2, 'yılbaşı': 1, 'blume': 2, "100'lü": 9, 'mistral': 2, '24x26,5': 1, 'cm': 5, 'ecco': 2, 'mavi': 1, 'dünya': 1, '200': 4, 'adet': 5, 'sofia': 2, "25'li": 1, 'viva': 1, 'elit': 2, '24x24': 1, 'düz': 2, 
+'yeşil': 1, '24x25': 1, 'selis': 1, 'rulopak': 2, 'tekçek': 1, "bi'dolu": 1, 'maxi': 2, '30x30': 3, 'migros': 1, 'ekonomik': 1, 'carrefour': 2, '26x24': 1, '33x33': 
+1, 'servis': 2, '12': 1, 'runner': 1, 'maylo': 2, 'puf': 1, 'tweety': 1, 'rengarenk': 1, 'tek': 1, 'bidolu': 1, '3': 1, 'katlı': 1, 'deluxe': 1, 'çiçek': 1, 'peçetesi': 1, 'confort': 1, 'papia': 1, 'teno': 1, 'hamarat': 1, 'familia': 1}
+['Adet', 'Yaprak Sayısı', 'Yaprak', 'Kategori']
+
+peçete_içerik_dict = {
+    'solo': 'Solo', 'çek': 'Çek', 'al': 'Al', "150'li": "150'li", 
+    'peçete': '', "200'lü": "200'lü", 'kağıt': 'Kağıt', 'beyaz': 'Beyaz', 
+    'güvercin': 'Güvercin', "50'li": "50'li", 'premium': 'Premium', 'selpak': 'Selpak', 
+    "20'li": "20'li", 'extra': 'Extra', 'desenli': 'Desenli', 'süper': 'Süper', 
+    '3x200': '3x200', 'duni': 'Duni', "10'lu": "10'lu", 'kumaş': 'Kumaş', 
+    'dokulu': 'Dokulu', '40x40': '40x40', "12'li": "12'li", "20'lı": "20'lı", 
+    'yılbaşı': 'Yılbaşı', 'blume': 'Blume', "100'lü": "100'lü", 'mistral': 'Mistral', 
+    '24x26,5': '24x26,5', 'cm': 'CM', 'ecco': 'Ecco', 'mavi': 'Mavi', 
+    'dünya': 'Dünya', '200': '200', 'adet': 'Adet', 'sofia': 'Sofia', 
+    "25'li": "25'li", 'viva': 'Viva', 'elit': 'Elit', '24x24': '24x24', 
+    'düz': 'Düz', 'yeşil': 'Yeşil', '24x25': '24x25', 'selis': 'Selis', 
+    'rulopak': 'Rulopak', 'tekçek': 'Tekçek', "bi'dolu": "Bi'dolu", 'maxi': 'Maxi', 
+    '30x30': '30x30', 'migros': 'Migros', 'ekonomik': 'Ekonomik', 'carrefour': 'Carrefour', 
+    '26x24': '26x24', '33x33': '33x33', 'servis': 'Servis', '12': '12', 
+    'runner': 'Runner', 'maylo': 'Maylo', 'puf': 'Puf', 'tweety': 'Tweety', 
+    'rengarenk': 'Rengarenk', 'tek': 'Tek', 'bidolu': 'Bidolu', '3': '3', 
+    'katlı': 'Katlı', 'deluxe': 'Deluxe', 'çiçek': 'Çiçek', 'peçetesi': 'Peçetesi', 
+    'confort': 'Confort', 'papia': 'Papia', 'teno': 'Teno', 'hamarat': 'Hamarat', 
+    'familia': 'Familia'
+}
+
+peçete_ürün_tipi_dict = {
+    'solo': 'Peçete', 'çek': 'Peçete', 'al': 'Peçete', "150'li": "Peçete", 
+    'peçete': '', "200'lü": "Peçete", 'kağıt': 'Peçete', 'beyaz': 'Peçete', 
+    'güvercin': 'Peçete', "50'li": "Peçete", 'premium': 'Peçete', 'selpak': 'Peçete', 
+    "20'li": "Peçete", 'extra': 'Peçete', 'desenli': 'Peçete', 'süper': 'Peçete', 
+    '3x200': 'Peçete', 'duni': 'Peçete', "10'lu": "Peçete", 'kumaş': 'Peçete', 
+    'dokulu': 'Peçete', '40x40': 'Peçete', "12'li": "Peçete", "20'lı": "Peçete", 
+    'yılbaşı': 'Peçete', 'blume': 'Peçete', "100'lü": "Peçete", 'mistral': 'Peçete', 
+    '24x26,5': 'Peçete', 'cm': 'Peçete', 'ecco': 'Peçete', 'mavi': 'Peçete', 
+    'dünya': 'Peçete', '200': 'Peçete', 'adet': 'Peçete', 'sofia': 'Peçete', 
+    "25'li": "Peçete", 'viva': 'Peçete', 'elit': 'Peçete', '24x24': 'Peçete', 
+    'düz': 'Peçete', 'yeşil': 'Peçete', '24x25': 'Peçete', 'selis': 'Peçete', 
+    'rulopak': 'Peçete', 'tekçek': 'Peçete', "bi'dolu": "Peçete", 'maxi': 'Peçete', 
+    '30x30': 'Peçete', 'migros': 'Peçete', 'ekonomik': 'Peçete', 'carrefour': 'Peçete', 
+    '26x24': 'Peçete', '33x33': 'Peçete', 'servis': 'Peçete', '12': 'Peçete', 
+    'runner': 'Peçete', 'maylo': 'Peçete', 'puf': 'Peçete', 'tweety': 'Peçete', 
+    'rengarenk': 'Peçete', 'tek': 'Peçete', 'bidolu': 'Peçete', '3': 'Peçete', 
+    'katlı': 'Peçete', 'deluxe': 'Peçete', 'çiçek': 'Peçete', 'peçetesi': 'Peçete', 
+    'confort': 'Peçete', 'papia': 'Peçete', 'teno': 'Peçete', 'hamarat': 'Peçete', 
+    'familia': 'Peçete'
+}
+
+
+
+peçete_ürün_türü_dict = {
+    'solo': 'Solo Peçete', 'çek': 'Çek Peçete', 'al': 'Al Peçete', "150'li": "150'li Peçete", 
+    'peçete': 'Peçete', "200'lü": "200'lü Peçete", 'kağıt': 'Kağıt Peçete', 'beyaz': 'Beyaz Peçete', 
+    'güvercin': 'Güvercin Peçete', "50'li": "50'li Peçete", 'premium': 'Premium Peçete', 'selpak': 'Selpak Peçete', 
+    "20'li": "20'li Peçete", 'extra': 'Extra Peçete', 'desenli': 'Desenli Peçete', 'süper': 'Süper Peçete', 
+    '3x200': '3x200 Peçete', 'duni': 'Duni Peçete', "10'lu": "10'lu Peçete", 'kumaş': 'Kumaş Peçete', 
+    'dokulu': 'Dokulu Peçete', '40x40': '40x40 Peçete', "12'li": "12'li Peçete", "20'lı": "20'lı Peçete", 
+    'yılbaşı': 'Yılbaşı Peçete', 'blume': 'Blume Peçete', "100'lü": "100'lü Peçete", 'mistral': 'Mistral Peçete', 
+    '24x26,5': '24x26,5 Peçete', 'cm': 'CM Peçete', 'ecco': 'Ecco Peçete', 'mavi': 'Mavi Peçete', 
+    'dünya': 'Dünya Peçete', '200': '200 Peçete', 'adet': 'Adet Peçete', 'sofia': 'Sofia Peçete', 
+    "25'li": "25'li Peçete", 'viva': 'Viva Peçete', 'elit': 'Elit Peçete', '24x24': '24x24 Peçete', 
+    'düz': 'Düz Peçete', 'yeşil': 'Yeşil Peçete', '24x25': '24x25 Peçete', 'selis': 'Selis Peçete', 
+    'rulopak': 'Rulopak Peçete', 'tekçek': 'Tekçek Peçete', "bi'dolu": "Bi'dolu Peçete", 'maxi': 'Maxi Peçete', 
+    '30x30': '30x30 Peçete', 'migros': 'Migros Peçete', 'ekonomik': 'Ekonomik Peçete', 'carrefour': 'Carrefour Peçete', 
+    '26x24': '26x24 Peçete', '33x33': '33x33 Peçete', 'servis': 'Servis Peçete', '12': '12 Peçete', 
+    'runner': 'Runner Peçete', 'maylo': 'Maylo Peçete', 'puf': 'Puf Peçete', 'tweety': 'Tweety Peçete', 
+    'rengarenk': 'Rengarenk Peçete', 'tek': 'Tek Peçete', 'bidolu': 'Bidolu Peçete', '3': '3 Peçete', 
+    'katlı': 'Katlı Peçete', 'deluxe': 'Deluxe Peçete', 'çiçek': 'Çiçek Peçete', 
+    'confort': 'Confort Peçete', 'papia': 'Papia Peçete', 'teno': 'Teno Peçete', 'hamarat': 'Hamarat Peçete', 
+    'familia': 'Familia Peçete'
+}

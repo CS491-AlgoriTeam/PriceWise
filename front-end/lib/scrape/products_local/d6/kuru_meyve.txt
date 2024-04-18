@@ -1,0 +1,2806 @@
+1
+Product Name: Çerezya 120 gr Acve Hurması
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 21,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Kuru Meyve Hurma Acve 120 G Çerezya Price: 21,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/cerezya-120-gr-acve-hurmasi-_1155022.jpg 
+
+
+2
+Product Name: QURU 50 gr Kurutulmuş Ananas
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 10,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Quru 17 H Map Kurutulmus Ananas 50 G Price: 10,00 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Ananas
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 50 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/quru-50-gr-kurutulmus-ananas-_460919.jpg 
+
+
+3
+Product Name: Çerezya 300 gr Kudüs Hurması
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 97,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Kuru Meyve Hurma Kudus 300 G Çerezya Price: 97,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Hurma
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 300 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/cerezya-300-gr-kudus-hurmasi-_1155020.jpg 
+
+
+4
+Product Name: Tariş 250 gr Kuru İncir
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 39,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Kuru Incir 250 G Taris         Price: 39,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/taris-250-gr-kuru-incir-_1434423.jpg 
+
+
+5
+Product Name: Züber Fırından 40 gr Kakaolu Hindistan Cevizi Cipsi
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 44,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Zuber Firindan Kakaolu Hindistan Cevizi Cipsi 40 G Price: 44,95 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Toplam Ağırlık: 40 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/zuber-firindan-40-gr-kakaolu-hindistan-cevizi-cipsi-_238142.jpg 
+
+
+6
+Product Name: 1 kg Kuru İncir
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 74,72 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuru Incir Kg                  Price: 74,72 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: İncir
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/1-kg-kuru-incir-_275034.jpg 
+
+
+7
+Product Name: Simbat 400 gr Hudri Hurma
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 42,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Hurma Hudri 400 Gr Simbat      Price: 42,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Hurma
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/simbat-400-gr-hudri-hurma-_1431041.jpg 
+
+
+8
+Product Name: Migros 200 gr Çiğ İç Badem
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 64,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Migros Çig Ic Badem 200g       Price: 64,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-200-gr-cig-ic-badem-_1196209.jpg 
+
+
+9
+Product Name: Tadım 125 gr Kuru Erik
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 24,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Tadim Kuru Erik 125 G          Price: 24,00 TL   Unit Price: 0
+ - Market: Carrefour            Product: Tadim Kuru Erik 125 Gr         Price: 38,00 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Erik
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 125 gr
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/tadim-125-gr-kuru-erik-_275851.jpg 
+
+
+10
+Product Name: 350 gr Kuru Kayısı
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 168,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Tugba Kuru Kayisi 350 G.       Price: 168,00 TL  Unit Price: 0
+
+Similar Products:
+ - Similar Product: 350 gr Jumbo Gün Kurusu Kayısı                     Price: 168,00 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/350-gr-kuru-kayisi-_1184620.jpg 
+
+
+11
+Product Name: Freshbak 20 gr Dondurularak Kurutulmuş Freeze-Dried Yaban Mersini
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 53,53 TL 
+
+Market Products:
+ - Market: Migros               Product: Freshbak Freeze Dried Yaban Mersini 20 G Price: 53,53 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Freshbak  20 gr Dondurularak Kurutulmuş Freeze-Dried İncir Price: 28,00 TL  
+
+Features:
+ - Ürün Tipi: Yaban Mersini
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 20 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/freshbak-20-gr-dondurularak-kurutulmus-freeze-dried-yaban-mersini-_462933.jpg 
+
+
+12
+Product Name: 350 gr Jumbo Gün Kurusu Kayısı
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 168,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Tugba Gunkurusu Kayisi 350 G.  Price: 168,00 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL:  
+
+
+13
+Product Name: Derme Natura 300 gr Çekirdeksiz Tunus Hurması
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 29,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Derme Natura Çekirdeksiz Tunus Hurmasi 300 G Price: 29,90 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Cedid 250 gr Natural Çekirdeksiz Tunus Hurma       Price: 59,90 TL  
+ - Similar Product: Çerezya 300 gr Tunus Hurması                       Price: 27,00 TL  
+ - Similar Product: Karcı 300 gr Tunus Hurma                           Price: 29,90 TL  
+ - Similar Product: Cedid 300 gr Hurma Tunus                           Price: 21,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/derme-natura-300-gr-cekirdeksiz-tunus-hurmasi-_1082026.jpg 
+
+
+14
+Product Name: Carrefour Bio Organik Medjoul 150 gr Hurma
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 36,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Bio Organik Hurma Medjoul 150g Price: 36,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Hurma
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 150 gr
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-bio-organik-medjoul-150-gr-hurma-_458375.jpg 
+
+
+15
+Product Name: Amigo Dalından 400 gr Kayısı Gün Kurusu
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 28,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Amigo Dalindan Kayisi Gun Kurusu 400 Gr Price: 28,00 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Gün Kurusu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/amigo-dalindan-400-gr-kayisi-gun-kurusu-_314691.jpg 
+
+
+16
+Product Name: Reyondan 1 kg Elma Kurusu
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 399,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Elma Kurusu Kg                 Price: 399,95 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-elma-kurusu-_603117.jpg 
+
+
+17
+Product Name: Patiswiss 80 gr Glazed Tam Kaplı Bitter Çikolatalı Portakal Dilim
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 73,75 TL 
+
+Market Products:
+ - Market: Migros               Product: Patiswiss Glazed Tam Kapli Bitter Çik.port.dlm.80g Price: 73,75 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/patiswiss-80-gr-glazed-tam-kapli-bitter-cikolatali-portakal-dilim-_1746358.jpg 
+
+
+18
+Product Name: Anadolce 300 gr Jumbo Medjoul Hurma
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 39,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Anadolce Jumbo Medjoul Hurma 300g Price: 39,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/anadolce-300-gr-jumbo-medjoul-hurma-_1753452.jpg 
+
+
+19
+Product Name: Dovido 140 gr Kuru Kayısı
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 59,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Dovido Kuru Kayisi 140 G       Price: 59,90 TL   Unit Price: 0
+ - Market: Migros               Product: Dovido Gun Kurusu Kayisi 140 G Price: 64,90 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Master Farm 140 gr Günkurusu Kayısı                Price: 57,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/dovido-140-gr-kuru-kayisi-_1857378.jpg 
+
+
+20
+Product Name: Carrefour Bio Organik 160 gr Gün Kurusu
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 138,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Bio Organik Gun Kurusu 160 Gr Price: 138,90 TL  Unit Price: 0
+
+Similar Products:
+ - Similar Product: Carrefour 160 gr Bio Organik İncir Kurusu          Price: 136,50 TL 
+
+Features:
+ - Ürün Tipi: Gün Kurusu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 160 gr
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-bio-organik-160-gr-gun-kurusu-_214239.jpg 
+
+
+21
+Product Name: Mixmey 25 gr Bee Polen Erik
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 17,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Mixmey Bee Polen Erik 25gr     Price: 17,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/mixmey-25-gr-bee-polen-erik-_1440753.jpg 
+
+
+22
+Product Name: Astronut 120 gr Kuru Dağ İnciri
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 89,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Astronut Kuru Dag Inciri 120g  Price: 89,90 TL   Unit Price: 0
+ - Market: Migros               Product: Astronut Kuru Dag Inciri 120 G Price: 105,00 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL:  
+
+
+23
+Product Name: QURU 18 gr Kurutulmuş Vişne
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 25,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Quru Kurutulmus Visne 18 Gr    Price: 25,90 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: QURU 18 gr Kurutulmuş Portakal                     Price: 17,15 TL  
+
+Features:
+Product Image URL:  
+
+
+24
+Product Name: Carrefour 40 gr Bio Organik Vişne Kurusu
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 56,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Bio Org. Visne 40 G  Price: 56,90 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Carrefour 40 gr Bio Organik Üzüm Fındık Vişne      Price: 36,90 TL  
+ - Similar Product: Carrefour Bio 50 gr Karışık Kayısı Badem Vişne Kurusu Price: 59,50 TL  
+ - Similar Product: Carrefour Bio 40 gr Kuru Organik Çilek             Price: 58,90 TL  
+
+Features:
+ - Ürün Tipi: Vişne
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 40 gr
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-40-gr-bio-organik-visne-kurusu-_458360.jpg 
+
+
+25
+Product Name: Ots Organik 200 gr Dut Kurusu
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 133,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Ots Organik Kuru Dut 200g      Price: 133,50 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Dut
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 gr
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/ots-organik-200-gr-dut-kurusu-_275176.jpg 
+
+
+26
+Product Name: Carrefour 40 gr Bio Organik Vişne Kurusu
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 56,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Bio Org. Visne 40 G  Price: 56,90 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Carrefour 40 gr Bio Organik Üzüm Fındık Vişne      Price: 36,90 TL  
+ - Similar Product: Carrefour Bio 50 gr Karışık Kayısı Badem Vişne Kurusu Price: 59,50 TL  
+ - Similar Product: Carrefour Bio 40 gr Kuru Organik Çilek             Price: 58,90 TL  
+
+Features:
+ - Ürün Tipi: Vişne
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 40 gr
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-40-gr-bio-organik-visne-kurusu-_458360.jpg 
+
+
+27
+Product Name: Trabzon Hurması
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 79,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Trabzon Hurmasi Kg.            Price: 79,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Hurma
+ - Toplam Ağırlık: 1 kg
+Product Image URL:  
+
+
+28
+Product Name: Mixmey 25 gr Bee Polen Erik
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 17,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Mixmey Bee Polen Erik 25gr     Price: 17,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/mixmey-25-gr-bee-polen-erik-_1440753.jpg 
+
+
+29
+Product Name: Asha 80 gr Dried Kuru Mango
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 69,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Asha Dried Fruits Kuru Mango 80 G. Price: 69,95 TL   Unit Price: 0
+ - Market: Carrefour            Product: Asha Dried Kuru Mango 80g      Price: 74,80 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL:  
+
+
+30
+Product Name: Asha 80 gr Kuru Ananas
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 66,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Asha Dried Fruits Kuru Ananas 80 G. Price: 66,00 TL   Unit Price: 0
+ - Market: Carrefour            Product: Asha Dried Kuru Ananas 80g     Price: 68,60 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/asha-80-gr-kuru-ananas-_869920.jpg 
+
+
+31
+Product Name: Amigo 250 gr Dalından Kuru İncir
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 74,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Amigo Dalindan Kuru Incir 250 Gr Price: 74,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/amigo-250-gr-dalindan-kuru-incir-_1181828.jpg 
+
+
+32
+Product Name: Ezgi Beypazarı Kurusu 350 gr
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 65,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Ezgi Beypazari Kurusu 350 Gr   Price: 65,90 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Beypazarı 350 gr Kurusu                            Price: 88,50 TL  
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 350 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/ezgi-beypazari-kurusu-350-gr-_30990.jpg 
+
+
+33
+Product Name: 1 kg Karışık Çiğ Kuru Meyve
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 389,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Karisik Kuru Meyve Çig Kg      Price: 389,95 TL  Unit Price: 0
+
+Similar Products:
+ - Similar Product: Migros 200 gr Çiğ İç Badem                         Price: 64,50 TL  
+
+Features:
+ - Ürün Tipi: Karışık Kuru Meyve
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/1-kg-karisik-cig-kuru-meyve-_463179.jpg 
+
+
+34
+Product Name: Çerezya 25 gr Elma Hurma Portakal Kuru Meyve
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 8,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Kuru Meyve Elm-hur-port 25 G Çerezya Price: 8,50 TL    Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/cerezya-25-gr-elma-hurma-portakal-kuru-meyve-_1443880.jpg 
+
+
+35
+Product Name: Çerezya 25 gr Kurutulmuş Ananas Çilek
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 15,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Kuru Meyve Ananas-cilek 25 G Çerezya Price: 15,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/cerezya-25-gr-kurutulmus-ananas-cilek-_1434515.jpg 
+
+
+36
+Product Name: Reyondan 1 kg Çilek Kurusu
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 949,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Çilek Kurusu Kg                Price: 949,95 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-cilek-kurusu-_603110.jpg 
+
+
+37
+Product Name: Çerezya 300 gr Tunus Hurması
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 27,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Kuru Meyve Hurma Tunus 300g Çerezya Price: 27,00 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Derme Natura 300 gr Çekirdeksiz Tunus Hurması      Price: 29,90 TL  
+ - Similar Product: Karcı 300 gr Tunus Hurma                           Price: 29,90 TL  
+ - Similar Product: Cedid 300 gr Hurma Tunus                           Price: 21,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/cerezya-300-gr-tunus-hurmasi-_1444493.jpg 
+
+
+38
+Product Name: Çerezya 250 gr Antep Karası Kuru Üzüm
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 45,90 TL 
+
+Market Products:
+ - Market: A101                 Product: K.meyve Üzum Antep Karasi 250 G Çerezya Price: 45,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/cerezya-250-gr-antep-karasi-kuru-uzum-_1448811.jpg 
+
+
+39
+Product Name: Çerezya 400 gr Sarı Kayısı
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 110,00 TL 
+
+Market Products:
+ - Market: A101                 Product: K.meyve Sarikayisi 400 G Çerezya Price: 110,00 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Kayısı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/cerezya-400-gr-sari-kayisi-_892463.jpg 
+
+
+40
+Product Name: Anadolce 300 gr Jumbo Medjoul Hurma
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 39,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Anadolce Jumbo Medjoul Hurma 300g Price: 39,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/anadolce-300-gr-jumbo-medjoul-hurma-_1753452.jpg 
+
+
+41
+Product Name: QURU 19 gr Kurutulmuş Çilek
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 34,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Quru Kurutulmus Çilek 19 Gr    Price: 34,90 TL   Unit Price: 0
+ - Market: Migros               Product: Quru Kurutulmus Çilek 19 G     Price: 34,95 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Çilek
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 19 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/quru-19-gr-kurutulmus-cilek-_462519.jpg 
+
+
+42
+Product Name: Patiswiss 80 gr Glazed Tam Kaplı Bitter Çikolatalı Portakal Dilim
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 73,75 TL 
+
+Market Products:
+ - Market: Migros               Product: Patiswiss Glazed Tam Kapli Bitter Çik.port.dlm.80g Price: 73,75 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/patiswiss-80-gr-glazed-tam-kapli-bitter-cikolatali-portakal-dilim-_1746358.jpg 
+
+
+43
+Product Name: Dovido 140 gr Kuru Kayısı
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 59,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Dovido Kuru Kayisi 140 G       Price: 59,90 TL   Unit Price: 0
+ - Market: Migros               Product: Dovido Gun Kurusu Kayisi 140 G Price: 64,90 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Master Farm 140 gr Günkurusu Kayısı                Price: 57,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/dovido-140-gr-kuru-kayisi-_1857378.jpg 
+
+
+44
+Product Name: Amigo 500 gr Dalından Kuru Üzüm
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 49,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Amigo Dalindan Kuru Üzum 500 Gr Price: 49,50 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Amigo Dalından 400 gr Antep Karası Üzüm            Price: 26,95 TL  
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: Kabuksuz
+ - Ürün Tipi: Üzüm
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+ - Saklama Koşulları: Oda Sıcaklığında
+ - Ambalaj Tipi: Doypack
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+45
+Product Name: Çerezya 500 gr Sukkari Yaş Hurma
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 89,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Kuru Meyve Hurma Sukkari 500 G Çerezya Price: 89,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Yaş Hurma
+ - Ağırlık: 500 gr
+ - Ürün Tipi: Hurma
+ - Toplam Ağırlık: 400 gr
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/cerezya-500-gr-sukkari-yas-hurma-_949327.jpg 
+
+
+46
+Product Name: Simbat 500 gr Kuru Üzüm
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 34,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Kuru Üzum 500 Gr Simbat        Price: 34,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Üzüm
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/simbat-500-gr-kuru-uzum-_1433694.jpg 
+
+
+47
+Product Name: Çerezya 250 gr Medine Hurma
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 99,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Kurumeyve Hurma Medine 250 G Çerezya Price: 99,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Hurma
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/cerezya-250-gr-medine-hurma-_994592.jpg 
+
+
+48
+Product Name: Simbat 250 gr Mebrum Hurma
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 75,00 TL 
+
+Market Products:
+ - Market: Bim                  Product: Mebrum Hurma 250 G Simbat      Price: 75,00 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Hurma
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/simbat-250-gr-mebrum-hurma-_1431043.jpg 
+
+
+49
+Product Name: Karcı 300 gr Tunus Hurma
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 29,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Karci Tunus Hurma 300 G        Price: 29,90 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Derme Natura 300 gr Çekirdeksiz Tunus Hurması      Price: 29,90 TL  
+ - Similar Product: Çerezya 300 gr Tunus Hurması                       Price: 27,00 TL  
+ - Similar Product: Cedid 300 gr Hurma Tunus                           Price: 21,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/karci-300-gr-tunus-hurma-_993956.jpg 
+
+
+50
+Product Name: Chefru 18 gr Kurutulmuş Muz
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 7,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Chefru Kurutulmus Muz 18 G     Price: 7,00 TL    Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Muz
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 18 gr
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/chefru-18-gr-kurutulmus-muz-_276183.jpg 
+
+
+51
+Product Name: Tuğba 350 gr Kuru İncir
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 171,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Tugba Kuru Incir 350 G         Price: 171,00 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL:  
+
+
+52
+Product Name: Reyondan 1 kg Gün Kurusu Kayısı Kabaaşı
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 499,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Gun Kurusu Kayisi Kabaasi Kg   Price: 499,90 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Kabaaşı Gün Kurusu Kayısı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-gun-kurusu-kayisi-kabaasi-_434553.jpg 
+
+
+53
+Product Name: Hopbidi Organik Portakal 25 gr Meyve Küpü
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 62,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Hopbidi Org.portakal Meyve Kupu 25g Price: 62,50 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Çerezya 25 gr Elma Hurma Portakal Kuru Meyve       Price: 8,50 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/hopbidi-organik-portakal-25-gr-meyve-kupu-_1480324.jpg 
+
+
+54
+Product Name: Reyondan 1 kg Kuru Kayısı
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 399,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Kayisi ( Luks )                Price: 399,90 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-kuru-kayisi-_592471.jpg 
+
+
+55
+Product Name: Bahçeden 200 gr  Kuru Erik
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 47,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Bahceden Kuru Erik 200g        Price: 47,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Erik
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/bahceden-200-gr-kuru-erik-_315435.jpg 
+
+
+56
+Product Name: Dovido 200 gr Günkurusu Kayısı
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 54,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Dovido Gunkurusu Kayisi 200 G  Price: 54,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Gün Kurusu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 gr
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/dovido-200-gr-gunkurusu-kayisi-_275776.jpg 
+
+
+57
+Product Name: Reyondan 500 gr Taze Hurma
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 64,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Taze Hurma 500 G.              Price: 64,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Hurma
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-500-gr-taze-hurma-_603049.jpg 
+
+
+58
+Product Name: Astronut 150 gr Mürdüm Eriği
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 79,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Astronut Murdum Erigi 150 G    Price: 79,95 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Astronut 150 gr Çekirdeksiz Mürdüm Erik            Price: 75,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/astronut-150-gr-murdum-erigi-_982825.jpg 
+
+
+59
+Product Name: Quru 90 gr Kurutulmuş Trabzon Hurması
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 12,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Quru 17 H Map Kurutulmus Trabzon Hurma 90 G Price: 12,00 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Hurma
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 90 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/quru-90-gr-kurutulmus-trabzon-hurmasi-_460924.jpg 
+
+
+60
+Product Name: Tuğba 400 gr Cevizli Kuru İncir
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 194,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Tugba Cevizli Kuru Incir 400 G Price: 194,00 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/tugba-400-gr-cevizli-kuru-incir-_456801.jpg 
+
+
+61
+Product Name: Karcı 250 gr Gün Kurusu Kayısı
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 29,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Karci Gun Kurusu Kayisi 250 G  Price: 29,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+62
+Product Name: Karcı 250 gr Kuru Kayısı
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 42,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Karci Kuru Kayisi 250 G        Price: 42,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/karci-250-gr-kuru-kayisi-_1482844.jpg 
+
+
+63
+Product Name: Verita 125 gr Ahududu Frambuaz
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 274,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Verita Ahududu 125 G           Price: 274,90 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Ahududu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 125 gr
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/verita-125-gr-ahududu-frambuaz-_97100.jpg 
+
+
+64
+Product Name: Freshbak  20 gr Dondurularak Kurutulmuş Freeze-Dried İncir
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 28,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Freshbak Freeze Dried Incir 30 G Price: 28,00 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Freshbak 20 gr Dondurularak Kurutulmuş Freeze-Dried Yaban Mersini Price: 53,53 TL  
+
+Features:
+ - Ürün Tipi: İncir
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 20 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/freshbak-20-gr-dondurularak-kurutulmus-freeze-dried-incir-_462923.jpg 
+
+
+65
+Product Name: Hopbidi 25 gr Organik Çilek Meyve Küpü
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 65,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Hopbidi Org.cilek Meyve Kupu 25g Price: 65,00 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+66
+Product Name: Züber Deglet Noor 110 gr Çekirdeksiz Hurma
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 13,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Zuber Deglet Noor Çekirdeksiz Hurma 110 G Price: 13,00 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Cedid 250 gr Natural Çekirdeksiz Tunus Hurma       Price: 59,90 TL  
+ - Similar Product: Derme Natura 300 gr Çekirdeksiz Tunus Hurması      Price: 29,90 TL  
+
+Features:
+ - Ürün Tipi: Hurma
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 110 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/zuber-deglet-noor-110-gr-cekirdeksiz-hurma-_1455080.jpg 
+
+
+67
+Product Name: Reyondan 1 kg Kuru Meyve Karışık
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 21,41 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuru Meyve Karisik Kg          Price: 21,41 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-kuru-meyve-karisik-_434527.jpg 
+
+
+68
+Product Name: Perfect Delights 100 gr Karışık Kuru Meyve
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 30,75 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Perfect Delights Karisik Kuru Meyve 100g Price: 30,75 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+69
+Product Name: Promosyon 1 kg Medine Hurma
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 129,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Medine Hurma Promosyon Kg      Price: 129,90 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+70
+Product Name: Carrefour 40 gr Kuş Üzümü
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 10,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Kus Üzumu 40 G       Price: 10,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Üzüm
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 40 gr
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-40-gr-kus-uzumu-_458364.jpg 
+
+
+71
+Product Name: Puccınellı Elmataş Katkısız 50 gr Çıtır Elma
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 27,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Çitir Elma Katkisiz 50 Gr      Price: 27,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/puccinelli-elmatas-katkisiz-50-gr-citir-elma-_1482985.jpg 
+
+
+72
+Product Name: Carrefour 160 gr Bio Organik İncir Kurusu
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 136,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Bio Org. Incir 160 G Price: 136,50 TL  Unit Price: 0
+
+Similar Products:
+ - Similar Product: Carrefour Bio Organik 160 gr Gün Kurusu            Price: 138,90 TL 
+
+Features:
+ - Ürün Tipi: İncir
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 160 gr
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-160-gr-bio-organik-incir-kurusu-_216376.jpg 
+
+
+73
+Product Name: Carrefour Bio 50 gr Karışık Kayısı Badem Vişne Kurusu
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 59,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Bio Kayisi Badem Visne 50g Price: 59,50 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Carrefour 40 gr Bio Organik Vişne Kurusu           Price: 56,90 TL  
+ - Similar Product: Carrefour 40 gr Bio Organik Vişne Kurusu           Price: 56,90 TL  
+
+Features:
+Product Image URL:  
+
+
+74
+Product Name: Carrefour 40 gr Bio Organik Üzüm Fındık Vişne
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 36,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Bio Üzum Ic Findik Visne 40 Gr Price: 36,90 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Carrefour 40 gr Bio Organik Vişne Kurusu           Price: 56,90 TL  
+ - Similar Product: Carrefour 40 gr Bio Organik Vişne Kurusu           Price: 56,90 TL  
+
+Features:
+ - Ürün Tipi: Vişne
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 40 gr
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-40-gr-bio-organik-uzum-findik-visne-_216604.jpg 
+
+
+75
+Product Name: Astronut 150 gr Çekirdeksiz Mürdüm Erik
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 75,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Astronut Çekirdeksiz Murdum Erik 150g Price: 75,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL:  
+
+
+76
+Product Name: Mıxmey 25 gr Bee Propolıs Hurma
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 17,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Mixmey Bee Propolis Hurma 25gr Price: 17,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Propolıs Hurma
+ - Ağırlık: 25 gr
+ - Ürün Tipi: Hurma
+ - Toplam Ağırlık: 25 gr
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/mixmey-25-gr-bee-propolis-hurma-_995491.jpg 
+
+
+77
+Product Name: Master 175 gr Farm Siyah Çekirdekli Üzüm
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 70,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Master Farm Siyah Çekirdekli Üzum 175 Gr Price: 70,00 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/master-175-gr-farm-siyah-cekirdekli-uzum-_421353.jpg 
+
+
+78
+Product Name: Carrefour Bio 40 gr Kuru Organik Çilek
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 58,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Bio Org. Çilek 40 G  Price: 58,90 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Carrefour 40 gr Bio Organik Vişne Kurusu           Price: 56,90 TL  
+ - Similar Product: Carrefour 40 gr Bio Organik Vişne Kurusu           Price: 56,90 TL  
+ - Similar Product: Carrefour 40 gr Bio Organik Üzüm Fındık Vişne      Price: 36,90 TL  
+ - Similar Product: Carrefour Bio 40 gr Kuru Üzüm Badem Dut            Price: 42,90 TL  
+
+Features:
+Product Image URL:  
+
+
+79
+Product Name: QURU 20 gr Kurutulmuş Tarçınlı Elma
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 16,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Quru Kurutulmus Tarcinli Elma 20 Gr Price: 16,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Elma
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 20 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/quru-20-gr-kurutulmus-tarcinli-elma-_461429.jpg 
+
+
+80
+Product Name: Tkk 200 gr Organik Kuru Incir
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 62,50 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tkk Kuru Incir Doypack 200 G   Price: 62,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Toplam Ağırlık: 200 gr
+ - Organik: Evet
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/tkk-200-gr-organik-kuru-incir-_597264.jpg 
+
+
+81
+Product Name: Tkk 1 kg Çekirdeksiz Kuru Üzüm
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 102,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tkk Çekirdeksiz Kuru Üzum 1 Kg Price: 102,90 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tkk-1-kg-cekirdeksiz-kuru-uzum-_1444862.jpg 
+
+
+82
+Product Name: Asha 80 gr Fruit Bites Keçiboynuzu Tozlu Kaplamalı Muz Topları
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 34,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Asha Keci Boy. Tozu Kap.muz Topu 80g Price: 34,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/asha-80-gr-fruit-bites-keciboynuzu-tozlu-kaplamali-muz-toplari-_1559743.jpg 
+
+
+83
+Product Name: Amigo Dalından 400 gr Kuru Kayısı
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 29,95 TL 
+
+Market Products:
+ - Market: Şok                  Product: Amigo Dalindan Kuru Kayisi 400 Gr Price: 29,95 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Amigo Dalından 400 gr Kayısı Gün Kurusu            Price: 28,00 TL  
+ - Similar Product: Amigo 250 gr Dalından Kuru Kayısı                  Price: 69,90 TL  
+ - Similar Product: Amigo Dalından 400 gr Antep Karası Üzüm            Price: 26,95 TL  
+
+Features:
+ - Ürün Tipi: Kayısı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/amigo-dalindan-400-gr-kuru-kayisi-_314690.jpg 
+
+
+84
+Product Name: Tariş 50 gr Sultaniye Kuru Üzüm
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 3,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Kuru Meyve Sultaniye Üzum 50 G Taris Price: 3,50 TL    Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+85
+Product Name: Amigo Dalından 400 gr Kuru Kayısı
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 29,95 TL 
+
+Market Products:
+ - Market: Şok                  Product: Amigo Dalindan Kuru Kayisi 400 Gr Price: 29,95 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Amigo Dalından 400 gr Kayısı Gün Kurusu            Price: 28,00 TL  
+ - Similar Product: Amigo 250 gr Dalından Kuru Kayısı                  Price: 69,90 TL  
+ - Similar Product: Amigo Dalından 400 gr Antep Karası Üzüm            Price: 26,95 TL  
+
+Features:
+ - Ürün Tipi: Kayısı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/amigo-dalindan-400-gr-kuru-kayisi-_314690.jpg 
+
+
+86
+Product Name: Amigo 250 gr Dalından Kuru Kayısı
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 69,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Amigo Dalindan Kuru Kayisi 250 Gr Price: 69,90 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Amigo Dalından 400 gr Kayısı Gün Kurusu            Price: 28,00 TL  
+ - Similar Product: Amigo Dalından 400 gr Kuru Kayısı                  Price: 29,95 TL  
+ - Similar Product: Amigo Dalından 400 gr Kuru Kayısı                  Price: 29,95 TL  
+
+Features:
+ - Ürün Tipi: Kayısı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/amigo-250-gr-dalindan-kuru-kayisi-_1432628.jpg 
+
+
+87
+Product Name: Çerezya 400 gr Kuru İncir
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 110,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Kuru Meyve Incir 400 G Çerezya Price: 110,00 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: İncir
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/cerezya-400-gr-kuru-incir-_831440.jpg 
+
+
+88
+Product Name: QURU 18 gr Ananas Çilek Kuru Meyve
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 9,95 TL 
+
+Market Products:
+ - Market: A101                 Product: Kuru Meyve Ananas-cilek 18 G Quru Price: 9,95 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: QURU 18 gr Kurutulmuş Ananas                       Price: 34,90 TL  
+ - Similar Product: Çerezya 25 gr Kurutulmuş Ananas Çilek              Price: 15,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/quru-18-gr-ananas-cilek-kuru-meyve-_1638519.jpg 
+
+
+89
+Product Name: Master Farm 150 gr Aronya
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 89,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Master Farm Aronya 150 G       Price: 89,95 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/master-farm-150-gr-aronya-_1651991.jpg 
+
+
+90
+Product Name: Asha 80 gr Fruit Bites Keçiboynuzu Tozlu Kaplamalı Muz Topları
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 34,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Asha Keci Boy. Tozu Kap.muz Topu 80g Price: 34,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/asha-80-gr-fruit-bites-keciboynuzu-tozlu-kaplamali-muz-toplari-_1559743.jpg 
+
+
+91
+Product Name: QURU 18 gr Kurutulmuş Elma
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 10,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Quru Kurutulmus Elma 18 G      Price: 10,00 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: QURU 18 gr Kurutulmuş Portakal                     Price: 17,15 TL  
+
+Features:
+ - Ürün Tipi: Elma
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 18 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/quru-18-gr-kurutulmus-elma-_461413.jpg 
+
+
+92
+Product Name: Çerezya 100 gr Kuru Dut
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 27,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Kurumeyve Dut 100 G Çerezya    Price: 27,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Dut
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 100 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/cerezya-100-gr-kuru-dut-_1431822.jpg 
+
+
+93
+Product Name: Master Farm 140 gr Günkurusu Kayısı
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 57,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Kuru Meyve Gunkurusu 140g Master Farm Price: 57,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/master-farm-140-gr-gunkurusu-kayisi-_795428.jpg 
+
+
+94
+Product Name: Dovido 200 gr Kuru Kayısı
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 54,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dovido Kuru Kayisi 200 G       Price: 54,95 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Kayısı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/dovido-200-gr-kuru-kayisi-_458963.jpg 
+
+
+95
+Product Name: Çerezya Günkurusu 400 Gr Kurumeyve
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 110,00 TL 
+
+Market Products:
+ - Market: A101                 Product: K.meyve Gunkurusu 400 G Çerezya Price: 110,00 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Gün Kurusu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/cerezya-gunkurusu-400-gr-kurumeyve-_914707.jpg 
+
+
+96
+Product Name: Tadım 140 gr Gün Kurusu
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 83,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Tadim Guneste Kurutulmus Kayisi 140 Gr Price: 83,00 TL   Unit Price: 0
+ - Market: Migros               Product: Tadim Guneste Kurutulmus Kayisi 140 G Price: 83,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Gün Kurusu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 140 gr
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/tadim-140-gr-gun-kurusu-_458949.jpg 
+
+
+97
+Product Name: QURU 18 gr Kurutulmuş Ananas
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 34,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Quru Kurutulmus Ananas 18 Gr   Price: 34,90 TL   Unit Price: 0
+ - Market: Migros               Product: Quru Kurutulmus Ananas 18 G    Price: 34,95 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: QURU 18 gr Ananas Çilek Kuru Meyve                 Price: 9,95 TL   
+
+Features:
+ - Ürün Tipi: Ananas
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 18 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/quru-18-gr-kurutulmus-ananas-_459038.jpg 
+
+
+98
+Product Name: Dovido 200 gr Meyve Mix
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 34,25 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Dovido Meyvemix 200 G          Price: 34,25 TL   Unit Price: 0
+ - Market: Migros               Product: Dovido Meyve Mix 200 G         Price: 49,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Karışık Kuru Meyve
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 gr
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/dovido-200-gr-meyve-mix-_275771.jpg 
+
+
+99
+Product Name: Amigo 250 gr Dalından Meyve Mix
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 47,95 TL 
+
+Market Products:
+ - Market: Şok                  Product: Amigo Dalindan Meyve Mix 250 Gr Price: 47,95 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Amigo 250 gr Dalından Kuru İncir                   Price: 74,50 TL  
+
+Features:
+ - İçerik: Sade
+ - Ürün Tipi: Karışık Kuru Meyve
+ - Toplam Ağırlık: 250 gr
+ - Menşei: Türkiye
+ - Saklama Koşulları: Oda Sıcaklığında
+ - Ambalaj Tipi: Doypack
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+100
+Product Name: Master Farm 120 gr Kuru Erik
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 25,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Kuru Meyve Erik 120g Master Farm Price: 25,90 TL   Unit Price: 0
+ - Market: Migros               Product: Master Farm Kuru Erik 120 G    Price: 49,90 TL   Unit Price: 0
+ - Market: Carrefour            Product: Master Farm Erik Kurusu 120 Gr Price: 50,00 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Kuru Erik
+ - Ürün Tipi: Erik
+ - Toplam Ağırlık: 120 gr
+ - Menşei: Sırbistan
+Product Image URL: https://cdn.cimri.io/market/260x260/master-farm-120-gr-kuru-erik-_1000410.jpg 
+
+
+101
+Product Name: Tadım 163 gr Hurma
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 70,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Tadim Hurma 163 Gr             Price: 70,00 TL   Unit Price: 0
+ - Market: Migros               Product: Tadim Hurma 163 G              Price: 70,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Hurma
+ - Toplam Ağırlık: 163 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/tadim-163-gr-hurma-_275705.jpg 
+
+
+102
+Product Name: Peyman 150 gr Bahçeden Hurma
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 80,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Peyman Bahceden Hurma 150 G    Price: 80,90 TL   Unit Price: 0
+ - Market: Carrefour            Product: Bahceden Hurma 150 G           Price: 81,00 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Hurma
+ - Toplam Ağırlık: 150 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/peyman-150-gr-bahceden-hurma-_276227.jpg 
+
+
+103
+Product Name: Tariş 250 gr Meyve Karışımı
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 29,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Kuru Meyve Karisimi Taris 250g Price: 29,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/taris-250-gr-meyve-karisimi-_314986.jpg 
+
+
+104
+Product Name: Tarım Kredi 250 gr Organik Kuru Dut
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 53,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tkk Kuru Dut Map 250 Gr        Price: 53,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tarim-kredi-250-gr-organik-kuru-dut-_1297952.jpg 
+
+
+105
+Product Name: Anadolce 250 gr Medjoul Hurma
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 59,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Anadolce Medjoul Hurma 250 Gr  Price: 59,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/anadolce-250-gr-medjoul-hurma-_1458027.jpg 
+
+
+106
+Product Name: Master Farm 140 gr Kuru Kayısı
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 49,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Kuru Meyve Kayisi 140g Master Farm Price: 49,90 TL   Unit Price: 0
+ - Market: Migros               Product: Master Farm Kuru Kayisi 140 G  Price: 59,95 TL   Unit Price: 0
+ - Market: Carrefour            Product: Master Farm Kuru Kayisi 140 Gr Price: 70,00 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Master Farm 140 gr Günkurusu Kayısı                Price: 57,50 TL  
+
+Features:
+ - Toplam Ağırlık: 140 gr
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Doypack
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/master-farm-140-gr-kuru-kayisi-_596855.jpg 
+
+
+107
+Product Name: Reyondan 300 gr Has Naturel Gün Kurusu Kayısı
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 23,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Has Naturel Gun Kurusu Kayisi 300 G Price: 23,00 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Reyondan 300 gr Has Naturel Gün Kurusu Kayısı      Price: 23,00 TL  
+ - Similar Product: Reyondan 300 gr Has Naturel Kuru Kayısı            Price: 23,00 TL  
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 300 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-300-gr-has-naturel-gun-kurusu-kayisi-_603043.jpg 
+
+
+108
+Product Name: Reyondan 300 gr Has Naturel Kuru Kayısı
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 23,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Has Naturel Kuru Kayisi 300 G  Price: 23,00 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Reyondan 300 gr Has Naturel Gün Kurusu Kayısı      Price: 23,00 TL  
+ - Similar Product: Reyondan 300 gr Has Naturel Kuru Kayısı            Price: 23,00 TL  
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 300 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-300-gr-has-naturel-kuru-kayisi-_603073.jpg 
+
+
+109
+Product Name: Mck 1 kg Zencefil Kurusu
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 349,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Zencefil Kurusu Kg Mck         Price: 349,95 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/mck-1-kg-zencefil-kurusu-_1838282.jpg 
+
+
+110
+Product Name: Asha 30 gr Muzlu Meyve Şeridi
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 29,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Asha Muzlu Meyve Şeridi 30gr   Price: 29,00 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Asha 30 gr Çilekli Meyve Şeridi                    Price: 29,00 TL  
+ - Similar Product: Züber 49 gr Kids Muzlu Meyve Küpü                  Price: 42,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/asha-30-gr-muzlu-meyve-seridi-_1797296.jpg 
+
+
+111
+Product Name: Mck 1 kg Ananas Kurusu
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 1.199,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Ananas Kurusu Dogal Kg Mck     Price: 1.199,95 TL Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/mck-1-kg-ananas-kurusu-_1876620.jpg 
+
+
+112
+Product Name: Verita 125 gr Redberry Frenk Üzümü
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 104,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Verita Redberry-frenk Üzumu 125g Price: 104,90 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Üzüm
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 125 gr
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/verita-125-gr-redberry-frenk-uzumu-_275521.jpg 
+
+
+113
+Product Name: Asha 30 gr Çilekli Meyve Şeridi
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 29,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Asha Çilekli Meyve Şeridi 30gr Price: 29,00 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Asha 30 gr Muzlu Meyve Şeridi                      Price: 29,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/asha-30-gr-cilekli-meyve-seridi-_1797294.jpg 
+
+
+114
+Product Name: Hurmatat 250 gr Mebrum Hurma
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 42,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Hurmatat Mebrum Hurma 250 G    Price: 42,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/hurmatat-250-gr-mebrum-hurma-_1445328.jpg 
+
+
+115
+Product Name: Kırlıoğlu 250 gr Gün Kurusu Kayısı
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 59,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Kirlioglu Gun Kurusu Kayisi 250 Gr Price: 59,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kirlioglu-250-gr-gun-kurusu-kayisi-_1442343.jpg 
+
+
+116
+Product Name: Migros 200 gr Gün Kurusu Malatya Kayısısı
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 99,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Migros Gun Kurusu Malatya Kayisisi Jumbo 200g Price: 99,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-200-gr-gun-kurusu-malatya-kayisisi-_1234151.jpg 
+
+
+117
+Product Name: Master Farm 125 gr Hurma
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 35,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Master Farm Hurma 125 Gr       Price: 35,00 TL   Unit Price: 0
+ - Market: A101                 Product: Kurumeyve Hurma 125g Master Farm Price: 72,50 TL   Unit Price: 0
+ - Market: Migros               Product: Master Farm Mebrum Hurma 125 G Price: 84,90 TL   Unit Price: 0
+ - Market: Carrefour            Product: Master Farm Hurma 125 Gr       Price: 85,00 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/master-farm-125-gr-hurma-_1324220.jpg 
+
+
+118
+Product Name: Anadolu Lezzetleri 150 gr Kemaliye Dut Kurusu
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 94,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Anadolu Lezzetleri Egin Dut Kurusu 150 G Price: 94,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Dut
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 150 gr
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/anadolu-lezzetleri-150-gr-kemaliye-dut-kurusu-_275694.jpg 
+
+
+119
+Product Name: Master Nut 400 gr Hesaplı Mix Kokteyl Kuruyemiş
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 129,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Master Nut Kokteyl Hesapli Mix 400 G Price: 129,95 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/master-nut-400-gr-hesapli-mix-kokteyl-kuruyemis-_1309007.jpg 
+
+
+120
+Product Name: Cedid 500 gr Tunus Dalli Hurma
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 119,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Cedid Tunus Dalli Hurma 500 G  Price: 119,90 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/cedid-500-gr-tunus-dalli-hurma-_1885203.jpg 
+
+
+121
+Product Name: Çerezya 250 gr Hudri Hurma
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 50,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Kuru Meyve Hurma Hudri 250 G Çerezya Price: 50,00 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/cerezya-250-gr-hudri-hurma-_1878606.jpg 
+
+
+122
+Product Name: Otto 150 gr Büyük Kuru İncir
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 92,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Otto Dried Fruits Kuru Incir Buyuk 150g Price: 92,95 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/otto-150-gr-buyuk-kuru-incir-_1443610.jpg 
+
+
+123
+Product Name: Emsal 150 gr Siyah Kuru Üzüm
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 22,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Emsal Siyah Kuru Üzum 150 G    Price: 22,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/emsal-150-gr-siyah-kuru-uzum-_1321020.jpg 
+
+
+124
+Product Name: QURU 18 gr Kurutulmuş Portakal
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 17,15 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Quru Kurutulmus Portakal 18 Gr Price: 17,15 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Chefru 18 gr Kurutulmuş Muz                        Price: 7,00 TL   
+ - Similar Product: QURU 18 gr Kurutulmuş Ananas                       Price: 34,90 TL  
+ - Similar Product: QURU 18 gr Kurutulmuş Elma                         Price: 10,00 TL  
+ - Similar Product: QURU 18 gr Kurutulmuş Vişne                        Price: 25,90 TL  
+
+Features:
+ - Ürün Tipi: Portakal
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 18 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/quru-18-gr-kurutulmus-portakal-_459040.jpg 
+
+
+125
+Product Name: Saluta 100 gr Hindistan Cevizi Dilimleri
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 59,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Saluta Hindistan Cevizi Dilimleri 100 Gr Price: 59,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/saluta-100-gr-hindistan-cevizi-dilimleri-_1801787.jpg 
+
+
+126
+Product Name: QURU Ananas - Çilek 25 gr Kuru Meyve
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 17,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Kuru Meyve Ananas-cilek 25 Quru Price: 17,00 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Çerezya 25 gr Kurutulmuş Ananas Çilek              Price: 15,50 TL  
+ - Similar Product: QURU 18 gr Ananas Çilek Kuru Meyve                 Price: 9,95 TL   
+
+Features:
+ - Ürün Tipi: Karışık Kuru Meyve
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 25 gr
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+127
+Product Name: Çerezya 500 gr Kuru Üzüm
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 59,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Kuru Meyve Üzum 500 G Çerezya  Price: 59,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Üzüm
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+Product Image URL:  
+
+
+128
+Product Name: Tkk 200 gr Gün Kurusu Kayısı
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 64,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tkk Gun Kurusu Kayisi Doypack 200 Gr Price: 64,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tkk-200-gr-gun-kurusu-kayisi-_1442645.jpg 
+
+
+129
+Product Name: Tarım Kredi 300 gr Özbek Cinsi Siyah Çekirdeksiz Kuru Üzüm
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 62,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tkk Özbek Cinsi Siyah Çekirdeksiz Kuru Üzum 300 Gr Price: 62,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tarim-kredi-300-gr-ozbek-cinsi-siyah-cekirdeksiz-kuru-uzum-_1444013.jpg 
+
+
+130
+Product Name: Tarım Kredi Besni Kuru Üzüm 250 gr
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 49,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tkk Besni Kuru Üzum Map 250 Gr Price: 49,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Toplam Ağırlık: 250 gr
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/tarim-kredi-besni-kuru-uzum-250-gr-_599160.jpg 
+
+
+131
+Product Name: Züber 49 gr Kids Muzlu Meyve Küpü
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 42,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Zuber Kidz Muzlu Meyve Kupu 49 Gr Price: 42,50 TL   Unit Price: 0
+ - Market: Migros               Product: Zuber Kidz Muzlu Meyve Kupu 49 G Price: 42,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/zuber-49-gr-kids-muzlu-meyve-kupu-_988018.jpg 
+
+
+132
+Product Name: Dovido 500 gr Çekirdeksiz Kuru Üzüm
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 43,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Dovido 500 Gr Çekirdeksiz Kuru Üzum Price: 43,50 TL   Unit Price: 0
+ - Market: Migros               Product: Dovido Kuru Üzum 500 G         Price: 44,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/dovido-500-gr-cekirdeksiz-kuru-uzum-_1449962.jpg 
+
+
+133
+Product Name: Dovido 100 gr Berry Mix
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 69,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Dovido Berry Mix 100 G         Price: 69,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 100 gr
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/dovido-100-gr-berry-mix-_275778.jpg 
+
+
+134
+Product Name: 90 gr Çıtır Elma Kurutulmuş Elma Dilimleri
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 12,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Çitir Elma 90 Gr               Price: 12,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/90-gr-citir-elma-kurutulmus-elma-dilimleri-_791860.jpg 
+
+
+135
+Product Name: Carrefour Bio 40 gr Kuru Üzüm Badem Dut
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 42,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Bio Üzum Badem Dut 40 Gr Price: 42,90 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Carrefour 40 gr Bio Organik Üzüm Fındık Vişne      Price: 36,90 TL  
+ - Similar Product: Carrefour 90 gr Bio Organik Dut Kurusu             Price: 55,90 TL  
+
+Features:
+Product Image URL:  
+
+
+136
+Product Name: Beypazarı 350 gr Kurusu
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 88,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Beypazari Kurusu 350 Gr        Price: 88,50 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: 350 gr Jumbo Gün Kurusu Kayısı                     Price: 168,00 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/beypazari-350-gr-kurusu-_1454277.jpg 
+
+
+137
+Product Name: QURU Ananas - Çilek 25 gr Kuru Meyve
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 17,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Kuru Meyve Ananas-cilek 25 Quru Price: 17,00 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Çerezya 25 gr Kurutulmuş Ananas Çilek              Price: 15,50 TL  
+ - Similar Product: QURU 18 gr Ananas Çilek Kuru Meyve                 Price: 9,95 TL   
+
+Features:
+ - Ürün Tipi: Karışık Kuru Meyve
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 25 gr
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+138
+Product Name: Master Farm 150 gr Kuru İncir
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 39,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Kuru Meyve Incir 150g Master Farm Price: 39,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/master-farm-150-gr-kuru-incir-_1715867.jpg 
+
+
+139
+Product Name: Peyman Bahçeden 100 gr Dut Kurusu
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 31,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Peyman Bahceden Dut Kurusu 100 Gr Price: 31,90 TL   Unit Price: 0
+ - Market: Migros               Product: Peyman Bahceden Dut Kurusu 100 G Price: 46,45 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Kurutulmuş
+ - Ürün Tipi: Dut
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 100 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/peyman-bahceden-100-gr-dut-kurusu-_26023.jpg 
+
+
+140
+Product Name: Tadım 140 gr Kuru Kayısı
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 67,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Tadim Kuru Kayisi 140 Gr       Price: 67,00 TL   Unit Price: 0
+ - Market: Migros               Product: Tadim Kuru Kayisi 140 G        Price: 67,50 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Master Farm 140 gr Günkurusu Kayısı                Price: 57,50 TL  
+
+Features:
+ - Ürün Türü: Kuru
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 140 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/tadim-140-gr-kuru-kayisi-_275704.jpg 
+
+
+141
+Product Name: Amigo Dalından 400 gr Antep Karası Üzüm
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 26,95 TL 
+
+Market Products:
+ - Market: Şok                  Product: Amigo Dalindan Antep Karasi Üzum 400 Gr Price: 26,95 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Üzüm
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/amigo-dalindan-400-gr-antep-karasi-uzum-_314693.jpg 
+
+
+142
+Product Name: Carrefour 90 gr Bio Organik Dut Kurusu
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 55,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Bio Org. Dut 90 G    Price: 55,90 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Carrefour 160 gr Bio Organik İncir Kurusu          Price: 136,50 TL 
+ - Similar Product: Carrefour Bio Organik 160 gr Gün Kurusu            Price: 138,90 TL 
+ - Similar Product: Carrefour 40 gr Bio Organik Vişne Kurusu           Price: 56,90 TL  
+ - Similar Product: Carrefour 40 gr Bio Organik Vişne Kurusu           Price: 56,90 TL  
+
+Features:
+ - Ürün Tipi: Dut
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 90 gr
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-90-gr-bio-organik-dut-kurusu-_458367.jpg 
+
+
+143
+Product Name: Cedid 250 gr Natural Çekirdeksiz Tunus Hurma
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 59,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Cedid Natural Çekirdeksiz Tunus Hurma 250 G Price: 59,90 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Derme Natura 300 gr Çekirdeksiz Tunus Hurması      Price: 29,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/cedid-250-gr-natural-cekirdeksiz-tunus-hurma-_1495498.jpg 
+
+
+144
+Product Name: Tarım Kredi 500 gr Kuru Üzüm
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 52,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tkk Çekirdeksiz Kuru Üzum 500 G Price: 52,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tarim-kredi-500-gr-kuru-uzum-_1302618.jpg 
+
+
+145
+Product Name: Simbat 250 gr Kuru Kayısı
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 59,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Kuru Kayisi 250 Gr Simbat      Price: 59,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Kayısı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/simbat-250-gr-kuru-kayisi-_1431690.jpg 
+
+
+146
+Product Name: Cedid 300 gr Hurma Tunus
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 21,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Tunus Hurma 300 Gr             Price: 21,90 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Derme Natura 300 gr Çekirdeksiz Tunus Hurması      Price: 29,90 TL  
+ - Similar Product: Çerezya 300 gr Tunus Hurması                       Price: 27,00 TL  
+ - Similar Product: Karcı 300 gr Tunus Hurma                           Price: 29,90 TL  
+
+Features:
+ - Ürün Türü: Tunus Hurması
+ - Toplam Ağırlık: 300 gr
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/cedid-300-gr-hurma-tunus-_465705.jpg 
+
+
+147
+Product Name: Tadım Sultaniye 140 gr Kuru Üzüm
+Main Category: Gıda
+Sub-categories: Fit & Form, Kuru Meyve
+Cheapest Price: 27,45 TL 
+
+Market Products:
+ - Market: Migros               Product: Tadim Sultaniye Kuru Üzum 140 G Price: 27,45 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 140 gr
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/tadim-sultaniye-140-gr-kuru-uzum-_275852.jpg 
+
+
+Word Dictionary:
+çerezya: 14
+120: 3
+gr: 135
+acve: 1
+hurması: 6
+quru: 11
+50: 4
+kurutulmuş: 13
+ananas: 8
+300: 10
+kudüs: 1
+tariş: 3
+250: 18
+kuru: 51
+i̇ncir: 10
+züber: 3
+fırından: 1
+40: 7
+kakaolu: 1
+hindistan: 2
+cevizi: 2
+cipsi: 1
+1: 11
+kg: 11
+simbat: 4
+400: 10
+hudri: 2
+hurma: 22
+migros: 2
+200: 9
+çiğ: 2
+i̇ç: 1
+badem: 3
+tadım: 5
+125: 4
+erik: 6
+350: 5
+kayısı: 24
+freshbak: 2
+20: 3
+dondurularak: 2
+freeze-dried: 2
+yaban: 1
+mersini: 1
+jumbo: 3
+gün: 10
+kurusu: 24
+derme: 1
+natura: 1
+çekirdeksiz: 7
+tunus: 6
+carrefour: 11
+bio: 10
+organik: 13
+medjoul: 4
+150: 9
+amigo: 8
+dalından: 8
+reyondan: 8
+elma: 7
+patiswiss: 2
+80: 6
+glazed: 2
+tam: 2
+kaplı: 2
+bitter: 2
+çikolatalı: 2
+portakal: 5
+dilim: 2
+anadolce: 3
+dovido: 7
+140: 7
+160: 2
+mixmey: 2
+25: 9
+bee: 3
+polen: 2
+astronut: 3
+dağ: 1
+i̇nciri: 1
+18: 6
+vişne: 5
+ots: 1
+dut: 7
+trabzon: 2
+asha: 6
+dried: 1
+mango: 1
+ezgi: 1
+beypazarı: 2
+karışık: 4
+meyve: 15
+çilek: 8
+antep: 2
+karası: 2
+üzüm: 16
+sarı: 1
+19: 1
+500: 8
+sukkari: 1
+yaş: 1
+medine: 2
+mebrum: 2
+karcı: 3
+chefru: 1
+muz: 3
+tuğba: 2
+kabaaşı: 1
+hopbidi: 2
+küpü: 3
+bahçeden: 3
+günkurusu: 3
+taze: 1
+mürdüm: 2
+eriği: 1
+90: 3
+cevizli: 1
+verita: 2
+ahududu: 1
+frambuaz: 1
+deglet: 1
+noor: 1
+110: 1
+perfect: 1
+delights: 1
+100: 5
+promosyon: 1
+kuş: 1
+üzümü: 2
+puccınellı: 1
+elmataş: 1
+katkısız: 1
+çıtır: 2
+fındık: 1
+mıxmey: 1
+propolıs: 1
+master: 8
+175: 1
+farm: 7
+siyah: 3
+çekirdekli: 1
+tarçınlı: 1
+tkk: 3
+incir: 1
+fruit: 2
+bites: 2
+keçiboynuzu: 2
+tozlu: 2
+kaplamalı: 2
+topları: 2
+sultaniye: 2
+aronya: 1
+kurumeyve: 1
+mix: 4
+163: 1
+peyman: 2
+karışımı: 1
+tarım: 4
+kredi: 4
+has: 2
+naturel: 2
+mck: 2
+zencefil: 1
+30: 2
+muzlu: 2
+şeridi: 2
+redberry: 1
+frenk: 1
+çilekli: 1
+hurmatat: 1
+kırlıoğlu: 1
+malatya: 1
+kayısısı: 1
+anadolu: 1
+lezzetleri: 1
+kemaliye: 1
+nut: 1
+hesaplı: 1
+kokteyl: 1
+kuruyemiş: 1
+cedid: 3
+dalli: 1
+otto: 1
+büyük: 1
+emsal: 1
+saluta: 1
+dilimleri: 2
+-: 2
+özbek: 1
+cinsi: 1
+besni: 1
+49: 1
+kids: 1
+berry: 1
+natural: 1
+
+Feature List:
+Ürün Tipi
+Adet
+Toplam Ağırlık
+Menşei
+Organik
+İçerik
+Ürün Türü
+Saklama Koşulları
+Ambalaj Tipi
+Ağırlık
+
+
+kuru_meyve_icerik_dict = {"hurması": "Hurma",
+                         "ananas": "Ananas", "kudüs": "Erik", "tariş": "İncir", "incir": "İncir", 
+                         "hindistan": "Hindistan Cevizi", "cevizi": "Ceviz", "hudri": "Hurmas", 
+                         "hudra": "Hurmas", "polen": "Erik", "çikolatalı": "Çikolata", 
+                         "dondurularak": "Dondurularak", "freeze-dried": "Freeze-Dried", 
+                         "yaban": "Yaban Mersini", "mersini": "Yaban Mersini", "kayısı": "Kayısı", 
+                         "derme": "Hurma", "tunus": "Hurma", "dalından": "Dalından", "reyondan": "Reyondan", 
+                         "dağ": "İncir", "özbek": "Üzüm"}
+
+
+kuru_meyve_turu_dict = {"hurma": "Hurma",
+                            "ananas": "Ananas Kurusu", "kudüs": "Kudüs Erik", "i̇ncir": "İncir", 
+                            "hindistan": "Hindistan Cevizi", "ceviz": "Hindistan Cevizi", "hudri": "Hudri Hurması",
+			                "i̇ncir": "Kuru İncir", "badem": "Çiğ Badem", "erik": "Kuru Erik", "kayısı": "Kuru Kayısı",
+                            "hudra": "Hudra Hurması", "dersi": "Dersi Hurması", "ananas": "Ananas Kurusu",
+			                "badem": "Çiğ Badem", "erik": "Kuru Erik", "muz": "Kuru Muz", "ahududu": "Kuru Ahududu",
+                            "mersini": "Yaban Mersini", "kayısı": "Gün Kurusu Kayısısı", "derme": "Derme Hurması", 
+                            "tunus": "Tunus Hurması", "yaban": "Yaban Mersini", "acve": "Acve Hurması",
+                            "çikolatalı": "Çikolatalı Portakal Dilim", "polen": "Polen Erik",  "frambuaz": "Kuru Frambuaz",
+			                "vişne": "Kuru Vişne", "üzüm": "Kuru Üzüm", "mango": "Kuru Mango", "çilek": "Kuru Çilek",
+                            "dağ": "Dağ İnciri", "özbek": "Özbek Kuru Üzümü"}
+
+kuru_meyve_urun_tipi_dict = {"dilim": "Dilim", "organik": "Organik", "kuru": "Kuru", "kurutulmuş": "Kurutulmuş", "quru": "Kuru",
+			         "dondurulmuş": "Dondurulmuş", "dalından": "Dalından", "reyondan": "Reyondan"}

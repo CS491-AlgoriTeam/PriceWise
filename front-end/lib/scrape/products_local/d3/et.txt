@@ -1,0 +1,3719 @@
+1
+Product Name: Hammadde 1 kg Kuzu Kol
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 196,46 TL 
+
+Market Products:
+ - Market: Migros               Product: Hammadde Kuzu Kol_karaman Kg   Price: 196,46 TL  Unit Price: 196,46 TL/kg
+
+Similar Products:
+ - Similar Product: 1 kg Kemiksiz Kıvırcık Kuzu Kol                    Price: 799,95 TL 
+ - Similar Product: 1 kg Kemikli İnciksiz Kuzu Yarım Kol               Price: 625,95 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/hammadde-1-kg-kuzu-kol-_1574748.jpg 
+
+
+2
+Product Name: Uzman Kasap 400 gr Dana Kıyma
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 165,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Dana Kiyma 400 G   Price: 165,00 TL  Unit Price: 412,50 TL/kg
+
+Similar Products:
+ - Similar Product: Beşler Et Gıda 400 gr Yağsız Dana Kıyma            Price: 200,00 TL 
+ - Similar Product: Tk 400 gr %20 Yağlı Map Tabak Dana Kıyma           Price: 171,90 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kıyma                      Price: 165,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kuzu Kıyma                 Price: 165,00 TL 
+ - Similar Product: Lezzetlim 400 gr Dana Kıyma                        Price: 165,00 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/uzman-kasap-400-gr-dana-kiyma-_1242263.jpg 
+
+
+3
+Product Name: Tutkun Et 1 kg Kuzu Kalem Pirzola
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 370,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Tutkun Et Kuzu Kalem Pirzola Kg Price: 370,00 TL  Unit Price: 370,00 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Kuzu Pirzola                         Price: 799,95 TL 
+ - Similar Product: Reyondan 1 kg Kuzu Pirzola                         Price: 799,95 TL 
+ - Similar Product: Uzman Kasap 300 gr Kuzu Pirzola                    Price: 292,95 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tutkun-et-1-kg-kuzu-kalem-pirzola-_1444190.jpg 
+
+
+4
+Product Name: Emin 400 gr %20 Yağlı Dana Kıyma
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 120,00 TL 
+
+Market Products:
+ - Market: Bim                  Product: Kiyma Dana %20 Yagli 400 Gr Emin Price: 120,00 TL  Unit Price: 300,00 TL/kg
+
+Similar Products:
+ - Similar Product: Tk 400 gr %20 Yağlı Map Tabak Dana Kıyma           Price: 171,90 TL 
+ - Similar Product: Beşler Et Gıda 400 gr Yağsız Dana Kıyma            Price: 200,00 TL 
+
+Features:
+ - Ürün Tipi: Kıyma
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/emin-400-gr-20-yagli-dana-kiyma-_1431398.jpg 
+
+
+5
+Product Name: Beşler Et ve Gıda 500 gr Dondurulmuş Dana Kıyma
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 90,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Dond. Kiyma Dana 500g Besler   Price: 90,00 TL   Unit Price: 180,00 TL/kg
+
+Similar Products:
+ - Similar Product: Dana Kıyma 500 gr                                  Price: 239,90 TL 
+ - Similar Product: Lezzetlim 400 gr Dana Kıyma                        Price: 165,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kıyma                      Price: 165,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kuzu Kıyma                 Price: 165,00 TL 
+
+Features:
+ - Ürün Tipi: Kıyma
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Kategori: Kırmızı Et
+Product Image URL: https://cdn.cimri.io/market/260x260/besler-et-ve-gida-500-gr-dondurulmus-dana-kiyma-_1437980.jpg 
+
+
+6
+Product Name: Migros 1 kg Dana Ciğer
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 129,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Hammadde Dana Ciger Kg         Price: 129,95 TL  Unit Price: 129,95 TL/kg
+
+Similar Products:
+ - Similar Product: Uzman Kasap 500 gr Dana Doğranmış Ciğer            Price: 319,95 TL 
+ - Similar Product: Tadpi 1 kg Piliç Ciğer                             Price: 59,75 TL  
+ - Similar Product: Tadpi 1 kg Piliç Ciğer                             Price: 59,75 TL  
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-1-kg-dana-ciger-_908117.jpg 
+
+
+7
+Product Name: Kuzu Kol
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 509,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Kol Kg                    Price: 509,95 TL  Unit Price: 509,95 TL/kg
+
+Similar Products:
+ - Similar Product: 1 kg Kemiksiz Kıvırcık Kuzu Kol                    Price: 799,95 TL 
+ - Similar Product: Tk 1 kg Kuzu Kol                                   Price: 493,90 TL 
+
+Features:
+ - İçerik: Kuzu
+ - Ürün Tipi: Kol
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/kuzu-kol-_286602.jpg 
+
+
+8
+Product Name: Emin 400 gr Dana Kuşbaşı Et
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 125,00 TL 
+
+Market Products:
+ - Market: Bim                  Product: Kusbasi Et Dana 400 G Emin     Price: 125,00 TL  Unit Price: 312,50 TL/kg
+
+Similar Products:
+ - Similar Product: Tarım Kredi 400 gr Donuk Dana Kuşbaşı              Price: 153,90 TL 
+ - Similar Product: Tarım Kredi 400 gr Donuk Dana Kuşbaşı              Price: 153,90 TL 
+ - Similar Product: Lezzetlim 400 gr Dana Kuşbaşı Et                   Price: 199,90 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kuşbaşı                    Price: 175,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kuşbaşı                    Price: 175,00 TL 
+
+Features:
+ - Ürün Tipi: Kuşbaşı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+ - Kategori: Kırmızı Et
+Product Image URL: https://cdn.cimri.io/market/260x260/emin-400-gr-dana-kusbasi-et-_1431409.jpg 
+
+
+9
+Product Name: Beşler 500 gr Dondurulmuş Kuşbaşı Dana
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 95,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Dond. Kusbasi Dana 500g Besler Price: 95,00 TL   Unit Price: 190,00 TL/kg
+
+Similar Products:
+ - Similar Product: Beşler Et ve Gıda 500 gr Dondurulmuş Dana Kıyma    Price: 90,00 TL  
+ - Similar Product: Beşler Et ve Gıda 500 gr Dana İlikli Kemik         Price: 34,75 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/besler-500-gr-dondurulmus-kusbasi-dana-_1434887.jpg 
+
+
+10
+Product Name: Hammadde 1 kg Kuzu But
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 203,48 TL 
+
+Market Products:
+ - Market: Migros               Product: Hammadde Kuzu But_kivircik Kg  Price: 203,48 TL  Unit Price: 203,48 TL/kg
+
+Similar Products:
+ - Similar Product: Tk 1 kg Kuzu But                                   Price: 524,90 TL 
+ - Similar Product: Tk 1 kg Kuzu But                                   Price: 524,90 TL 
+ - Similar Product: Kuzu But                                           Price: 539,95 TL 
+ - Similar Product: 1 kg Kuzu Kaburga                                  Price: 539,95 TL 
+ - Similar Product: Reyondan 1 kg Dana But                             Price: 589,95 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/hammadde-1-kg-kuzu-but-_1574792.jpg 
+
+
+11
+Product Name: Hammadde 1 kg Dana Yürek
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 29,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Hammadde Dana Yurek Kg         Price: 29,95 TL   Unit Price: 29,95 TL/kg
+
+Similar Products:
+ - Similar Product: 1 kg Dana Yürek                                    Price: 219,95 TL 
+ - Similar Product: Mirza 500 gr Dana Yürek                            Price: 169,90 TL 
+ - Similar Product: 1 kg Kuzu Yürek                                    Price: 357,95 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/hammadde-1-kg-dana-yurek-_1574760.jpg 
+
+
+12
+Product Name: Haket 300 gr Yağsız Dana Kuşbaşı
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 79,00 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Dana Kusbasi Yagsiz 300g Haket Price: 79,00 TL   Unit Price: 263,33 TL/kg
+
+Similar Products:
+ - Similar Product: Uzman Kasap 1 kg Yağsız Dana Kuşbaşı               Price: 562,95 TL 
+ - Similar Product: Haket 300 gr Yağsız Dana Kıyma                     Price: 95,00 TL  
+ - Similar Product: Reyondan 1 kg Yöresel Dana Yağsız Rosto Kıyma      Price: 599,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Rostoluk Et             Price: 599,95 TL 
+ - Similar Product: Beşler Et Gıda 400 gr Yağsız Dana Kıyma            Price: 200,00 TL 
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 300 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/haket-300-gr-yagsiz-dana-kusbasi-_906712.jpg 
+
+
+13
+Product Name: 1 kg Dana Dalak
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 49,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Dalak Kg                  Price: 49,95 TL   Unit Price: 49,95 TL/kg
+
+Similar Products:
+ - Similar Product: Hammadde 1 kg Dana Dalak                           Price: 15,85 TL  
+
+Features:
+ - İçerik: Dana
+ - Ürün Tipi: Dalak
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/1-kg-dana-dalak-_286566.jpg 
+
+
+14
+Product Name: Mirza 500 gr Dana Böbrek
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 65,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Mirza Dana Bobrek (map) 500 Gr Price: 65,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/mirza-500-gr-dana-bobrek-_1443823.jpg 
+
+
+15
+Product Name: 1 kg Koç Yumurtası
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 88,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Koc Yumurtasi Kg               Price: 88,95 TL   Unit Price: 88,95 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Koç
+ - Ürün Tipi: Koç Yumurtası
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/1-kg-koc-yumurtasi-_286569.jpg 
+
+
+16
+Product Name: Tk 400 gr %20 Yağlı Map Tabak Dana Kıyma
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 171,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tk %20 Yagli Dana Kiyma Map Tabak 400g Price: 171,90 TL  Unit Price: 429,75 TL/kg
+
+Similar Products:
+ - Similar Product: Emin 400 gr %20 Yağlı Dana Kıyma                   Price: 120,00 TL 
+ - Similar Product: Tarım Kredi 400 gr Map Tabak Kuşbaşı               Price: 179,90 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tk-400-gr-20-yagli-map-tabak-dana-kiyma-_1555412.jpg 
+
+
+17
+Product Name: Reyondan 1 kg Dana Biftek Yöresel
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 609,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Biftek Yoresel Kg         Price: 609,95 TL  Unit Price: 609,95 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Anadolu Dana Biftek                  Price: 479,95 TL 
+ - Similar Product: Uzman Kasap 300 gr Dana Biftek                     Price: 179,95 TL 
+ - Similar Product: Sultan 400 gr Doğal Çiftliğim Dana Biftek          Price: 248,90 TL 
+
+Features:
+ - İçerik: Dana Eti
+ - Ürün Türü: Antrikot
+ - Ürün Tipi: Biftek
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-dana-biftek-yoresel-_609687.jpg 
+
+
+18
+Product Name: Beşler Et ve Gıda 400 gr Dana Izgara Köfte
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 155,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Kofte Dana Izgara 400 G Besler Price: 155,00 TL  Unit Price: 387,50 TL/kg
+
+Similar Products:
+ - Similar Product: Ettat 400 gr Dana İnegöl Köfte                     Price: 155,00 TL 
+ - Similar Product: Ettat 400 gr Dana İnegöl Köfte                     Price: 155,00 TL 
+ - Similar Product: Emin 400 gr Dana Kuru Köfte                        Price: 115,00 TL 
+ - Similar Product: Emin 400 gr Dana Kuru Köfte                        Price: 115,00 TL 
+ - Similar Product: Emin 400 gr Dana Kuzu Satır Köfte                  Price: 115,00 TL 
+ - Similar Product: Emin 400 gr Dana Kuzu Satır Köfte                  Price: 115,00 TL 
+ - Similar Product: Beşler 400 gr Dana-Kuzu Satır Köfte                Price: 155,00 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/besler-et-ve-gida-400-gr-dana-izgara-kofte-_1435041.jpg 
+
+
+19
+Product Name: Haket 300 gr Yağsız Dana Kıyma
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 95,00 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Dana Kiyma Yagsiz 300g Haket   Price: 95,00 TL   Unit Price: 316,67 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Yöresel Dana Yağsız Rosto Kıyma      Price: 599,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Rostoluk Et             Price: 599,95 TL 
+ - Similar Product: Beşler Et Gıda 400 gr Yağsız Dana Kıyma            Price: 200,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Yağsız Dana Kıyma               Price: 217,95 TL 
+ - Similar Product: Haket 300 gr Yağsız Dana Kuşbaşı                   Price: 79,00 TL  
+ - Similar Product: Uzman Kasap 1 kg Yağsız Dana Kuşbaşı               Price: 562,95 TL 
+
+Features:
+ - Ürün Tipi: Kıyma
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 300 gr
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+20
+Product Name: Beşler 200 gr Dana Döner
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 75,00 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Hazir Dana Doner 200g Nostalji Besler Price: 75,00 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Beşler Et Gıda 400 gr Yağsız Dana Kıyma            Price: 200,00 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/besler-200-gr-dana-doner-_1675213.jpg 
+
+
+21
+Product Name: Lezzetlim 400 gr Dana Kuşbaşı Et
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 199,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Lezzetlim Dana Kusbasi 400 Gr  Price: 199,90 TL  Unit Price: 499,75 TL/kg
+
+Similar Products:
+ - Similar Product: Tarım Kredi 400 gr Donuk Dana Kuşbaşı              Price: 153,90 TL 
+ - Similar Product: Tarım Kredi 400 gr Donuk Dana Kuşbaşı              Price: 153,90 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kuşbaşı                    Price: 175,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kuşbaşı                    Price: 175,00 TL 
+ - Similar Product: Emin 400 gr Dana Kuşbaşı Et                        Price: 125,00 TL 
+
+Features:
+ - Ürün Tipi: Kuşbaşı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/lezzetlim-400-gr-dana-kusbasi-et-_1433132.jpg 
+
+
+22
+Product Name: Reyondan 1 kg Yöresel Dana Yağsız Rosto Kıyma
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 599,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Yagsiz Rosto Kiyma Yoresel Kg Price: 599,95 TL  Unit Price: 599,95 TL/kg
+
+Similar Products:
+ - Similar Product: Beşler Et Gıda 400 gr Yağsız Dana Kıyma            Price: 200,00 TL 
+ - Similar Product: Haket 300 gr Yağsız Dana Kıyma                     Price: 95,00 TL  
+ - Similar Product: Uzman Kasap 400 gr Yağsız Dana Kıyma               Price: 217,95 TL 
+ - Similar Product: 1 kg Dana Nuar Rosto                               Price: 479,95 TL 
+ - Similar Product: Uzman Kasap 1 kg Yağsız Dana Kuşbaşı               Price: 562,95 TL 
+
+Features:
+ - İçerik: Dana Eti
+ - Ürün Türü: Rosto Kıyma
+ - Ürün Tipi: Dana Kıyma
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-yoresel-dana-yagsiz-rosto-kiyma-_610205.jpg 
+
+
+23
+Product Name: Beşler Et Gıda 400 gr Yağsız Dana Kıyma
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 200,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Kiyma Dana Yagsiz 400 G Besler Price: 200,00 TL  Unit Price: 500,00 TL/kg
+
+Similar Products:
+ - Similar Product: Beşler Et ve Gıda 500 gr Dondurulmuş Dana Kıyma    Price: 90,00 TL  
+ - Similar Product: Uzman Kasap 400 gr Yağsız Dana Kıyma               Price: 217,95 TL 
+ - Similar Product: Beşler Et ve Gıda 400 gr Dana Izgara Köfte         Price: 155,00 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Yağsız Rosto Kıyma      Price: 599,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Rostoluk Et             Price: 599,95 TL 
+ - Similar Product: Haket 300 gr Yağsız Dana Kıyma                     Price: 95,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/besler-et-gida-400-gr-yagsiz-dana-kiyma-_1705347.jpg 
+
+
+24
+Product Name: Özlem 100 gr Dana Füme Kuru Et
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 175,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Özlem Dana Fume Kuru Et 100g   Price: 175,00 TL  Unit Price: 1.750,00 TL/kg
+
+Similar Products:
+ - Similar Product: Namet Dana Kaburga 130 gr Füme Et                  Price: 240,00 TL 
+
+Features:
+ - Ürün Tipi: Kuru Et
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 100 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/ozlem-100-gr-dana-fume-kuru-et-_1436107.jpg 
+
+
+25
+Product Name: Reyondan 1 kg Dana Yanak
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 359,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Yanak Kg                  Price: 359,95 TL  Unit Price: 359,95 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Dana Eti
+ - Ürün Türü: Yanak
+ - Ürün Tipi: Dana Yanak
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-dana-yanak-_609729.jpg 
+
+
+26
+Product Name: Uzman Kasap 400 gr Dana Bonfile
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 439,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Dana Bonfile Skinpack 400 G Price: 439,95 TL  Unit Price: 1.099,88 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Dana Bonfile                         Price: 879,95 TL 
+
+Features:
+ - İçerik: Dana Eti
+ - Ürün Türü: Fileto
+ - Ürün Tipi: Bonfile
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/uzman-kasap-400-gr-dana-bonfile-_362576.jpg 
+
+
+27
+Product Name: 1 kg Dana Nuar Rosto
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 479,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Nuar Yoresel Kg           Price: 479,95 TL  Unit Price: 479,95 TL/kg
+
+Similar Products:
+ - Similar Product: Hammadde 1 kg Dana Nuar                            Price: 539,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Yağsız Rosto Kıyma      Price: 599,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Rostoluk Et             Price: 599,95 TL 
+
+Features:
+ - İçerik: Dana
+ - Ürün Tipi: Rosto
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/1-kg-dana-nuar-rosto-_286655.jpg 
+
+
+28
+Product Name: Pınar 225 gr Özel Burger Eti
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 199,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Pinar Burger Özel 225 Gr       Price: 199,90 TL  Unit Price: 0
+
+Similar Products:
+ - Similar Product: Uzman Kasap 480 gr Dana Burger                     Price: 234,90 TL 
+ - Similar Product: Uzman Kasap 480 gr Dana Burger                     Price: 234,90 TL 
+ - Similar Product: Uzman Kasap 240 gr Dana Mini Burger Köfte          Price: 116,95 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/pinar-225-gr-ozel-burger-eti-_1449656.jpg 
+
+
+29
+Product Name: Uzman Kasap 400 gr Dana Kuşbaşı
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 175,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Dana Kusbasi 400 G Price: 175,00 TL  Unit Price: 437,50 TL/kg
+
+Similar Products:
+ - Similar Product: Tarım Kredi 400 gr Donuk Dana Kuşbaşı              Price: 153,90 TL 
+ - Similar Product: Tarım Kredi 400 gr Donuk Dana Kuşbaşı              Price: 153,90 TL 
+ - Similar Product: Lezzetlim 400 gr Dana Kuşbaşı Et                   Price: 199,90 TL 
+ - Similar Product: Emin 400 gr Dana Kuşbaşı Et                        Price: 125,00 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/uzman-kasap-400-gr-dana-kusbasi-_1454473.jpg 
+
+
+30
+Product Name: Uzman Kasap 400 gr Dana Kuşbaşı
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 175,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Dana Kusbasi 400 G Price: 175,00 TL  Unit Price: 437,50 TL/kg
+
+Similar Products:
+ - Similar Product: Tarım Kredi 400 gr Donuk Dana Kuşbaşı              Price: 153,90 TL 
+ - Similar Product: Tarım Kredi 400 gr Donuk Dana Kuşbaşı              Price: 153,90 TL 
+ - Similar Product: Lezzetlim 400 gr Dana Kuşbaşı Et                   Price: 199,90 TL 
+ - Similar Product: Emin 400 gr Dana Kuşbaşı Et                        Price: 125,00 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/uzman-kasap-400-gr-dana-kusbasi-_1454473.jpg 
+
+
+31
+Product Name: 1 kg Dana Billur
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 52,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Billur Kg                 Price: 52,95 TL   Unit Price: 52,95 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Dana
+ - Ürün Tipi: Billur
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/1-kg-dana-billur-_286568.jpg 
+
+
+32
+Product Name: Yıldız Et 500 gr Sivas Yıldız Köfte
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 225,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Yildiz Et Sivas Koftesi 500 Gr Price: 225,00 TL  Unit Price: 450,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/yildiz-et-500-gr-sivas-yildiz-kofte-_1406480.jpg 
+
+
+33
+Product Name: Tire 500 gr Şiş Köfte
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 434,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Tire Şis Kofte 500 Gr          Price: 434,90 TL  Unit Price: 869,80 TL/kg
+
+Similar Products:
+ - Similar Product: Tire 200 gr Dana Şiş Köfte                         Price: 159,00 TL 
+
+Features:
+ - Ürün Tipi: Şiş Köfte
+ - Toplam Ağırlık: 500 gr
+Product Image URL:  
+
+
+34
+Product Name: 1 kg Kuzu Biftek
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 845,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Biftek Kg                 Price: 845,95 TL  Unit Price: 845,95 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Kuzu Biftek Kıvırcık                 Price: 875,95 TL 
+
+Features:
+ - İçerik: Kuzu
+ - Ürün Tipi: Biftek
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/1-kg-kuzu-biftek-_286651.jpg 
+
+
+35
+Product Name: Hammadde 1 kg Dana Antrikot
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 775,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Hammadde Dana Çirali Antrikot  Price: 775,95 TL  Unit Price: 775,95 TL/kg
+
+Similar Products:
+ - Similar Product: Tarım Kredi Kooperatif 1 kg Antrikot Dana          Price: 589,90 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/hammadde-1-kg-dana-antrikot-_1574789.jpg 
+
+
+36
+Product Name: 1 kg Kuzu Beyti
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 649,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Beyti Kg                  Price: 649,95 TL  Unit Price: 649,95 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Kuzu Pirzola                         Price: 799,95 TL 
+ - Similar Product: Reyondan 1 kg Kuzu Pirzola                         Price: 799,95 TL 
+
+Features:
+ - İçerik: Kuzu
+ - Ürün Tipi: Beyti
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/1-kg-kuzu-beyti-_286693.jpg 
+
+
+37
+Product Name: Reyondan 500 gr Peşrev Çelebi Tire Köfte
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 435,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Pesrev Çelebi Tire Kofte 500 G Price: 435,00 TL  Unit Price: 870,00 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 250 gr Peşrev Çelebi Tire Köfte           Price: 217,50 TL 
+ - Similar Product: Tire 500 gr Şiş Köfte                              Price: 434,90 TL 
+
+Features:
+ - İçerik: Dana Eti
+ - Ürün Türü: Köfte
+ - Ürün Tipi: Köfte
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-500-gr-pesrev-celebi-tire-kofte-_609381.jpg 
+
+
+38
+Product Name: Uzman Kasap 500 gr Oğlak Kapama
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 269,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Oglak Kapama 500 G Price: 269,95 TL  Unit Price: 539,90 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Oğlak Eti
+ - Ürün Türü: Kapama
+ - Ürün Tipi: Oğlak Kapama
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/uzman-kasap-500-gr-oglak-kapama-_362580.jpg 
+
+
+39
+Product Name: Reyondan 1 kg Yöresel Dana Stragonofluk Et
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 619,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Stragonofluk Et Yoresel Kg Price: 619,95 TL  Unit Price: 619,95 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Yöresel Dana Haşlamalık Et           Price: 579,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Az Yağlı Et             Price: 579,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Yemeklik Kuşbaşı        Price: 519,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Kıymalık                Price: 519,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Yemeklik Kuşbaşı        Price: 519,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Kıymalık                Price: 519,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Gulaşlık Et             Price: 589,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Yağsız Rosto Kıyma      Price: 599,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Rostoluk Et             Price: 599,95 TL 
+
+Features:
+ - İçerik: Dana Eti
+ - Ürün Türü: Stragonofluk
+ - Ürün Tipi: Dana Stragonofluk
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-yoresel-dana-stragonofluk-et-_610116.jpg 
+
+
+40
+Product Name: Reyondan 1 kg Yöresel Dana Orta Yağlı Et
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 559,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Orta Yagli Et Yoresel Kg  Price: 559,95 TL  Unit Price: 559,95 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Yöresel Dana Haşlamalık Et           Price: 579,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Az Yağlı Et             Price: 579,95 TL 
+
+Features:
+ - İçerik: Dana Eti
+ - Ürün Türü: Dana Et
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-yoresel-dana-orta-yagli-et-_610200.jpg 
+
+
+41
+Product Name: Reyondan 1 kg Kıvırcık Kuzu Kuşbaşı
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 859,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Kusbasi Kivircik Kg       Price: 859,95 TL  Unit Price: 859,95 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Yemeklik Kuşbaşı       Price: 705,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Fırınlık               Price: 599,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kapamalık Et           Price: 599,95 TL 
+ - Similar Product: Reyondan 1 kg Kuzu Külbastı Kıvırcık               Price: 899,95 TL 
+ - Similar Product: 1 kg Kemiksiz Kıvırcık Kuzu Kol                    Price: 799,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Saç Kavurmalık         Price: 669,95 TL 
+
+Features:
+ - İçerik: Kuzu Eti
+ - Ürün Türü: Kuşbaşı
+ - Ürün Tipi: Kuzu Kuşbaşı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-kivircik-kuzu-kusbasi-_610005.jpg 
+
+
+42
+Product Name: Reyondan 1 kg Kıvırcık Kuzu Fırınlık
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 599,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Firinlik Kivircik Kg      Price: 599,95 TL  Unit Price: 599,95 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kuşbaşı                Price: 859,95 TL 
+ - Similar Product: 1 kg Kemiksiz Kıvırcık Kuzu Kol                    Price: 799,95 TL 
+ - Similar Product: Reyondan 1 kg Kuzu Külbastı Kıvırcık               Price: 899,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Saç Kavurmalık         Price: 669,95 TL 
+
+Features:
+ - İçerik: Kuzu Eti
+ - Ürün Türü: Fırınlık
+ - Ürün Tipi: Kuzu Fırınlık
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-kivircik-kuzu-firinlik-_435665.jpg 
+
+
+43
+Product Name: Dana Kıyma 500 gr
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 239,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Dana Kiyma 500 Gr              Price: 239,90 TL  Unit Price: 479,80 TL/kg
+
+Similar Products:
+ - Similar Product: Beşler Et ve Gıda 500 gr Dondurulmuş Dana Kıyma    Price: 90,00 TL  
+ - Similar Product: Lezzetlim 400 gr Dana Kıyma                        Price: 165,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kıyma                      Price: 165,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kuzu Kıyma                 Price: 165,00 TL 
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/dana-kiyma-500-gr-_572771.jpg 
+
+
+44
+Product Name: Tutkun Et 400 gr Dana Kontrafile
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 135,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Tutkun Et Dana Kontrafile 400 Gr Price: 135,00 TL  Unit Price: 337,50 TL/kg
+
+Similar Products:
+ - Similar Product: Hammadde 1 kg Dana Kontrafile                      Price: 629,95 TL 
+ - Similar Product: Tk 1 kg Dana Kontrafile                            Price: 565,90 TL 
+ - Similar Product: Beşler Et Gıda 400 gr Yağsız Dana Kıyma            Price: 200,00 TL 
+ - Similar Product: Maret 400 gr Dana İşkembe                          Price: 75,00 TL  
+ - Similar Product: Maret 400 gr Dana İşkembe                          Price: 75,00 TL  
+
+Features:
+ - Ürün Tipi: Kontrafile
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/tutkun-et-400-gr-dana-kontrafile-_1436133.jpg 
+
+
+45
+Product Name: Emin 400 gr Dana Sote
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 135,00 TL 
+
+Market Products:
+ - Market: Bim                  Product: Dana Sote 400 G Emin           Price: 135,00 TL  Unit Price: 337,50 TL/kg
+
+Similar Products:
+ - Similar Product: Beşler Et Gıda 400 gr Yağsız Dana Kıyma            Price: 200,00 TL 
+ - Similar Product: Maret 400 gr Dana İşkembe                          Price: 75,00 TL  
+ - Similar Product: Maret 400 gr Dana İşkembe                          Price: 75,00 TL  
+ - Similar Product: Ettat 400 gr Dana İnegöl Köfte                     Price: 155,00 TL 
+ - Similar Product: Ettat 400 gr Dana İnegöl Köfte                     Price: 155,00 TL 
+
+Features:
+ - Ürün Tipi: Sote
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/emin-400-gr-dana-sote-_1431396.jpg 
+
+
+46
+Product Name: Emin 400 gr Dana Kuru Köfte
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 115,00 TL 
+
+Market Products:
+ - Market: Bim                  Product: Kofte Dana Kuru 400 Gr Emin    Price: 115,00 TL  Unit Price: 287,50 TL/kg
+
+Similar Products:
+ - Similar Product: Ettat 400 gr Dana İnegöl Köfte                     Price: 155,00 TL 
+ - Similar Product: Ettat 400 gr Dana İnegöl Köfte                     Price: 155,00 TL 
+ - Similar Product: Emin 400 gr Dana Kuzu Satır Köfte                  Price: 115,00 TL 
+ - Similar Product: Emin 400 gr Dana Kuzu Satır Köfte                  Price: 115,00 TL 
+ - Similar Product: Beşler Et ve Gıda 400 gr Dana Izgara Köfte         Price: 155,00 TL 
+ - Similar Product: Beşler 400 gr Dana-Kuzu Satır Köfte                Price: 155,00 TL 
+
+Features:
+ - Ürün Tipi: Köfte
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+ - Kategori: Kırmızı Et
+Product Image URL: https://cdn.cimri.io/market/260x260/emin-400-gr-dana-kuru-kofte-_1431408.jpg 
+
+
+47
+Product Name: Emin 400 gr Dana Kuzu Satır Köfte
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 115,00 TL 
+
+Market Products:
+ - Market: Bim                  Product: Kofte Dana Kuzu Satir 400 G Emin Price: 115,00 TL  Unit Price: 287,50 TL/kg
+
+Similar Products:
+ - Similar Product: Beşler 400 gr Dana-Kuzu Satır Köfte                Price: 155,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kıyma                      Price: 165,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kuzu Kıyma                 Price: 165,00 TL 
+ - Similar Product: Ettat 400 gr Dana İnegöl Köfte                     Price: 155,00 TL 
+ - Similar Product: Ettat 400 gr Dana İnegöl Köfte                     Price: 155,00 TL 
+ - Similar Product: Beşler Et ve Gıda 400 gr Dana Izgara Köfte         Price: 155,00 TL 
+ - Similar Product: Emin 400 gr Dana Kuru Köfte                        Price: 115,00 TL 
+ - Similar Product: Emin 400 gr Dana Kuru Köfte                        Price: 115,00 TL 
+
+Features:
+ - Ürün Tipi: Köfte
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/emin-400-gr-dana-kuzu-satir-kofte-_1431399.jpg 
+
+
+48
+Product Name: Emin 400 gr Dana Tas Kebap
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 135,00 TL 
+
+Market Products:
+ - Market: Bim                  Product: Dana Tas Kebap 400 Gr Emin     Price: 135,00 TL  Unit Price: 337,50 TL/kg
+
+Similar Products:
+ - Similar Product: Lezzetlim 400 gr Dana Kıyma                        Price: 165,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kıyma                      Price: 165,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kuzu Kıyma                 Price: 165,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kuşbaşı                    Price: 175,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kuşbaşı                    Price: 175,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kıyma                      Price: 165,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kuzu Kıyma                 Price: 165,00 TL 
+
+Features:
+ - Ürün Tipi: Kebap
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/emin-400-gr-dana-tas-kebap-_1434777.jpg 
+
+
+49
+Product Name: Tarım Kredi 400 gr Donuk Dana Kuşbaşı
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 153,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tk Donuk Dana Kusbasi 400 G    Price: 153,90 TL  Unit Price: 384,75 TL/kg
+
+Similar Products:
+ - Similar Product: Lezzetlim 400 gr Dana Kuşbaşı Et                   Price: 199,90 TL 
+ - Similar Product: Emin 400 gr Dana Kuşbaşı Et                        Price: 125,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kuşbaşı                    Price: 175,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kuşbaşı                    Price: 175,00 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+50
+Product Name: Tk 1 kg Dana Kiymalik Et
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 439,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tk Dana Kiymalik Et Kg         Price: 439,90 TL  Unit Price: 439,90 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Anadolu Dana Kıymalık                Price: 469,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Yemeklik Kuşbaşı        Price: 519,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Kıymalık                Price: 519,95 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tk-1-kg-dana-kiymalik-et-_1593266.jpg 
+
+
+51
+Product Name: 1 kg Kuzu İncik
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 639,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Incik Kg                  Price: 639,95 TL  Unit Price: 639,95 TL/kg
+
+Similar Products:
+ - Similar Product: Obak 1 kg Dana İncik                               Price: 419,95 TL 
+
+Features:
+ - İçerik: Kuzu
+ - Ürün Tipi: İncik
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/1-kg-kuzu-incik-_286468.jpg 
+
+
+52
+Product Name: 1 kg Kuzu Sotelik Et
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 829,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Sote Kg                   Price: 829,95 TL  Unit Price: 829,95 TL/kg
+
+Similar Products:
+ - Similar Product: Amasya Et Ürünleri 500 gr Dana Sotelik Kuşbaşı     Price: 309,90 TL 
+
+Features:
+ - İçerik: Kuzu
+ - Ürün Tipi: Kuşbaşı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/1-kg-kuzu-sotelik-et-_286605.jpg 
+
+
+53
+Product Name: fiorucci 120 gr Isıl İşlem Uygulanmamış Kürlenmiş Et Ürünü
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 650,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Fiorucci Isilislm Uygulnmams Kurlnms Et Ürunu 120g Price: 650,00 TL  Unit Price: 5.416,67 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Dana
+ - Ürün Tipi: Kürlenmiş Et
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 120 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/fiorucci-120-gr-isil-islem-uygulanmamis-kurlenmis-et-urunu-_286785.jpg 
+
+
+54
+Product Name: Reyondan 1 kg Kuzu Külbastı Kıvırcık
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 899,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Kulbasti Kivircik Kg      Price: 899,95 TL  Unit Price: 899,95 TL/kg
+
+Similar Products:
+ - Similar Product: 1 kg Kuzu Külbastı                                 Price: 829,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kuşbaşı                Price: 859,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Fırınlık               Price: 599,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kapamalık Et           Price: 599,95 TL 
+
+Features:
+ - İçerik: Kuzu Eti
+ - Ürün Türü: Külbastı
+ - Ürün Tipi: Kuzu Külbastı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-kuzu-kulbasti-kivircik-_434745.jpg 
+
+
+55
+Product Name: Anket 250 gr Dana Antrikot
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 209,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Dana Antrikot 250 Gr           Price: 209,90 TL  Unit Price: 839,60 TL/kg
+
+Similar Products:
+ - Similar Product: Haket 1 kg Dana Antrikot                           Price: 499,00 TL 
+ - Similar Product: Haket 1 kg Dana Antrikot                           Price: 499,00 TL 
+
+Features:
+ - İçerik: Dana
+ - Ürün Tipi: Antrikot
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+Product Image URL:  
+
+
+56
+Product Name: Mirza 500 gr Dana Karaciğer
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 299,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Mirza Dana Karaciger (map) 500 Gr Price: 299,90 TL  Unit Price: 0
+
+Similar Products:
+ - Similar Product: Mirza 500 gr Dana Böbrek                           Price: 65,90 TL  
+ - Similar Product: Mirza 500 gr Dana İşkembe                          Price: 89,90 TL  
+ - Similar Product: Mirza 500 gr Dana İşkembe                          Price: 89,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/mirza-500-gr-dana-karaciger-_1444087.jpg 
+
+
+57
+Product Name: 1 kg Kemiksiz Kıvırcık Kuzu Kol
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 799,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Kol Kemiksiz Kivircik Kg  Price: 799,95 TL  Unit Price: 799,95 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Kuzu Kol Kıvırcık                    Price: 629,95 TL 
+
+Features:
+ - İçerik: Kuzu
+ - Ürün Tipi: Kol
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL:  
+
+
+58
+Product Name: Tk 1 kg Dana Bonfile
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 729,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tk Dana Bonfile Kg             Price: 729,90 TL  Unit Price: 729,90 TL/kg
+
+Similar Products:
+ - Similar Product: Uzman Kasap 400 gr Dana Bonfile                    Price: 439,95 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+59
+Product Name: Uzman Kasap 400 gr Yağsız Dana Kıyma
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 217,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Dana Yagsiz Kiyma 400 G Price: 217,95 TL  Unit Price: 544,88 TL/kg
+
+Similar Products:
+ - Similar Product: Beşler Et Gıda 400 gr Yağsız Dana Kıyma            Price: 200,00 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Yağsız Rosto Kıyma      Price: 599,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Rostoluk Et             Price: 599,95 TL 
+ - Similar Product: Haket 300 gr Yağsız Dana Kıyma                     Price: 95,00 TL  
+ - Similar Product: Tk 400 gr %20 Yağlı Map Tabak Dana Kıyma           Price: 171,90 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kıyma                      Price: 165,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kuzu Kıyma                 Price: 165,00 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/uzman-kasap-400-gr-yagsiz-dana-kiyma-_1446607.jpg 
+
+
+60
+Product Name: Hammadde 1 kg Dana Tranç
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 509,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Hammadde Dana Tranc_ciftlik Kg Price: 509,95 TL  Unit Price: 509,95 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/hammadde-1-kg-dana-tranc-_1574770.jpg 
+
+
+61
+Product Name: Uzman Kasap 500 gr Dana Doğranmış Ciğer
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 319,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Dana Ciger 500 G (kusbasi) Price: 319,95 TL  Unit Price: 639,90 TL/kg
+
+Similar Products:
+ - Similar Product: Uzman Kasap Dana Doğranmış 400 gr İşkembe          Price: 147,95 TL 
+ - Similar Product: Migros 1 kg Dana Ciğer                             Price: 129,95 TL 
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/uzman-kasap-500-gr-dana-dogranmis-ciger-_761853.jpg 
+
+
+62
+Product Name: Migros Uzman Kasap 320 gr Izgara Köfte
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 155,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Izgara Kofte 320 G Price: 155,95 TL  Unit Price: 487,34 TL/kg
+
+Similar Products:
+ - Similar Product: Migros Uzman Kasap 320 gr Klasik Köfte             Price: 134,95 TL 
+ - Similar Product: Uzman Kasap 200 gr Kalp Hamburger Köfte            Price: 124,90 TL 
+ - Similar Product: Uzman Kasap 200 gr Cızbız Köfte                    Price: 99,95 TL  
+
+Features:
+ - İçerik: Dana
+ - Ürün Tipi: Köfte
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 320 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-uzman-kasap-320-gr-izgara-kofte-_286559.jpg 
+
+
+63
+Product Name: Hammadde 1 kg Dana Kontrfile
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 699,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Hammadde Dana Kontrfile Kg_yoresel Kg Price: 699,95 TL  Unit Price: 699,95 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/hammadde-1-kg-dana-kontrfile-_1574797.jpg 
+
+
+64
+Product Name: Reyondan 1 kg Anadolu Dana Biftek
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 479,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Biftek Anadolu Kg         Price: 479,95 TL  Unit Price: 479,95 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Dana Biftek Yöresel                  Price: 609,95 TL 
+ - Similar Product: Uzman Kasap 300 gr Dana Biftek                     Price: 179,95 TL 
+ - Similar Product: Sultan 400 gr Doğal Çiftliğim Dana Biftek          Price: 248,90 TL 
+
+Features:
+ - İçerik: Dana Eti
+ - Ürün Türü: Antrikot
+ - Ürün Tipi: Biftek
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-anadolu-dana-biftek-_609833.jpg 
+
+
+65
+Product Name: Reyondan 1 kg Yöresel Dana Antrikot
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 729,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Antrikot Yoresel Kg       Price: 729,95 TL  Unit Price: 729,95 TL/kg
+
+Similar Products:
+ - Similar Product: Haket 1 kg Dana Antrikot                           Price: 499,00 TL 
+ - Similar Product: Haket 1 kg Dana Antrikot                           Price: 499,00 TL 
+
+Features:
+ - İçerik: Dana Eti
+ - Ürün Türü: Antrikot
+ - Ürün Tipi: Biftek
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-yoresel-dana-antrikot-_609893.jpg 
+
+
+66
+Product Name: 1 kg Dana Yürek
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 219,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Yurek Kg                  Price: 219,95 TL  Unit Price: 219,95 TL/kg
+
+Similar Products:
+ - Similar Product: Mirza 500 gr Dana Yürek                            Price: 169,90 TL 
+ - Similar Product: Hammadde 1 kg Dana Yürek                           Price: 29,95 TL  
+ - Similar Product: 1 kg Kuzu Yürek                                    Price: 357,95 TL 
+
+Features:
+ - İçerik: Dana
+ - Ürün Tipi: Yürek
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL:  
+
+
+67
+Product Name: Orvital Organik 300 gr Dana Kasap Köfte
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 195,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Orvital Organik Dana Kasap Kofte 300g Price: 195,90 TL  Unit Price: 653,00 TL/kg
+
+Similar Products:
+ - Similar Product: Uzman Kasap 240 gr Dana Mini Burger Köfte          Price: 116,95 TL 
+ - Similar Product: Uzman Kasap 300 gr Dana Biftek                     Price: 179,95 TL 
+
+Features:
+ - Ürün Tipi: Köfte
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 300 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/orvital-organik-300-gr-dana-kasap-kofte-_1039586.jpg 
+
+
+68
+Product Name: Obak 1 kg Kuzu Fileto
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 575,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Fileto Kg                 Price: 575,95 TL  Unit Price: 575,95 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Kuzu Pirzola                         Price: 799,95 TL 
+ - Similar Product: Reyondan 1 kg Kuzu Pirzola                         Price: 799,95 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/obak-1-kg-kuzu-fileto-_1051503.jpg 
+
+
+69
+Product Name: 1 kg Kuzu Külbastı
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 829,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Kulbasti Kg               Price: 829,95 TL  Unit Price: 829,95 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Kuzu Külbastı Kıvırcık               Price: 899,95 TL 
+
+Features:
+ - İçerik: Kuzu
+ - Ürün Tipi: Külbastı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/1-kg-kuzu-kulbasti-_286548.jpg 
+
+
+70
+Product Name: Hammadde 1 kg Dana Tranç
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 509,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Hammadde Dana Tranc_ciftlik Kg Price: 509,95 TL  Unit Price: 509,95 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/hammadde-1-kg-dana-tranc-_1574770.jpg 
+
+
+71
+Product Name: Uzman Kasap 400 gr Dana Gulaş
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 228,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Dana Gulas 400 G   Price: 228,95 TL  Unit Price: 572,38 TL/kg
+
+Similar Products:
+ - Similar Product: Uzman Kasap 400 gr Dana Bonfile                    Price: 439,95 TL 
+ - Similar Product: Ettat 400 gr Dana İnegöl Köfte                     Price: 155,00 TL 
+ - Similar Product: Ettat 400 gr Dana İnegöl Köfte                     Price: 155,00 TL 
+ - Similar Product: Beşler Et Gıda 400 gr Yağsız Dana Kıyma            Price: 200,00 TL 
+ - Similar Product: Maret 400 gr Dana İşkembe                          Price: 75,00 TL  
+ - Similar Product: Maret 400 gr Dana İşkembe                          Price: 75,00 TL  
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/uzman-kasap-400-gr-dana-gulas-_927252.jpg 
+
+
+72
+Product Name: Hammadde 1 kg Dana Kontrafile
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 629,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Hammadde Dana Kontrafile_anadolu Kg Price: 629,95 TL  Unit Price: 629,95 TL/kg
+ - Market: Migros               Product: Hammadde Dana Kontrafile_ciftlik Kg Price: 659,95 TL  Unit Price: 659,95 TL/kg
+
+Similar Products:
+ - Similar Product: Tutkun Et 400 gr Dana Kontrafile                   Price: 135,00 TL 
+ - Similar Product: Tutkun Et 400 gr Dana Kontrafile                   Price: 135,00 TL 
+ - Similar Product: Tk 1 kg Dana Kontrafile                            Price: 565,90 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/hammadde-1-kg-dana-kontrafile-_1574782.jpg 
+
+
+73
+Product Name: Uzman Kasap 300 gr Dana Biftek
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 179,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Dana Biftek 300 G  Price: 179,95 TL  Unit Price: 599,83 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Dana Biftek Yöresel                  Price: 609,95 TL 
+ - Similar Product: Reyondan 1 kg Anadolu Dana Biftek                  Price: 479,95 TL 
+ - Similar Product: Sultan 400 gr Doğal Çiftliğim Dana Biftek          Price: 248,90 TL 
+
+Features:
+ - İçerik: Dana Eti
+ - Ürün Türü: Antrikot
+ - Ürün Tipi: Biftek
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 300 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/uzman-kasap-300-gr-dana-biftek-_362577.jpg 
+
+
+74
+Product Name: Uzman Kasap 1 kg Kuzu Kaburga
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 562,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Kuzu Kaburga       Price: 562,95 TL  Unit Price: 562,95 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Gerdan                 Price: 569,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Gerdan                 Price: 569,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kaburga                Price: 569,95 TL 
+ - Similar Product: 1 kg Kuzu Kaburga                                  Price: 539,95 TL 
+ - Similar Product: Uzman Kasap 1 kg Dana Yemeklik Kaburga             Price: 339,95 TL 
+ - Similar Product: Namet Dana Kaburga 130 gr Füme Et                  Price: 240,00 TL 
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/uzman-kasap-1-kg-kuzu-kaburga-_859915.jpg 
+
+
+75
+Product Name: Beşler 400 gr Dana-Kuzu Satır Köfte
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 155,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Kofte Dana Kuzu Satir 400 G Besler Price: 155,00 TL  Unit Price: 387,50 TL/kg
+ - Market: Şok                  Product: Besler Dana-kuzu Satir Kofte 400 Gr Price: 209,00 TL  Unit Price: 522,50 TL/kg
+
+Similar Products:
+ - Similar Product: Emin 400 gr Dana Kuzu Satır Köfte                  Price: 115,00 TL 
+ - Similar Product: Emin 400 gr Dana Kuzu Satır Köfte                  Price: 115,00 TL 
+ - Similar Product: Beşler Et ve Gıda 400 gr Dana Izgara Köfte         Price: 155,00 TL 
+ - Similar Product: Beşler Et Gıda 400 gr Kuzu Saç Tava                Price: 220,00 TL 
+ - Similar Product: Beşler Et Gıda 400 gr Yağsız Dana Kıyma            Price: 200,00 TL 
+
+Features:
+ - İçerik: Dana Eti-Kuzu Eti
+ - Ağırlık: 400 gr
+ - Ürün Tipi: Köfte
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/besler-400-gr-dana-kuzu-satir-kofte-_972621.jpg 
+
+
+76
+Product Name: Tutkun Et 400 gr Dana Kontrafile
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 135,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Tutkun Et Dana Kontrafile 400 Gr Price: 135,00 TL  Unit Price: 337,50 TL/kg
+
+Similar Products:
+ - Similar Product: Hammadde 1 kg Dana Kontrafile                      Price: 629,95 TL 
+ - Similar Product: Tk 1 kg Dana Kontrafile                            Price: 565,90 TL 
+ - Similar Product: Beşler Et Gıda 400 gr Yağsız Dana Kıyma            Price: 200,00 TL 
+ - Similar Product: Maret 400 gr Dana İşkembe                          Price: 75,00 TL  
+ - Similar Product: Maret 400 gr Dana İşkembe                          Price: 75,00 TL  
+
+Features:
+ - Ürün Tipi: Kontrafile
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/tutkun-et-400-gr-dana-kontrafile-_1436133.jpg 
+
+
+77
+Product Name: Emin 400 gr Dana Sote
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 135,00 TL 
+
+Market Products:
+ - Market: Bim                  Product: Dana Sote 400 G Emin           Price: 135,00 TL  Unit Price: 337,50 TL/kg
+
+Similar Products:
+ - Similar Product: Beşler Et Gıda 400 gr Yağsız Dana Kıyma            Price: 200,00 TL 
+ - Similar Product: Maret 400 gr Dana İşkembe                          Price: 75,00 TL  
+ - Similar Product: Maret 400 gr Dana İşkembe                          Price: 75,00 TL  
+ - Similar Product: Ettat 400 gr Dana İnegöl Köfte                     Price: 155,00 TL 
+ - Similar Product: Ettat 400 gr Dana İnegöl Köfte                     Price: 155,00 TL 
+
+Features:
+ - Ürün Tipi: Sote
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/emin-400-gr-dana-sote-_1431396.jpg 
+
+
+78
+Product Name: Emin 400 gr Dana Kuru Köfte
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 115,00 TL 
+
+Market Products:
+ - Market: Bim                  Product: Kofte Dana Kuru 400 Gr Emin    Price: 115,00 TL  Unit Price: 287,50 TL/kg
+
+Similar Products:
+ - Similar Product: Ettat 400 gr Dana İnegöl Köfte                     Price: 155,00 TL 
+ - Similar Product: Ettat 400 gr Dana İnegöl Köfte                     Price: 155,00 TL 
+ - Similar Product: Emin 400 gr Dana Kuzu Satır Köfte                  Price: 115,00 TL 
+ - Similar Product: Emin 400 gr Dana Kuzu Satır Köfte                  Price: 115,00 TL 
+ - Similar Product: Beşler Et ve Gıda 400 gr Dana Izgara Köfte         Price: 155,00 TL 
+ - Similar Product: Beşler 400 gr Dana-Kuzu Satır Köfte                Price: 155,00 TL 
+
+Features:
+ - Ürün Tipi: Köfte
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+ - Kategori: Kırmızı Et
+Product Image URL: https://cdn.cimri.io/market/260x260/emin-400-gr-dana-kuru-kofte-_1431408.jpg 
+
+
+79
+Product Name: Emin 400 gr Dana Kuzu Satır Köfte
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 115,00 TL 
+
+Market Products:
+ - Market: Bim                  Product: Kofte Dana Kuzu Satir 400 G Emin Price: 115,00 TL  Unit Price: 287,50 TL/kg
+
+Similar Products:
+ - Similar Product: Beşler 400 gr Dana-Kuzu Satır Köfte                Price: 155,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kıyma                      Price: 165,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kuzu Kıyma                 Price: 165,00 TL 
+ - Similar Product: Ettat 400 gr Dana İnegöl Köfte                     Price: 155,00 TL 
+ - Similar Product: Ettat 400 gr Dana İnegöl Köfte                     Price: 155,00 TL 
+ - Similar Product: Beşler Et ve Gıda 400 gr Dana Izgara Köfte         Price: 155,00 TL 
+ - Similar Product: Emin 400 gr Dana Kuru Köfte                        Price: 115,00 TL 
+ - Similar Product: Emin 400 gr Dana Kuru Köfte                        Price: 115,00 TL 
+
+Features:
+ - Ürün Tipi: Köfte
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/emin-400-gr-dana-kuzu-satir-kofte-_1431399.jpg 
+
+
+80
+Product Name: Emin 400 gr Dana Tas Kebap
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 135,00 TL 
+
+Market Products:
+ - Market: Bim                  Product: Dana Tas Kebap 400 Gr Emin     Price: 135,00 TL  Unit Price: 337,50 TL/kg
+
+Similar Products:
+ - Similar Product: Lezzetlim 400 gr Dana Kıyma                        Price: 165,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kıyma                      Price: 165,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kuzu Kıyma                 Price: 165,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kuşbaşı                    Price: 175,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kuşbaşı                    Price: 175,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kıyma                      Price: 165,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kuzu Kıyma                 Price: 165,00 TL 
+
+Features:
+ - Ürün Tipi: Kebap
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/emin-400-gr-dana-tas-kebap-_1434777.jpg 
+
+
+81
+Product Name: Tarım Kredi 400 gr Donuk Dana Kuşbaşı
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 153,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tk Donuk Dana Kusbasi 400 G    Price: 153,90 TL  Unit Price: 384,75 TL/kg
+
+Similar Products:
+ - Similar Product: Lezzetlim 400 gr Dana Kuşbaşı Et                   Price: 199,90 TL 
+ - Similar Product: Emin 400 gr Dana Kuşbaşı Et                        Price: 125,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kuşbaşı                    Price: 175,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kuşbaşı                    Price: 175,00 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+82
+Product Name: Tk 1 kg Dana Kiymalik Et
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 439,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tk Dana Kiymalik Et Kg         Price: 439,90 TL  Unit Price: 439,90 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Anadolu Dana Kıymalık                Price: 469,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Yemeklik Kuşbaşı        Price: 519,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Kıymalık                Price: 519,95 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tk-1-kg-dana-kiymalik-et-_1593266.jpg 
+
+
+83
+Product Name: Anket 250 gr Dana Antrikot
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 209,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Dana Antrikot 250 Gr           Price: 209,90 TL  Unit Price: 839,60 TL/kg
+
+Similar Products:
+ - Similar Product: Haket 1 kg Dana Antrikot                           Price: 499,00 TL 
+ - Similar Product: Haket 1 kg Dana Antrikot                           Price: 499,00 TL 
+
+Features:
+ - İçerik: Dana
+ - Ürün Tipi: Antrikot
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+Product Image URL:  
+
+
+84
+Product Name: Amasya Et Ürünleri 500 gr Dana Sotelik Kuşbaşı
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 309,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Amasya Et Dana Sotelik 500 Gr  Price: 309,90 TL  Unit Price: 619,80 TL/kg
+
+Similar Products:
+ - Similar Product: Beşler 500 gr Dondurulmuş Kuşbaşı Dana             Price: 95,00 TL  
+
+Features:
+ - Ürün Tipi: Kuşbaşı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/amasya-et-urunleri-500-gr-dana-sotelik-kusbasi-_858219.jpg 
+
+
+85
+Product Name: Sultan 450 gr Doğal Çiftliğim Dana Bonfile
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 419,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Sultan Dogal Çiftligim Dana Bonfile 450 Gr Price: 419,90 TL  Unit Price: 933,11 TL/kg
+
+Similar Products:
+ - Similar Product: Sultan 400 gr Doğal Çiftliğim Dana Biftek          Price: 248,90 TL 
+ - Similar Product: Reyondan 1 kg Dana Bonfile                         Price: 879,95 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sultan-450-gr-dogal-ciftligim-dana-bonfile-_1707041.jpg 
+
+
+86
+Product Name: Sultan 400 gr Doğal Çiftliğim Dana Biftek
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 248,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Sultan Dogal Çiftligim Dana Biftek 400 Gr Price: 248,90 TL  Unit Price: 622,25 TL/kg
+
+Similar Products:
+ - Similar Product: Sultan 450 gr Doğal Çiftliğim Dana Bonfile         Price: 419,90 TL 
+ - Similar Product: Reyondan 1 kg Dana Biftek Yöresel                  Price: 609,95 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sultan-400-gr-dogal-ciftligim-dana-biftek-_1715778.jpg 
+
+
+87
+Product Name: Maret 250 gr Parmak Soslu Dana
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 49,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Kofte Dana Parmak Soslu 250 G Maret Price: 49,90 TL   Unit Price: 199,60 TL/kg
+
+Similar Products:
+ - Similar Product: Uzman Kasap 1 kg Dana Soslu Dana Brisket           Price: 629,95 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/maret-250-gr-parmak-soslu-dana-_1804499.jpg 
+
+
+88
+Product Name: Kuzu But
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 539,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu But Kg                    Price: 539,95 TL  Unit Price: 539,95 TL/kg
+
+Similar Products:
+ - Similar Product: Tk 1 kg Kuzu But                                   Price: 524,90 TL 
+ - Similar Product: Tk 1 kg Kuzu But                                   Price: 524,90 TL 
+ - Similar Product: Hammadde 1 kg Kuzu But                             Price: 203,48 TL 
+ - Similar Product: Reyondan 1 kg Dana But                             Price: 589,95 TL 
+
+Features:
+ - İçerik: Kuzu
+ - Ürün Tipi: But
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/kuzu-but-_286600.jpg 
+
+
+89
+Product Name: Reyondan 1 kg Kuzu Pirzola
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 799,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Pirzola Kg                Price: 799,95 TL  Unit Price: 799,95 TL/kg
+
+Similar Products:
+ - Similar Product: Uzman Kasap 300 gr Kuzu Pirzola                    Price: 292,95 TL 
+ - Similar Product: Tutkun Et 1 kg Kuzu Kalem Pirzola                  Price: 370,00 TL 
+
+Features:
+ - İçerik: Kuzu
+ - Ürün Tipi: Pirzola
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-kuzu-pirzola-_286601.jpg 
+
+
+90
+Product Name: Uzman Kasap 480 gr Dana Burger
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 234,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Dana Burger 480g Antrikottan Üretildi Price: 234,90 TL  Unit Price: 489,38 TL/kg
+
+Similar Products:
+ - Similar Product: Uzman Kasap 240 gr Dana Mini Burger Köfte          Price: 116,95 TL 
+
+Features:
+ - İçerik: Dana Eti
+ - Ağırlık: 480 gr
+ - Ürün Tipi: Hamburger Köfte
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 480 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/uzman-kasap-480-gr-dana-burger-_965772.jpg 
+
+
+91
+Product Name: Reyondan 1 kg Yöresel Dana Yemeklik Kuşbaşı
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 519,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Yemeklik Kusbasi Yoresel Kg Price: 519,95 TL  Unit Price: 519,95 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Dana Yemeklik Kuşbaşı Anadolu        Price: 439,95 TL 
+
+Features:
+ - İçerik: Dana Eti
+ - Ürün Türü: Kuşbaşı
+ - Ürün Tipi: Dana Kuşbaşı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-yoresel-dana-yemeklik-kusbasi-_610061.jpg 
+
+
+92
+Product Name: Uzman Kasap 200 gr Kalp Hamburger Köfte
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 124,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Kalp Hamburger Kofte 200 G Price: 124,90 TL  Unit Price: 624,50 TL/kg
+
+Similar Products:
+ - Similar Product: Tire 200 gr Dana Şiş Köfte                         Price: 159,00 TL 
+
+Features:
+ - İçerik: Dana
+ - Ürün Tipi: Köfte
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/uzman-kasap-200-gr-kalp-hamburger-kofte-_286681.jpg 
+
+
+93
+Product Name: Uzman Kasap 480 gr Dana Burger
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 234,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Dana Burger 480g Antrikottan Üretildi Price: 234,90 TL  Unit Price: 489,38 TL/kg
+
+Similar Products:
+ - Similar Product: Uzman Kasap 240 gr Dana Mini Burger Köfte          Price: 116,95 TL 
+
+Features:
+ - İçerik: Dana Eti
+ - Ağırlık: 480 gr
+ - Ürün Tipi: Hamburger Köfte
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 480 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/uzman-kasap-480-gr-dana-burger-_965772.jpg 
+
+
+94
+Product Name: Tk 1 kg Kuzu But
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 524,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tk Kuzu But Kg                 Price: 524,90 TL  Unit Price: 524,90 TL/kg
+
+Similar Products:
+ - Similar Product: Kuzu But                                           Price: 539,95 TL 
+ - Similar Product: 1 kg Kuzu Kaburga                                  Price: 539,95 TL 
+ - Similar Product: Hammadde 1 kg Kuzu But                             Price: 203,48 TL 
+ - Similar Product: Reyondan 1 kg Dana But                             Price: 589,95 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tk-1-kg-kuzu-but-_1593301.jpg 
+
+
+95
+Product Name: Reyondan 1 kg Kıvırcık Kuzu Gerdan
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 569,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Gerdan Kivircik Kg        Price: 569,95 TL  Unit Price: 569,95 TL/kg
+
+Similar Products:
+ - Similar Product: 1 kg Kuzu Gerdan                                   Price: 509,95 TL 
+ - Similar Product: Tarım Kredi Kooperatif 1 kg Gerdan Kuzu            Price: 435,90 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kuşbaşı                Price: 859,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Fırınlık               Price: 599,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kapamalık Et           Price: 599,95 TL 
+
+Features:
+ - İçerik: Kuzu Eti
+ - Ürün Türü: Gerdan
+ - Ürün Tipi: Kuzu Gerdan
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-kivircik-kuzu-gerdan-_435653.jpg 
+
+
+96
+Product Name: Haket 1 kg Dana Antrikot
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 499,00 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Dana Antrikot Haket Kg Fiyati  Price: 499,00 TL  Unit Price: 499,00 TL/kg
+
+Similar Products:
+ - Similar Product: Tarım Kredi Kooperatif 1 kg Antrikot Dana          Price: 589,90 TL 
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/haket-1-kg-dana-antrikot-_760354.jpg 
+
+
+97
+Product Name: Mirza 500 gr Dana İşkembe
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 89,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Mirza Dana Iskembe (map) 500 Gr Price: 89,90 TL   Unit Price: 179,80 TL/kg
+
+Similar Products:
+ - Similar Product: Mirza 500 gr Dana Böbrek                           Price: 65,90 TL  
+ - Similar Product: Mirza 500 gr Dana Yürek                            Price: 169,90 TL 
+ - Similar Product: Mirza 500 gr Dana Karaciğer                        Price: 299,90 TL 
+ - Similar Product: Mirza 500 gr Kuzu Kokoreç                          Price: 189,90 TL 
+ - Similar Product: Maret 400 gr Dana İşkembe                          Price: 75,00 TL  
+ - Similar Product: Maret 400 gr Dana İşkembe                          Price: 75,00 TL  
+
+Features:
+ - Ürün Tipi: Yürek
+ - Toplam Ağırlık: 500 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/mirza-500-gr-dana-iskembe-_1445264.jpg 
+
+
+98
+Product Name: 1 kg Haşlamalık Dana Gerdan
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 429,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Haslamalik Gerdan Kg      Price: 429,95 TL  Unit Price: 429,95 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Yöresel Dana Haşlamalık Et           Price: 579,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Az Yağlı Et             Price: 579,95 TL 
+ - Similar Product: Tk 1 kg Dana Gerdan                                Price: 449,90 TL 
+
+Features:
+ - İçerik: Dana
+ - Ürün Tipi: Gerdan
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/1-kg-haslamalik-dana-gerdan-_314169.jpg 
+
+
+99
+Product Name: Maret 400 gr Dana İşkembe
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 75,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Maret Dana Iskembe Pismis 400 Gr Price: 75,00 TL   Unit Price: 187,50 TL/kg
+
+Similar Products:
+ - Similar Product: Uzman Kasap Dana Doğranmış 400 gr İşkembe          Price: 147,95 TL 
+ - Similar Product: Mirza 500 gr Dana İşkembe                          Price: 89,90 TL  
+ - Similar Product: Mirza 500 gr Dana İşkembe                          Price: 89,90 TL  
+ - Similar Product: Hammadde 1 kg Dana İşkembe                         Price: 46,71 TL  
+ - Similar Product: Lezzetlim 400 gr Dana Kıyma                        Price: 165,00 TL 
+
+Features:
+ - İçerik: Dana
+ - Ürün Tipi: İşkembe
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/maret-400-gr-dana-iskembe-_286749.jpg 
+
+
+100
+Product Name: Uzman Kasap 200 gr Cızbız Köfte
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 99,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Cizbiz Kofte 200 G Price: 99,95 TL   Unit Price: 499,75 TL/kg
+
+Similar Products:
+ - Similar Product: Tire 200 gr Dana Şiş Köfte                         Price: 159,00 TL 
+ - Similar Product: Uzman Kasap 200 gr Kalp Hamburger Köfte            Price: 124,90 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/uzman-kasap-200-gr-cizbiz-kofte-_1804491.jpg 
+
+
+101
+Product Name: 1 kg Kemikli İnciksiz Kuzu Yarım Kol
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 625,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Kol Kemiksiz Kg           Price: 625,95 TL  Unit Price: 625,95 TL/kg
+
+Similar Products:
+ - Similar Product: 1 kg Kemiksiz Kıvırcık Kuzu Kol                    Price: 799,95 TL 
+
+Features:
+ - İçerik: Kuzu
+ - Ürün Tipi: Kol
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/1-kg-kemikli-inciksiz-kuzu-yarim-kol-_286543.jpg 
+
+
+102
+Product Name: Uzman Kasap 240 gr Dana Mini Burger Köfte
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 116,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Dana Mini Burger Kofte 240 G Price: 116,95 TL  Unit Price: 487,29 TL/kg
+
+Similar Products:
+ - Similar Product: Uzman Kasap 480 gr Dana Burger                     Price: 234,90 TL 
+ - Similar Product: Uzman Kasap 480 gr Dana Burger                     Price: 234,90 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/uzman-kasap-240-gr-dana-mini-burger-kofte-_1804493.jpg 
+
+
+103
+Product Name: Ettat 400 gr Dana İnegöl Köfte
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 155,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Kofte Dana Inegol 400 G Ettat  Price: 155,00 TL  Unit Price: 387,50 TL/kg
+
+Similar Products:
+ - Similar Product: Kombinet 450 gr İnegöl Dana Köfte                  Price: 143,00 TL 
+ - Similar Product: Emin 400 gr Dana Kuru Köfte                        Price: 115,00 TL 
+ - Similar Product: Emin 400 gr Dana Kuru Köfte                        Price: 115,00 TL 
+ - Similar Product: Emin 400 gr Dana Kuzu Satır Köfte                  Price: 115,00 TL 
+ - Similar Product: Emin 400 gr Dana Kuzu Satır Köfte                  Price: 115,00 TL 
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+ - Kategori: Kırmızı Et
+Product Image URL: https://cdn.cimri.io/market/260x260/ettat-400-gr-dana-inegol-kofte-_1433076.jpg 
+
+
+104
+Product Name: Lezzetlim 300 gr Dana Döner
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 109,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Lezzetlim Dana Doner 300 Gr    Price: 109,00 TL  Unit Price: 363,33 TL/kg
+
+Similar Products:
+ - Similar Product: Beşler 200 gr Dana Döner                           Price: 75,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/lezzetlim-300-gr-dana-doner-_1435120.jpg 
+
+
+105
+Product Name: Tadpi 1 kg Piliç Ciğer
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 59,75 TL 
+
+Market Products:
+ - Market: Şok                  Product: Tadpi Pilic Ciger Kg           Price: 59,75 TL   Unit Price: 59,75 TL/kg
+
+Similar Products:
+ - Similar Product: Uzman Kasap 500 gr Dana Doğranmış Ciğer            Price: 319,95 TL 
+ - Similar Product: Migros 1 kg Dana Ciğer                             Price: 129,95 TL 
+
+Features:
+ - Ürün Tipi: Ciğer
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/tadpi-1-kg-pilic-ciger-_1443926.jpg 
+
+
+106
+Product Name: Hammadde 1 kg Dana But Eti
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 524,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Hammadde Dana But Eti Yumurta_ciftlik Kg Price: 524,95 TL  Unit Price: 524,95 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Dana But                             Price: 589,95 TL 
+ - Similar Product: Tk 1 kg Kuzu But                                   Price: 524,90 TL 
+ - Similar Product: Tk 1 kg Kuzu But                                   Price: 524,90 TL 
+ - Similar Product: Hammadde 1 kg Kuzu But                             Price: 203,48 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/hammadde-1-kg-dana-but-eti-_1779017.jpg 
+
+
+107
+Product Name: Reyondan 1 kg Yöresel Dana Kıymalık
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 519,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Kiymalik Yoresel Kg       Price: 519,95 TL  Unit Price: 519,95 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Anadolu Dana Kıymalık                Price: 469,95 TL 
+ - Similar Product: Tk 1 kg Dana Kiymalik Et                           Price: 439,90 TL 
+ - Similar Product: Tk 1 kg Dana Kiymalik Et                           Price: 439,90 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Yemeklik Kuşbaşı        Price: 519,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Kıymalık                Price: 519,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Yağsız Rosto Kıyma      Price: 599,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Rostoluk Et             Price: 599,95 TL 
+
+Features:
+ - İçerik: Dana Eti
+ - Ürün Türü: Kıyma
+ - Ürün Tipi: Dana Kıyma
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-yoresel-dana-kiymalik-_610048.jpg 
+
+
+108
+Product Name: Reyondan 1 kg Yöresel Dana Gulaşlık Et
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 589,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Gulaslik Et Yoresel Kg    Price: 589,95 TL  Unit Price: 589,95 TL/kg
+
+Similar Products:
+ - Similar Product: Dana Anadolu 1 kg Gulaşlık Et                      Price: 519,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Yemeklik Kuşbaşı        Price: 519,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Kıymalık                Price: 519,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Yağsız Rosto Kıyma      Price: 599,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Rostoluk Et             Price: 599,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Yemeklik Kuşbaşı        Price: 519,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Kıymalık                Price: 519,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Haşlamalık Et           Price: 579,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Az Yağlı Et             Price: 579,95 TL 
+
+Features:
+ - İçerik: Dana Eti
+ - Ürün Türü: Gulaşlık Et
+ - Ürün Tipi: Gulaşlık Et
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-yoresel-dana-gulaslik-et-_610108.jpg 
+
+
+109
+Product Name: Bahar Donuk Soslu 400 gr Hindi Dilimli Antrikot
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 119,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Bahar Donuk Soslu Hindi Dilimli Antrikot 400g Price: 119,90 TL  Unit Price: 299,75 TL/kg
+
+Similar Products:
+ - Similar Product: Tarım Kredi 400 gr Donuk Dana Kuşbaşı              Price: 153,90 TL 
+ - Similar Product: Tarım Kredi 400 gr Donuk Dana Kuşbaşı              Price: 153,90 TL 
+ - Similar Product: Tutkun Et 400 gr Dana Antrikot                     Price: 150,00 TL 
+ - Similar Product: Tutkun Et 400 gr Dana Antrikot                     Price: 150,00 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/bahar-donuk-soslu-400-gr-hindi-dilimli-antrikot-_1625612.jpg 
+
+
+110
+Product Name: Reyondan 1 kg Kuzu Pirzola
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 799,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Pirzola Kg                Price: 799,95 TL  Unit Price: 799,95 TL/kg
+
+Similar Products:
+ - Similar Product: Uzman Kasap 300 gr Kuzu Pirzola                    Price: 292,95 TL 
+ - Similar Product: Tutkun Et 1 kg Kuzu Kalem Pirzola                  Price: 370,00 TL 
+
+Features:
+ - İçerik: Kuzu
+ - Ürün Tipi: Pirzola
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-kuzu-pirzola-_286601.jpg 
+
+
+111
+Product Name: Uzman Kasap 1 kg Dana Soslu Dana Brisket
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 629,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Soslu Dana Brisket Kg Price: 629,95 TL  Unit Price: 629,95 TL/kg
+
+Similar Products:
+ - Similar Product: Dana 1 kg Tandır (Brisket)                         Price: 559,95 TL 
+ - Similar Product: Maret 250 gr Parmak Soslu Dana                     Price: 49,90 TL  
+ - Similar Product: Bahar Donuk Soslu 400 gr Hindi Dilimli Antrikot    Price: 119,90 TL 
+ - Similar Product: Uzman Kasap 1 kg Soslu Tandırlık Kuzu Eti          Price: 689,95 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/uzman-kasap-1-kg-dana-soslu-dana-brisket-_1631541.jpg 
+
+
+112
+Product Name: Uzman Kasap 1 kg Dana Lokum
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 969,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Dana Lokum Kg_skinpack Price: 969,95 TL  Unit Price: 969,95 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/uzman-kasap-1-kg-dana-lokum-_1741860.jpg 
+
+
+113
+Product Name: Reyondan 1 kg Kıvırcık Kuzu Saç Kavurmalık
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 669,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Sac Kavurmalik Kivircik Kg Price: 669,95 TL  Unit Price: 669,95 TL/kg
+
+Similar Products:
+ - Similar Product: Uzman Kasap 400 gr Sac Kavurmalık Kuzu             Price: 144,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kuşbaşı                Price: 859,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Fırınlık               Price: 599,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kapamalık Et           Price: 599,95 TL 
+ - Similar Product: 1 kg Kemiksiz Kıvırcık Kuzu Kol                    Price: 799,95 TL 
+
+Features:
+ - İçerik: Kuzu Eti
+ - Ürün Türü: Kavurma
+ - Ürün Tipi: Kuzu Kavurma
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-kivircik-kuzu-sac-kavurmalik-_609931.jpg 
+
+
+114
+Product Name: Reyondan 1 kg Anadolu Dana Kıymalık
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 469,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Kiymalik Anadolu Kg       Price: 469,95 TL  Unit Price: 469,95 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Yöresel Dana Yemeklik Kuşbaşı        Price: 519,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Kıymalık                Price: 519,95 TL 
+ - Similar Product: Tk 1 kg Dana Kiymalik Et                           Price: 439,90 TL 
+ - Similar Product: Tk 1 kg Dana Kiymalik Et                           Price: 439,90 TL 
+ - Similar Product: Dana Anadolu 1 kg Gulaşlık Et                      Price: 519,95 TL 
+ - Similar Product: Reyondan 1 kg Dana Yemeklik Kuşbaşı Anadolu        Price: 439,95 TL 
+
+Features:
+ - İçerik: Dana Eti
+ - Ürün Türü: Kıyma
+ - Ürün Tipi: Dana Kıyma
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-anadolu-dana-kiymalik-_609509.jpg 
+
+
+115
+Product Name: Reyondan 1 kg Dana But
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 589,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana But Tas Kebaplik Et Çiftlik Kg Price: 589,95 TL  Unit Price: 589,95 TL/kg
+
+Similar Products:
+ - Similar Product: Hammadde 1 kg Dana But Eti                         Price: 524,95 TL 
+ - Similar Product: Tk 1 kg Kuzu But                                   Price: 524,90 TL 
+ - Similar Product: Tk 1 kg Kuzu But                                   Price: 524,90 TL 
+ - Similar Product: Hammadde 1 kg Kuzu But                             Price: 203,48 TL 
+
+Features:
+ - İçerik: Dana Eti
+ - Ürün Türü: But
+ - Ürün Tipi: Dana But
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-dana-but-_609895.jpg 
+
+
+116
+Product Name: Reyondan 1 kg Yöresel Dana Haşlamalık Et
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 579,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Haslamalik Et Yoresel Kg  Price: 579,95 TL  Unit Price: 579,95 TL/kg
+
+Similar Products:
+ - Similar Product: 1 kg Haşlamalık Dana Gerdan                        Price: 429,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Yemeklik Kuşbaşı        Price: 519,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Kıymalık                Price: 519,95 TL 
+
+Features:
+ - İçerik: Dana Eti
+ - Ürün Türü: Haşlamalık Et
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-yoresel-dana-haslamalik-et-_610100.jpg 
+
+
+117
+Product Name: Reyondan 1 kg Kıvırcık Kuzu Kapamalık Et
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 599,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Kapamalik Et Kivircik Kg  Price: 599,95 TL  Unit Price: 599,95 TL/kg
+
+Similar Products:
+ - Similar Product: Uzman Kasap 500 gr Kuzu Kapamalık Et               Price: 294,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kuşbaşı                Price: 859,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Fırınlık               Price: 599,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kapamalık Et           Price: 599,95 TL 
+ - Similar Product: 1 kg Kemiksiz Kıvırcık Kuzu Kol                    Price: 799,95 TL 
+ - Similar Product: Reyondan 1 kg Kuzu Külbastı Kıvırcık               Price: 899,95 TL 
+
+Features:
+ - İçerik: Kuzu Eti
+ - Ürün Türü: Kuzu Kapama
+ - Ürün Tipi: Kuzu Kapama
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-kivircik-kuzu-kapamalik-et-_609973.jpg 
+
+
+118
+Product Name: Reyondan 1 kg Kuzu Biftek Kıvırcık
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 875,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Biftek Kivircik Kg        Price: 875,95 TL  Unit Price: 875,95 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kuşbaşı                Price: 859,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Fırınlık               Price: 599,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kapamalık Et           Price: 599,95 TL 
+ - Similar Product: 1 kg Kemiksiz Kıvırcık Kuzu Kol                    Price: 799,95 TL 
+ - Similar Product: Reyondan 1 kg Kuzu Külbastı Kıvırcık               Price: 899,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Gerdan                 Price: 569,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Gerdan                 Price: 569,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kaburga                Price: 569,95 TL 
+
+Features:
+ - İçerik: Kuzu Eti
+ - Ürün Türü: Antrikot
+ - Ürün Tipi: Biftek
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-kuzu-biftek-kivircik-_609710.jpg 
+
+
+119
+Product Name: Laz Kızı 150 gr Dana Kavurma
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 200,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Laz Kizi Dana Kavurma 150 G    Price: 200,00 TL  Unit Price: 1.333,33 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/laz-kizi-150-gr-dana-kavurma-_1804467.jpg 
+
+
+120
+Product Name: Tutkun Et 400 gr Dana Antrikot
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 150,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Tutkun Et Dana Antrikot 400 Gr Price: 150,00 TL  Unit Price: 375,00 TL/kg
+
+Similar Products:
+ - Similar Product: Tarım Kredi Kooperatif 1 kg Antrikot Dana          Price: 589,90 TL 
+
+Features:
+ - Ürün Tipi: Antrikot
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/tutkun-et-400-gr-dana-antrikot-_1436412.jpg 
+
+
+121
+Product Name: Reyondan 1 kg Kuzu Çorbalık Kıvırcık
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 45,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Çorbalik Kivircik Kg      Price: 45,90 TL   Unit Price: 45,90 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kuşbaşı                Price: 859,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Fırınlık               Price: 599,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kapamalık Et           Price: 599,95 TL 
+ - Similar Product: 1 kg Kemiksiz Kıvırcık Kuzu Kol                    Price: 799,95 TL 
+ - Similar Product: Reyondan 1 kg Kuzu Külbastı Kıvırcık               Price: 899,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Gerdan                 Price: 569,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Gerdan                 Price: 569,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kaburga                Price: 569,95 TL 
+
+Features:
+ - İçerik: Kuzu Eti
+ - Ürün Türü: Çorbalık Kemik
+ - Ürün Tipi: Kemik
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-kuzu-corbalik-kivircik-_609991.jpg 
+
+
+122
+Product Name: Uzman Kasap 300 gr Kuzu Pirzola
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 292,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Kuzu Pirzola 300 G Price: 292,95 TL  Unit Price: 976,50 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Kuzu Pirzola                         Price: 799,95 TL 
+ - Similar Product: Reyondan 1 kg Kuzu Pirzola                         Price: 799,95 TL 
+ - Similar Product: Tutkun Et 1 kg Kuzu Kalem Pirzola                  Price: 370,00 TL 
+
+Features:
+ - İçerik: Kuzu
+ - Ürün Tipi: Pirzola
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 300 gr
+Product Image URL:  
+
+
+123
+Product Name: Ettat 400 gr Dana İnegöl Köfte
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 155,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Kofte Dana Inegol 400 G Ettat  Price: 155,00 TL  Unit Price: 387,50 TL/kg
+
+Similar Products:
+ - Similar Product: Kombinet 450 gr İnegöl Dana Köfte                  Price: 143,00 TL 
+ - Similar Product: Beşler Et ve Gıda 400 gr Dana Izgara Köfte         Price: 155,00 TL 
+ - Similar Product: Beşler 400 gr Dana-Kuzu Satır Köfte                Price: 155,00 TL 
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+ - Kategori: Kırmızı Et
+Product Image URL: https://cdn.cimri.io/market/260x260/ettat-400-gr-dana-inegol-kofte-_1433076.jpg 
+
+
+124
+Product Name: Kombinet 450 gr İnegöl Dana Köfte
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 143,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Dond. Kofte Dana Inegol 450 G Kombinet Price: 143,00 TL  Unit Price: 317,78 TL/kg
+
+Similar Products:
+ - Similar Product: Ettat 400 gr Dana İnegöl Köfte                     Price: 155,00 TL 
+ - Similar Product: Ettat 400 gr Dana İnegöl Köfte                     Price: 155,00 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kombinet-450-gr-inegol-dana-kofte-_1804501.jpg 
+
+
+125
+Product Name: Uzman Kasap 1 kg Soslu Tandırlık Kuzu Eti
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 689,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Soslu Tandirlik Kuzu Eti Kg Price: 689,95 TL  Unit Price: 689,95 TL/kg
+
+Similar Products:
+ - Similar Product: Tk 1 kg Kuzu But                                   Price: 524,90 TL 
+ - Similar Product: Tk 1 kg Kuzu But                                   Price: 524,90 TL 
+
+Features:
+ - İçerik: Kuzu
+ - Ürün Tipi: Kuzu Et
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/uzman-kasap-1-kg-soslu-tandirlik-kuzu-eti-_286590.jpg 
+
+
+126
+Product Name: Lezzetlim 300 gr Dana Döner
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 109,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Lezzetlim Dana Doner 300 Gr    Price: 109,00 TL  Unit Price: 363,33 TL/kg
+
+Similar Products:
+ - Similar Product: Beşler 200 gr Dana Döner                           Price: 75,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/lezzetlim-300-gr-dana-doner-_1435120.jpg 
+
+
+127
+Product Name: Tadpi 1 kg Piliç Ciğer
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 59,75 TL 
+
+Market Products:
+ - Market: Şok                  Product: Tadpi Pilic Ciger Kg           Price: 59,75 TL   Unit Price: 59,75 TL/kg
+
+Similar Products:
+ - Similar Product: Uzman Kasap 500 gr Dana Doğranmış Ciğer            Price: 319,95 TL 
+ - Similar Product: Migros 1 kg Dana Ciğer                             Price: 129,95 TL 
+
+Features:
+ - Ürün Tipi: Ciğer
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/tadpi-1-kg-pilic-ciger-_1443926.jpg 
+
+
+128
+Product Name: Maret 400 gr Dana İşkembe
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 75,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Maret Dana Iskembe Pismis 400 Gr Price: 75,00 TL   Unit Price: 187,50 TL/kg
+
+Similar Products:
+ - Similar Product: Uzman Kasap Dana Doğranmış 400 gr İşkembe          Price: 147,95 TL 
+ - Similar Product: Mirza 500 gr Dana İşkembe                          Price: 89,90 TL  
+ - Similar Product: Mirza 500 gr Dana İşkembe                          Price: 89,90 TL  
+ - Similar Product: Hammadde 1 kg Dana İşkembe                         Price: 46,71 TL  
+ - Similar Product: Tutkun Et 400 gr Dana Antrikot                     Price: 150,00 TL 
+ - Similar Product: Tutkun Et 400 gr Dana Antrikot                     Price: 150,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Bonfile                    Price: 439,95 TL 
+
+Features:
+ - İçerik: Dana
+ - Ürün Tipi: İşkembe
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/maret-400-gr-dana-iskembe-_286749.jpg 
+
+
+129
+Product Name: Tutkun Et 400 gr Dana Antrikot
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 150,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Tutkun Et Dana Antrikot 400 Gr Price: 150,00 TL  Unit Price: 375,00 TL/kg
+
+Similar Products:
+ - Similar Product: Tarım Kredi Kooperatif 1 kg Antrikot Dana          Price: 589,90 TL 
+
+Features:
+ - Ürün Tipi: Antrikot
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/tutkun-et-400-gr-dana-antrikot-_1436412.jpg 
+
+
+130
+Product Name: Hammadde 1 kg Dana Dalak
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 15,85 TL 
+
+Market Products:
+ - Market: Migros               Product: Hammadde Dana Dalak Kg         Price: 15,85 TL   Unit Price: 15,85 TL/kg
+
+Similar Products:
+ - Similar Product: 1 kg Dana Dalak                                    Price: 49,95 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/hammadde-1-kg-dana-dalak-_1574784.jpg 
+
+
+131
+Product Name: Mirza 500 gr Dana Yürek
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 169,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Mirza Dana Yurek (map) 500 Gr  Price: 169,90 TL  Unit Price: 0
+
+Similar Products:
+ - Similar Product: 1 kg Dana Yürek                                    Price: 219,95 TL 
+ - Similar Product: Hammadde 1 kg Dana Yürek                           Price: 29,95 TL  
+ - Similar Product: 1 kg Kuzu Yürek                                    Price: 357,95 TL 
+ - Similar Product: Mirza 500 gr Dana Böbrek                           Price: 65,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/mirza-500-gr-dana-yurek-_1450015.jpg 
+
+
+132
+Product Name: Tk 1 kg Kuzu Kol
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 493,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tk Kuzu Kol Kg                 Price: 493,90 TL  Unit Price: 493,90 TL/kg
+
+Similar Products:
+ - Similar Product: 1 kg Kemiksiz Kıvırcık Kuzu Kol                    Price: 799,95 TL 
+ - Similar Product: 1 kg Kemikli İnciksiz Kuzu Yarım Kol               Price: 625,95 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+133
+Product Name: Tk 1 kg Dana Kol Kurek
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 449,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tk Dana Kol- Kurek Kg          Price: 449,90 TL  Unit Price: 449,90 TL/kg
+
+Similar Products:
+ - Similar Product: 1 kg Kemiksiz Kıvırcık Kuzu Kol                    Price: 799,95 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tk-1-kg-dana-kol-kurek-_1593273.jpg 
+
+
+134
+Product Name: Reyondan 1 kg Kıvırcık Kuzu Gerdan
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 569,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Gerdan Kivircik Kg        Price: 569,95 TL  Unit Price: 569,95 TL/kg
+
+Similar Products:
+ - Similar Product: 1 kg Kuzu Gerdan                                   Price: 509,95 TL 
+ - Similar Product: Tarım Kredi Kooperatif 1 kg Gerdan Kuzu            Price: 435,90 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kuşbaşı                Price: 859,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Fırınlık               Price: 599,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kapamalık Et           Price: 599,95 TL 
+
+Features:
+ - İçerik: Kuzu Eti
+ - Ürün Türü: Gerdan
+ - Ürün Tipi: Kuzu Gerdan
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-kivircik-kuzu-gerdan-_435653.jpg 
+
+
+135
+Product Name: Haket 1 kg Dana Antrikot
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 499,00 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Dana Antrikot Haket Kg Fiyati  Price: 499,00 TL  Unit Price: 499,00 TL/kg
+
+Similar Products:
+ - Similar Product: Tarım Kredi Kooperatif 1 kg Antrikot Dana          Price: 589,90 TL 
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/haket-1-kg-dana-antrikot-_760354.jpg 
+
+
+136
+Product Name: Mirza 500 gr Dana İşkembe
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 89,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Mirza Dana Iskembe (map) 500 Gr Price: 89,90 TL   Unit Price: 179,80 TL/kg
+
+Similar Products:
+ - Similar Product: Mirza 500 gr Dana Böbrek                           Price: 65,90 TL  
+ - Similar Product: Mirza 500 gr Dana Yürek                            Price: 169,90 TL 
+ - Similar Product: Mirza 500 gr Dana Karaciğer                        Price: 299,90 TL 
+ - Similar Product: Mirza 500 gr Kuzu Kokoreç                          Price: 189,90 TL 
+ - Similar Product: Maret 400 gr Dana İşkembe                          Price: 75,00 TL  
+ - Similar Product: Maret 400 gr Dana İşkembe                          Price: 75,00 TL  
+
+Features:
+ - Ürün Tipi: Yürek
+ - Toplam Ağırlık: 500 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/mirza-500-gr-dana-iskembe-_1445264.jpg 
+
+
+137
+Product Name: Tk 1 kg Kuzu But
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 524,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tk Kuzu But Kg                 Price: 524,90 TL  Unit Price: 524,90 TL/kg
+
+Similar Products:
+ - Similar Product: Kuzu But                                           Price: 539,95 TL 
+ - Similar Product: 1 kg Kuzu Kaburga                                  Price: 539,95 TL 
+ - Similar Product: Hammadde 1 kg Kuzu But                             Price: 203,48 TL 
+ - Similar Product: Reyondan 1 kg Dana But                             Price: 589,95 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tk-1-kg-kuzu-but-_1593301.jpg 
+
+
+138
+Product Name: Tk 1 kg Dana Dos
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 439,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tk Dana Dos Kg                 Price: 439,90 TL  Unit Price: 439,90 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tk-1-kg-dana-dos-_1591444.jpg 
+
+
+139
+Product Name: Tk 1 kg Dana Gerdan
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 449,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tk Dana Gerdan Kg              Price: 449,90 TL  Unit Price: 449,90 TL/kg
+
+Similar Products:
+ - Similar Product: 1 kg Haşlamalık Dana Gerdan                        Price: 429,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Gerdan                 Price: 569,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Gerdan                 Price: 569,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kaburga                Price: 569,95 TL 
+ - Similar Product: 1 kg Kuzu Gerdan                                   Price: 509,95 TL 
+ - Similar Product: Tarım Kredi Kooperatif 1 kg Gerdan Kuzu            Price: 435,90 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tk-1-kg-dana-gerdan-_1591450.jpg 
+
+
+140
+Product Name: Hammadde 1 kg Dana İşkembe
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 46,71 TL 
+
+Market Products:
+ - Market: Migros               Product: Hammadde Dana Iskembe Kg       Price: 46,71 TL   Unit Price: 46,71 TL/kg
+
+Similar Products:
+ - Similar Product: Mirza 500 gr Dana İşkembe                          Price: 89,90 TL  
+ - Similar Product: Mirza 500 gr Dana İşkembe                          Price: 89,90 TL  
+ - Similar Product: Maret 400 gr Dana İşkembe                          Price: 75,00 TL  
+ - Similar Product: Maret 400 gr Dana İşkembe                          Price: 75,00 TL  
+ - Similar Product: Uzman Kasap Dana Doğranmış 400 gr İşkembe          Price: 147,95 TL 
+ - Similar Product: 1 kg Kuzu İşkembe                                  Price: 99,95 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/hammadde-1-kg-dana-iskembe-_1574767.jpg 
+
+
+141
+Product Name: Dana Anadolu 1 kg Gulaşlık Et
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 519,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Gulaslik Et Anadolu Kg    Price: 519,95 TL  Unit Price: 519,95 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Yöresel Dana Gulaşlık Et             Price: 589,95 TL 
+ - Similar Product: Reyondan 1 kg Anadolu Dana Kıymalık                Price: 469,95 TL 
+ - Similar Product: Reyondan 1 kg Dana Yemeklik Kuşbaşı Anadolu        Price: 439,95 TL 
+
+Features:
+ - İçerik: Dana
+ - Ürün Tipi: Gulaşlık Et
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL:  
+
+
+142
+Product Name: Reyondan 1 kg Yöresel Dana Rostoluk Et
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 599,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Rostoluk Et Yoresel Kg    Price: 599,95 TL  Unit Price: 599,95 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Yöresel Dana Haşlamalık Et           Price: 579,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Az Yağlı Et             Price: 579,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Yemeklik Kuşbaşı        Price: 519,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Kıymalık                Price: 519,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Yemeklik Kuşbaşı        Price: 519,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Kıymalık                Price: 519,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Gulaşlık Et             Price: 589,95 TL 
+
+Features:
+ - İçerik: Dana Eti
+ - Ürün Türü: Rosto
+ - Ürün Tipi: Dana Rosto
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-yoresel-dana-rostoluk-et-_610193.jpg 
+
+
+143
+Product Name: Reyondan 1 kg Kıvırcık Kuzu Yemeklik Kuşbaşı
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 705,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Yemeklik Kusbasi Kivircik Kg Price: 705,95 TL  Unit Price: 705,95 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kuşbaşı                Price: 859,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Fırınlık               Price: 599,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kapamalık Et           Price: 599,95 TL 
+ - Similar Product: 1 kg Kemiksiz Kıvırcık Kuzu Kol                    Price: 799,95 TL 
+ - Similar Product: Reyondan 1 kg Kuzu Külbastı Kıvırcık               Price: 899,95 TL 
+
+Features:
+ - İçerik: Kuzu Eti
+ - Ürün Türü: Kuşbaşı
+ - Ürün Tipi: Kuzu Kuşbaşı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-kivircik-kuzu-yemeklik-kusbasi-_610089.jpg 
+
+
+144
+Product Name: Reyondan 1 kg Kuzu Kol Kıvırcık
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 629,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Kol Kivircik Kg           Price: 629,95 TL  Unit Price: 629,95 TL/kg
+
+Similar Products:
+ - Similar Product: 1 kg Kemiksiz Kıvırcık Kuzu Kol                    Price: 799,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kuşbaşı                Price: 859,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Fırınlık               Price: 599,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kapamalık Et           Price: 599,95 TL 
+ - Similar Product: Reyondan 1 kg Kuzu Külbastı Kıvırcık               Price: 899,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Saç Kavurmalık         Price: 669,95 TL 
+
+Features:
+ - İçerik: Kuzu Eti
+ - Ürün Türü: Kol Eti
+ - Ürün Tipi: Bonfile
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-kuzu-kol-kivircik-_609715.jpg 
+
+
+145
+Product Name: Reyondan 250 gr Peşrev Çelebi Tire Köfte
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 217,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Pesrev Çelebi Tire Kofte 250 G Price: 217,50 TL  Unit Price: 870,00 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 500 gr Peşrev Çelebi Tire Köfte           Price: 435,00 TL 
+ - Similar Product: Tire 500 gr Şiş Köfte                              Price: 434,90 TL 
+
+Features:
+ - İçerik: Sığır Eti
+ - Ürün Türü: Köfte
+ - Ürün Tipi: Köfte
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-250-gr-pesrev-celebi-tire-kofte-_1440464.jpg 
+
+
+146
+Product Name: Hammadde 1 kg Dana Nuar
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 539,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Hammadde Dana Nuar_ciftlik Kg  Price: 539,95 TL  Unit Price: 539,95 TL/kg
+
+Similar Products:
+ - Similar Product: 1 kg Dana Nuar Rosto                               Price: 479,95 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/hammadde-1-kg-dana-nuar-_1574753.jpg 
+
+
+147
+Product Name: Mirza 500 gr Kuzu Kokoreç
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 189,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Mirza Kuzu Kokorec (map) 500 Gr Price: 189,90 TL  Unit Price: 379,80 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Kokoreç
+ - Toplam Ağırlık: 500 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/mirza-500-gr-kuzu-kokorec-_1442196.jpg 
+
+
+148
+Product Name: Namet Dana Kaburga 130 gr Füme Et
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 240,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Namet Isil Islem Gormus Kaburga Fume Et 130 G Price: 240,00 TL  Unit Price: 1.846,15 TL/kg
+
+Similar Products:
+ - Similar Product: 1 kg Dana Short Ribs Fırınlık Kaburga              Price: 459,95 TL 
+ - Similar Product: Uzman Kasap 1 kg Dana Yemeklik Kaburga             Price: 339,95 TL 
+ - Similar Product: Özlem 100 gr Dana Füme Kuru Et                     Price: 175,00 TL 
+
+Features:
+ - İçerik: Dana
+ - Ürün Tipi: Füme Et
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 130 gr
+Product Image URL:  
+
+
+149
+Product Name: 1 kg Kuzu Gerdan
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 509,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Gerdan Kg                 Price: 509,95 TL  Unit Price: 509,95 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Gerdan                 Price: 569,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Gerdan                 Price: 569,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kaburga                Price: 569,95 TL 
+ - Similar Product: Tarım Kredi Kooperatif 1 kg Gerdan Kuzu            Price: 435,90 TL 
+ - Similar Product: 1 kg Haşlamalık Dana Gerdan                        Price: 429,95 TL 
+ - Similar Product: Tk 1 kg Dana Gerdan                                Price: 449,90 TL 
+
+Features:
+ - İçerik: Kuzu
+ - Ürün Tipi: Gerdan
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/1-kg-kuzu-gerdan-_286501.jpg 
+
+
+150
+Product Name: Reyondan 1 kg Dana Bonfile
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 879,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Bonfile Yoresel Kg        Price: 879,95 TL  Unit Price: 879,95 TL/kg
+
+Similar Products:
+ - Similar Product: Uzman Kasap 400 gr Dana Bonfile                    Price: 439,95 TL 
+
+Features:
+ - İçerik: Dana Eti
+ - Ürün Türü: Fileto
+ - Ürün Tipi: Bonfile
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-dana-bonfile-_610042.jpg 
+
+
+151
+Product Name: Reyondan 1 kg Yöresel Dana Az Yağlı Et
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 579,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Az Yagli Et Yoresel Kg    Price: 579,95 TL  Unit Price: 579,95 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Dana Eti
+ - Ürün Türü: Sote
+ - Ürün Tipi: Dana Sote
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-yoresel-dana-az-yagli-et-_610197.jpg 
+
+
+152
+Product Name: Tarım Kredi Kooperatif 1 kg Antrikot Dana
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 589,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tk Dana Antrikot Kg            Price: 589,90 TL  Unit Price: 589,90 TL/kg
+
+Similar Products:
+ - Similar Product: Haket 1 kg Dana Antrikot                           Price: 499,00 TL 
+ - Similar Product: Haket 1 kg Dana Antrikot                           Price: 499,00 TL 
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/tarim-kredi-kooperatif-1-kg-antrikot-dana-_976860.jpg 
+
+
+153
+Product Name: Tarım Kredi 400 gr Map Tabak Kuşbaşı
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 179,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tk Dana Kusbasi Map Tabak 400 G Price: 179,90 TL  Unit Price: 449,75 TL/kg
+
+Similar Products:
+ - Similar Product: Tk 400 gr %20 Yağlı Map Tabak Dana Kıyma           Price: 171,90 TL 
+ - Similar Product: Tarım Kredi 400 gr Donuk Dana Kuşbaşı              Price: 153,90 TL 
+ - Similar Product: Tarım Kredi 400 gr Donuk Dana Kuşbaşı              Price: 153,90 TL 
+ - Similar Product: Lezzetlim 400 gr Dana Kuşbaşı Et                   Price: 199,90 TL 
+ - Similar Product: Emin 400 gr Dana Kuşbaşı Et                        Price: 125,00 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+154
+Product Name: Tk 1 kg Kuzu Pirzola
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 689,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tk Kuzu Pirzola Kg             Price: 689,90 TL  Unit Price: 689,90 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Kuzu Pirzola                         Price: 799,95 TL 
+ - Similar Product: Reyondan 1 kg Kuzu Pirzola                         Price: 799,95 TL 
+ - Similar Product: Uzman Kasap 300 gr Kuzu Pirzola                    Price: 292,95 TL 
+ - Similar Product: Tutkun Et 1 kg Kuzu Kalem Pirzola                  Price: 370,00 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tk-1-kg-kuzu-pirzola-_1593269.jpg 
+
+
+155
+Product Name: Tk 1 kg Dana Kontrafile
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 565,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tk Dana Kontrafile Kg          Price: 565,90 TL  Unit Price: 565,90 TL/kg
+
+Similar Products:
+ - Similar Product: Hammadde 1 kg Dana Kontrafile                      Price: 629,95 TL 
+ - Similar Product: Tutkun Et 400 gr Dana Kontrafile                   Price: 135,00 TL 
+ - Similar Product: Tutkun Et 400 gr Dana Kontrafile                   Price: 135,00 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tk-1-kg-dana-kontrafile-_1593274.jpg 
+
+
+156
+Product Name: Tarım Kredi Kooperatif 1 kg Gerdan Kuzu
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 435,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tk Kuzu Gerdan Kg              Price: 435,90 TL  Unit Price: 435,90 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Gerdan                 Price: 569,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Gerdan                 Price: 569,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kaburga                Price: 569,95 TL 
+ - Similar Product: 1 kg Kuzu Gerdan                                   Price: 509,95 TL 
+ - Similar Product: 1 kg Haşlamalık Dana Gerdan                        Price: 429,95 TL 
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/tarim-kredi-kooperatif-1-kg-gerdan-kuzu-_974957.jpg 
+
+
+157
+Product Name: 1 kg Dana Güngörmez Et
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 529,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Gungormez Et Kg           Price: 529,95 TL  Unit Price: 529,95 TL/kg
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/1-kg-dana-gungormez-et-_314168.jpg 
+
+
+158
+Product Name: 1 kg Kuzu İşkembe
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 99,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Iskembe Kg                Price: 99,95 TL   Unit Price: 99,95 TL/kg
+
+Similar Products:
+ - Similar Product: Mirza 500 gr Dana İşkembe                          Price: 89,90 TL  
+ - Similar Product: Mirza 500 gr Dana İşkembe                          Price: 89,90 TL  
+ - Similar Product: Maret 400 gr Dana İşkembe                          Price: 75,00 TL  
+ - Similar Product: Maret 400 gr Dana İşkembe                          Price: 75,00 TL  
+ - Similar Product: Hammadde 1 kg Dana İşkembe                         Price: 46,71 TL  
+ - Similar Product: Uzman Kasap Dana Doğranmış 400 gr İşkembe          Price: 147,95 TL 
+
+Features:
+ - İçerik: Kuzu
+ - Ürün Tipi: İşkembe
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/1-kg-kuzu-iskembe-_286563.jpg 
+
+
+159
+Product Name: 1 kg Kuzu Yürek
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 357,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Yurek Kg                  Price: 357,95 TL  Unit Price: 357,95 TL/kg
+
+Similar Products:
+ - Similar Product: 1 kg Dana Yürek                                    Price: 219,95 TL 
+ - Similar Product: Mirza 500 gr Dana Yürek                            Price: 169,90 TL 
+ - Similar Product: Hammadde 1 kg Dana Yürek                           Price: 29,95 TL  
+
+Features:
+ - İçerik: Kuzu
+ - Ürün Tipi: Yürek
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/1-kg-kuzu-yurek-_286567.jpg 
+
+
+160
+Product Name: Migros Uzman Kasap 320 gr Klasik Köfte
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 134,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Klasik Kofte 320 G  Price: 134,95 TL  Unit Price: 421,72 TL/kg
+
+Similar Products:
+ - Similar Product: Migros Uzman Kasap 320 gr Izgara Köfte             Price: 155,95 TL 
+ - Similar Product: Uzman Kasap 500 gr Dondurulmuş Mangal Köfte        Price: 244,90 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-uzman-kasap-320-gr-klasik-kofte-_1242237.jpg 
+
+
+161
+Product Name: 1 kg Kuzu Kaburga
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 539,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Kaburga Kg.               Price: 539,95 TL  Unit Price: 539,95 TL/kg
+
+Similar Products:
+ - Similar Product: Uzman Kasap 1 kg Kuzu Kaburga                      Price: 562,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Gerdan                 Price: 569,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Gerdan                 Price: 569,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kaburga                Price: 569,95 TL 
+ - Similar Product: Namet Dana Kaburga 130 gr Füme Et                  Price: 240,00 TL 
+ - Similar Product: 1 kg Dana Short Ribs Fırınlık Kaburga              Price: 459,95 TL 
+
+Features:
+ - İçerik: Kuzu
+ - Ürün Tipi: Kaburga
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/1-kg-kuzu-kaburga-_286551.jpg 
+
+
+162
+Product Name: 1 kg Dana Dil
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 382,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Dil Kg                    Price: 382,95 TL  Unit Price: 382,95 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Dana
+ - Ürün Tipi: Dana Dil
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/1-kg-dana-dil-_286467.jpg 
+
+
+163
+Product Name: Uzman Kasap 500 gr Kuzu Kapamalık Et
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 294,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Kuzu Kapamalik Et 500 G Price: 294,95 TL  Unit Price: 589,90 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Fırınlık               Price: 599,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kapamalık Et           Price: 599,95 TL 
+
+Features:
+ - İçerik: Kuzu
+ - Ürün Tipi: Kapamalık Et
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/uzman-kasap-500-gr-kuzu-kapamalik-et-_314176.jpg 
+
+
+164
+Product Name: Lezzetlim 400 gr Dana Kıyma
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 165,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Lezzetlim Dana Kiyma 400 Gr    Price: 165,00 TL  Unit Price: 412,50 TL/kg
+
+Similar Products:
+ - Similar Product: Tk 400 gr %20 Yağlı Map Tabak Dana Kıyma           Price: 171,90 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kıyma                      Price: 165,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kuzu Kıyma                 Price: 165,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kıyma                      Price: 165,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kuzu Kıyma                 Price: 165,00 TL 
+ - Similar Product: Emin 400 gr %20 Yağlı Dana Kıyma                   Price: 120,00 TL 
+
+Features:
+ - Ürün Tipi: Kıyma
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/lezzetlim-400-gr-dana-kiyma-_1436774.jpg 
+
+
+165
+Product Name: Uzman Kasap 400 gr Sac Kavurmalık Kuzu
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 144,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Kuzu Sac Kavurmalik 400 G Price: 144,95 TL  Unit Price: 362,38 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Saç Kavurmalık         Price: 669,95 TL 
+ - Similar Product: Beşler Et Gıda 400 gr Kuzu Saç Tava                Price: 220,00 TL 
+ - Similar Product: Emin 400 gr Dana Kuzu Satır Köfte                  Price: 115,00 TL 
+ - Similar Product: Emin 400 gr Dana Kuzu Satır Köfte                  Price: 115,00 TL 
+ - Similar Product: Beşler 400 gr Dana-Kuzu Satır Köfte                Price: 155,00 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/uzman-kasap-400-gr-sac-kavurmalik-kuzu-_1741859.jpg 
+
+
+166
+Product Name: Obak 1 kg Dana İncik
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 419,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Incik Kg                  Price: 419,95 TL  Unit Price: 419,95 TL/kg
+
+Similar Products:
+ - Similar Product: 1 kg Kuzu İncik                                    Price: 639,95 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/obak-1-kg-dana-incik-_1051499.jpg 
+
+
+167
+Product Name: 1 kg Dana Short Ribs Fırınlık Kaburga
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 459,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Firinlik Kaburga (short Ribs) Price: 459,95 TL  Unit Price: 459,95 TL/kg
+
+Similar Products:
+ - Similar Product: Namet Dana Kaburga 130 gr Füme Et                  Price: 240,00 TL 
+ - Similar Product: Uzman Kasap 1 kg Dana Yemeklik Kaburga             Price: 339,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Fırınlık               Price: 599,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kapamalık Et           Price: 599,95 TL 
+
+Features:
+ - İçerik: Dana
+ - Ürün Tipi: Kaburga
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/1-kg-dana-short-ribs-firinlik-kaburga-_286696.jpg 
+
+
+168
+Product Name: Reyondan 1 kg Kıvırcık Kuzu Kaburga
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 569,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuzu Kaburga Kivircik Kg       Price: 569,95 TL  Unit Price: 569,95 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kuşbaşı                Price: 859,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Fırınlık               Price: 599,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kapamalık Et           Price: 599,95 TL 
+ - Similar Product: 1 kg Kemiksiz Kıvırcık Kuzu Kol                    Price: 799,95 TL 
+ - Similar Product: Reyondan 1 kg Kuzu Külbastı Kıvırcık               Price: 899,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Gerdan                 Price: 569,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Gerdan                 Price: 569,95 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Kaburga                Price: 569,95 TL 
+
+Features:
+ - İçerik: Kuzu Eti
+ - Ürün Türü: Kaburga
+ - Ürün Tipi: Kuzu Kaburga
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-kivircik-kuzu-kaburga-_610046.jpg 
+
+
+169
+Product Name: Tire 200 gr Dana Şiş Köfte
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 159,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Kofte Dana Şis 200 G Tire      Price: 159,00 TL  Unit Price: 795,00 TL/kg
+
+Similar Products:
+ - Similar Product: Tire 500 gr Şiş Köfte                              Price: 434,90 TL 
+
+Features:
+ - İçerik: Dana Eti
+ - Ağırlık: 200 gr
+ - Ürün Tipi: Şiş Köfte
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/tire-200-gr-dana-sis-kofte-_1052101.jpg 
+
+
+170
+Product Name: Uzman Kasap 400 gr Dana Kuzu Kıyma
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 165,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Dana Kuzu Kiyma 400 G Price: 165,00 TL  Unit Price: 412,50 TL/kg
+
+Similar Products:
+ - Similar Product: Tk 400 gr %20 Yağlı Map Tabak Dana Kıyma           Price: 171,90 TL 
+ - Similar Product: Lezzetlim 400 gr Dana Kıyma                        Price: 165,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kıyma                      Price: 165,00 TL 
+ - Similar Product: Uzman Kasap 400 gr Dana Kuzu Kıyma                 Price: 165,00 TL 
+ - Similar Product: Emin 400 gr %20 Yağlı Dana Kıyma                   Price: 120,00 TL 
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/uzman-kasap-400-gr-dana-kuzu-kiyma-_927316.jpg 
+
+
+171
+Product Name: Beşler Et Gıda 400 gr Kuzu Saç Tava
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 220,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Kuzu Sac Tava 400 G Besler     Price: 220,00 TL  Unit Price: 550,00 TL/kg
+
+Similar Products:
+ - Similar Product: Uzman Kasap 400 gr Sac Kavurmalık Kuzu             Price: 144,95 TL 
+ - Similar Product: Beşler 400 gr Dana-Kuzu Satır Köfte                Price: 155,00 TL 
+ - Similar Product: Beşler Et Gıda 400 gr Yağsız Dana Kıyma            Price: 200,00 TL 
+ - Similar Product: Beşler Et ve Gıda 400 gr Dana Izgara Köfte         Price: 155,00 TL 
+ - Similar Product: Reyondan 1 kg Kıvırcık Kuzu Saç Kavurmalık         Price: 669,95 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/besler-et-gida-400-gr-kuzu-sac-tava-_1796527.jpg 
+
+
+172
+Product Name: Uzman Kasap 1 kg Dana Yemeklik Kaburga
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 339,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Dana Yemeklik Kaburga Kg Price: 339,95 TL  Unit Price: 339,95 TL/kg
+
+Similar Products:
+ - Similar Product: 1 kg Dana Short Ribs Fırınlık Kaburga              Price: 459,95 TL 
+ - Similar Product: Namet Dana Kaburga 130 gr Füme Et                  Price: 240,00 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Yemeklik Kuşbaşı        Price: 519,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Kıymalık                Price: 519,95 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/uzman-kasap-1-kg-dana-yemeklik-kaburga-_1741862.jpg 
+
+
+173
+Product Name: Dana 1 kg Tandır (Brisket)
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 559,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Tandir (brisket) Kg       Price: 559,95 TL  Unit Price: 559,95 TL/kg
+
+Similar Products:
+ - Similar Product: Uzman Kasap 1 kg Dana Soslu Dana Brisket           Price: 629,95 TL 
+
+Features:
+ - İçerik: Dana
+ - Ürün Tipi: Tandır
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/dana-1-kg-tandir-brisket-_314165.jpg 
+
+
+174
+Product Name: Uzman Kasap Dana Doğranmış 400 gr İşkembe
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 147,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Dana Iskembe 400 G (kusbasi) Price: 147,95 TL  Unit Price: 369,88 TL/kg
+
+Similar Products:
+ - Similar Product: Maret 400 gr Dana İşkembe                          Price: 75,00 TL  
+ - Similar Product: Maret 400 gr Dana İşkembe                          Price: 75,00 TL  
+ - Similar Product: Mirza 500 gr Dana İşkembe                          Price: 89,90 TL  
+ - Similar Product: Mirza 500 gr Dana İşkembe                          Price: 89,90 TL  
+ - Similar Product: Hammadde 1 kg Dana İşkembe                         Price: 46,71 TL  
+ - Similar Product: Uzman Kasap 500 gr Dana Doğranmış Ciğer            Price: 319,95 TL 
+
+Features:
+ - Ürün Türü: Dana
+ - Ürün Tipi: İşkembe
+ - Toplam Ağırlık: 400 gr
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/uzman-kasap-dana-dogranmis-400-gr-iskembe-_360893.jpg 
+
+
+175
+Product Name: Uzman Kasap 1 kg Yağsız Dana Kuşbaşı
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 562,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Dana Yagsiz Kusbasi Kg_ 1 Kg Price: 562,95 TL  Unit Price: 562,95 TL/kg
+
+Similar Products:
+ - Similar Product: Haket 300 gr Yağsız Dana Kuşbaşı                   Price: 79,00 TL  
+ - Similar Product: Reyondan 1 kg Yöresel Dana Yağsız Rosto Kıyma      Price: 599,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Rostoluk Et             Price: 599,95 TL 
+ - Similar Product: Beşler Et Gıda 400 gr Yağsız Dana Kıyma            Price: 200,00 TL 
+ - Similar Product: Haket 300 gr Yağsız Dana Kıyma                     Price: 95,00 TL  
+ - Similar Product: Uzman Kasap 400 gr Yağsız Dana Kıyma               Price: 217,95 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/uzman-kasap-1-kg-yagsiz-dana-kusbasi-_1804444.jpg 
+
+
+176
+Product Name: Uzman Kasap 500 gr Dondurulmuş Mangal Köfte
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 244,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Mangal Kofte Dondurulmus 500 G Price: 244,90 TL  Unit Price: 489,80 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/uzman-kasap-500-gr-dondurulmus-mangal-kofte-_1445837.jpg 
+
+
+177
+Product Name: Reyondan 1 kg Dana Yemeklik Kuşbaşı Anadolu
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 439,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Dana Yemeklik Kusbasi Anadolu Kg Price: 439,95 TL  Unit Price: 439,95 TL/kg
+
+Similar Products:
+ - Similar Product: Reyondan 1 kg Yöresel Dana Yemeklik Kuşbaşı        Price: 519,95 TL 
+ - Similar Product: Reyondan 1 kg Yöresel Dana Kıymalık                Price: 519,95 TL 
+
+Features:
+ - İçerik: Dana Eti
+ - Ürün Türü: Kuşbaşı
+ - Ürün Tipi: Dana Kuşbaşı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-dana-yemeklik-kusbasi-anadolu-_610052.jpg 
+
+
+178
+Product Name: Uzman Kasap 300 gr Kuzu Sote
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 255,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Uzman Kasap Kuzu Sote 300 G    Price: 255,95 TL  Unit Price: 853,17 TL/kg
+
+Similar Products:
+ - Similar Product: Uzman Kasap 300 gr Kuzu Pirzola                    Price: 292,95 TL 
+ - Similar Product: Emin 400 gr Dana Sote                              Price: 135,00 TL 
+ - Similar Product: Emin 400 gr Dana Sote                              Price: 135,00 TL 
+
+Features:
+ - İçerik: Kuzu
+ - Ürün Tipi: Kuşbaşı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 300 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/uzman-kasap-300-gr-kuzu-sote-_314177.jpg 
+
+
+179
+Product Name: Beşler Et ve Gıda 500 gr Dana İlikli Kemik
+Main Category: Et, Tavuk ve Balık
+Sub-categories: Et, 
+Cheapest Price: 34,75 TL 
+
+Market Products:
+ - Market: A101                 Product: Dana Ilikli Kemik 500 G Besler Price: 34,75 TL   Unit Price: 69,50 TL/kg
+
+Similar Products:
+ - Similar Product: Beşler Et ve Gıda 500 gr Dondurulmuş Dana Kıyma    Price: 90,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/besler-et-ve-gida-500-gr-dana-ilikli-kemik-_1515424.jpg 
+
+
+{'hammadde': 12, '1': 92, 'kg': 92, 'kuzu': 47, 'kol': 7, 'uzman': 29, 'kasap': 30, '400': 39, 'gr': 85, 'dana': 118, 'kıyma': 11, 'tutkun': 5, 'et': 30, 'kalem': 1, 'pirzola': 5, 'emin': 10, '%20': 2, 'yağlı': 4, 'beşler': 8, 've': 3, 'gıda': 5, '500': 18, 'dondurulmuş': 3, 'migros': 3, 'ciğer': 4, 'kuşbaşı': 15, 'but': 6, 'yürek': 4, 'haket': 4, '300': 8, 'yağsız': 6, 'dalak': 2, 'mirza': 6, 'böbrek': 1, 'koç': 1, 'yumurtası': 1, 'tk': 12, 'map': 2, 'tabak': 2, 'reyondan': 33, 'biftek': 6, 'yöresel': 11, 'izgara': 2, 'köfte': 21, '200': 4, 'döner': 3, 'lezzetlim': 4, 'rosto': 2, 'özlem': 1, '100': 1, 'füme': 2, 'kuru': 3, 'yanak': 1, 'bonfile': 4, 'nuar': 2, 'pınar': 1, '225': 1, 'özel': 1, 'burger': 4, 'eti': 3, 'billur': 1, 'yıldız': 2, 'sivas': 1, 'tire': 4, 'şiş': 2, 'antrikot': 10, 'beyti': 1, 'peşrev': 2, 'çelebi': 2, 'oğlak': 1, 'kapama': 1, 'stragonofluk': 1, 'orta': 1, 'kıvırcık': 13, 'fırınlık': 2, 'kontrafile': 4, 'sote': 3, 'satır': 3, 'tas': 2, 'kebap': 2, 'tarım': 5, 'kredi': 5, 'donuk': 3, 'kiymalik': 2, 'i̇ncik': 2, 'sotelik': 2, 'fiorucci': 1, '120': 1, 'isıl': 1, 'i̇şlem': 1, 'uygulanmamış': 1, 'kürlenmiş': 1, 'ürünü': 1, 'külbastı': 2, 'anket': 2, '250': 4, 'karaciğer': 1, 'kemiksiz': 1, 'tranç': 2, 'doğranmış': 2, '320': 2, 'kontrfile': 1, 'anadolu': 4, 'orvital': 1, 'organik': 1, 'obak': 2, 'fileto': 1, 'gulaş': 1, 'kaburga': 6, 'dana-kuzu': 1, 'amasya': 1, 'ürünleri': 1, 'sultan': 2, '450': 2, 'doğal': 2, 'çiftliğim': 2, 'maret': 3, 'parmak': 1, 'soslu': 4, '480': 2, 'yemeklik': 4, 'kalp': 1, 'hamburger': 1, 'gerdan': 6, 'i̇şkembe': 7, 'haşlamalık': 2, 'cızbız': 1, 'kemikli': 1, 'i̇nciksiz': 1, 'yarım': 1, '240': 1, 'mini': 1, 'ettat': 2, 'i̇negöl': 3, 'tadpi': 2, 'piliç': 2, 'kıymalık': 2, 'gulaşlık': 2, 'bahar': 1, 'hindi': 1, 'dilimli': 1, 'brisket': 1, 'lokum': 1, 'saç': 2, 'kavurmalık': 2, 'kapamalık': 2, 'laz': 1, 'kızı': 1, '150': 1, 'kavurma': 1, 'çorbalık': 1, 'kombinet': 1, 'tandırlık': 1, 'kurek': 1, 'dos': 1, 'rostoluk': 1, 'kokoreç': 1, 'namet': 1, '130': 1, 'az': 1, 'kooperatif': 2, 'güngörmez': 1, 'klasik': 1, 'dil': 1, 'sac': 1, 'short': 1, 'ribs': 1, 'tava': 1, 'tandır': 1, '(brisket)': 1, 'mangal': 1, 'i̇likli': 1, 'kemik': 1}
+['Ürün Tipi', 'Adet', 'Toplam Ağırlık', 'Kategori', 'İçerik', 'Ürün Türü', 'Ağırlık', 'Menşei', 'Ambalaj Tipi']
+
+

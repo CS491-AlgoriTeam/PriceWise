@@ -1,0 +1,60 @@
+1
+Product Name: Tuttaze 25 gr Yanmaz Fırın Torbası
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Mutfak Sarf Malzemeleri, Fırın Torbası
+Cheapest Price: 15,90 TL
+
+Market Products:
+ - Market: Şok                  Product: Tuttaze Yanmaz Firin Torbasi 25 Gr Price: 15,90 TL   Unit Price: 15,90 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 25 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/tuttaze-25-gr-yanmaz-firin-torbasi-_1436491.jpg
+
+
+2
+Product Name: Cook 8'li Fırın Torbası
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Mutfak Sarf Malzemeleri, Fırın Torbası
+Cheapest Price: 14,50 TL
+
+Market Products:
+ - Market: Hakmar Express       Product: Firin Torbasi 8 Li Cook-261223 Price: 14,50 TL   Unit Price: 1,81 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/cook-8li-firin-torbasi-_32205.jpg
+
+
+3
+Product Name: Koroplast 10'lu Mikrodalga Pişirme Torbası
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Mutfak Sarf Malzemeleri, Fırın Torbası
+Cheapest Price: 65,00 TL
+
+Market Products:
+ - Market: Migros               Product: Koroplast Mikrodalga Pisirme Torbasi 10lu Price: 65,00 TL   Unit Price: 6,50 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 10 Adet
+ - Ebat: 26x21 cm
+Product Image URL: https://cdn.cimri.io/market/260x260/koroplast-10lu-mikrodalga-pisirme-torbasi-_90283.jpg
+
+
+{'tuttaze': 1, '25': 1, 'gr': 1, 'yanmaz': 1, 'fırın': 2, 'torbası': 3, 'cook': 1, "8'li": 1, 'koroplast': 1, "10'lu": 1, 'mikrodalga': 1, 'pişirme': 1}
+['Adet', 'Toplam Ağırlık', 'Ebat']
+
+fırın_torbası_içerik_dict = {
+'yanmaz':'Yanmaz','fırın':'Fırın','cook':'Cook',"8'li":"8'li","10'lu":"10'lu",'pişirme':'Pişirme'}
+
+fırın_torbası_ürün_tipi_dict{
+'yanmaz':'Fırın Torbası','fırın':Fırın Torbası','cook':Fırın Torbası',"8'li":Fırın Torbası',"10'lu":Fırın Torbası','pişirme':Fırın Torbası'}
+
+fırın_torbası_ürün_türü_dict = {
+'yanmaz':'Yanmaz Fırın Torbası','fırın':'Fırın Torbası',"8'li":"8'li Fırın Torbası","10'lu":"10'lu Fırın Torbası",'pişirme':'Pişirme Fırın Torbası'}

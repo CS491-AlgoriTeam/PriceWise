@@ -1,7 +1,15 @@
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:pwfe/components/text-form-fields/text_form_field_blue_darker.dart';
 import 'package:pwfe/pages/HomePage.dart';
-import 'package:pwfe/utils/DatabaseHelper.dart';
+import 'package:pwfe/database/firebase_auth.dart';
+import 'package:firebase_auth/firebase_auth.dart';
+import 'package:flutter/material.dart';
+import 'package:pwfe/database/firebase_auth.dart';
+import 'package:pwfe/pages/SigninPage.dart';
+import 'package:pwfe/components/widgets/form_container_widget.dart';
+import 'package:pwfe/components/alerts/toast.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
 
 class SignUpPage extends StatefulWidget {
   const SignUpPage({super.key});
@@ -13,15 +21,23 @@ class SignUpPage extends StatefulWidget {
 class _SignUpScreenState extends State<SignUpPage> {
   bool _isPasswordVisible = false;
   bool _isConfirmPasswordVisible = false;
+  bool isSigningUp = false;
+
+  @override
+  void dispose() {
+    _usernameController.dispose();
+    _emailController.dispose();
+    _passwordController.dispose();
+    super.dispose();
+  }
 
   // use these to gather text from text form fields
-  final TextEditingController _fullNameController = TextEditingController();
+  final FirebaseAuthService _auth = FirebaseAuthService();
+
+  final TextEditingController _usernameController = TextEditingController();
   final TextEditingController _emailController = TextEditingController();
   final TextEditingController _passwordController = TextEditingController();
-  final TextEditingController _confirmPasswordController =
-      TextEditingController();
-
-  DatabaseHelper databaseHelper = DatabaseHelper();
+  final TextEditingController _confirmPasswordController = TextEditingController();
 
   @override
   Widget build(BuildContext context) {
@@ -55,7 +71,7 @@ class _SignUpScreenState extends State<SignUpPage> {
               ),
               SizedBox(height: screenSize.height * 0.05),
               TextFormField(
-                controller: _fullNameController,
+                controller: _usernameController,
                 decoration: InputDecoration(
                   labelText: "Full Name",
                   labelStyle: const TextStyle(
@@ -183,13 +199,17 @@ class _SignUpScreenState extends State<SignUpPage> {
               ),
               SizedBox(height: screenSize.height * 0.05),
               ElevatedButton(
-                onPressed: () {
+                //onPressed: () {
+                onPressed: ()  {
+                  _signUp();
+                  /*if(isSigningUp == true){//bu doğru çalışmıyor ama sebep ne??
                   Navigator.push(
                     context,
                     MaterialPageRoute(
                         builder: (context) =>
-                            const HomePage()), // Use the class name of your sign-in page
+                            const SignInPage()), // Use the class name of your sign-in page
                   );
+                  }*/
                 },
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.lightBlue,
@@ -206,12 +226,107 @@ class _SignUpScreenState extends State<SignUpPage> {
                     color: Colors.black,
                   ),
                 ),
-                child: const Text('Sign Up'),
+                child: Center(
+                      child: isSigningUp ? CircularProgressIndicator(color: Colors.white,):Text(
+                    "Sign Up",
+                    style: TextStyle(
+                        color: Colors.white, fontWeight: FontWeight.bold),
+                  )),
+                //const Text('Sign Up'),
               ),
+              SizedBox(
+                height: 20,
+              ),
+              Row(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Text("Already have an account?"),
+                  SizedBox(
+                    width: 5,
+                  ),
+                  GestureDetector(
+                      onTap: () {
+                        Navigator.pushAndRemoveUntil(
+                            context,
+                            MaterialPageRoute(
+                                builder: (context) => SignInPage()),
+                            (route) => false);
+                      },
+                      child: Text(
+                        "Sign In",
+                        style: TextStyle(
+                            color: Colors.blue, fontWeight: FontWeight.bold),
+                      ))
+                ],
+              )
             ],
           ),
         ),
       ),
     );
   }
+  
+void _signUp() async {
+  setState(() {
+    isSigningUp = true;
+  });
+
+  final String username = _usernameController.text;
+  final String email = _emailController.text;
+  final String password = _passwordController.text;
+  final String confirmPassword = _confirmPasswordController.text;
+
+  if (password != confirmPassword) {
+    showToast(message: "Passwords do not match");
+    setState(() {
+      isSigningUp = false;
+    });
+    return;
+  }
+
+  try {
+    // This assumes _auth is your FirebaseAuth instance.
+    UserCredential userCredential = await FirebaseAuth.instance.createUserWithEmailAndPassword(
+      email: email,
+      password: password,
+    );
+
+    User? user = userCredential.user;
+
+    if (user != null) {
+      // Successfully created the user, now add the extra user information to Firestore
+      await FirebaseFirestore.instance.collection('Users').doc(user.uid).set({
+        'email': email,
+        'fullName': username,
+        'city': 'Ankara',  // Default city
+        // Any additional fields you need
+      });
+
+      showToast(message: "User successfully created");
+      
+      // Optionally, navigate to the home page or verify email
+      Navigator.pushAndRemoveUntil(
+        context,
+        MaterialPageRoute(builder: (context) => HomePage()), // Make sure you have HomePage imported correctly
+        (route) => false,
+      );
+    }
+  } on FirebaseAuthException catch (e) {
+    if (e.code == 'weak-password') {
+      showToast(message: "The password provided is too weak.");
+    } else if (e.code == 'email-already-in-use') {
+      showToast(message: "An account already exists for that email.");
+    } else {
+      showToast(message: "Firebase Auth Error: ${e.message}");
+    }
+  } catch (e) {
+    showToast(message: "An unexpected error occurred. Please try again later.");
+  } finally {
+    // Ensure that we always stop the loading indicator, even if there's an error.
+    setState(() {
+      isSigningUp = false;
+    });
+  }
+}
+
 }

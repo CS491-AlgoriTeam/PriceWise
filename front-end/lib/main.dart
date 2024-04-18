@@ -1,54 +1,41 @@
 // main.dart
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'dart:async';
+import 'dart:io';
 import 'package:path/path.dart';
-import 'package:pwfe/classes/Product.dart';
-import 'package:pwfe/classes/ShoppingList.dart';
-import 'package:pwfe/classes/ShoppingListsData.dart';
-import 'package:pwfe/classes/User.dart';
-import 'package:pwfe/utils/DatabaseHelper.dart';
-
 import 'package:sqflite/sqflite.dart';
-
-import 'package:pwfe/classes/UsersShoppingLists.dart';
 import 'package:pwfe/pages/HomePage.dart';
-
 import 'package:pwfe/pages/MyShoppingListsPage.dart';
-
 import 'pages/SigninPage.dart'; // Import the sign-in page
 import 'pages/SignupPage.dart'; // Import the sign-up page
 
 // flutter_svg to make custom buttons from icons
 
-void main() async {
+Future main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  DatabaseHelper databaseHelper = DatabaseHelper();
-  await databaseHelper.initDatabase(); // Wait for initialization to complete
+  
+  FirebaseOptions firebaseOptions;
 
-  databaseHelper.insertUser(User(
-      userID: 1,
-      userName: "deniz",
-      userSurname: "userSurname",
-      userEmail: "xd",
-      userPassword: "123"));
+  // Check the platform
+  if (Platform.isAndroid) {
+    // Android-specific Firebase options
+    firebaseOptions = const FirebaseOptions(
+      apiKey: "AIzaSyCySbCT34duT0KjRUuBB63yXqc2D5TQ7eU",
+      appId: "1:880861676478:android:55ca897f4c1bc682f02fef",
+      messagingSenderId: "880861676478",
+      projectId: "pricewise-cs",
+    );
+    await Firebase.initializeApp(
+    options: firebaseOptions,
+    );
+  } 
+  else {
+    await Firebase.initializeApp();
+  }
 
-  databaseHelper
-      .insertProduct(Product(productName: "product1", productPrice: 1.0));
-
-  databaseHelper.insertProduct(Product(
-      productName: "product2",
-      productPrice: 2.0)); // Insert a product into the database
-/*
- // ShoppingList shoppingList1 = ShoppingList(
-      shoppingListName: "shoppingList1",
-      products: [Product(productName: "product1", productPrice: 1.0)]);
-
-  //ShoppingList shoppingList2 = ShoppingList(shoppingListName: "shoppingList2", products: [Product(productName: "product2", productPrice: 2.0)]);
-*/
-  // shopping list datası patlado
-  print(await databaseHelper.getUserMapList());
-  print(await databaseHelper.getProductMapList());
   runApp(MyApp());
+
 }
 
 class MyApp extends StatelessWidget {

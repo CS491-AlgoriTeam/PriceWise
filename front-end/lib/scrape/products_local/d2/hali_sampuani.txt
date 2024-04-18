@@ -1,0 +1,96 @@
+1
+Product Name: Kosla Oxi Action Halı ve Döşeme 500 ml Leke Çıkarıcı
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Ev Temizliği, Halı Şampuanı
+Cheapest Price: 97,80 TL
+
+Market Products:
+ - Market: Şok                  Product: Kosla Oxi Action Hali Ve Doseme Leke Çik.500 Ml. Price: 97,80 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kosla-oxi-action-hali-ve-doseme-500-ml-leke-cikarici-_1442211.jpg
+
+
+2
+Product Name: Vanish Kosla 850 ml Elde Limonlu Halı Yıkama Şampuanı
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Ev Temizliği, Halı Şampuanı
+Cheapest Price: 119,90 TL
+
+Market Products:
+ - Market: Carrefour            Product: Vanish 850ml Hali Makine Limonlu Price: 119,90 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/vanish-kosla-850-ml-elde-limonlu-hali-yikama-sampuani-_988253.jpg
+
+
+3
+Product Name: Vanish 2x850 ml Halı Elde
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Ev Temizliği, Halı Şampuanı
+Cheapest Price: 165,63 TL
+
+Market Products:
+ - Market: Carrefour            Product: Vanish 850*2 Hali El           Price: 165,63 TL  Unit Price: 97,43 TL/lt
+
+Similar Products:
+
+Features:
+ - Kullanım Türü: Elde
+ - Adet: 2 Adet
+ - Toplam Ağırlık: 1.7 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/vanish-2x850-ml-hali-elde-_481573.jpg
+
+
+4
+Product Name: Vanish Ekstra Hijyen Makine 850 ml Halı Şampuanı
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Ev Temizliği, Halı Şampuanı
+Cheapest Price: 165,63 TL
+
+Market Products:
+ - Market: Carrefour            Product: Vanish 2x850ml Hali Ekstra Hijyen Mak. Price: 165,63 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/vanish-ekstra-hijyen-makine-850-ml-hali-sampuani-_1442123.jpg
+
+
+{'kosla': 2, 'oxi': 1, 'action': 1, 'halı': 4, 've': 1, 'döşeme': 1, '500': 1, 'ml': 4, 'leke': 1, 'çıkarıcı': 1, 'vanish': 3, '850': 2, 'elde': 2, 'limonlu': 1, 'yıkama': 1, 'şampuanı': 2, '2x850': 1, 'ekstra': 1, 'hijyen': 1, 'makine': 1}
+['Kullanım Türü', 'Adet', 'Toplam Ağırlık']
+
+halı_şampuanı_içerik_dict ={
+'leke': 'Leke Çıkarıcı', 'çıkarıcı': 'Leke Çıkarıcı', ''oxi': 'Leke Çıkarıcı', 'action':'Leke Çıkarıcı', 'limonlu':  'Limonlu','850': '850 ml','2x850':'2x850 ml',
+ 'ekstra': 'Ekstra Hijyen Makine', 'hijyen': 'Ekstra Hijyen Makine', 'makine': 'Ekstra Hijyen Makine'
+}
+
+halı_şampuanı_ürün_tipi_dict ={
+    'leke': 'Halı Şampuanı', 
+    'çıkarıcı': 'Halı Şampuanı', 
+    'oxi': 'Halı Şampuanı', 
+    'action':'Halı Şampuanı', 
+    'limonlu':  'Halı Şampuanı',
+    '850': 'Halı Şampuanı',
+    '2x850':'Halı Şampuanı',
+    'ekstra': 'Halı Şampuanı',
+    'hijyen': 'Halı Şampuanı',
+    'makine': 'Halı Şampuanı'
+}
+
+halı_şampuanı_ürün_türü_dict ={
+    'leke': 'Leke Çıkarıcı Halı Şampuanı', 
+    'çıkarıcı': 'Leke Çıkarıcı Halı Şampuanı', 
+    'oxi': 'Leke Çıkarıcı Halı Şampuanı', 
+    'action':'Leke Çıkarıcı Halı Şampuanı', 
+    'limonlu':  'Limonlu Halı Şampuanı',
+    '850': '850 ml Halı Şampuanı',
+    '2x850':'2x850 ml Halı Şampuanı',
+    'ekstra': 'Ekstra Hijyen Makine Halı Şampuanı',
+    'hijyen': 'Ekstra Hijyen Makine Halı Şampuanı',
+    'makine': 'Ekstra Hijyen Makine Halı Şampuanı'
+}
