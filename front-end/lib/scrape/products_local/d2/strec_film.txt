@@ -1,0 +1,161 @@
+1
+Product Name: Protex 50 mt Streç Film
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Mutfak Sarf Malzemeleri, Streç Film
+Cheapest Price: 20,75 TL
+
+Market Products:
+ - Market: Bim                  Product: Strech Film 50 Mt Protex       Price: 20,75 TL   Unit Price: 20,75 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/protex-50-mt-strec-film-_1431761.jpg
+
+
+2
+Product Name: Tuttaze 30 cm x 50 m Streç Film
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Mutfak Sarf Malzemeleri, Streç Film
+Cheapest Price: 34,25 TL
+
+Market Products:
+ - Market: Şok                  Product: Tuttaze Strec Film 30 Cm*50 M  Price: 34,25 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tuttaze-30-cm-x-50-m-strec-film-_1432859.jpg
+
+
+3
+Product Name: Koroplast 25 mt Doğa Dostu Streç Film
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Mutfak Sarf Malzemeleri, Streç Film
+Cheapest Price: 99,95 TL
+
+Market Products:
+ - Market: Migros               Product: Koroplast Doga Dostu Strec Film 25 M Price: 99,95 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/koroplast-25-mt-doga-dostu-strec-film-_1447018.jpg
+
+
+4
+Product Name: Roll-Up 33 mt Kayar Bıçaklı Streç Film
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Mutfak Sarf Malzemeleri, Streç Film
+Cheapest Price: 112,95 TL
+
+Market Products:
+ - Market: Migros               Product: Roll-up Kayar Bicakli Strec Film 33m Price: 112,95 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/roll-up-33-mt-kayar-bicakli-strec-film-_1736322.jpg
+
+
+5
+Product Name: Koroplast 30 cm x 300 m Kesme Bıçağı Hediyeli Streç Film
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Mutfak Sarf Malzemeleri, Streç Film
+Cheapest Price: 189,00 TL
+
+Market Products:
+ - Market: Migros               Product: Koroplast Strec Film 30cmx300 M Price: 189,00 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/koroplast-30-cm-x-300-m-kesme-bicagi-hediyeli-strec-film-_47696.jpg
+
+
+6
+Product Name: Cook 50 m Kesimli Streç Film
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Mutfak Sarf Malzemeleri, Streç Film
+Cheapest Price: 31,00 TL
+
+Market Products:
+ - Market: Migros               Product: Cook Kesimli Strec Film 50m.   Price: 31,00 TL   Unit Price: 0,62 TL/m
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 50 m
+ - Uzunluk: 50 m
+Product Image URL: https://cdn.cimri.io/market/260x260/cook-50-m-kesimli-strec-film-_306497.jpg
+
+
+7
+Product Name: Cook 20 mt Streç Film
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Mutfak Sarf Malzemeleri, Streç Film
+Cheapest Price: 34,05 TL
+
+Market Products:
+ - Market: Şok                  Product: Cook Strec Film (20 M.)        Price: 34,05 TL   Unit Price: 1,70 TL/m
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 20 m
+Product Image URL: https://cdn.cimri.io/market/260x260/cook-20-mt-strec-film-_598287.jpg
+
+
+8
+Product Name: Koroplast 30x15 m Streç Film
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Mutfak Sarf Malzemeleri, Streç Film
+Cheapest Price: 29,95 TL
+
+Market Products:
+ - Market: Hakmar Express       Product: Strec Film 30cmx15mt Koroplast Price: 29,95 TL   Unit Price: 2,00 TL/m
+ - Market: Migros               Product: Koroplast Strec Film 15 M      Price: 74,95 TL   Unit Price: 5,00 TL/m
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 15 m
+ - Uzunluk: 15 m
+Product Image URL: https://cdn.cimri.io/market/260x260/koroplast-30x15-m-strec-film-_306368.jpg
+
+
+{'protex': 1, '50': 3, 'mt': 4, 'streç': 8, 'film': 8, 'tuttaze': 1, '30': 2, 'cm': 2, 'x': 2, 'm': 4, 'koroplast': 3, '25': 1, 'doğa': 1, 'dostu': 1, 'roll-up': 1, 
+'33': 1, 'kayar': 1, 'bıçaklı': 1, '300': 1, 'kesme': 1, 'bıçağı': 1, 'hediyeli': 1, 'cook': 2, 'kesimli': 1, '20': 1, '30x15': 1}
+['Adet', 'Toplam Ağırlık', 'Uzunluk']
+
+
+streç_film_içerik_dict = {
+    'protex': 'Protex', '50': "50'lik", 'film': 'Film', 'tuttaze': 'Tuttaze',
+    '30': "30'lu",  'koroplast': 'Koroplast', '25': "25'lik",
+    'doğa': 'Doğa', 'dostu': 'Dostu', 'roll-up': 'Roll-Up', '33': "33'lük", 'kayar': 'Kayar Bıçaklı', 'bıçaklı': 'Kayar Bıçaklı',
+    '300': "300'lü", 'kesme': 'Kesme Bıçağı Hediyeli', 'bıçağı': 'Kesme Bıçağı Hediyeli', 'hediyeli': 'Kesme Bıçağı Hediyeli', 'cook': 'Cook', 'kesimli': 'Kesimli',
+    '20': "20'lik", '30x15': "30x15'lik"
+}
+
+streç_film_ürün_tipi_dict = {
+    'protex': 'Streç Film', '50': 'Streç Film', 'mt': 'Streç Film', 'streç': 'Streç Film', 'film': 'Streç Film',
+    'tuttaze': 'Streç Film', '30': 'Streç Film', 'cm': 'Streç Film', 'x': 'Streç Film', 'm': 'Streç Film',
+    'koroplast': 'Streç Film', '25': 'Streç Film', 'doğa': 'Streç Film', 'dostu': 'Streç Film', 'roll-up': 'Streç Film',
+    '33': 'Streç Film', 'kayar': 'Streç Film', 'bıçaklı': 'Streç Film', '300': 'Streç Film', 'kesme': 'Streç Film',
+    'bıçağı': 'Streç Film', 'hediyeli': 'Streç Film', 'cook': 'Streç Film', 'kesimli': 'Streç Film', '20': 'Streç Film',
+    '30x15': 'Streç Film'
+}
+
+streç_film_ürün_türü_dict = {
+    'protex': 'Protex Streç Film', '50': "50'lik Streç Film", 
+    'film': 'Film Streç Film', 'tuttaze': 'Tuttaze Streç Film', '30': "30'lu Streç Film",  'koroplast': 'Koroplast Streç Film', '25': "25'lik Streç Film",
+    'doğa': 'Doğa Streç Film', 'dostu': 'Dostu Streç Film', 'roll-up': 'Roll-Up Streç Film', '33': "33'lük Streç Film",
+    'kayar': 'Kayar Bıçaklı Streç Film', 'bıçaklı': 'Kayar Bıçaklı Streç Film', '300': "300'lü Streç Film",
+    'kesme': 'Kesme Bıçağı Hediyeli Streç Film', 'bıçağı': 'Kesme Bıçağı Hediyeli Streç Film', 'hediyeli': 'Kesme Bıçağı Hediyeli Streç Film', 
+    'cook': 'Cook Streç Film', 'kesimli': 'Kesimli Streç Film', '20': "20'lik Streç Film", '30x15': "30x15'lik Streç Film"
+}
+

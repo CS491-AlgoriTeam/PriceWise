@@ -1,0 +1,764 @@
+1
+Product Name: Finish 250 ml Bulaşık Makinası Temizleyici
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 34,90 TL
+
+Market Products:
+ - Market: A101                 Product: Bul. Mak. Tem. Klasik 250 Ml Finish Price: 34,90 TL   Unit Price: 139,60 TL/lt
+ - Market: Carrefour            Product: Finish 250 Ml Mak.tem.         Price: 126,90 TL  Unit Price: 507,60 TL/lt
+
+Similar Products:
+
+Features:
+ - Toplam Ağırlık: 250 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/finish-250-ml-bulasik-makinasi-temizleyici-_1077433.jpg
+
+
+2
+Product Name: Frosch 750 ml Bulaşık Makinesi Parlatıcısı
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 139,95 TL
+
+Market Products:
+ - Market: Migros               Product: Frosch Bulasik Makinasi Parlaticisi 750 Ml Price: 139,95 TL  Unit Price: 186,60 TL/lt
+
+Similar Products:
+
+Features:
+ - Kullanım Türü: Makine
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 750 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/frosch-750-ml-bulasik-makinesi-parlaticisi-_303268.jpg
+
+
+3
+Product Name: Pril 2 kg Bulaşık Makinesi Tuzu
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 9,95 TL
+
+Market Products:
+ - Market: A101                 Product: Bulasik Makinesi Tuzu 2 Kg Pril Price: 9,95 TL    Unit Price: 4,97 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Pril Tuz 2kg                   Price: 44,90 TL   Unit Price: 22,45 TL/lt
+ - Market: Carrefour            Product: Pril Tuz 2000 Gr               Price: 60,90 TL   Unit Price: 30,45 TL/lt
+ - Market: Migros               Product: Pril Tuz 2 Kg                  Price: 60,90 TL   Unit Price: 30,45 TL/lt
+
+Similar Products:
+
+Features:
+ - Kullanım Türü: Makine
+ - Ürün Tipi: Bulaşık Makinesi Tuzu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 2 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/pril-2-kg-bulasik-makinesi-tuzu-_303398.jpg
+
+
+4
+Product Name: Pril 500 ml Bulaşık Parlatıcı
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 11,50 TL
+
+Market Products:
+ - Market: Migros               Product: Pril Bulasik Makinesi Parlatici 500 Ml Price: 11,50 TL   Unit Price: 23,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/pril-500-ml-bulasik-parlatici-_303549.jpg
+
+
+5
+Product Name: Finish Makine Deo 4 ml Şelale Ferahlığı Bulaşık Makine Kokusu
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 64,00 TL
+
+Market Products:
+ - Market: A101                 Product: Bulasik Mak. Kokusu 4 Ml Deo Finish Price: 64,00 TL   Unit Price: 16.000,00 TL/lt
+
+Similar Products:
+
+Features:
+ - İçerik: Şelale Ferahlığı
+ - Kullanım Türü: Makine
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 4 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/finish-makine-deo-4-ml-selale-ferahligi-bulasik-makine-kokusu-_1429697.jpg
+
+
+6
+Product Name: Finish 550 gr Tuz+400 ml Parlatıcı+250 ml Makine Temizleyici
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 244,90 TL
+
+Market Products:
+ - Market: Migros               Product: Finish Tuz 550 G+parlatici 400 Ml+mak.temiz.250 Ml Price: 244,90 TL  Unit Price: 979,60 TL/lt
+
+Similar Products:
+
+Features:
+ - Kullanım Türü: Makine
+ - Ürün Tipi: Bulaşık Makinesi Temizleyici
+ - Toplam Ağırlık: 250 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/finish-550-gr-tuz400-ml-parlatici250-ml-makine-temizleyici-_402578.jpg
+
+
+7
+Product Name: Bind Activit 250 ml Bulaşık Makinesi Temizleyici
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 22,25 TL
+
+Market Products:
+ - Market: Bim                  Product: Bulasik Mak.temz.250 Ml Bind Activit Price: 22,25 TL   Unit Price: 89,00 TL/lt
+
+Similar Products:
+ - Similar Product: Bind 1,5 kg Activit Bulaşık Makinesi Tuzu          Price: 16,50 TL
+
+Features:
+ - Ürün Tipi: Bulaşık Makinesi Temizleyici
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/bind-activit-250-ml-bulasik-makinesi-temizleyici-_1434071.jpg
+
+
+8
+Product Name: Carrefour 500 ml Bulaşık Makinesi Parlatıcısı
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 23,50 TL
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Bul.mak.parlaticisi 500 Ml Price: 23,50 TL   Unit Price: 47,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Kullanım Türü: Makine
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-500-ml-bulasik-makinesi-parlaticisi-_1429692.jpg
+
+
+9
+Product Name: Mintax 250 ml Bulaşık Makinesi Temizleyicisi
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 27,00 TL
+
+Market Products:
+ - Market: Şok                  Product: Mintax Bulasik Mak. Temizleyici 250 Ml Price: 27,00 TL   Unit Price: 108,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Bulaşık Makinesi Temizleyici
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/mintax-250-ml-bulasik-makinesi-temizleyicisi-_930012.jpg
+
+
+10
+Product Name: Bind 450 ml Activit Bulaşık Makinesi Parlatıcı
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 19,50 TL
+
+Market Products:
+ - Market: Bim                  Product: Bul.mak.parlatici 450ml Bind Activit Price: 19,50 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Bind 1,5 kg Activit Bulaşık Makinesi Tuzu          Price: 16,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/bind-450-ml-activit-bulasik-makinesi-parlatici-_1440933.jpg
+
+
+11
+Product Name: Maxi 250 ml Bulaşık MakineTemizleyici
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 28,95 TL
+
+Market Products:
+ - Market: Hakmar Express       Product: Çamasir Makine Temizleyici 250ml Maxi Price: 28,95 TL   Unit Price: 115,80 TL/lt
+
+Similar Products:
+
+Features:
+ - Toplam Ağırlık: 250 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/maxi-250-ml-bulasik-makinetemizleyici-_1077450.jpg
+
+
+12
+Product Name: Pril 470 ml Bulaşık Makinesi Parlatıcı
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 25,55 TL
+
+Market Products:
+ - Market: Şok                  Product: Pril Parlatici 470 Ml          Price: 25,55 TL   Unit Price: 54,36 TL/lt
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/pril-470-ml-bulasik-makinesi-parlatici-_1435889.jpg
+
+
+13
+Product Name: Mr Green Oluklu 5'li Bulaşık Süngeri
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 16,50 TL
+
+Market Products:
+ - Market: Bim                  Product: Bulasik Sungeri Oluklu 5'li Mr Green Price: 16,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/mr-green-oluklu-5li-bulasik-sungeri-_1432054.jpg
+
+
+14
+Product Name: Finish 250 ml Bulaşık Makinesi Makine Temizleyici
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 54,50 TL
+
+Market Products:
+ - Market: Hakmar Express       Product: Bulasik Makine Temizleyici 250ml Finish Price: 54,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/finish-250-ml-bulasik-makinesi-makine-temizleyici-_1613570.jpg
+
+
+15
+Product Name: Carrefour 6.6 ml Bulaşık Makinası Kokusu
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 14,95 TL
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Bulasik Makinasi Kokusu 6,6 Ml Price: 14,95 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg
+
+
+16
+Product Name: Migros 2x20 gr Bulaşık Makinesi Temizleyici
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 6,00 TL
+
+Market Products:
+ - Market: Migros               Product: Migros Bulasik Makinesi Temizleyici 2*20g Price: 6,00 TL    Unit Price: 150,00 TL/lt
+
+Similar Products:
+ - Similar Product: Mintax 2x20 gr Makine Temizleyici                  Price: 6,10 TL
+
+Features:
+ - Kullanım Türü: Makine
+ - Ürün Tipi: Bulaşık Makinesi Temizleyici
+ - Adet: 2 Adet
+ - Toplam Ağırlık: 40 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-2x20-gr-bulasik-makinesi-temizleyici-_311658.jpg
+
+
+17
+Product Name: Brid 1,5 kg Bulaşık Makinesi Tuzu
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 21,00 TL
+
+Market Products:
+ - Market: A101                 Product: Bulasik Mak. Tuzu 1,5 Kg Brid  Price: 21,00 TL   Unit Price: 14,00 TL/lt
+
+Similar Products:
+ - Similar Product: Mintax 1,5 kg Bulaşık Makinesi Tuzu                Price: 21,00 TL
+
+Features:
+ - Kullanım Türü: Makine
+ - Ürün Tipi: Bulaşık Makinesi Tuzu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1.5 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/brid-15-kg-bulasik-makinesi-tuzu-_302543.jpg
+
+
+18
+Product Name: Fairy 50'lı Bulaşık Makinesi Kapsülü
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 259,00 TL
+
+Market Products:
+ - Market: A101                 Product: Bulasik Mak. Kapsulu 50'li H1a Fairy Price: 259,00 TL  Unit Price: 5,18 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 50 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/fairy-50li-bulasik-makinesi-kapsulu-_1437883.jpg
+
+
+19
+Product Name: Por-Çöz 250 ml Mandalina-Badem Bulaşık Makinesi Temizleyici
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 21,05 TL
+
+Market Products:
+ - Market: A101                 Product: Bul.ma.tem.mandalina&badem 250ml Por-coz Price: 21,05 TL   Unit Price: 84,20 TL/lt
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/por-coz-250-ml-mandalina-badem-bulasik-makinesi-temizleyici-_1433133.jpg
+
+
+20
+Product Name: Doa 500 ml Bulaşık Makinesi Parlatıcısı
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 11,05 TL
+
+Market Products:
+ - Market: Şok                  Product: Doa Bulasik Makine Parlaticisi 500 Ml Price: 11,05 TL   Unit Price: 22,10 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Bulaşık Makinesi Parlatıcısı
+ - Toplam Ağırlık: 500 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/doa-500-ml-bulasik-makinesi-parlaticisi-_1005836.jpg
+
+
+21
+Product Name: Finish Kireç Kalıntılarına Karşı 1,3 kg Bulaşık Makinesi Tuzu
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 34,90 TL
+
+Market Products:
+ - Market: A101                 Product: Bulasik Makinesi Tuzu 1,3 Kg Finish Price: 34,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/finish-kirec-kalintilarina-karsi-13-kg-bulasik-makinesi-tuzu-_1493728.jpg
+
+
+22
+Product Name: Carrefour 1,5 kg Bulaşık Makinesi Tuzu
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 21,00 TL
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Bulasik Makinesi Tuzu 1,5 Kg Price: 21,00 TL   Unit Price: 14,00 TL/lt
+
+Similar Products:
+ - Similar Product: Mintax 1,5 kg Bulaşık Makinesi Tuzu                Price: 21,00 TL
+
+Features:
+ - Kullanım Türü: Makine
+ - Ürün Tipi: Bulaşık Makinesi Tuzu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1.5 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-15-kg-bulasik-makinesi-tuzu-_303230.jpg
+
+
+23
+Product Name: Carrefour 6 ml Bulaşık Makinası Kokusu
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 21,95 TL
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Bulasik Makinasi Kokusu 6 Ml Price: 21,95 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-6-ml-bulasik-makinasi-kokusu-_1611513.jpg
+
+
+24
+Product Name: Migros 8 ml Limon Kokulu Bulaşık Makinası Kokusu
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 9,00 TL
+
+Market Products:
+ - Market: Migros               Product: Migros Bulasik Makinasi Kokusu Limon Kokulu 8 Ml Price: 9,00 TL    Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-8-ml-limon-kokulu-bulasik-makinasi-kokusu-_1434173.jpg
+
+
+25
+Product Name: Mintax 2x20 gr Makine Temizleyici
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 6,10 TL
+
+Market Products:
+ - Market: Şok                  Product: Mintax Makine Temizleyici 2*20 Gr Price: 6,10 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Migros 2x20 gr Bulaşık Makinesi Temizleyici        Price: 6,00 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/mintax-2x20-gr-makine-temizleyici-_1848821.jpg
+
+
+26
+Product Name: Mintax 450 ml Bulaşık Makinesi Parlatıcısı
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 23,50 TL
+
+Market Products:
+ - Market: Şok                  Product: Mintax Bulasik Makinesi Parlaticisi 450 Ml Price: 23,50 TL   Unit Price: 52,22 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Bulaşık Makinesi Parlatıcısı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 450 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/mintax-450-ml-bulasik-makinesi-parlaticisi-_781765.jpg
+
+
+27
+Product Name: Mintax 1,5 kg Bulaşık Makinesi Tuzu
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 21,00 TL
+
+Market Products:
+ - Market: Şok                  Product: Mintax Bulasik Makinesi Tuzu 1.5 Kg Price: 21,00 TL   Unit Price: 14,00 TL/lt
+
+Similar Products:
+ - Similar Product: Bind 1,5 kg Activit Bulaşık Makinesi Tuzu          Price: 16,50 TL
+
+Features:
+ - Ürün Türü: Toz
+ - Kullanım Türü: Bulaşık Makinesi
+ - Ürün Tipi: Bulaşık Makinesi Tuzu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1.5 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/mintax-15-kg-bulasik-makinesi-tuzu-_564999.jpg
+
+
+28
+Product Name: Mintax 60 Yıkama Limon Kokusu Bulaşık Makinesi Kokusu
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 26,95 TL
+
+Market Products:
+ - Market: Şok                  Product: Mintax Bulasik Makinesi Kokusu Price: 26,95 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/mintax-60-yikama-limon-kokusu-bulasik-makinesi-kokusu-_1840475.jpg
+
+
+29
+Product Name: Pril Excellence Duo Jel 900 ml Yağ Çözücü
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 269,95 TL
+
+Market Products:
+ - Market: Migros               Product: Pril Excellence Jel Yag Çozucu 50 Yikama 900 Ml Price: 269,95 TL  Unit Price: 299,94 TL/lt
+
+Similar Products:
+
+Features:
+ - Toplam Ağırlık: 900 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/pril-excellence-duo-jel-900-ml-yag-cozucu-_1001451.jpg
+
+
+30
+Product Name: Sır 225 ml Bulaşık Makinesi Temizleyici
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 48,90 TL
+
+Market Products:
+ - Market: Carrefour            Product: Sir Bulasik Makinesi Temizleyici 225ml Price: 48,90 TL   Unit Price: 217,33 TL/lt
+
+Similar Products:
+
+Features:
+ - Kullanım Türü: Makine
+ - Ürün Tipi: Bulaşık Makinesi Temizleyici
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 225 ml
+Product Image URL:
+
+
+31
+Product Name: Migros 2 kg Bulaşık Makinesi Tuzu
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 23,50 TL
+
+Market Products:
+ - Market: Migros               Product: Migros Bulasik Makinesi Tuzu 2 Kg Price: 23,50 TL   Unit Price: 11,75 TL/lt
+
+Similar Products:
+
+Features:
+ - Kullanım Türü: Makine
+ - Ürün Tipi: Bulaşık Makinesi Tuzu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 2 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-2-kg-bulasik-makinesi-tuzu-_302577.jpg
+
+
+32
+Product Name: Carrefour 250 ml Bulaşık Makinesi Temizleyicisi
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 27,00 TL
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Bulasik Makinasi Temizl. 250ml Price: 27,00 TL   Unit Price: 108,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Kullanım Türü: Makine
+ - Ürün Tipi: Bulaşık Makinesi Temizleyici
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-250-ml-bulasik-makinesi-temizleyicisi-_303246.jpg
+
+
+33
+Product Name: Pril 450 ml Bulaşık Makinesi Parlatıcı
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 33,30 TL
+
+Market Products:
+ - Market: Şok                  Product: Pril Parlatici 450 Ml          Price: 33,30 TL   Unit Price: 74,00 TL/lt
+ - Market: Carrefour            Product: Pril Parlatici 450ml           Price: 76,90 TL   Unit Price: 170,89 TL/lt
+
+Similar Products:
+
+Features:
+ - Toplam Ağırlık: 450 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/pril-450-ml-bulasik-makinesi-parlatici-_976174.jpg
+
+
+34
+Product Name: Sır 500 ml Bulaşık Makinesi Parlatıcısı
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 26,00 TL
+
+Market Products:
+ - Market: A101                 Product: Bulasik Mak. Parlatici 500 Ml Sir Price: 26,00 TL   Unit Price: 52,00 TL/lt
+ - Market: Hakmar Express       Product: Bulasik Makinesi Parlatici 500ml Sir Price: 26,50 TL   Unit Price: 53,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Sıvı
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/sir-500-ml-bulasik-makinesi-parlaticisi-_302444.jpg
+
+
+35
+Product Name: Finish Limonlu 800 ml Parlatıcı
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 36,50 TL
+
+Market Products:
+ - Market: A101                 Product: Bul.mak.parlaticisi Limon 800ml Finish Price: 36,50 TL   Unit Price: 45,63 TL/lt
+ - Market: Carrefour            Product: Finish 800ml Parlatici Limon   Price: 179,90 TL  Unit Price: 224,88 TL/lt
+ - Market: Migros               Product: Finish Parlatici Limonlu 800 Ml Price: 179,90 TL  Unit Price: 224,88 TL/lt
+
+Similar Products:
+
+Features:
+ - İçerik: Limon
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 800 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/finish-limonlu-800-ml-parlatici-_302110.jpg
+
+
+36
+Product Name: Finish 400 ml Bulaşık Makinesi Parlatıcısı
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 51,00 TL
+
+Market Products:
+ - Market: Migros               Product: Finish Parlatici Klasik 400 Ml Price: 51,00 TL   Unit Price: 127,50 TL/lt
+ - Market: A101                 Product: Bulasik Makinasi Par. 400ml Finish Price: 101,90 TL  Unit Price: 254,75 TL/lt
+
+Similar Products:
+
+Features:
+ - Kullanım Türü: Makine
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/finish-400-ml-bulasik-makinesi-parlaticisi-_302130.jpg
+
+
+37
+Product Name: Bind 1,5 kg Activit Bulaşık Makinesi Tuzu
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 16,50 TL
+
+Market Products:
+ - Market: Bim                  Product: Bul.mak.tuz 1,5 Kg Bind Activit Price: 16,50 TL   Unit Price: 11,00 TL/lt
+
+Similar Products:
+ - Similar Product: Mintax 1,5 kg Bulaşık Makinesi Tuzu                Price: 21,00 TL
+
+Features:
+ - Ürün Tipi: Bulaşık Makinesi Tuzu
+ - Toplam Ağırlık: 1.5 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/bind-15-kg-activit-bulasik-makinesi-tuzu-_1002537.jpg
+
+
+38
+Product Name: Finish Hepsi Bir Arada 55'li Bulaşık Makinesi Tableti
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Ürünleri
+Cheapest Price: 110,95 TL
+
+Market Products:
+ - Market: Carrefour            Product: Finish H1a 55 Tablet Kutu      Price: 110,95 TL  Unit Price: 2,02 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 55 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/finish-hepsi-bir-arada-55li-bulasik-makinesi-tableti-_944496.jpg
+
+
+{'finish': 8, '250': 7, 'ml': 26, 'bulaşık': 34, 'makinası': 4, 'temizleyici': 8, 'frosch': 1, '750': 1, 'makinesi': 26, 'parlatıcısı': 6, 'pril': 5, '2': 2, 'kg': 7, 'tuzu': 7, '500': 4, 'parlatıcı': 5, 'makine': 5, 'deo': 1, '4': 1, 'şelale': 1, 'ferahlığı': 1, 'kokusu': 6, '550': 1, 'gr': 3, 'tuz+400': 1, 'parlatıcı+250': 1, 'bind': 3, 'activit': 3, 'carrefour': 5, 'mintax': 5, 'temizleyicisi': 2, '450': 3, 'maxi': 1, 'makinetemizleyici': 1, '470': 1, 'mr': 1, 'green': 1, 'oluklu': 1, "5'li": 1, 'süngeri': 1, '6.6': 1, 'migros': 3, '2x20': 2, 'brid': 1, '1,5': 4, 'fairy': 1, "50'lı": 1, 'kapsülü': 1, 'por-çöz': 1, 'mandalina-badem': 1, 'doa': 1, 'kireç': 1, 'kalıntılarına': 1, 'karşı': 1, '1,3': 1, '6': 1, '8': 1, 'limon': 2, 'kokulu': 1, '60': 1, 'yıkama': 1, 'excellence': 1, 'duo': 1, 'jel': 1, '900': 1, 'yağ': 1, 'çözücü': 1, 'sır': 2, '225': 1, 'limonlu': 1, '800': 1, '400': 1, 'hepsi': 1, 'bir': 1, 'arada': 1, "55'li": 1, 'tableti': 1}
+['Toplam Ağırlık', 'Kullanım Türü', 'Adet', 'Ürün Tipi', 'İçerik', 'Ürün Türü']
+
+
+# Bulaşık Makinesi Ürünlerinin İçerik Sözlüğü
+bulaşık_makinesi_deterjanı_içerik_dict = {
+    'finish': 'Finish', 'ml': 'ml', 'bulaşık': 'Bulaşık', 'makinası': 'Makinası', 
+     'frosch': 'Frosch', '750': '750 ml', 'parlatıcısı': 'Parlatıcısı', 
+    'pril': 'Pril', 'kg': 'kg',  '500': '500 ml', 'parlatıcı': 'Parlatıcı', 
+    'makine': 'Makine', 'deo': 'Deo', 'şelale': 'Şelale Ferahlığı Kokusu', 'ferahlığı': 'Şelale Ferahlığı Kokusu', 'kokusu': 'Şelale Ferahlığı Kokusu', 
+    '550': '550 gr', 'tuz+400': 'Tuz+400', 'parlatıcı+250': 'Parlatıcı+250', 'bind': 'Bind', 
+    'activit': 'Activit', 'carrefour': 'Carrefour', 'mintax': 'Mintax', 'temizleyicisi': 'Temizleyicisi', 
+    '450': '450 ml', 'maxi': 'Maxi', 'makinetemizleyici': 'Makinetemizleyici', '470': '470 ml', 
+    'mr': 'Mr', 'green': 'Green', 'oluklu': 'Oluklu', "5'li": "5'li", 'süngeri': 'Süngeri', 
+    '6.6': '6.6', 'migros': 'Migros', 'brid': 'Brid', '1,5': '1,5 kg', 'fairy': 'Fairy', 
+    "50'lı": "50'lı", 'por-çöz': 'Por-Çöz', 'mandalina-badem': 'Mandalina-Badem', 
+    'doa': 'Doa', 'kireç': 'Kireç Kalıntılarına Karşı', 'kalıntılarına': 'Kireç Kalıntılarına Karşı', 'karşı': 'Kireç Kalıntılarına Karşı', 
+    '1,3': '1,3', '6': '6', '8': '8', 'limon': 'Limon', '60': '60', 'yıkama': 'Yıkama', 
+    'excellence': 'Excellence', 'duo': 'Duo', 'jel': 'Jel', '900': '900 ml', 'yağ': 'Yağ Çözücü', 
+    'çözücü': 'Yağ Çözücü', 'sır': 'Sır', '225': '225 ml', 'limonlu': 'Limonlu', '800': '800 ml', 
+    '400': '400 ml', 'hepsi': 'Hepsi Bir Arada', 'bir': 'Hepsi Bir Arada', 'arada': 'Hepsi Bir Arada', "55'li": "55'li", 
+}
+
+# Bulaşık Makinesi Ürünlerinin Ürün Tipi Sözlüğü
+bulaşık_makinesi_deterjanı_ürün_tipi_dict = {
+    'finish': 'Bulaşık Makinesi Deterjanı', 'ml': 'Bulaşık Makinesi Deterjanı', 
+    'bulaşık': 'Bulaşık Makinesi Deterjanı', 'makinası': 'Bulaşık Makinesi Deterjanı', 
+    'temizleyici': 'Bulaşık Makinesi Deterjanı', 'frosch': 'Bulaşık Makinesi Deterjanı', 
+    '750': 'Bulaşık Makinesi Deterjanı', 'parlatıcısı': 'Bulaşık Makinesi Deterjanı', 
+    'pril': 'Bulaşık Makinesi Deterjanı', 'kg': 'Bulaşık Makinesi Deterjanı', 
+    'tuzu': 'Bulaşık Makinesi Deterjanı', '500': 'Bulaşık Makinesi Deterjanı', 
+    'parlatıcı': 'Bulaşık Makinesi Deterjanı', 'makine': 'Bulaşık Makinesi Deterjanı', 
+    'deo': 'Bulaşık Makinesi Deterjanı', 'şelale': 'Bulaşık Makinesi Deterjanı', 
+    'ferahlığı': 'Bulaşık Makinesi Deterjanı', 'kokusu': 'Bulaşık Makinesi Deterjanı', 
+    '550': 'Bulaşık Makinesi Deterjanı', 'tuz+400': 'Bulaşık Makinesi Deterjanı', 
+    'parlatıcı+250': 'Bulaşık Makinesi Deterjanı', 'bind': 'Bulaşık Makinesi Deterjanı', 
+    'activit': 'Bulaşık Makinesi Deterjanı', 'carrefour': 'Bulaşık Makinesi Deterjanı', 
+    'mintax': 'Bulaşık Makinesi Deterjanı', 'temizleyicisi': 'Bulaşık Makinesi Deterjanı', 
+    '450': 'Bulaşık Makinesi Deterjanı', 'maxi': 'Bulaşık Makinesi Deterjanı', 
+    'makinetemizleyici': 'Bulaşık Makinesi Deterjanı', '470': 'Bulaşık Makinesi Deterjanı', 
+    'mr': 'Bulaşık Makinesi Deterjanı', 'green': 'Bulaşık Makinesi Deterjanı', 
+    'oluklu': 'Bulaşık Makinesi Deterjanı', "5'li": 'Bulaşık Makinesi Deterjanı', 
+    'süngeri': 'Bulaşık Makinesi Deterjanı', '6.6': 'Bulaşık Makinesi Deterjanı', 
+    'migros': 'Bulaşık Makinesi Deterjanı', 'brid': 'Bulaşık Makinesi Deterjanı', 
+    '1,5': '1,5': 'Bulaşık Makinesi Deterjanı', 'fairy': 'Bulaşık Makinesi Deterjanı', 
+    "50'lı": 'Bulaşık Makinesi Deterjanı', 'kapsülü': 'Bulaşık Makinesi Deterjanı', 
+    'por-çöz': 'Bulaşık Makinesi Deterjanı', 'mandalina-badem': 'Bulaşık Makinesi Deterjanı', 
+    'doa': 'Bulaşık Makinesi Deterjanı', 'kireç': 'Bulaşık Makinesi Deterjanı', 
+    'kalıntılarına': 'Bulaşık Makinesi Deterjanı', 'karşı': 'Bulaşık Makinesi Deterjanı', 
+    '1,3': 'Bulaşık Makinesi Deterjanı', '6': 'Bulaşık Makinesi Deterjanı', 
+    '8': 'Bulaşık Makinesi Deterjanı', 'limon': 'Bulaşık Makinesi Deterjanı', 
+    '60': 'Bulaşık Makinesi Deterjanı', 'yıkama': 'Bulaşık Makinesi Deterjanı', 
+    'excellence': 'Bulaşık Makinesi Deterjanı', 'duo': 'Bulaşık Makinesi Deterjanı', 
+    'jel': 'Bulaşık Makinesi Deterjanı', '900': 'Bulaşık Makinesi Deterjanı', 
+    'yağ': 'Bulaşık Makinesi Deterjanı', 'çözücü': 'Bulaşık Makinesi Deterjanı', 
+    'sır': 'Bulaşık Makinesi Deterjanı', '225': 'Bulaşık Makinesi Deterjanı', 
+    'limonlu': 'Bulaşık Makinesi Deterjanı', '800': 'Bulaşık Makinesi Deterjanı', 
+    '400': 'Bulaşık Makinesi Deterjanı', 'hepsi': 'Bulaşık Makinesi Deterjanı', 
+    'bir': 'Bulaşık Makinesi Deterjanı', 'arada': 'Bulaşık Makinesi Deterjanı', 
+    "55'li": 'Bulaşık Makinesi Deterjanı', 'tableti': 'Bulaşık Makinesi Deterjanı'
+}
+
+
+
+# Bulaşık Makinesi Ürünlerinin Ürün Türü Sözlüğü (devam)
+bulaşık_makinesi_deterjanı_ürün_türü_dict = {
+    'finish': 'Finish Bulaşık Makinesi Deterjanı','frosch': 'Frosch Bulaşık Makinesi Deterjanı', 
+    '750': '750 ml Bulaşık Makinesi Deterjanı', 'parlatıcısı': 'Bulaşık Makinesi Deterjanı', 
+    'pril': 'Pril Bulaşık Makinesi Deterjanı', 
+     '500': '500 ml Bulaşık Makinesi Deterjanı', 
+    'parlatıcı': 'Parlatıcı Bulaşık Makinesi Deterjanı', 
+    'deo': 'Bulaşık Makinesi Deterjanı', 'şelale': 'Şelale Ferahlığı Kokusu Bulaşık Makinesi Deterjanı', 
+    'ferahlığı': 'Şelale Ferahlığı Kokusu Bulaşık Makinesi Deterjanı', 
+    '550': '550 gr Bulaşık Makinesi Deterjanı', 'tuz+400': 'Tuz+400 Bulaşık Makinesi Deterjanı', 
+    'parlatıcı+250': 'Parlatıcı+250 Bulaşık Makinesi Deterjanı', 'bind': 'Bind Bulaşık Makinesi Deterjanı', 
+    'activit': 'Activit Bulaşık Makinesi Deterjanı', 'carrefour': 'Carrefour Bulaşık Makinesi Deterjanı', 
+    'mintax': 'Mintax Bulaşık Makinesi Deterjanı', 'temizleyicisi': 'Temizleyicisi Bulaşık Makinesi Deterjanı', 
+    '450': '450 ml Bulaşık Makinesi Deterjanı', 'maxi': 'Maxi Bulaşık Makinesi Deterjanı', 
+    'makinetemizleyici': 'Makinetemizleyici Bulaşık Makinesi Deterjanı', 
+    '470': '470 ml Bulaşık Makinesi Deterjanı', 'mr': 'Mr Bulaşık Makinesi Deterjanı', 
+    'green': 'Green Bulaşık Makinesi Deterjanı', 'oluklu': 'Oluklu Bulaşık Makinesi Deterjanı', 
+    "5'li": "5'li Bulaşık Makinesi Deterjanı", 'süngeri': 'Süngeri Bulaşık Makinesi Deterjanı', 
+    '6.6': '6.6 Bulaşık Makinesi Deterjanı', 'migros': 'Migros Bulaşık Makinesi Deterjanı', 
+    'brid': 'Brid Bulaşık Makinesi Deterjanı', '1,5': '1,5 kg Bulaşık Makinesi Deterjanı', 
+    'fairy': 'Fairy Bulaşık Makinesi Deterjanı', "50'lı": "50'lı Bulaşık Makinesi Deterjanı", 
+     'por-çöz': 'Por-Çöz Bulaşık Makinesi Deterjanı', 
+    'mandalina-badem': 'Mandalina-Badem Bulaşık Makinesi Deterjanı', 'doa': 'Doa Bulaşık Makinesi Deterjanı', 
+    'kireç': 'Kireç KalıntılarınaBulaşık Makinesi Deterjanı', 'kalıntılarına': 'Kireç Kalıntılarına Bulaşık Makinesi Deterjanı', 
+    'karşı': 'Kireç Kalıntılarına Karşı Bulaşık Makinesi Deterjanı', '1,3': '1,3 Bulaşık Makinesi Deterjanı', 
+    '6': '6 Bulaşık Makinesi Deterjanı', '8': '8 Bulaşık Makinesi Deterjanı', 
+    'limon': 'Limon Bulaşık Makinesi Deterjanı', '60': '60 Bulaşık Makinesi Deterjanı', 
+    'yıkama': 'Yıkama Bulaşık Makinesi Deterjanı', 'excellence': 'Excellence Bulaşık Makinesi Deterjanı', 
+    'duo': 'Duo Bulaşık Makinesi Deterjanı', 'jel': 'Jel Bulaşık Makinesi Deterjanı', 
+    '900': '900 ml Bulaşık Makinesi Deterjanı', 'yağ': 'Yağ Çözücü Bulaşık Makinesi Deterjanı', 
+    'çözücü': 'Yağ Çözücü Bulaşık Makinesi Deterjanı', 'sır': 'Sır Bulaşık Makinesi Deterjanı', 
+    '225': '225 ml Bulaşık Makinesi Deterjanı', 'limonlu': 'Limonlu Bulaşık Makinesi Deterjanı', 
+    '800': '800 ml Bulaşık Makinesi Deterjanı', '400': '400 ml Bulaşık Makinesi Deterjanı', 
+    'hepsi': 'Hepsi Bir Arada Bulaşık Makinesi Deterjanı', 'bir': 'Hepsi Bir Arada Bulaşık Makinesi Deterjanı', 
+    'arada': 'Hepsi Bir Arada Bulaşık Makinesi Deterjanı', "55'li": "55'li Bulaşık Makinesi Deterjanı", 
+}
+

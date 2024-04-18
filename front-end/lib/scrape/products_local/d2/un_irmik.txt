@@ -1,0 +1,4329 @@
+1
+Product Name: Söke 5 kg Geleneksel Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 82,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Soke Un 5 Kg                   Price: 82,50 TL   Unit Price: 16,50 TL/kg
+ - Market: Carrefour            Product: Soke Un 5 Kg                   Price: 133,50 TL  Unit Price: 26,70 TL/kg
+ - Market: Migros               Product: Soke Un 5 Kg                   Price: 133,50 TL  Unit Price: 26,70 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/soke-5-kg-geleneksel-un-_75339.jpg 
+
+
+2
+Product Name: Efsane 5 kg Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 57,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Un Bugday 5kg Efsane           Price: 57,50 TL   Unit Price: 11,50 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Çok Amaçlı
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 5 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/efsane-5-kg-bugday-unu-_1431086.jpg 
+
+
+3
+Product Name: Sinangil 2 kg Sarı Semolina Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 49,90 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Un Acilan 2kg Sinangil-300124  Price: 49,90 TL   Unit Price: 24,95 TL/kg
+ - Market: Hakmar Express       Product: Un Kabaran 2kg Sinangil-300124 Price: 49,90 TL   Unit Price: 24,95 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Sarı Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sinangil-2-kg-sari-semolina-un-_25448.jpg 
+
+
+4
+Product Name: Söke Un Tam Çavdar Unu 1 kg
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 24,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Soke Tam Çavdar Un 1 Kg        Price: 24,90 TL   Unit Price: 24,90 TL/kg
+ - Market: Migros               Product: Soke Tam Çavdar Unu 1 Kg       Price: 45,90 TL   Unit Price: 45,90 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Çok Amaçlı
+ - Ürün Türü: Tam Çavdar Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/soke-un-tam-cavdar-unu-1-kg-_739414.jpg 
+
+
+5
+Product Name: Doğalsan 1000 gr Yulaf Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 31,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Dogalsan Yulaf Unu 1000 G      Price: 31,50 TL   Unit Price: 31,50 TL/kg
+ - Market: Migros               Product: Dogalsan Yulaf Unu 1 Kg        Price: 35,90 TL   Unit Price: 35,90 TL/kg
+ - Market: Şok                  Product: Dogalsan Yulaf Unu 1 Kg        Price: 35,90 TL   Unit Price: 35,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Tam Yulaf Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/dogalsan-1000-gr-yulaf-unu-_265821.jpg 
+
+
+6
+Product Name: Sinangil 8 kg Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 139,90 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Un 8kg Sinangil                Price: 139,90 TL  Unit Price: 17,49 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 8 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sinangil-8-kg-un-_80085.jpg 
+
+
+7
+Product Name: Piyale 5 kg Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 74,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Piyale Un 5 Kg                 Price: 74,50 TL   Unit Price: 14,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/piyale-5-kg-un-_265774.jpg 
+
+
+8
+Product Name: Yazgan 500 gr İrmik
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 9,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Irmik 500 Gr Yazgan            Price: 9,50 TL    Unit Price: 19,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: İrmik
+ - Ürün Tipi: İrmik
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/yazgan-500-gr-irmik-_1434475.jpg 
+
+
+9
+Product Name: Nora 500 gr Mor Paket Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 36,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Nora Mor Un 500 G              Price: 36,90 TL   Unit Price: 73,80 TL/kg
+
+Similar Products:
+ - Similar Product: Söke 500 gr Mor Un                                 Price: 45,90 TL  
+
+Features:
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/nora-500-gr-mor-paket-un-_1444302.jpg 
+
+
+10
+Product Name: Sinangil 1 kg Tam Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 31,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sinangil Tam Bugday Un 1kg     Price: 31,90 TL   Unit Price: 31,90 TL/kg
+ - Market: Şok                  Product: Sinangil Tam Bugday Unu 1 Kg   Price: 32,90 TL   Unit Price: 32,90 TL/kg
+ - Market: Migros               Product: Sinangil Tam Bugday Unu 1 Kg   Price: 34,90 TL   Unit Price: 34,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Tam Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sinangil-1-kg-tam-bugday-unu-_265610.jpg 
+
+
+11
+Product Name: Sinangil Un 10 kg Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 152,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Un Bugday 10 Kg Sinangil       Price: 152,00 TL  Unit Price: 15,20 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: Un
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 10 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sinangil-un-10-kg-bugday-unu-_1087538.jpg 
+
+
+12
+Product Name: Söke 5 kg Özlum Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 75,00 TL 
+
+Market Products:
+ - Market: Bim                  Product: Un 5 Kg Soke Özlum             Price: 75,00 TL   Unit Price: 15,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+ - Kategori: Un ve İrmik
+Product Image URL: https://cdn.cimri.io/market/260x260/soke-5-kg-ozlum-un-_1433368.jpg 
+
+
+13
+Product Name: City Farm 1000 g Beyaz Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 31,25 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Cityfarm Org.beyaz Un 1000gr   Price: 31,25 TL   Unit Price: 31,25 TL/kg
+
+Similar Products:
+ - Similar Product: Sade Organik 1000 gr Beyaz Un                      Price: 96,00 TL  
+
+Features:
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/city-farm-1000-g-beyaz-un-_265454.jpg 
+
+
+14
+Product Name: Söke 1 kg Hergün Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 21,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: R.k Soke Bugday Unu 1000 G     Price: 21,90 TL   Unit Price: 21,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/soke-1-kg-hergun-bugday-unu-_345156.jpg 
+
+
+15
+Product Name: Migros 250 gr Mısır Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 6,75 TL 
+
+Market Products:
+ - Market: Migros               Product: Migros Misir Unu 250 G         Price: 6,75 TL    Unit Price: 27,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Mısır Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-250-gr-misir-unu-_265971.jpg 
+
+
+16
+Product Name: Efsane 2 kg Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 26,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Un Bugday 2 Kg Efsane          Price: 26,50 TL   Unit Price: 13,25 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/efsane-2-kg-bugday-unu-_1431028.jpg 
+
+
+17
+Product Name: Eriş 2 kg Tam Buğday Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 44,50 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Un Tam Bugday 2kg Eris         Price: 44,50 TL   Unit Price: 22,25 TL/kg
+
+Similar Products:
+ - Similar Product: Eriş Un 1 kg Baklavalık Böreklik Buğday Unu        Price: 33,90 TL  
+ - Similar Product: Eriş Un 2 kg Baklava ve Böreklik Buğday Unu        Price: 64,90 TL  
+
+Features:
+ - İçerik: Çok Amaçlı
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/eris-2-kg-tam-bugday-un-_1480563.jpg 
+
+
+18
+Product Name: Tellioğlu 5 kg Çok Amaçlı Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 99,75 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Un Çok Amacli 5kg Tellioglu-270224 Price: 99,75 TL   Unit Price: 19,95 TL/kg
+ - Market: Migros               Product: Tellioglu Çok Amacli Un 5 Kg   Price: 109,90 TL  Unit Price: 21,98 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Çok Amaçlı
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/tellioglu-5-kg-cok-amacli-un-_897874.jpg 
+
+
+19
+Product Name: Safir Tanem 1 kg Glutensiz Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 23,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Safir Un 1 Kg                  Price: 23,95 TL   Unit Price: 23,95 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Un Karışımı
+ - Ürün Tipi: Un
+ - Glutensiz: Evet
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/safir-tanem-1-kg-glutensiz-un-_898002.jpg 
+
+
+20
+Product Name: Katmer 2 kg Sert Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 38,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Katmer Un 2 Kg                 Price: 38,90 TL   Unit Price: 19,45 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/katmer-2-kg-sert-bugday-unu-_265632.jpg 
+
+
+21
+Product Name: Nustil Glutensiz 300 gr Yulaf Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 77,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Nustil Glutensiz Yulaf Unu 300 G Price: 77,90 TL   Unit Price: 259,67 TL/kg
+ - Market: Carrefour            Product: Nustil Glutensiz Yulaf Unu 300 G Price: 95,50 TL   Unit Price: 318,33 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Glutensiz
+ - Ürün Tipi: Un
+ - Glutensiz: Evet
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 300 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/nustil-glutensiz-300-gr-yulaf-unu-_266667.jpg 
+
+
+22
+Product Name: Söke 1 Kg Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 34,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Soke Un 1kg                    Price: 34,50 TL   Unit Price: 34,50 TL/kg
+ - Market: Migros               Product: Soke Un 1 Kg.                  Price: 34,50 TL   Unit Price: 34,50 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/soke-1-kg-un-_265476.jpg 
+
+
+23
+Product Name: Katmer 5 kg Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 88,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Katmer Un 5 Kg. Çuval          Price: 88,50 TL   Unit Price: 17,70 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: Un
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/katmer-5-kg-un-_1299407.jpg 
+
+
+24
+Product Name: Dr.Oetker 175 gr Pirinç Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 18,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Dr.oetker Pirinc Unu           Price: 18,50 TL   Unit Price: 105,71 TL/kg
+
+Similar Products:
+ - Similar Product: Dr.Oetker 175 g Glutensiz Pirinç Unu               Price: 29,90 TL  
+ - Similar Product: Dr.Oetker 350 gr Pandispanya Un                    Price: 54,90 TL  
+ - Similar Product: Dr.Oetker 291 gr Glutensiz Un Karışımı             Price: 53,90 TL  
+
+Features:
+ - Ürün Türü: Pirinç Unu
+ - Ürün Tipi: Un
+ - Adet: 5 Adet
+ - Toplam Ağırlık: 175 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-175-gr-pirinc-unu-_340972.jpg 
+
+
+25
+Product Name: Safir 10 kg Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 158,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Safir Un 10 Kg                 Price: 158,90 TL  Unit Price: 15,89 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/safir-10-kg-un-_1642671.jpg 
+
+
+26
+Product Name: Rençber 500 gr Mısır Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 10,50 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Misir Unu 500g Rencber         Price: 10,50 TL   Unit Price: 21,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Mısır Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/rencber-500-gr-misir-unu-_404141.jpg 
+
+
+27
+Product Name: Wefood 350 gr Badem Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 260,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Wefood Badem Unu 350 G         Price: 260,00 TL  Unit Price: 742,86 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Glutensiz GDOsuz
+ - Ürün Türü: Badem Unu
+ - Ürün Tipi: Un
+ - Glutensiz: Evet
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 350 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/wefood-350-gr-badem-unu-_265939.jpg 
+
+
+28
+Product Name: Nature By Me 500 gr Bebek Pirinç Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 124,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Nature By Me Bebek Pirinc Unu 500g Price: 124,50 TL  Unit Price: 249,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Pirinç Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/nature-by-me-500-gr-bebek-pirinc-unu-_1447943.jpg 
+
+
+29
+Product Name: Güzel Ada Gıda 330 gr Glutensiz Kinoa Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 42,70 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Guzel Ada Glutensiz Kinoa Unu 330 G Price: 42,70 TL   Unit Price: 129,39 TL/kg
+
+Similar Products:
+ - Similar Product: Wefood 330 gr Kinoa Unu                            Price: 149,90 TL 
+ - Similar Product: Wefood 330 gr Kinoa Unu                            Price: 149,90 TL 
+
+Features:
+ - İçerik: Kinoa
+ - Ürün Türü: Kinoa Unu
+ - Ürün Tipi: Un
+ - Glutensiz: Evet
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 330 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/guzel-ada-gida-330-gr-glutensiz-kinoa-unu-_1276388.jpg 
+
+
+30
+Product Name: Datça 200 gr Badem Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 110,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Datca Koy Ürunleri Badem Unu 200 G Price: 110,90 TL  Unit Price: 554,50 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Çok Amaçlı
+ - Ürün Türü: Badem Unu
+ - Ürün Tipi: Un
+ - Glutensiz: Evet
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/datca-200-gr-badem-unu-_369881.jpg 
+
+
+31
+Product Name: Sinangil 5 kg 60 Yıl Nostalji Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 79,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sinangil Un 5 Kg 60 Yil Nostalji Price: 79,90 TL   Unit Price: 15,98 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sinangil-5-kg-60-yil-nostalji-un-_1441608.jpg 
+
+
+32
+Product Name: Akun 2 kg Çorumlu Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 34,50 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Un Çorumlu 2kg Akun            Price: 34,50 TL   Unit Price: 17,25 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Her Türlü Hamur İşleri İçin
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/akun-2-kg-corumlu-un-_410008.jpg 
+
+
+33
+Product Name: Öykü 500 gr Pirinç Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 17,50 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Pirinc Unu 500g Öyku           Price: 17,50 TL   Unit Price: 35,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Pirinç
+ - Ürün Türü: Pirinç Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/oyku-500-gr-pirinc-unu-_1306526.jpg 
+
+
+34
+Product Name: Sinangil 500 gr Çavdar Ekmek Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 27,95 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sinangil Çavdar Ekmek Unu 500 Gr Price: 27,95 TL   Unit Price: 55,90 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Çavdar
+ - Ürün Türü: Ekmeklik Un Karışımı
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sinangil-500-gr-cavdar-ekmek-unu-_946495.jpg 
+
+
+35
+Product Name: Nora 1 kg Taş Değirmen Tam Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 31,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Nora Tam Bugday Unu 1 Kg       Price: 31,50 TL   Unit Price: 31,50 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Çok Amaçlı
+ - Ürün Türü: Buğday
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL:  
+
+
+36
+Product Name: Tarım Kredi 2 kg Tam Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 39,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tk Tam Bugday Unu 2 Kg         Price: 39,90 TL   Unit Price: 19,95 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Çok Amaçlı
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/tarim-kredi-2-kg-tam-bugday-unu-_1447975.jpg 
+
+
+37
+Product Name: Nuhun Ankara 500 gr Buğday Kepeği
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 27,95 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Nuh Un Ankara Bugday Kepegi 500gr Price: 27,95 TL   Unit Price: 55,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/nuhun-ankara-500-gr-bugday-kepegi-_340685.jpg 
+
+
+38
+Product Name: Hatap 1 kg Pasta Börek ve Baklavalık Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 39,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Hatap Baklavalik Un 1 Kg       Price: 39,90 TL   Unit Price: 39,90 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Pasta-Börek-Baklava
+ - Ürün Türü: Tam Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/hatap-1-kg-pasta-borek-ve-baklavalik-un-_425140.jpg 
+
+
+39
+Product Name: Pastavilla 500 gr İrmik
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 22,75 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Pastavilla Irmik 500 Gr Vakumlu Price: 22,75 TL   Unit Price: 45,50 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: İrmik
+ - Ürün Tipi: İrmik
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/pastavilla-500-gr-irmik-_342020.jpg 
+
+
+40
+Product Name: Tkk 2 kg Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 37,00 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tkk Un 2 Kg                    Price: 37,00 TL   Unit Price: 18,50 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 2 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/tkk-2-kg-un-_1448056.jpg 
+
+
+41
+Product Name: Dola 500 gr Glutensiz Un Karışımı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 59,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Dola Glutensiz Un Karisimi 500 Gr Price: 59,90 TL   Unit Price: 119,80 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Un Karışımı
+ - Ürün Tipi: Un
+ - Glutensiz: Evet
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/dola-500-gr-glutensiz-un-karisimi-_928794.jpg 
+
+
+42
+Product Name: Carrefour 2000 gr Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 34,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Bugday Unu 2 Kg      Price: 34,50 TL   Unit Price: 17,25 TL/kg
+
+Similar Products:
+ - Similar Product: Sinangil 2000 gr Buğday Unu                        Price: 61,50 TL  
+
+Features:
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-2000-gr-bugday-unu-_344375.jpg 
+
+
+43
+Product Name: Carrefour Bio Organik 1 kg Tam Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 41,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Bio Org. Tam Bugday Unu 1kg Price: 41,90 TL   Unit Price: 41,90 TL/kg
+
+Similar Products:
+ - Similar Product: Carrefour Bio Organik 1 kg Buğday Unu              Price: 39,90 TL  
+
+Features:
+ - Ürün Türü: Tam Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-bio-organik-1-kg-tam-bugday-unu-_345348.jpg 
+
+
+44
+Product Name: Söke 225 gr Kakaolu Kek Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 16,75 TL 
+
+Market Products:
+ - Market: Migros               Product: Soke Glutensiz Kakaolu Kek Unu 225 G Price: 16,75 TL   Unit Price: 74,44 TL/kg
+
+Similar Products:
+ - Similar Product: Dr. Oetker 328 gr Siyah Kakaolu Un Karışımı        Price: 29,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/soke-225-gr-kakaolu-kek-unu-_41495.jpg 
+
+
+45
+Product Name: Pakmaya 30 gr Esmer Ekmek Harcı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 13,25 TL 
+
+Market Products:
+ - Market: Migros               Product: Pakmaya Esmer Ekmek Harci 30 G Price: 13,25 TL   Unit Price: 441,67 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Ekşi Mayalı-Ekmeklik
+ - Ürün Türü: Ekmeklik Un Karışımı
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 30 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/pakmaya-30-gr-esmer-ekmek-harci-_1072244.jpg 
+
+
+46
+Product Name: Ekmecik 400 gr Galeta Unu + 500 gr Mısır Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 13,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Galeta Unu 400g-misir Unu 500g Ekmecik Price: 13,50 TL   Unit Price: 30,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Mısır Unu
+ - Ürün Tipi: Un
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+47
+Product Name: Organik Gurme 500 gr Organik İrmik
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 48,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Organik Gurme Irmik 500gr      Price: 48,50 TL   Unit Price: 97,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: İrmik
+ - Ürün Tipi: İrmik
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/organik-gurme-500-gr-organik-irmik-_344594.jpg 
+
+
+48
+Product Name: M Life 1 kg Organik Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 46,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Mlife Organik Bugday Unu 1 Kg  Price: 46,50 TL   Unit Price: 46,50 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/m-life-1-kg-organik-bugday-unu-_265969.jpg 
+
+
+49
+Product Name: Yeğenler 5 kg Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 74,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Un Bugday 5 Kg Yegenler        Price: 74,50 TL   Unit Price: 14,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/yegenler-5-kg-bugday-unu-_898597.jpg 
+
+
+50
+Product Name: Schar Gluten Free 1 kg Mixc Patisserie
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 157,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Schar Mixc Patisserie Gluten Free 1 Kg Price: 157,90 TL  Unit Price: 157,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/schar-gluten-free-1-kg-mixc-patisserie-_1439075.jpg 
+
+
+51
+Product Name: Migros 2 kg Tam Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 61,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Migros Tam Bugday Unu 2 Kg     Price: 61,00 TL   Unit Price: 30,50 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-2-kg-tam-bugday-unu-_1744688.jpg 
+
+
+52
+Product Name: Söke 1 kg Sarı Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 45,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Soke Sari Un 1 Kg              Price: 45,90 TL   Unit Price: 45,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/soke-1-kg-sari-un-_901326.jpg 
+
+
+53
+Product Name: Arifoğlu 180 gr Keçiboynuzu Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 67,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Arifoglu Keciboynuzu Unu 180 G Price: 67,50 TL   Unit Price: 375,00 TL/kg
+ - Market: Carrefour            Product: Arifoglu Keciboynuzu Unu 180 G Price: 93,00 TL   Unit Price: 516,67 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Keçiboynuzu Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 180 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/arifoglu-180-gr-keciboynuzu-unu-_265564.jpg 
+
+
+54
+Product Name: Piyale 250 gr Pirinç Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 12,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Piyale Pirinc Unu 250 Gr       Price: 12,50 TL   Unit Price: 50,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Pirinç Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/piyale-250-gr-pirinc-unu-_266971.jpg 
+
+
+55
+Product Name: Piyale 250 gr Galeta Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 10,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Piyale Galeta Unu 250 Gr       Price: 10,50 TL   Unit Price: 42,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Galeta Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/piyale-250-gr-galeta-unu-_266972.jpg 
+
+
+56
+Product Name: Söke 2 kg Esmer Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 85,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Soke Esmer Un 2 Kg             Price: 85,90 TL   Unit Price: 42,95 TL/kg
+ - Market: Migros               Product: Soke Esmer Un 2 Kg.            Price: 85,90 TL   Unit Price: 42,95 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+Product Image URL:  
+
+
+57
+Product Name: Söke 500 gr Mor Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 45,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Soke Mor Un 500 G              Price: 45,90 TL   Unit Price: 91,80 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: Un
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/soke-500-gr-mor-un-_1118171.jpg 
+
+
+58
+Product Name: Söke 500 gr Çok Tahıllı Un Karışımı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 35,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Soke Çok Tahilli Un Karisimi 500 G Price: 35,90 TL   Unit Price: 71,80 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Ekmeklik Un Karışımı
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/soke-500-gr-cok-tahilli-un-karisimi-_89347.jpg 
+
+
+59
+Product Name: Dr. Oetker 5x175 gr Pirinç Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 25,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Dr.oetker Pirinc Unu 5 Li 175 Gr Price: 25,90 TL   Unit Price: 148,00 TL/kg
+ - Market: Migros               Product: Dr.oetker Pirinc Unu 5li 175 G Price: 25,90 TL   Unit Price: 148,00 TL/kg
+
+Similar Products:
+ - Similar Product: Dr.Oetker 175 gr Pirinç Unu                        Price: 18,50 TL  
+
+Features:
+ - Ürün Türü: Pirinç Unu
+ - Çoklu Paket: Evet
+ - Ürün Tipi: Un
+ - Adet: 5 Adet
+ - Toplam Ağırlık: 175 gr
+ - Menşei: Türkiye
+Product Image URL:  
+
+
+60
+Product Name: Safir 5 kg Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 77,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Safir Un 5 Kg                  Price: 77,90 TL   Unit Price: 15,58 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+61
+Product Name: Yeğenler 2 kg Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 32,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Un Bugday 2 Kg Yegenler        Price: 32,00 TL   Unit Price: 16,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/yegenler-2-kg-bugday-unu-_901155.jpg 
+
+
+62
+Product Name: Sinangil 9,0 kg Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 185,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Un Bugday 9 Kg Sinangil        Price: 185,00 TL  Unit Price: 20,56 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 9 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sinangil-90-kg-bugday-unu-_954950.jpg 
+
+
+63
+Product Name: Piyale İrmik 500 gr
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 12,25 TL 
+
+Market Products:
+ - Market: Şok                  Product: Piyale Irmik 500 Gr            Price: 12,25 TL   Unit Price: 24,50 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: İrmik
+ - Ürün Türü: İrmik
+ - Ürün Tipi: İrmik
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/piyale-irmik-500-gr-_350951.jpg 
+
+
+64
+Product Name: Oneva 200 gr Hindistan Cevizi Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 64,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Oneva Hindistan Cevizi Unu 200 G Price: 64,90 TL   Unit Price: 324,50 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Hindistan Cevizi Unu
+ - Ürün Tipi: Un
+ - Glutensiz: Evet
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/oneva-200-gr-hindistan-cevizi-unu-_266088.jpg 
+
+
+65
+Product Name: Tellioğlu 1 kg Pizza Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 36,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Tellioglu Pizza Unu 1 Kg       Price: 36,90 TL   Unit Price: 36,90 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Pizza
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/tellioglu-1-kg-pizza-unu-_82631.jpg 
+
+
+66
+Product Name: Dr. Oetker 328 gr Siyah Kakaolu Un Karışımı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 29,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Dr.oetker Siyah Kakaolu Un Karisimi 328 G Price: 29,00 TL   Unit Price: 88,41 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: Un Karışımı
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 328 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-328-gr-siyah-kakaolu-un-karisimi-_1042710.jpg 
+
+
+67
+Product Name: İnci 400 gr Mısır Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 10,75 TL 
+
+Market Products:
+ - Market: A101                 Product: Misir Unu 400 G Inci           Price: 10,75 TL   Unit Price: 26,88 TL/kg
+ - Market: Migros               Product: Inci Misir Unu 400 G           Price: 14,95 TL   Unit Price: 37,38 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Mısır Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/inci-400-gr-misir-unu-_664811.jpg 
+
+
+68
+Product Name: Nar baharat 400 gr Galeta Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 16,75 TL 
+
+Market Products:
+ - Market: A101                 Product: Galeta Unu 400 G Narbaharat    Price: 16,75 TL   Unit Price: 41,88 TL/kg
+
+Similar Products:
+ - Similar Product: Öykü 400 gr Galeta Unu                             Price: 16,75 TL  
+
+Features:
+ - Ürün Türü: Galeta Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+69
+Product Name: Sinangil 340 gr Fındıklı Kek Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 9,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Kek Unu Sade-findikli 340 G Sinangil Price: 9,90 TL    Unit Price: 29,12 TL/kg
+
+Similar Products:
+ - Similar Product: Sinangil 340 gr Fındıklı Kekun                     Price: 41,90 TL  
+ - Similar Product: Sinangil 340 gr Limon Aromalı Kek Unu              Price: 41,90 TL  
+
+Features:
+ - İçerik: Fındık
+ - Ürün Türü: Fındıklı Kek Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 340 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sinangil-340-gr-findikli-kek-unu-_1083723.jpg 
+
+
+70
+Product Name: Migros 250 gr Galeta Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 10,25 TL 
+
+Market Products:
+ - Market: Migros               Product: Migros Galeta Un 250 G         Price: 10,25 TL   Unit Price: 41,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Galeta Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-250-gr-galeta-unu-_265978.jpg 
+
+
+71
+Product Name: Sinangil 1 kg Yulaf Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 57,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Sinangil Yulaf Unu 1 Kg        Price: 57,90 TL   Unit Price: 57,90 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Yulaf
+ - Ürün Türü: Yulaf Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sinangil-1-kg-yulaf-unu-_1087699.jpg 
+
+
+72
+Product Name: Piyale Mısır Unu 250 gr
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 6,75 TL 
+
+Market Products:
+ - Market: Şok                  Product: Piyale Misir Unu 250gr         Price: 6,75 TL    Unit Price: 27,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Çok Amaçlı
+ - Ürün Türü: Mısır Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/piyale-misir-unu-250-gr-_350937.jpg 
+
+
+73
+Product Name: Migros Sade 250 gr Pirinç Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 10,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Migros Pirinc Unu Sade 250 G   Price: 10,90 TL   Unit Price: 43,60 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Pirinç Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-sade-250-gr-pirinc-unu-_266405.jpg 
+
+
+74
+Product Name: Tellioğlu 2 kg Çok Amaçlı Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 14,75 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Un Çok Amacli 2kg Tellioglu-210622 Price: 14,75 TL   Unit Price: 7,38 TL/kg
+ - Market: Migros               Product: Tellioglu Çok Amacli Un 2 Kg   Price: 48,90 TL   Unit Price: 24,45 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: Un
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/tellioglu-2-kg-cok-amacli-un-_1087697.jpg 
+
+
+75
+Product Name: City Farm Organik 1 kg Tam Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 32,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Cityfarm Org Tam Bugday Unu 1kg Price: 32,50 TL   Unit Price: 32,50 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Tam Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/city-farm-organik-1-kg-tam-bugday-unu-_343255.jpg 
+
+
+76
+Product Name: Bağdat Eko 250 gr Galeta Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 19,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Bagdat Galeta Unu 250 G        Price: 19,90 TL   Unit Price: 79,60 TL/kg
+ - Market: Carrefour            Product: Bagdat Galeta Unu Ekonomik 250gr Price: 22,90 TL   Unit Price: 91,60 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Galeta Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/bagdat-eko-250-gr-galeta-unu-_345180.jpg 
+
+
+77
+Product Name: Bağdat Baharat 250 gr Mısır Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 15,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Bagdat Misir Unu 250 G         Price: 15,90 TL   Unit Price: 63,60 TL/kg
+ - Market: Carrefour            Product: Bagdat Misir Unu Ekonomik 250gr Price: 16,50 TL   Unit Price: 66,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Mısır Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/bagdat-baharat-250-gr-misir-unu-_265636.jpg 
+
+
+78
+Product Name: Carrefour 5 kg Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 79,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Bugday Unu 5 Kg      Price: 79,50 TL   Unit Price: 15,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-5-kg-bugday-unu-_219932.jpg 
+
+
+79
+Product Name: Doğalsan 400 gr Organik Yulaf Kepeği
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 17,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Dogalsan Organik Yulaf Kepegi 400 G Price: 17,00 TL   Unit Price: 42,50 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Yulaf Kepeği
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/dogalsan-400-gr-organik-yulaf-kepegi-_623182.jpg 
+
+
+80
+Product Name: Sinangil 2 kg Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 44,50 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Un 2kg Sinangil                Price: 44,50 TL   Unit Price: 22,25 TL/kg
+ - Market: Carrefour            Product: Sinangil Un 2 Kg               Price: 46,90 TL   Unit Price: 23,45 TL/kg
+ - Market: Migros               Product: Sinangil Un 2 Kg.              Price: 61,50 TL   Unit Price: 30,75 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sinangil-2-kg-un-_265428.jpg 
+
+
+81
+Product Name: Nar Baharat 400 gr Mısır Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 10,75 TL 
+
+Market Products:
+ - Market: A101                 Product: Misir Unu 400 G Narbaharat     Price: 10,75 TL   Unit Price: 26,88 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Mısır Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/nar-baharat-400-gr-misir-unu-_954820.jpg 
+
+
+82
+Product Name: City Farm 500 gr Organik Galeta Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 60,20 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Cityfarm Organik Galeta Unu 500g Price: 60,20 TL   Unit Price: 120,40 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Galeta
+ - Ürün Türü: Galeta Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/city-farm-500-gr-organik-galeta-unu-_1317777.jpg 
+
+
+83
+Product Name: Öykü 400 gr Galeta Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 16,75 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Galeta Unu 400g Öyku           Price: 16,75 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/oyku-400-gr-galeta-unu-_1818085.jpg 
+
+
+84
+Product Name: Raya 300 gr Organik Mısır Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 22,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Raya Org.misir Unu 300gr       Price: 22,50 TL   Unit Price: 75,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Mısır Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 300 gr
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/raya-300-gr-organik-misir-unu-_344468.jpg 
+
+
+85
+Product Name: Nature By Me 250 gr Hindistan Cevizi Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 124,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Nature By Me Hind. Cevizi Unu 250g Price: 124,50 TL  Unit Price: 498,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Hindistan Cevizi Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/nature-by-me-250-gr-hindistan-cevizi-unu-_1443835.jpg 
+
+
+86
+Product Name: Nature By Me 350 gr Çiğ Karabuğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 114,30 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Nature By Me Çig Karabugday Unu 350g Price: 114,30 TL  Unit Price: 326,57 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Çok Amaçlı
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 350 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/nature-by-me-350-gr-cig-karabugday-unu-_1498659.jpg 
+
+
+87
+Product Name: Nuh'un Ankara Makarna 500 gr İrmik
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 18,50 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Irmik 500g Nuh'un Ankara       Price: 18,50 TL   Unit Price: 37,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: İrmik
+ - Ürün Türü: İrmik
+ - Ürün Tipi: İrmik
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/nuhun-ankara-makarna-500-gr-irmik-_1301806.jpg 
+
+
+88
+Product Name: Bemtat 1 kg Organik Kavılca Tam Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 72,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Bemtat Organik Kavilca Unu 1kg Price: 72,50 TL   Unit Price: 72,50 TL/kg
+ - Market: Migros               Product: Bemtat Organik Kavilca Unu 1 Kg Price: 77,50 TL   Unit Price: 77,50 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Tahıllı
+ - Ürün Türü: Tam Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/bemtat-1-kg-organik-kavilca-tam-bugday-unu-_1020697.jpg 
+
+
+89
+Product Name: Güzel Ada Gıda 310 gr Organik Hindistan Cevizi Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 151,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Guzel Ada Org.hindistan Ceviz Unu 310 Gr Price: 151,90 TL  Unit Price: 490,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Hindistan Cevizi Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 310 gr
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/guzel-ada-gida-310-gr-organik-hindistan-cevizi-un-_1443651.jpg 
+
+
+90
+Product Name: Sade Organik 1000 gr Siyez Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 54,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sade Organik Siyez Unu 1000 Gr Price: 54,90 TL   Unit Price: 54,90 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Çok Amaçlı
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL:  
+
+
+91
+Product Name: Bemtat 1 kg Organik Kendinden Kabaran Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 74,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Bemtat Org. Kend. Kabaran Bugday Unu 1kg Price: 74,50 TL   Unit Price: 74,50 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Çok Amaçlı
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/bemtat-1-kg-organik-kendinden-kabaran-un-_898201.jpg 
+
+
+92
+Product Name: Granoro 1 kg Semola Rimacinata Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 125,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Granoro Semolina Rimacinata 1kg Price: 125,50 TL  Unit Price: 125,50 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Durum Buğdayı İrmiği
+ - Ürün Tipi: İrmik
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/granoro-1-kg-semola-rimacinata-un-_665242.jpg 
+
+
+93
+Product Name: Sinangil 500 gr Köy Ekmek Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 24,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sinangil Koy Ekmek Unu 500 Gr  Price: 24,90 TL   Unit Price: 49,80 TL/kg
+
+Similar Products:
+ - Similar Product: Söke 500 gr Köy Ekmeği Karışımı Un                 Price: 35,90 TL  
+
+Features:
+ - Ürün Türü: Ekmeklik Un Karışımı
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sinangil-500-gr-koy-ekmek-unu-_1011195.jpg 
+
+
+94
+Product Name: Tellioğlu 1 kg Organik Çavdar Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 31,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Tellioglu %100 Çavdar Unu 1kg  Price: 31,90 TL   Unit Price: 31,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Çavdar Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/tellioglu-1-kg-organik-cavdar-unu-_24624.jpg 
+
+
+95
+Product Name: Söke 2x1 kg Organik Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 68,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Soke Organik Un 2 X 1kg        Price: 68,90 TL   Unit Price: 34,45 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/soke-2x1-kg-organik-un-_1805870.jpg 
+
+
+96
+Product Name: Nustil 350 gr Teff Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 119,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Nustil Teff Unu 350 G          Price: 119,90 TL  Unit Price: 342,57 TL/kg
+ - Market: Carrefour            Product: Nustil Teff 350 G              Price: 139,90 TL  Unit Price: 399,71 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Un
+ - Glutensiz: Evet
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 350 gr
+ - Menşei: Hollanda
+Product Image URL: https://cdn.cimri.io/market/260x260/nustil-350-gr-teff-unu-_266026.jpg 
+
+
+97
+Product Name: Tellioğlu Böreklik 1 kg Baklavalık Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 28,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Tellioglu Baklavalik Boreklik Un 1 Kg Price: 28,90 TL   Unit Price: 28,90 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Baklava-Börek
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/tellioglu-boreklik-1-kg-baklavalik-un-_159828.jpg 
+
+
+98
+Product Name: Carrefour 1 kg Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 18,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Bugday Unu 1 Kg      Price: 18,90 TL   Unit Price: 18,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-1-kg-un-_219930.jpg 
+
+
+99
+Product Name: Organik Gurme 500 gr Organik Siyez Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 59,15 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Organik Gurme Siyez Unu 500 Gr Price: 59,15 TL   Unit Price: 118,30 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Siyez
+ - Ürün Türü: Siyez Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/organik-gurme-500-gr-organik-siyez-unu-_1083670.jpg 
+
+
+100
+Product Name: Doğalsan 1 kg Çavdar Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 30,25 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Dogalsan Çavdar Unu 1kg        Price: 30,25 TL   Unit Price: 30,25 TL/kg
+ - Market: Migros               Product: Dogalsan Çavdar Unu 1 Kg       Price: 33,50 TL   Unit Price: 33,50 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Çavdar Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/dogalsan-1-kg-cavdar-unu-_265967.jpg 
+
+
+101
+Product Name: Dr.Oetker 350 gr Pandispanya Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 54,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Dr.oetker Pandispanya Un 350 Gr. Price: 54,90 TL   Unit Price: 156,86 TL/kg
+
+Similar Products:
+ - Similar Product: Dr.Oetker 175 gr Pirinç Unu                        Price: 18,50 TL  
+ - Similar Product: Dr.Oetker 291 gr Glutensiz Un Karışımı             Price: 53,90 TL  
+ - Similar Product: Dr.Oetker 175 g Glutensiz Pirinç Unu               Price: 29,90 TL  
+
+Features:
+ - Ürün Türü: Pandispanya Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 350 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-350-gr-pandispanya-un-_265506.jpg 
+
+
+102
+Product Name: Sinangil 1 kg Siyez Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 53,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sinangil Siyez Un 1 Kg         Price: 53,50 TL   Unit Price: 53,50 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Siyez Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sinangil-1-kg-siyez-unu-_667215.jpg 
+
+
+103
+Product Name: Sade Organik 1000 gr Beyaz Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 96,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sade Org.beyaz Un 1000gr       Price: 96,00 TL   Unit Price: 96,00 TL/kg
+
+Similar Products:
+ - Similar Product: City Farm 1000 g Beyaz Un                          Price: 31,25 TL  
+
+Features:
+ - İçerik: Çok Amaçlı
+ - Ürün Türü: Beyaz Un
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/sade-organik-1000-gr-beyaz-un-_656965.jpg 
+
+
+104
+Product Name: Kenton 250 gr Pirinç Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 20,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Kenton Pirinc Unu Sade 250 Gr  Price: 20,50 TL   Unit Price: 82,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/kenton-250-gr-pirinc-unu-_265447.jpg 
+
+
+105
+Product Name: Sade Organik 1000 gr Tam Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 96,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sade Org.tam Un 1000 Gr        Price: 96,00 TL   Unit Price: 96,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Tam Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/sade-organik-1000-gr-tam-bugday-unu-_266653.jpg 
+
+
+106
+Product Name: Carrefour Bio Organik 1 kg Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 39,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Bio Org. Bugday Unu 1kg Price: 39,90 TL   Unit Price: 39,90 TL/kg
+
+Similar Products:
+ - Similar Product: Carrefour Bio Organik 1 kg Tam Buğday Unu          Price: 41,90 TL  
+
+Features:
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-bio-organik-1-kg-bugday-unu-_216478.jpg 
+
+
+107
+Product Name: Carrefour 250 gr Mısır Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 13,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Misir Unu 250g       Price: 13,50 TL   Unit Price: 54,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Mısır Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-250-gr-misir-unu-_666103.jpg 
+
+
+108
+Product Name: Doğalsan 500 gr Siyez Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 23,80 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Dogalsan Siyez Unu 500 Gr      Price: 23,80 TL   Unit Price: 47,60 TL/kg
+ - Market: Migros               Product: Dogalsan Siyez Unu 500 G       Price: 25,50 TL   Unit Price: 51,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Siyez Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/dogalsan-500-gr-siyez-unu-_265965.jpg 
+
+
+109
+Product Name: Tarım Kredi Kooperatif 500 gr İrmik
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 11,50 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tkk Irmik 500 Gr               Price: 11,50 TL   Unit Price: 23,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: İrmik
+ - Ürün Tipi: İrmik
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/tarim-kredi-kooperatif-500-gr-irmik-_842431.jpg 
+
+
+110
+Product Name: Tkk 250 gr Galeta Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 10,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tkk Galeta Unu 250 Gr          Price: 10,90 TL   Unit Price: 43,60 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Galeta Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+111
+Product Name: Selva 5 kg  Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 119,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Selva Un 5 Kg                  Price: 119,90 TL  Unit Price: 23,98 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Her Türlü Hamur İşleri İçin
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/selva-5-kg-bugday-unu-_265630.jpg 
+
+
+112
+Product Name: Bemtat Organik 1 kg Siyez Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 89,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Bemtat Organik Siyez Unu 1kg   Price: 89,90 TL   Unit Price: 89,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Siyez Tam Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/bemtat-organik-1-kg-siyez-unu-_87745.jpg 
+
+
+113
+Product Name: Bemtat 1 kg Organik Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 59,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Bemtat Organik Bugday Unu 1kg  Price: 59,90 TL   Unit Price: 59,90 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Çok Amaçlı
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL:  
+
+
+114
+Product Name: Arı Mama 200 gr Sütlü Pirinç Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 29,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Ari Sutlu Pirinc Unu 200 Gr    Price: 29,50 TL   Unit Price: 147,50 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Pirinç
+ - Ürün Türü: Pirinç Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/ari-mama-200-gr-sutlu-pirinc-unu-_1009581.jpg 
+
+
+115
+Product Name: Dr. Oetker 496 gr Havuçlu Kek Karışımı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 85,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Dr.oetker Havuclu Kek Karisimi 496 Gr Price: 85,90 TL   Unit Price: 0
+ - Market: Migros               Product: Dr.oetker Havuclu Kek Karisimi 496g Price: 85,90 TL   Unit Price: 173,19 TL/kg
+ - Market: Şok                  Product: Dr.oetker Havuclu Kek Karisimi 496 Gr Price: 85,90 TL   Unit Price: 173,19 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-496-gr-havuclu-kek-karisimi-_1777443.jpg 
+
+
+116
+Product Name: Bendo 500 gr İrmik
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 12,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Irmik 500 G Bendo              Price: 12,00 TL   Unit Price: 24,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: İrmik
+ - Ürün Tipi: İrmik
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/bendo-500-gr-irmik-_927645.jpg 
+
+
+117
+Product Name: Sinangil Glutensiz 500 gr Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 26,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Un Glutensiz 500 G Sinangil    Price: 26,90 TL   Unit Price: 53,80 TL/kg
+ - Market: Migros               Product: Sinangil Glutensiz Un 500 G    Price: 43,90 TL   Unit Price: 87,80 TL/kg
+ - Market: Şok                  Product: Sinangil Glutensiz Un 500 Gr   Price: 43,90 TL   Unit Price: 87,80 TL/kg
+ - Market: Carrefour            Product: Sinangil Glutensiz Un 500gr    Price: 46,90 TL   Unit Price: 93,80 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Glutensiz
+ - Ürün Türü: Un Karışımı
+ - Ürün Tipi: Un
+ - Glutensiz: Evet
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sinangil-glutensiz-500-gr-un-_341171.jpg 
+
+
+118
+Product Name: Tellioğlu 1 kg Siyez Buğdayı Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 66,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Tellioglu Siyez Bugdayi Unu 1 Kg Price: 66,90 TL   Unit Price: 66,90 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Siyez
+ - Ürün Türü: Siyez Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/tellioglu-1-kg-siyez-bugdayi-unu-_1289674.jpg 
+
+
+119
+Product Name: Söke 500 gr Tam Buğday Un Karışımı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 22,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Soke Tam Bugday Un Karisimi 500 G Price: 22,50 TL   Unit Price: 45,00 TL/kg
+ - Market: Migros               Product: Soke Tam Bugday Un Karisimi 500 G. Price: 35,90 TL   Unit Price: 71,80 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Tam Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/soke-500-gr-tam-bugday-un-karisimi-_89596.jpg 
+
+
+120
+Product Name: Migros 2 kg Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 34,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Migros Un 2 Kg.                Price: 34,50 TL   Unit Price: 17,25 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Her Türlü Hamur İşleri İçin
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-2-kg-un-_265962.jpg 
+
+
+121
+Product Name: Sinangil 500 gr Çavdarlı Un Karışımı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 26,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Sinangil Çavdarli Un Karisimi 500 G Price: 26,90 TL   Unit Price: 53,80 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Çavdar Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sinangil-500-gr-cavdarli-un-karisimi-_1445895.jpg 
+
+
+122
+Product Name: Bemtat 1 kg Organik Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 59,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Bemtat Organik Bugday Unu 1kg  Price: 59,90 TL   Unit Price: 59,90 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Çok Amaçlı
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL:  
+
+
+123
+Product Name: Kenton 250 gr Vitaminli Pirinç Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 25,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Kenton Pirinc Unu Vitaminli 250gr Price: 25,50 TL   Unit Price: 102,00 TL/kg
+ - Market: Migros               Product: Kenton Pirinc Unu Vitaminli 250 G Price: 36,75 TL   Unit Price: 147,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Vitaminli
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/kenton-250-gr-vitaminli-pirinc-unu-_266143.jpg 
+
+
+124
+Product Name: Çağ Un 2 kg Buğday Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 29,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Un Bugday 2 Kg Çag Un          Price: 29,50 TL   Unit Price: 14,75 TL/kg
+
+Similar Products:
+ - Similar Product: Çağ Un 5 kg Buğday Un                              Price: 68,50 TL  
+
+Features:
+ - İçerik: Çok Amaçlı
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 2 kg
+ - Kategori: Unlu Mamüller
+Product Image URL: https://cdn.cimri.io/market/260x260/cag-un-2-kg-bugday-un-_1434523.jpg 
+
+
+125
+Product Name: Tellioğlu 1 kg Siyez Buğdayı Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 66,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Tellioglu Siyez Bugdayi Unu 1 Kg Price: 66,90 TL   Unit Price: 66,90 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Siyez
+ - Ürün Türü: Siyez Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/tellioglu-1-kg-siyez-bugdayi-unu-_1289674.jpg 
+
+
+126
+Product Name: Söke 500 gr Tam Buğday Un Karışımı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 22,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Soke Tam Bugday Un Karisimi 500 G Price: 22,50 TL   Unit Price: 45,00 TL/kg
+ - Market: Migros               Product: Soke Tam Bugday Un Karisimi 500 G. Price: 35,90 TL   Unit Price: 71,80 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Tam Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/soke-500-gr-tam-bugday-un-karisimi-_89596.jpg 
+
+
+127
+Product Name: Nora 1 kg Taş Değirmen Sarı Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 33,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Nora Sari Un 1 Kg              Price: 33,90 TL   Unit Price: 33,90 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Çok Amaçlı
+ - Ürün Türü: Buğday
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL:  
+
+
+128
+Product Name: Tellioğlu 1 kg Tam Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 32,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Tellioglu Tam Bugday Unu 1 Kg  Price: 32,90 TL   Unit Price: 32,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Tam Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/tellioglu-1-kg-tam-bugday-unu-_61311.jpg 
+
+
+129
+Product Name: Migros 2 kg Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 34,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Migros Un 2 Kg.                Price: 34,50 TL   Unit Price: 17,25 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Her Türlü Hamur İşleri İçin
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-2-kg-un-_265962.jpg 
+
+
+130
+Product Name: M Life 500 gr Glutensiz Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 44,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Mlife Glutensiz Un 500 G       Price: 44,90 TL   Unit Price: 89,80 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Mısır Nişastası-Pirinç Unu-Şeker-Kabartıcılar-Kıvam Arttırıcılar
+ - Ürün Tipi: Un
+ - Glutensiz: Evet
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/m-life-500-gr-glutensiz-un-_266647.jpg 
+
+
+131
+Product Name: Glutensiz Ada 500 gr Un Karışımı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 48,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Glutensiz Ada Un Karisimi 500 G Price: 48,90 TL   Unit Price: 97,80 TL/kg
+ - Market: Carrefour            Product: Glutensiz Ada Un Karisimi 500g Price: 56,50 TL   Unit Price: 113,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: Un Karışımı
+ - Ürün Tipi: Un
+ - Glutensiz: Evet
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/glutensiz-ada-500-gr-un-karisimi-_1044026.jpg 
+
+
+132
+Product Name: Eriş 1 kg Çok Amaçlı Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 23,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Eris Un 1 Kg.                  Price: 23,50 TL   Unit Price: 23,50 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Çok Amaçlı
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/eris-1-kg-cok-amacli-bugday-unu-_265618.jpg 
+
+
+133
+Product Name: Sinangil 500 gr Mısır Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 25,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sinangil Misir Unu 500gr       Price: 25,90 TL   Unit Price: 51,80 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Mısır Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sinangil-500-gr-misir-unu-_265439.jpg 
+
+
+134
+Product Name: Tellioğlu 2 kg Baklavalık Böreklik Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 14,75 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Un Baklava Boreklik 2kg Tellioglu-210622 Price: 14,75 TL   Unit Price: 7,38 TL/kg
+ - Market: Migros               Product: Tellioglu Baklavalik Boreklik Un 2 Kg Price: 56,50 TL   Unit Price: 28,25 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Baklava-Börek
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/tellioglu-2-kg-baklavalik-boreklik-un-_266450.jpg 
+
+
+135
+Product Name: Filiz 500 gr İrmik
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 19,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Filiz Irmik 500 G              Price: 19,50 TL   Unit Price: 39,00 TL/kg
+ - Market: Carrefour            Product: Filiz Irmik 500gr              Price: 22,50 TL   Unit Price: 45,00 TL/kg
+ - Market: Şok                  Product: Filiz Irmik 500 Gr.            Price: 22,50 TL   Unit Price: 45,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: İrmik
+ - Ürün Türü: Durum Buğdayı İrmiği
+ - Ürün Tipi: İrmik
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/filiz-500-gr-irmik-_1273206.jpg 
+
+
+136
+Product Name: Bünsa 400 gr Mısır Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 21,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Bunsa Misir Unu 400 G.         Price: 21,90 TL   Unit Price: 54,75 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Mısır Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/bunsa-400-gr-misir-unu-_55039.jpg 
+
+
+137
+Product Name: Mutlu 500 gr İrmik
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 18,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Mutlu Irmik 500 G              Price: 18,90 TL   Unit Price: 37,80 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: İrmik
+ - Ürün Tipi: İrmik
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/mutlu-500-gr-irmik-_93406.jpg 
+
+
+138
+Product Name: Söke 1 kg Organik Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 45,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Soke Organik Un 1 Kg           Price: 45,90 TL   Unit Price: 45,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/soke-1-kg-organik-un-_897924.jpg 
+
+
+139
+Product Name: Dr. Oetker 250 gr Glutensiz Sade Un Karışımı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 39,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Dr.oetker Glutensiz Sade Un Karisimi250g Price: 39,90 TL   Unit Price: 159,60 TL/kg
+ - Market: Migros               Product: Dr.oetker Glutensiz Sade Un Karisimi 250 G Price: 39,90 TL   Unit Price: 159,60 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: Un Karışımı
+ - Ürün Tipi: Un
+ - Glutensiz: Evet
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-250-gr-glutensiz-sade-un-karisimi-_1203168.jpg 
+
+
+140
+Product Name: Schar 1 kg Farina Glutensiz Makarna Erişte Mantı Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 138,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Schar Farina Glutensiz Un 1 Kg Price: 138,90 TL  Unit Price: 138,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Erişte Unu
+ - Ürün Tipi: Un
+ - Glutensiz: Evet
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/schar-1-kg-farina-glutensiz-makarna-eriste-manti-unu-_1322564.jpg 
+
+
+141
+Product Name: Migros 500 gr İrmik
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 12,25 TL 
+
+Market Products:
+ - Market: Migros               Product: Migros Irmik 500 G             Price: 12,25 TL   Unit Price: 24,50 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: İrmik
+ - Ürün Tipi: İrmik
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-500-gr-irmik-_265980.jpg 
+
+
+142
+Product Name: Tarım Kredi 5 kg Anadolu Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 76,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tk Anadolu Un 5 Kg             Price: 76,90 TL   Unit Price: 15,38 TL/kg
+
+Similar Products:
+ - Similar Product: Tarım Kredi 1 kg Anadolu Un                        Price: 17,50 TL  
+ - Similar Product: Anadolu Lezzetleri 1 kg Kastamonu Siyez Unu        Price: 57,50 TL  
+ - Similar Product: Tarım Kredi Anadolu 10 kg Özel Amaçlı Buğday Unu   Price: 154,90 TL 
+
+Features:
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/tarim-kredi-5-kg-anadolu-un-_1011051.jpg 
+
+
+143
+Product Name: Eriş Un Çok Amaçlı Buğday Unu 5 kg
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 62,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Eris Çok Amacli Bugday Unu 5 Kg Price: 62,90 TL   Unit Price: 12,58 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Çok Amaçlı
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/eris-un-cok-amacli-bugday-unu-5-kg-_1326147.jpg 
+
+
+144
+Product Name: Tarım Kredi Anadolu 10 kg Özel Amaçlı Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 154,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tk Anadolu Özel Amacli Bugday Unu 10 Kg    Price: 154,90 TL  Unit Price: 15,49 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tarim-kredi-anadolu-10-kg-ozel-amacli-bugday-unu-_1441850.jpg 
+
+
+145
+Product Name: Gelenek 2 kg Tam Buğday Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 61,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Un Tam Bugday 2 Kg Gelenek     Price: 61,00 TL   Unit Price: 30,50 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Tam Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/gelenek-2-kg-tam-bugday-un-_265944.jpg 
+
+
+146
+Product Name: Katmer 1 kg Tam Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 22,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Katmer Un 1 Kg                 Price: 22,90 TL   Unit Price: 22,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/katmer-1-kg-tam-bugday-unu-_265624.jpg 
+
+
+147
+Product Name: Sinangil 5 kg Alpa Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 75,00 TL 
+
+Market Products:
+ - Market: Bim                  Product: Un 5 Kg Sinangil Alpa          Price: 75,00 TL   Unit Price: 15,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sinangil-5-kg-alpa-un-_1436539.jpg 
+
+
+148
+Product Name: City Farm 400 gr Organik Soya Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 88,30 TL 
+
+Market Products:
+ - Market: Carrefour            Product: City Farm Organik Soya Unu 400g Price: 88,30 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/city-farm-400-gr-organik-soya-unu-_1851737.jpg 
+
+
+149
+Product Name: Nature By Me 250 gr Beyaz Ekmek Karışımı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 59,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Nature By Me Beyaz Ekmek Karisimi Price: 59,90 TL   Unit Price: 239,60 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Un Karışımı
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/nature-by-me-250-gr-beyaz-ekmek-karisimi-_787507.jpg 
+
+
+150
+Product Name: Nature By Me 157 gr Keçiboynuzu Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 77,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Nature By Me Keciboynuzu Unu 175g Price: 77,90 TL   Unit Price: 496,18 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Keçiboynuzu Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 157 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/nature-by-me-157-gr-keciboynuzu-unu-_1443146.jpg 
+
+
+151
+Product Name: City Farm 500 gr Pirinç Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 23,00 TL 
+
+Market Products:
+ - Market: Migros               Product: City Farm Organik Pirinc Unu 500 G Price: 23,00 TL   Unit Price: 46,00 TL/kg
+ - Market: Carrefour            Product: Cityfarm Org.pirinc Unu 500gr  Price: 40,50 TL   Unit Price: 81,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Pirinç Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/city-farm-500-gr-pirinc-unu-_265627.jpg 
+
+
+152
+Product Name: Arsbak 1 kg Aşurelik Buğday
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 24,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Arsbak Asurelik Bugday 1 Kg    Price: 24,90 TL   Unit Price: 24,90 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Çok Amaçlı
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/arsbak-1-kg-asurelik-bugday-_1446090.jpg 
+
+
+153
+Product Name: Sinangil 340 gr Fındıklı Kekun
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 41,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sinangil Findikli Kekun 340 Gr Price: 41,90 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Sinangil 340 gr Fındıklı Kek Unu                   Price: 9,90 TL   
+ - Similar Product: Sinangil 340 gr Limon Aromalı Kek Unu              Price: 41,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sinangil-340-gr-findikli-kekun-_1441552.jpg 
+
+
+154
+Product Name: Doğalsan 500 gr Organik Siyez Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 17,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Dogalsan Organik Siyez Unu 500 G. Price: 17,00 TL   Unit Price: 34,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Siyez Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/dogalsan-500-gr-organik-siyez-unu-_900397.jpg 
+
+
+155
+Product Name: Sinangil 1 kg Mor Antioksidan Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 76,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sinangil Mor Un 1 Kg           Price: 76,50 TL   Unit Price: 76,50 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Un Karışımı
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sinangil-1-kg-mor-antioksidan-un-_817994.jpg 
+
+
+156
+Product Name: Doğalsan 1000 gr Tam Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 10,95 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Dogalsan Tam Bugday Unu 1kg    Price: 10,95 TL   Unit Price: 10,95 TL/kg
+
+Similar Products:
+ - Similar Product: Sade Organik 1000 gr Tam Buğday Unu                Price: 96,00 TL  
+
+Features:
+ - Ürün Türü: Tam Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/dogalsan-1000-gr-tam-bugday-unu-_265825.jpg 
+
+
+157
+Product Name: Tat 500 gr İrmik
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 12,25 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Irmik 500gr Tat                Price: 12,25 TL   Unit Price: 24,50 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: İrmik
+ - Ürün Tipi: İrmik
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/tat-500-gr-irmik-_344521.jpg 
+
+
+158
+Product Name: Güzel Ada 350 gr Saf Badem Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 326,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Guzel Ada Saf Badem Unu 350gr  Price: 326,90 TL  Unit Price: 934,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Badem Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 350 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/guzel-ada-350-gr-saf-badem-unu-_1438978.jpg 
+
+
+159
+Product Name: Sinangil 340 gr Limon Aromalı Kek Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 41,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sinangil Limon Aromali Kekun 340 Gr Price: 41,90 TL   Unit Price: 123,24 TL/kg
+
+Similar Products:
+ - Similar Product: Sinangil 340 gr Fındıklı Kek Unu                   Price: 9,90 TL   
+ - Similar Product: Sinangil 340 gr Fındıklı Kekun                     Price: 41,90 TL  
+
+Features:
+ - İçerik: Çok Amaçlı
+ - Ürün Türü: Kek Unu Karışımı
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 340 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sinangil-340-gr-limon-aromali-kek-unu-_364326.jpg 
+
+
+160
+Product Name: Bünsa 500 gr Mısır Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 18,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Bunsa Misir Unu 500 Gr.        Price: 18,50 TL   Unit Price: 37,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/bunsa-500-gr-misir-unu-_1796873.jpg 
+
+
+161
+Product Name: Akun 5 kg Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 79,50 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Un 5kg Akun                    Price: 79,50 TL   Unit Price: 15,90 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Her Türlü Hamur İşleri İçin
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+Product Image URL:  
+
+
+162
+Product Name: Mayaköy 600 gr Organik Antik Siyez
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 140,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Mayakoy Antik Siyez Organik 600 Gr Price: 140,00 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/mayakoy-600-gr-organik-antik-siyez-_1875485.jpg 
+
+
+163
+Product Name: Wefood 330 gr Kinoa Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 149,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Wefood Kinoa Unu 330 Gr        Price: 149,90 TL  Unit Price: 454,24 TL/kg
+ - Market: Carrefour            Product: Wefood Kinoa Unu 330 Gr        Price: 172,50 TL  Unit Price: 522,73 TL/kg
+
+Similar Products:
+ - Similar Product: Güzel Ada Gıda 330 gr Glutensiz Kinoa Unu          Price: 42,70 TL  
+
+Features:
+ - İçerik: Glutensiz GDOsuz
+ - Ürün Türü: Kinoa Unu
+ - Ürün Tipi: Un
+ - Glutensiz: Evet
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 330 gr
+ - Menşei: Peru
+Product Image URL: https://cdn.cimri.io/market/260x260/wefood-330-gr-kinoa-unu-_265942.jpg 
+
+
+164
+Product Name: Piyale 1 kg Tam Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 17,45 TL 
+
+Market Products:
+ - Market: Şok                  Product: Piyale Tam Bugday Unu 1 Kg     Price: 17,45 TL   Unit Price: 17,45 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Tam Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/piyale-1-kg-tam-bugday-unu-_761889.jpg 
+
+
+165
+Product Name: Pakmaya 200 gr Pirinç Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 19,50 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Pakmaya Pirinc Unu 200 Gr      Price: 19,50 TL   Unit Price: 97,50 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Pirinç Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/pakmaya-200-gr-pirinc-unu-_1071402.jpg 
+
+
+166
+Product Name: Tkk 1 kg Siyez Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 42,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tkk Siyez Unu 1 Kg             Price: 42,90 TL   Unit Price: 42,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Siyez Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/tkk-1-kg-siyez-unu-_1440804.jpg 
+
+
+167
+Product Name: Tarım Kredi 10 kg Özel Amaçlı Buğday Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 171,50 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tk Özel Amacli Bugday Unu 10 Kg                Price: 171,50 TL  Unit Price: 17,15 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tarim-kredi-10-kg-ozel-amacli-bugday-un-_1441618.jpg 
+
+
+168
+Product Name: Tkk 250 gr Misir Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 8,50 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tkk Misir Unu 250 Gr           Price: 8,50 TL    Unit Price: 34,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Çok Amaçlı
+ - Ürün Türü: Mısır Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/tkk-250-gr-misir-unu-_1436210.jpg 
+
+
+169
+Product Name: İstiklal Yolu 500 gr Garikli Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 24,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Istiklal Yolu Garikli Unu 500g Price: 24,90 TL   Unit Price: 49,80 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Garıklı Buğdayı Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/istiklal-yolu-500-gr-garikli-unu-_266410.jpg 
+
+
+170
+Product Name: Söke 500 gr Köy Ekmeği Karışımı Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 35,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Soke Koy Ekmegi Karisimi 500 G Price: 35,90 TL   Unit Price: 71,80 TL/kg
+ - Market: Carrefour            Product: Soke Koy Ekmegi Karis 500 G    Price: 37,30 TL   Unit Price: 74,60 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Ekmeklik Un Karışımı
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/soke-500-gr-koy-ekmegi-karisimi-un-_89295.jpg 
+
+
+171
+Product Name: Sinangil 500 gr İrmik
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 18,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sinangil Irmik 500gr           Price: 18,50 TL   Unit Price: 37,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: İrmik
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sinangil-500-gr-irmik-_341099.jpg 
+
+
+172
+Product Name: Dr. Oetker 255 gr Pizza Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 39,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Dr.oetker Pizza Unu 255 Gr     Price: 39,90 TL   Unit Price: 156,47 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Pizza Un Karışımı
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 255 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-255-gr-pizza-unu-_265466.jpg 
+
+
+173
+Product Name: Tarım Kredi 1 kg Anadolu Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 17,50 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tk Anadolu Un 1 Kg             Price: 17,50 TL   Unit Price: 17,50 TL/kg
+
+Similar Products:
+ - Similar Product: Tarım Kredi 5 kg Anadolu Un                        Price: 76,90 TL  
+ - Similar Product: Tarım Kredi Anadolu 10 kg Özel Amaçlı Buğday Unu   Price: 154,90 TL 
+ - Similar Product: Anadolu Lezzetleri 1 kg Kastamonu Siyez Unu        Price: 57,50 TL  
+
+Features:
+ - İçerik: Çok Amaçlı
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/tarim-kredi-1-kg-anadolu-un-_1011055.jpg 
+
+
+174
+Product Name: Dr. Oetker 255 gr Pizza Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 39,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Dr.oetker Pizza Unu 255 Gr     Price: 39,90 TL   Unit Price: 156,47 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Pizza Un Karışımı
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 255 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-255-gr-pizza-unu-_265466.jpg 
+
+
+175
+Product Name: Wefood 330 gr Kinoa Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 149,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Wefood Kinoa Unu 330 Gr        Price: 149,90 TL  Unit Price: 454,24 TL/kg
+ - Market: Carrefour            Product: Wefood Kinoa Unu 330 Gr        Price: 172,50 TL  Unit Price: 522,73 TL/kg
+
+Similar Products:
+ - Similar Product: Güzel Ada Gıda 330 gr Glutensiz Kinoa Unu          Price: 42,70 TL  
+
+Features:
+ - İçerik: Glutensiz GDOsuz
+ - Ürün Türü: Kinoa Unu
+ - Ürün Tipi: Un
+ - Glutensiz: Evet
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 330 gr
+ - Menşei: Peru
+Product Image URL: https://cdn.cimri.io/market/260x260/wefood-330-gr-kinoa-unu-_265942.jpg 
+
+
+176
+Product Name: CarrefourSA 250 gr Galeta Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 16,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Galeta Unu 250g      Price: 16,50 TL   Unit Price: 66,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Galeta Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefoursa-250-gr-galeta-unu-_946629.jpg 
+
+
+177
+Product Name: Eriş 2 kg Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 42,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Eris Un 2 Kg                   Price: 42,90 TL   Unit Price: 21,45 TL/kg
+
+Similar Products:
+ - Similar Product: Eriş Un 1 kg Baklavalık Böreklik Buğday Unu        Price: 33,90 TL  
+
+Features:
+ - İçerik: Çok Amaçlı
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/eris-2-kg-un-_265970.jpg 
+
+
+178
+Product Name: Anadolu Lezzetleri 1 kg Kastamonu Siyez Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 57,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Anadolu Lezzetleri Kastamonu Siyez Unu 1 Kg Price: 57,50 TL   Unit Price: 57,50 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/anadolu-lezzetleri-1-kg-kastamonu-siyez-unu-_1446407.jpg 
+
+
+179
+Product Name: Eriş Un 1 kg Baklavalık Böreklik Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 33,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Eris Un Baklavalik Boreklik Bugday Unu 1 Kg Price: 33,90 TL   Unit Price: 33,90 TL/kg
+
+Similar Products:
+ - Similar Product: Eriş Un 2 kg Baklava ve Böreklik Buğday Unu        Price: 64,90 TL  
+
+Features:
+ - İçerik: Baklava-Börek
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/eris-un-1-kg-baklavalik-boreklik-bugday-unu-_343938.jpg 
+
+
+180
+Product Name: Ege Glutensiz 250 gr Glutensiz Galeta Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 45,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Ege Glutensiz Galeta Unu 250 G Price: 45,95 TL   Unit Price: 183,80 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Galeta
+ - Ürün Türü: Galeta Unu
+ - Ürün Tipi: Un
+ - Glutensiz: Evet
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/ege-glutensiz-250-gr-glutensiz-galeta-unu-_1213119.jpg 
+
+
+181
+Product Name: Doğalsan 400 gr Yulaf Kepeği Karışımı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 19,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Dogalsan Yulaf Kepegi Karisimi 400 G Price: 19,00 TL   Unit Price: 47,50 TL/kg
+
+Similar Products:
+ - Similar Product: Doğalsan 400 gr Organik Yulaf Kepeği               Price: 17,00 TL  
+
+Features:
+ - Ürün Türü: Yulaf Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 400 gr
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/dogalsan-400-gr-yulaf-kepegi-karisimi-_1571827.jpg 
+
+
+182
+Product Name: Ege 500 gr Glutensiz Mısır İrmiği
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 47,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Ege Glutensiz Misir Irmigi 500 G Price: 47,95 TL   Unit Price: 95,90 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: İrmik
+ - Ürün Türü: Mısır Unu İrmiği
+ - Ürün Tipi: İrmik
+ - Glutensiz: Evet
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/ege-500-gr-glutensiz-misir-irmigi-_265492.jpg 
+
+
+183
+Product Name: Eriş Un 2 kg Baklava ve Böreklik Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 64,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Eris Un Baklavalik Boreklik Bugday Unu 2 Kg Price: 64,90 TL   Unit Price: 32,45 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/eris-un-2-kg-baklava-ve-boreklik-bugday-unu-_1599427.jpg 
+
+
+184
+Product Name: Söke 240 gr Sade Kek Unu Glutensiz
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 15,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Soke Glutensiz Kek Unu 240 G   Price: 15,90 TL   Unit Price: 66,25 TL/kg
+
+Similar Products:
+ - Similar Product: Dr. Oetker 250 gr Glutensiz Sade Un Karışımı       Price: 39,90 TL  
+
+Features:
+ - İçerik: Glutensiz
+ - Ürün Türü: Kek Unu Karışımı
+ - Ürün Tipi: Un
+ - Glutensiz: Evet
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 240 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/soke-240-gr-sade-kek-unu-glutensiz-_265599.jpg 
+
+
+185
+Product Name: Dr.Oetker 291 gr Glutensiz Un Karışımı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 53,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Dr.oetker Glutensiz Ekmek Karisimi 291g Price: 53,90 TL   Unit Price: 185,22 TL/kg
+ - Market: Carrefour            Product: Dr.oetker Glutensiz Ekmek Karisimi 291gr Price: 56,00 TL   Unit Price: 192,44 TL/kg
+
+Similar Products:
+ - Similar Product: Dr.Oetker 175 g Glutensiz Pirinç Unu               Price: 29,90 TL  
+ - Similar Product: Dr.Oetker 350 gr Pandispanya Un                    Price: 54,90 TL  
+ - Similar Product: Dr.Oetker 175 gr Pirinç Unu                        Price: 18,50 TL  
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: Un Karışımı
+ - Ürün Tipi: Un
+ - Glutensiz: Evet
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 291 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-291-gr-glutensiz-un-karisimi-_1087782.jpg 
+
+
+186
+Product Name: Yeğenler 10 kg Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 151,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Un Bugday 10 Kg Yegenler       Price: 151,90 TL  Unit Price: 15,19 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: Un
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 10 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/yegenler-10-kg-bugday-unu-_1293882.jpg 
+
+
+187
+Product Name: Çağ Un 5 kg Buğday Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 68,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Un Bugday 5 Kg Çag Un          Price: 68,50 TL   Unit Price: 13,70 TL/kg
+
+Similar Products:
+ - Similar Product: Çağ Un 2 kg Buğday Un                              Price: 29,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+188
+Product Name: Doruk 5 kg Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 87,75 TL 
+
+Market Products:
+ - Market: A101                 Product: Un Bugday 5 Kg Doruk           Price: 87,75 TL   Unit Price: 17,55 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 5 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/doruk-5-kg-bugday-unu-_901329.jpg 
+
+
+189
+Product Name: Sinangil 2000 gr Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 61,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Un Bugday 2 Kg Sinangil        Price: 61,50 TL   Unit Price: 30,75 TL/kg
+
+Similar Products:
+ - Similar Product: Carrefour 2000 gr Buğday Unu                       Price: 34,50 TL  
+
+Features:
+ - İçerik: Çok Amaçlı
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sinangil-2000-gr-bugday-unu-_1436534.jpg 
+
+
+190
+Product Name: Dr.Oetker 175 g Glutensiz Pirinç Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 29,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Dr.oetker Glutensiz Pirinc Unu 175gr Price: 29,90 TL   Unit Price: 170,86 TL/kg
+ - Market: Migros               Product: Dr.oetker Glutensiz Pirinc Unu 175 G Price: 29,90 TL   Unit Price: 170,86 TL/kg
+
+Similar Products:
+ - Similar Product: Dr.Oetker 175 gr Pirinç Unu                        Price: 18,50 TL  
+ - Similar Product: Dr.Oetker 291 gr Glutensiz Un Karışımı             Price: 53,90 TL  
+ - Similar Product: Dr.Oetker 350 gr Pandispanya Un                    Price: 54,90 TL  
+
+Features:
+ - İçerik: Glutensiz
+ - Ürün Türü: Pirinç Unu
+ - Ürün Tipi: Un
+ - Glutensiz: Evet
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 175 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-175-g-glutensiz-pirinc-unu-_177777.jpg 
+
+
+191
+Product Name: Dr. Oetker 5x35 gr İrmikli Pirinç Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 25,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Pirinc Unu 5x35 G Dr.oetker    Price: 25,90 TL   Unit Price: 148,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Pirinç
+ - Ürün Türü: Pirinç Unu
+ - Çoklu Paket: Evet
+ - Ürün Tipi: Un
+ - Adet: 5 Adet
+ - Toplam Ağırlık: 175 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-5x35-gr-irmikli-pirinc-unu-_1084190.jpg 
+
+
+192
+Product Name: Söke 1 kg Pizza Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 24,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Soke Pizza Unu 1 Kg            Price: 24,90 TL   Unit Price: 24,90 TL/kg
+ - Market: Migros               Product: Soke Pizza Unu 1 Kg            Price: 45,90 TL   Unit Price: 45,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Pizza Un Karışımı
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+Product Image URL:  
+
+
+193
+Product Name: Hatap 2 kg Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 66,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Hatap Baklavalik Un 2 Kg       Price: 66,90 TL   Unit Price: 33,45 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Pasta-Börek-Baklava
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/hatap-2-kg-un-_343383.jpg 
+
+
+194
+Product Name: Sinangil 1000 gr Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 17,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Sinangil Un 1 Kg               Price: 17,50 TL   Unit Price: 17,50 TL/kg
+ - Market: A101                 Product: Un Bugday 1 Kg Sinangil        Price: 19,00 TL   Unit Price: 19,00 TL/kg
+ - Market: Carrefour            Product: Sinangil Un 1 Kg               Price: 33,90 TL   Unit Price: 33,90 TL/kg
+ - Market: Migros               Product: Sinangil Un 1 Kg.              Price: 33,90 TL   Unit Price: 33,90 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: Un
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sinangil-1000-gr-un-_1301800.jpg 
+
+
+195
+Product Name: Oba 500 gr İrmik
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 13,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Irmik 500 G Oba                Price: 13,50 TL   Unit Price: 27,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Her Türlü Hamur İşleri İçin
+ - Ürün Tipi: İrmik
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/oba-500-gr-irmik-_266659.jpg 
+
+
+196
+Product Name: Piyale 2 kg Un
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 34,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Piyale Un 2 Kg                 Price: 34,50 TL   Unit Price: 17,25 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/piyale-2-kg-un-_265772.jpg 
+
+
+197
+Product Name: Bayramoğlu 10 kg Özel Amaçlı Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 142,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Bayramoglu Özel Amacli Bugday Unu 10 Kg Price: 142,50 TL  Unit Price: 14,25 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 10 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/bayramoglu-10-kg-ozel-amacli-bugday-unu-_663984.jpg 
+
+
+198
+Product Name: Piyale 2 kg Tam Buğday Unu
+Main Category: Gıda
+Sub-categories: Temel Gıda, Un ve İrmik
+Cheapest Price: 61,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Piyale Tam Bugday Unu 2 Kg     Price: 61,00 TL   Unit Price: 30,50 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Tahıllı
+ - Ürün Türü: Tam Buğday Unu
+ - Ürün Tipi: Un
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 2 kg
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/piyale-2-kg-tam-bugday-unu-_1184514.jpg 
+
+
+Word Dictionary:
+söke: 17
+5: 17
+kg: 90
+geleneksel: 1
+un: 67
+efsane: 2
+buğday: 48
+unu: 115
+sinangil: 22
+2: 22
+sarı: 3
+semolina: 1
+tam: 18
+çavdar: 4
+1: 42
+doğalsan: 7
+1000: 7
+gr: 107
+yulaf: 5
+8: 1
+piyale: 8
+yazgan: 1
+500: 40
+i̇rmik: 13
+nora: 3
+mor: 3
+paket: 1
+10: 6
+özlum: 1
+city: 5
+farm: 5
+g: 2
+beyaz: 3
+hergün: 1
+migros: 7
+250: 18
+mısır: 13
+eriş: 6
+tellioğlu: 9
+çok: 5
+amaçlı: 7
+safir: 3
+tanem: 1
+glutensiz: 15
+katmer: 3
+sert: 1
+nustil: 2
+300: 2
+dr.oetker: 4
+175: 2
+pirinç: 13
+rençber: 1
+wefood: 3
+350: 5
+badem: 3
+nature: 5
+by: 5
+me: 5
+bebek: 1
+güzel: 3
+ada: 4
+gıda: 2
+330: 3
+kinoa: 3
+datça: 1
+200: 4
+60: 1
+yıl: 1
+nostalji: 1
+akun: 2
+çorumlu: 1
+öykü: 2
+ekmek: 4
+taş: 2
+değirmen: 2
+tarım: 6
+kredi: 6
+nuhun: 1
+ankara: 2
+kepeği: 3
+hatap: 2
+pasta: 1
+börek: 1
+ve: 2
+baklavalık: 4
+pastavilla: 1
+tkk: 4
+dola: 1
+karışımı: 13
+carrefour: 6
+2000: 2
+bio: 2
+organik: 26
+225: 1
+kakaolu: 2
+kek: 5
+pakmaya: 2
+30: 1
+esmer: 2
+harcı: 1
+ekmecik: 1
+400: 9
+galeta: 10
++: 1
+gurme: 2
+m: 2
+life: 2
+yeğenler: 3
+schar: 2
+gluten: 1
+free: 1
+mixc: 1
+patisserie: 1
+arifoğlu: 1
+180: 1
+keçiboynuzu: 2
+tahıllı: 1
+dr.: 7
+oetker: 7
+5x175: 1
+9,0: 1
+oneva: 1
+hindistan: 3
+cevizi: 3
+pizza: 4
+328: 1
+siyah: 1
+i̇nci: 1
+nar: 2
+baharat: 3
+340: 3
+fındıklı: 2
+sade: 6
+bağdat: 2
+eko: 1
+raya: 1
+çiğ: 1
+karabuğday: 1
+nuh'un: 1
+makarna: 2
+bemtat: 5
+kavılca: 1
+310: 1
+siyez: 11
+kendinden: 1
+kabaran: 1
+granoro: 1
+semola: 1
+rimacinata: 1
+köy: 2
+2x1: 1
+teff: 1
+böreklik: 4
+pandispanya: 1
+kenton: 2
+kooperatif: 1
+selva: 1
+arı: 1
+mama: 1
+sütlü: 1
+496: 1
+havuçlu: 1
+bendo: 1
+buğdayı: 2
+çavdarlı: 1
+vitaminli: 1
+çağ: 2
+filiz: 1
+bünsa: 2
+mutlu: 1
+farina: 1
+erişte: 1
+mantı: 1
+anadolu: 4
+özel: 3
+gelenek: 1
+alpa: 1
+soya: 1
+157: 1
+arsbak: 1
+aşurelik: 1
+kekun: 1
+antioksidan: 1
+tat: 1
+saf: 1
+limon: 1
+aromalı: 1
+mayaköy: 1
+600: 1
+antik: 1
+misir: 1
+i̇stiklal: 1
+yolu: 1
+garikli: 1
+ekmeği: 1
+255: 2
+carrefoursa: 1
+lezzetleri: 1
+kastamonu: 1
+ege: 2
+i̇rmiği: 1
+baklava: 1
+240: 1
+291: 1
+doruk: 1
+5x35: 1
+i̇rmikli: 1
+oba: 1
+bayramoğlu: 1
+
+Feature List:
+Ürün Türü
+Ürün Tipi
+Adet
+Toplam Ağırlık
+Menşei
+İçerik
+Kategori
+Organik
+Glutensiz
+Çoklu Paket
+Saklama Koşulları
+Ambalaj Tipi
+
+
+un_irmik_icerik_dict = {"irmik": "İrmik",
+        "buğday": "Buğday",
+        "sarı": "Sarı Buğday",
+	    "yulaf": "Yulaf",
+	    "badem": "Badem",
+	    "galeta": "Galeta",
+        "mısır": "Mısır",
+        "çavdar": "Çavdar",
+        "pirinç": "Pirinç",
+        "kepeği": "Buğday",
+	    "kinoa": "Kinoa",
+        "kek": "Kek",
+        "sade": "Buğday",
+        "keçiboynuzu": "Keçiboynuzu",
+        "hindistan": "Hindistan Cevizi",
+        "çiğ": "Karabuğday",
+        "karabuğday": "Karabuğday",
+        "siyez": "Buğday"
+    }
+
+un_irmik_icerik_dict = {"irmik": "İrmik",
+        "buğday": "Buğday Unu",
+	    "yulaf": "Yulaf Unu",
+	    "badem": "Badem Unu",
+	    "galeta": "Galeta Unu",
+        "sarı": "Sarı Buğday Un",
+        "mısır": "Mısır Unu",
+        "çavdar": "Çavdar Unu",
+        "pirinç": "Pirinç Unu",
+        "kepeği": "Buğday kepeği",
+	    "kinoa": "Kinoa Unu",
+        "kek": "Kek Unu",
+        "sade": "Buğday Unu",
+	    "pasta": "Pasta-Börek-Baklavalık Un",
+        "keçiboynuzu": "Keçiboynuzu Unu",
+        "hindistan": "Hindistan Cevizi Unu",
+        "çiğ": "Çiğ Karabuğday Unu",
+        "karabuğday": "Çiğ Karabuğday Unu",
+        "siyez": "Siyez Unu"
+    }
+
+un_irmik_urun_tipi_dict = {"karışım": "Karışım", "glutensiz": "Glutensiz", "organik": "Organik"
+    }
+

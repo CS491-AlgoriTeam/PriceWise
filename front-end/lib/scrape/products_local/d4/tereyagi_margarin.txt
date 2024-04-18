@@ -1,0 +1,2606 @@
+1
+Product Name: Torku Geleneksel 1 kg Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin, 
+Cheapest Price: 272,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Tereyagi 1 Kg Torku            Price: 272,00 TL  Unit Price: 272,00 TL/kg
+ - Market: Migros               Product: Torku Tereyag 1kg              Price: 465,00 TL  Unit Price: 465,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/torku-geleneksel-1-kg-tereyagi-_1253680.jpg 
+
+
+2
+Product Name: Karlıdağ 750 gr Tuzlu Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 149,90 TL
+
+Market Products:
+ - Market: Hakmar Express       Product: Tereyag Koy Evi 750g Karlidag-230523 Price: 149,90 TL  Unit Price: 199,87 TL/kg
+ - Market: A101                 Product: Tereyagi Tuzlu 750 G Karlidag  Price: 336,00 TL  Unit Price: 448,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Tuzlu
+ - Ürün Türü: İnek Sütü
+ - Ürün Tipi: Tereyağ
+ - Toplam Ağırlık: 750 gr
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/karlidag-750-gr-tuzlu-tereyagi-_641697.jpg
+
+
+3
+Product Name: Vita 1 kg Bitkisel Susuz Yağ Teneke
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 59,90 TL
+
+Market Products:
+ - Market: Migros               Product: Vita Bitkisel Susuz Margarin 1 L Price: 59,90 TL   Unit Price: 59,90 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/vita-1-kg-bitkisel-susuz-yag-teneke-_225965.jpg
+
+
+4
+Product Name: Pervin 1 kg Tereyağ
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 219,00 TL
+
+Market Products:
+ - Market: Bim                  Product: Tereyag 1 Kg.pervin            Price: 219,00 TL  Unit Price: 219,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Tereyağ
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/pervin-1-kg-tereyag-_1441789.jpg
+
+
+5
+Product Name: Sütaş 10x100 gr Porsiyon Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 189,00 TL
+
+Market Products:
+ - Market: A101                 Product: Tereyagi Porsiyon 10x100 G Sutas Price: 189,00 TL  Unit Price: 189,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sutas-10x100-gr-porsiyon-tereyagi-_1587628.jpg
+
+
+6
+Product Name: İçim 1 kg Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 285,00 TL
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Icim Tereyag 1000 Gr           Price: 285,00 TL  Unit Price: 285,00 TL/kg
+ - Market: Şok                  Product: Icim Rulo Tereyagi 1000g       Price: 299,00 TL  Unit Price: 299,00 TL/kg
+ - Market: Migros               Product: Icim Tereyagi 1 Kg             Price: 420,00 TL  Unit Price: 420,00 TL/kg
+ - Market: Carrefour            Product: Icim Tereyag 1000 Gr           Price: 438,95 TL  Unit Price: 438,95 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/icim-1-kg-tereyagi-_212413.jpg
+
+
+7
+Product Name: Sütaş 750 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 239,00 TL
+
+Market Products:
+ - Market: A101                 Product: Tereyagi 750 G Sutas           Price: 239,00 TL  Unit Price: 318,67 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sutas-750-gr-tereyagi-_231337.jpg
+
+
+8
+Product Name: Sütaş 1 kg Dilimli Yayık Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 375,00 TL
+
+Market Products:
+ - Market: Migros               Product: Sutas Tereyagi Dilimli 1000 G  Price: 375,00 TL  Unit Price: 375,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sutas-1-kg-dilimli-yayik-tereyagi-_1571783.jpg
+
+
+9
+Product Name: Çağlak 1 kg Tuzsuz Rulo Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 290,00 TL
+
+Market Products:
+ - Market: Migros               Product: Çaglak Tuzsuz Tereyag 1000g    Price: 290,00 TL  Unit Price: 290,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/caglak-1-kg-tuzsuz-rulo-tereyagi-_52027.jpg
+
+
+10
+Product Name: Ülker Teremyağ Gurme 500 gr Kase Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 51,25 TL
+
+Market Products:
+ - Market: Carrefour            Product: Terem Kase Margarin 500 Gr     Price: 51,25 TL   Unit Price: 102,50 TL/kg
+
+Similar Products:
+ - Similar Product: Ülker Teremyağ Gurme 250 gr Kase Tereyağı          Price: 26,00 TL
+ - Similar Product: Ülker Teremyağ Gurme Kaymaklı Kase 400 gr Tereyağı Price: 50,80 TL
+ - Similar Product: Ülker Teremyağ 200 gr Gurme Kaymaklı Kase Margarin Price: 20,25 TL
+ - Similar Product: Teremyağ 500 gr Kase Margarini                     Price: 58,90 TL
+ - Similar Product: Teremyağ 500 gr Kase Margarini                     Price: 58,90 TL
+
+Features:
+Product Image URL:
+
+
+11
+Product Name: Sole 250 gr Kase Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 13,50 TL
+
+Market Products:
+ - Market: Bim                  Product: Margarin 250 Gr Kase Sole      Price: 13,50 TL   Unit Price: 54,00 TL/kg
+
+Similar Products:
+ - Similar Product: Evin 250 gr Kase Margarin                          Price: 14,50 TL
+ - Similar Product: Ülker Teremyağ 250 gr Kase Margarin                Price: 30,50 TL
+ - Similar Product: Vera 250 gr Omega3 Kase Margarin                   Price: 14,50 TL
+ - Similar Product: Ülker Teremyağ Gurme 250 gr Kase Tereyağı          Price: 26,00 TL
+ - Similar Product: Luna %57 Yağlı Kase 250 gr Tereyağ Lezzeti Margarin Price: 22,25 TL
+ - Similar Product: Luna %57 Yağlı Kase 250 gr Tereyağ Lezzeti Margarin Price: 22,25 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sole-250-gr-kase-margarin-_1833722.jpg
+
+
+12
+Product Name: Sütaş 500 gr Geleneksel Tereyağ
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 109,95 TL
+
+Market Products:
+ - Market: Şok                  Product: Sutas Geleneksel Tereyag 500 Gr Price: 109,95 TL  Unit Price: 219,90 TL/kg
+
+Similar Products:
+ - Similar Product: Torku Geleneksel 500 gr Rulo Tereyağı              Price: 189,90 TL
+ - Similar Product: Kurpu 500 gr Geleneksel Tereyağı                   Price: 189,00 TL
+ - Similar Product: Ünsüt 500 gr Geleneksel Tereyağı                   Price: 149,90 TL
+ - Similar Product: Kaanlar 500 gr Geleneksel Tereyağ                  Price: 187,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sutas-500-gr-geleneksel-tereyag-_1302935.jpg
+
+
+13
+Product Name: Pınar 1 kg Tereyağ
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 472,45 TL
+
+Market Products:
+ - Market: Carrefour            Product: Pinar Tereyag 1000 Gr          Price: 472,45 TL  Unit Price: 472,45 TL/kg
+ - Market: Migros               Product: Pinar Tereyag 1 Kg             Price: 475,00 TL  Unit Price: 475,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/pinar-1-kg-tereyag-_230332.jpg
+
+
+14
+Product Name: Mis 1 kg Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 259,00 TL
+
+Market Products:
+ - Market: Şok                  Product: Mis Tereyagi 1000 Gr           Price: 259,00 TL  Unit Price: 259,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/mis-1-kg-tereyagi-_247535.jpg
+
+
+15
+Product Name: Sütaş 1 kg Tereyağ
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 285,00 TL
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Sutas Tereyagi 1000 G          Price: 285,00 TL  Unit Price: 285,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sutas-1-kg-tereyag-_231016.jpg
+
+
+16
+Product Name: Kaanlar 250 gr Geleneksel Tereyağ
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 49,00 TL
+
+Market Products:
+ - Market: A101                 Product: Tereyagi 250 G Kaanlar         Price: 49,00 TL   Unit Price: 196,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kaanlar-250-gr-geleneksel-tereyag-_76500.jpg
+
+
+17
+Product Name: Ülker Teremyağ Gurme 250 gr Kase Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 26,00 TL
+
+Market Products:
+ - Market: Carrefour            Product: Terem Gurme Kase 250 Gr        Price: 26,00 TL   Unit Price: 104,00 TL/kg
+
+Similar Products:
+ - Similar Product: Ülker Teremyağ Gurme Kaymaklı Kase 400 gr Tereyağı Price: 50,80 TL
+ - Similar Product: Ülker Teremyağ 200 gr Gurme Kaymaklı Kase Margarin Price: 20,25 TL
+ - Similar Product: Ülker Teremyağ Gurme 500 gr Kase Margarin          Price: 51,25 TL
+ - Similar Product: Ülker Teremyağ 250 gr Kase Margarin                Price: 30,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/ulker-teremyag-gurme-250-gr-kase-tereyagi-_641417.jpg
+
+
+18
+Product Name: Luna %57 Yağlı Kase 250 gr Tereyağ Lezzeti Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 22,25 TL
+
+Market Products:
+ - Market: Migros               Product: Luna Tereyagi Lezzeti Kase Margarin 250 G Price: 22,25 TL   Unit Price: 89,00 TL/kg
+
+Similar Products:
+ - Similar Product: Sana Tereyağ Lezzeti 500 gr Kase Margarin          Price: 37,50 TL
+ - Similar Product: Sole 250 gr Kase Margarin                          Price: 13,50 TL
+ - Similar Product: Evin 250 gr Kase Margarin                          Price: 14,50 TL
+ - Similar Product: Ülker Teremyağ 250 gr Kase Margarin                Price: 30,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/luna-57-yagli-kase-250-gr-tereyag-lezzeti-margarin-_341715.jpg
+
+
+19
+Product Name: Luna %57 Yağlı Kase 250 gr Tereyağ Lezzeti Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 22,25 TL
+
+Market Products:
+ - Market: Migros               Product: Luna Tereyagi Lezzeti Kase Margarin 250 G Price: 22,25 TL   Unit Price: 89,00 TL/kg
+
+Similar Products:
+ - Similar Product: Sana Tereyağ Lezzeti 500 gr Kase Margarin          Price: 37,50 TL
+ - Similar Product: Bizim Kase 250 gr Margarin                         Price: 19,00 TL
+ - Similar Product: Bizim Kase 250 gr Margarin                         Price: 19,00 TL
+ - Similar Product: Luna 250 gr Kase Margarin                          Price: 12,95 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/luna-57-yagli-kase-250-gr-tereyag-lezzeti-margarin-_341715.jpg
+
+
+20
+Product Name: Vera Paket 250 gr Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 9,00 TL
+
+Market Products:
+ - Market: A101                 Product: Margarin Paket Tereyag Keyfi 250 G Vera Price: 9,00 TL    Unit Price: 36,00 TL/kg
+ - Market: A101                 Product: Margarin Paket 250 G Vera      Price: 12,75 TL   Unit Price: 51,00 TL/kg
+
+Similar Products:
+ - Similar Product: Teremyağ 3 x 250 gr Paket Margarin                 Price: 59,90 TL
+ - Similar Product: Sana 250 gr Klasik Paket Margarin                  Price: 18,75 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/vera-paket-250-gr-margarin-_944471.jpg
+
+
+21
+Product Name: Sana 250 gr Klasik Paket Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 18,75 TL
+
+Market Products:
+ - Market: Bim                  Product: Margarin Paket 250 Gr Sana     Price: 18,75 TL   Unit Price: 75,00 TL/kg
+ - Market: A101                 Product: Margarin Paket 250 G Sana Klasik Price: 22,75 TL   Unit Price: 91,00 TL/kg
+ - Market: Migros               Product: Sana Paket Margarin 250 G.     Price: 22,75 TL   Unit Price: 91,00 TL/kg
+ - Market: Şok                  Product: Sana Paket Margarin 250 Gr     Price: 22,75 TL   Unit Price: 91,00 TL/kg
+ - Market: Carrefour            Product: Sana Margarin Paket 250 Gr     Price: 26,45 TL   Unit Price: 105,80 TL/kg
+ - Market: A101                 Product: Margarin Paket 250g Sana Tereyag Lezzeti Price: 26,95 TL   Unit Price: 107,80 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sana-250-gr-klasik-paket-margarin-_230590.jpg
+
+
+22
+Product Name: Bizim 4x250 gr Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 53,30 TL
+
+Market Products:
+ - Market: Carrefour            Product: Bizim Yag Klasik Paket Margarin 4x250g Price: 53,30 TL   Unit Price: 53,30 TL/kg
+
+Similar Products:
+ - Similar Product: Orkide Ailem Paket 4x250 gr Margarin               Price: 49,00 TL
+
+Features:
+Product Image URL:
+
+
+23
+Product Name: Tarsüt 1 kg Tereyağ
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 259,00 TL
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tarsut Tereyag 1000 G          Price: 259,00 TL  Unit Price: 259,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tarsut-1-kg-tereyag-_1558528.jpg
+
+
+24
+Product Name: Kebir 500 gr Tuzlu Köy Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 251,90 TL
+
+Market Products:
+ - Market: Carrefour            Product: Kebir Koy Tereyag Tuzlu 500 Gr Price: 251,90 TL  Unit Price: 503,80 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kebir-500-gr-tuzlu-koy-tereyagi-_1450174.jpg
+
+
+25
+Product Name: Luna 250 gr Tereyağı Lezzetli Paket Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 21,50 TL
+
+Market Products:
+ - Market: Migros               Product: Luna Tereyagi Lezzeti Paket Margarin 250 G Price: 21,50 TL   Unit Price: 86,00 TL/kg
+
+Similar Products:
+ - Similar Product: Becel 250 gr Paket Bitkisel Tereyağı               Price: 39,95 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/luna-250-gr-tereyagi-lezzetli-paket-margarin-_1225898.jpg
+
+
+26
+Product Name: Tire 225 gr Sade Yağ
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 159,40 TL
+
+Market Products:
+ - Market: Carrefour            Product: Tire Sade Yag 225 Gr           Price: 159,40 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tire-225-gr-sade-yag-_1883954.jpg
+
+
+27
+Product Name: Kahvaltı Dünyası 700 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 279,00 TL
+
+Market Products:
+ - Market: Migros               Product: Kahvalti Dunyasi Tereyagi 700 G Price: 279,00 TL  Unit Price: 398,57 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kahvalti-dunyasi-700-gr-tereyagi-_1088161.jpg
+
+
+28
+Product Name: Mengen Çiftlik 250 gr Tereyağ
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 390,00 TL
+
+Market Products:
+ - Market: Carrefour            Product: Mengen Çiftligi Tereyagi       Price: 390,00 TL  Unit Price: 1.560,00 TL/kg
+
+Similar Products:
+ - Similar Product: Mengen Çiftliği 1 kg Tuzlu Tereyağı                Price: 390,00 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/mengen-ciftlik-250-gr-tereyag-_1173454.jpg
+
+
+29
+Product Name: Ketaş 1 kg Topak Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 374,00 TL
+
+Market Products:
+ - Market: Şok                  Product: Ketas Topak Tereyagi 1 Kg      Price: 374,00 TL  Unit Price: 374,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: Süt
+ - Ürün Tipi: Tereyağ
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/ketas-1-kg-topak-tereyagi-_1741915.jpg
+
+
+30
+Product Name: Mis 500 gr Kozalak Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 93,90 TL
+
+Market Products:
+ - Market: Şok                  Product: Mis Kozalak Tereyag 500 Gr     Price: 93,90 TL   Unit Price: 187,80 TL/kg
+
+Similar Products:
+ - Similar Product: Mis 350 gr Kozalak Tereyağı                        Price: 107,50 TL
+ - Similar Product: Pervin 350 gr Kozalak Tereyağı                     Price: 87,50 TL
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: İnek Sütü
+ - Ürün Tipi: Tereyağ
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/mis-500-gr-kozalak-tereyagi-_1000846.jpg
+
+
+31
+Product Name: İçim 750 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 134,50 TL
+
+Market Products:
+ - Market: A101                 Product: Tereyagi 750 G Icim            Price: 134,50 TL  Unit Price: 179,33 TL/kg
+ - Market: Hakmar Express       Product: Tereyagi 750g Icim-160124      Price: 229,00 TL  Unit Price: 305,33 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/icim-750-gr-tereyagi-_1173690.jpg
+
+
+32
+Product Name: Torku Geleneksel 500 gr Rulo Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 189,90 TL
+
+Market Products:
+ - Market: Migros               Product: Torku Tereyag 500 G            Price: 189,90 TL  Unit Price: 379,80 TL/kg
+
+Similar Products:
+ - Similar Product: Ünsüt 500 gr Geleneksel Tereyağı                   Price: 149,90 TL
+ - Similar Product: Kuşadası 500 gr Rulo Tereyağı                      Price: 159,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/torku-geleneksel-500-gr-rulo-tereyagi-_90891.jpg
+
+
+33
+Product Name: Sütaş 350 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 124,50 TL
+
+Market Products:
+ - Market: Hakmar Express       Product: Tereyagi 350g Sutas            Price: 124,50 TL  Unit Price: 355,71 TL/kg
+ - Market: Şok                  Product: Sutas Yayik Tereyagi 350 Gr    Price: 124,95 TL  Unit Price: 357,00 TL/kg
+
+Similar Products:
+ - Similar Product: Carrefour 350 gr Tereyağı                          Price: 107,50 TL
+ - Similar Product: Carrefour 350 gr Tereyağı                          Price: 107,50 TL
+ - Similar Product: Mis 350 gr Kozalak Tereyağı                        Price: 107,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sutas-350-gr-tereyagi-_1086603.jpg
+
+
+34
+Product Name: Mis 500 gr Sade Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 143,90 TL
+
+Market Products:
+ - Market: Şok                  Product: Mis Tereyagi 500 Gr            Price: 143,90 TL  Unit Price: 287,80 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: İnek Sütü
+ - Ürün Tipi: Tereyağ
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/mis-500-gr-sade-tereyagi-_1295182.jpg
+
+
+35
+Product Name: Evin 250 gr Paket Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 12,75 TL
+
+Market Products:
+ - Market: Şok                  Product: Evin Margarin 250gr            Price: 12,75 TL   Unit Price: 51,00 TL/kg
+
+Similar Products:
+ - Similar Product: Vera Paket 250 gr Margarin                         Price: 9,00 TL
+ - Similar Product: Sana 250 gr Klasik Paket Margarin                  Price: 18,75 TL
+ - Similar Product: Teremyağ 3 x 250 gr Paket Margarin                 Price: 59,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/evin-250-gr-paket-margarin-_341755.jpg
+
+
+36
+Product Name: Vita 2 kg Teneke Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 159,90 TL
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Vita Bitkisel Susuz Yag 2 Lt Teneke Price: 159,90 TL  Unit Price: 79,95 TL/kg
+ - Market: Şok                  Product: Vita Bitkisel Susuz Yag 2lt    Price: 169,00 TL  Unit Price: 84,50 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/vita-2-kg-teneke-margarin-_1256685.jpg
+
+
+37
+Product Name: Enka 250 gr Sade Yağ
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 127,90 TL
+
+Market Products:
+ - Market: Şok                  Product: Enka Sade Yag 250 Gr           Price: 127,90 TL  Unit Price: 511,60 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/enka-250-gr-sade-yag-_1658218.jpg
+
+
+38
+Product Name: Becel 500 gr Zeytinyağlı Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 67,90 TL
+
+Market Products:
+ - Market: Carrefour            Product: Becel Zeytinyagli Margarin 500 Gr Price: 67,90 TL   Unit Price: 135,80 TL/kg
+
+Similar Products:
+ - Similar Product: Becel 250 gr Zeytinyağlı Kase Margarin             Price: 29,95 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/becel-500-gr-zeytinyagli-margarin-_1434904.jpg
+
+
+39
+Product Name: Tarsüt 250 gr Tereyağ
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 73,50 TL
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tarsut Tereyag 250 G           Price: 73,50 TL   Unit Price: 294,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg
+
+
+40
+Product Name: Becel 250 gr Paket Bitkisel Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 39,95 TL
+
+Market Products:
+ - Market: Migros               Product: Becel Terey. Sev. Bitkisel Surulebilir Yag 250 G Price: 39,95 TL   Unit Price: 159,80 TL/kg
+
+Similar Products:
+ - Similar Product: Luna 250 gr Tereyağı Lezzetli Paket Margarin       Price: 21,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/becel-250-gr-paket-bitkisel-tereyagi-_924296.jpg
+
+
+41
+Product Name: Teremyağ 500 gr Kase Margarini
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 58,90 TL
+
+Market Products:
+ - Market: Migros               Product: Teremyag Kase Margarin 500 G   Price: 58,90 TL   Unit Price: 117,80 TL/kg
+
+Similar Products:
+ - Similar Product: Ülker Teremyağ Gurme 500 gr Kase Margarin          Price: 51,25 TL
+ - Similar Product: Sana Ekmeküstü 500 gr Kase Margarin                Price: 61,25 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/teremyag-500-gr-kase-margarini-_1719810.jpg
+
+
+42
+Product Name: Milkten 950 gr Tuzlu Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 317,50 TL
+
+Market Products:
+ - Market: A101                 Product: Tereyagi Tuzlu 950 G Milkten   Price: 317,50 TL  Unit Price: 334,21 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL:
+
+
+43
+Product Name: Ülker Teremyağ 3 x 250 gr Paket Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 66,75 TL
+
+Market Products:
+ - Market: Şok                  Product: Ülker Terem Paket Margarin 3*250 Gr Price: 66,75 TL   Unit Price: 89,00 TL/kg
+ - Market: Carrefour            Product: Terem Paket Margarin 3x250 Gr  Price: 67,00 TL   Unit Price: 89,33 TL/kg
+
+Similar Products:
+ - Similar Product: Teremyağ 3 x 250 gr Paket Margarin                 Price: 59,90 TL
+ - Similar Product: Ülker Teremyağ Gurme 250 gr Kase Tereyağı          Price: 26,00 TL
+ - Similar Product: Ülker Teremyağ 250 gr Kase Margarin                Price: 30,50 TL
+
+Features:
+ - Ürün Tipi: Margarin
+ - Toplam Ağırlık: 750 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/ulker-teremyag-3-x-250-gr-paket-margarin-_1480513.jpg
+
+
+44
+Product Name: Ülker 400 gr Teremyağ Kase Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 47,50 TL
+
+Market Products:
+ - Market: A101                 Product: Margarin Kase 400 G Teremyag   Price: 47,50 TL   Unit Price: 118,75 TL/kg
+
+Similar Products:
+ - Similar Product: Ülker Teremyağ Gurme Kaymaklı Kase 400 gr Tereyağı Price: 50,80 TL
+ - Similar Product: Ülker Teremyağ Gurme 250 gr Kase Tereyağı          Price: 26,00 TL
+ - Similar Product: Ülker Teremyağ 200 gr Gurme Kaymaklı Kase Margarin Price: 20,25 TL
+ - Similar Product: Ülker Teremyağ 250 gr Kase Margarin                Price: 30,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/ulker-400-gr-teremyag-kase-margarin-_1173252.jpg
+
+
+45
+Product Name: Terem 250 gr Paket Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 23,50 TL
+
+Market Products:
+ - Market: Carrefour            Product: Terem Paket Marg. 250 Gr       Price: 23,50 TL   Unit Price: 0
+ - Market: Tarım Kredi Kooperatifi Product: Terem Paket Margarin 250 Gr    Price: 23,90 TL   Unit Price: 95,60 TL/kg
+ - Market: Hakmar Express       Product: Margarin Paket 250g Terem      Price: 27,00 TL   Unit Price: 0
+ - Market: Migros               Product: Terem Paket Margarin 250 G     Price: 27,00 TL   Unit Price: 108,00 TL/kg
+ - Market: Hakmar Express       Product: Margarin Kase 250g Terem       Price: 30,50 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Vera Paket 250 gr Margarin                         Price: 9,00 TL
+ - Similar Product: Sana 250 gr Klasik Paket Margarin                  Price: 18,75 TL
+ - Similar Product: Teremyağ 3 x 250 gr Paket Margarin                 Price: 59,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/terem-250-gr-paket-margarin-_1675009.jpg
+
+
+46
+Product Name: Migros 250 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 55,00 TL
+
+Market Products:
+ - Market: Migros               Product: Migros Tereyag 250 G.          Price: 55,00 TL   Unit Price: 220,00 TL/kg
+ - Market: Migros               Product: Migros Tereyagi 250g           Price: 75,00 TL   Unit Price: 300,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: İnek Sütü
+ - Ürün Tipi: Tereyağ
+ - Toplam Ağırlık: 250 gr
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-250-gr-tereyagi-_371148.jpg
+
+
+47
+Product Name: Lurpak Sürülebilir Tuzsuz Yağ 250 gr
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 274,50 TL
+
+Market Products:
+ - Market: Migros               Product: Lurpak Tuzsuz Surulebilir Yag 250 G Price: 274,50 TL  Unit Price: 1.098,00 TL/kg
+ - Market: Carrefour            Product: Lurpak Surulebilir Tuzsuz Tereyagi 250 G Price: 285,90 TL  Unit Price: 1.143,60 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/lurpak-surulebilir-tuzsuz-yag-250-gr-_641736.jpg
+
+
+48
+Product Name: Teremyağ 500 gr Kase Margarini
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 58,90 TL
+
+Market Products:
+ - Market: Migros               Product: Teremyag Kase Margarin 500 G   Price: 58,90 TL   Unit Price: 117,80 TL/kg
+
+Similar Products:
+ - Similar Product: Ülker Teremyağ Gurme 500 gr Kase Margarin          Price: 51,25 TL
+ - Similar Product: Sana Ekmeküstü 500 gr Kase Margarin                Price: 61,25 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/teremyag-500-gr-kase-margarini-_1719810.jpg
+
+
+49
+Product Name: Yörük Çiftliği 300 gr Ghee Sade Yağ
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 289,00 TL
+
+Market Products:
+ - Market: Migros               Product: Yoruk Çiftligi Ghee Sade Yag 300 G Price: 289,00 TL  Unit Price: 963,33 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/yoruk-ciftligi-300-gr-ghee-sade-yag-_323166.jpg
+
+
+50
+Product Name: Sek 225 gr Köy Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 112,50 TL
+
+Market Products:
+ - Market: Migros               Product: Sek Koy Tereyagi 225 G         Price: 112,50 TL  Unit Price: 500,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sek-225-gr-koy-tereyagi-_94585.jpg
+
+
+51
+Product Name: Sana Ekmeküstü 500 gr Kase Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 61,25 TL
+
+Market Products:
+ - Market: Migros               Product: Sana Ekmekustu Kase Margarin 500 G Price: 61,25 TL   Unit Price: 122,50 TL/kg
+
+Similar Products:
+ - Similar Product: Sana Tereyağ Lezzeti 500 gr Kase Margarin          Price: 37,50 TL
+ - Similar Product: Ülker Teremyağ Gurme 500 gr Kase Margarin          Price: 51,25 TL
+ - Similar Product: Teremyağ 500 gr Kase Margarini                     Price: 58,90 TL
+ - Similar Product: Teremyağ 500 gr Kase Margarini                     Price: 58,90 TL
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: Süt
+ - Ürün Tipi: Margarin
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/sana-ekmekustu-500-gr-kase-margarin-_330121.jpg
+
+
+52
+Product Name: Kurpu 500 gr Geleneksel Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 189,00 TL
+
+Market Products:
+ - Market: Migros               Product: Kurpu Geleneksel Tereyag 500g  Price: 189,00 TL  Unit Price: 378,00 TL/kg
+
+Similar Products:
+ - Similar Product: Torku Geleneksel 500 gr Rulo Tereyağı              Price: 189,90 TL
+ - Similar Product: Ünsüt 500 gr Geleneksel Tereyağı                   Price: 149,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kurpu-500-gr-geleneksel-tereyagi-_1599490.jpg
+
+
+53
+Product Name: Milkten Donuk 4x100 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 79,50 TL
+
+Market Products:
+ - Market: A101                 Product: Tereyagi Donuk 4x100 G Milkten Price: 79,50 TL   Unit Price: 198,75 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/milkten-donuk-4x100-gr-tereyagi-_1724567.jpg
+
+
+54
+Product Name: Terem 250 gr Paket Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 23,50 TL
+
+Market Products:
+ - Market: Carrefour            Product: Terem Paket Marg. 250 Gr       Price: 23,50 TL   Unit Price: 0
+ - Market: Tarım Kredi Kooperatifi Product: Terem Paket Margarin 250 Gr    Price: 23,90 TL   Unit Price: 95,60 TL/kg
+ - Market: Hakmar Express       Product: Margarin Paket 250g Terem      Price: 27,00 TL   Unit Price: 0
+ - Market: Migros               Product: Terem Paket Margarin 250 G     Price: 27,00 TL   Unit Price: 108,00 TL/kg
+ - Market: Hakmar Express       Product: Margarin Kase 250g Terem       Price: 30,50 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Vera Paket 250 gr Margarin                         Price: 9,00 TL
+ - Similar Product: Sana 250 gr Klasik Paket Margarin                  Price: 18,75 TL
+ - Similar Product: Teremyağ 3 x 250 gr Paket Margarin                 Price: 59,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/terem-250-gr-paket-margarin-_1675009.jpg
+
+
+55
+Product Name: Kahvaltı Dünyası 1 kg Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 413,00 TL
+
+Market Products:
+ - Market: Migros               Product: Kahvalti Dunyasi Tereyagi Kg   Price: 413,00 TL  Unit Price: 413,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kahvalti-dunyasi-1-kg-tereyagi-_1027577.jpg
+
+
+56
+Product Name: Elta 200 gr Ada Organik Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 149,90 TL
+
+Market Products:
+ - Market: Migros               Product: Elta Ada Organik Tereyagi 200 G Price: 149,90 TL  Unit Price: 749,50 TL/kg
+ - Market: Carrefour            Product: Elta Ada Org. Tereyagi 200 Gr  Price: 150,75 TL  Unit Price: 753,75 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/elta-200-gr-ada-organik-tereyagi-_91477.jpg
+
+
+57
+Product Name: Kanlıca 400 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 199,90 TL
+
+Market Products:
+ - Market: Migros               Product: Kanlica Tereyagi 400g          Price: 199,90 TL  Unit Price: 499,75 TL/kg
+
+Similar Products:
+ - Similar Product: İçim Geleneksel Lezzet 400 gr Tereyağı             Price: 199,90 TL
+ - Similar Product: İçim Geleneksel Lezzet 400 gr Tereyağı             Price: 199,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kanlica-400-gr-tereyagi-_1599474.jpg
+
+
+58
+Product Name: Milkten 950 gr Tuzlu Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 317,50 TL
+
+Market Products:
+ - Market: A101                 Product: Tereyagi Tuzlu 950 G Milkten   Price: 317,50 TL  Unit Price: 334,21 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL:
+
+
+59
+Product Name: Vita 2 kg Teneke Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 159,90 TL
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Vita Bitkisel Susuz Yag 2 Lt Teneke Price: 159,90 TL  Unit Price: 79,95 TL/kg
+ - Market: Şok                  Product: Vita Bitkisel Susuz Yag 2lt    Price: 169,00 TL  Unit Price: 84,50 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/vita-2-kg-teneke-margarin-_1256685.jpg
+
+
+60
+Product Name: Sütaş 350 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 124,50 TL
+
+Market Products:
+ - Market: Hakmar Express       Product: Tereyagi 350g Sutas            Price: 124,50 TL  Unit Price: 355,71 TL/kg
+ - Market: Şok                  Product: Sutas Yayik Tereyagi 350 Gr    Price: 124,95 TL  Unit Price: 357,00 TL/kg
+
+Similar Products:
+ - Similar Product: Carrefour 350 gr Tereyağı                          Price: 107,50 TL
+ - Similar Product: Carrefour 350 gr Tereyağı                          Price: 107,50 TL
+ - Similar Product: Mis 350 gr Kozalak Tereyağı                        Price: 107,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sutas-350-gr-tereyagi-_1086603.jpg
+
+
+61
+Product Name: Mis 500 gr Sade Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 143,90 TL
+
+Market Products:
+ - Market: Şok                  Product: Mis Tereyagi 500 Gr            Price: 143,90 TL  Unit Price: 287,80 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: İnek Sütü
+ - Ürün Tipi: Tereyağ
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/mis-500-gr-sade-tereyagi-_1295182.jpg
+
+
+62
+Product Name: Ülker Teremyağ 3 x 250 gr Paket Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 66,75 TL
+
+Market Products:
+ - Market: Şok                  Product: Ülker Terem Paket Margarin 3*250 Gr Price: 66,75 TL   Unit Price: 89,00 TL/kg
+ - Market: Carrefour            Product: Terem Paket Margarin 3x250 Gr  Price: 67,00 TL   Unit Price: 89,33 TL/kg
+
+Similar Products:
+ - Similar Product: Teremyağ 3 x 250 gr Paket Margarin                 Price: 59,90 TL
+ - Similar Product: Ülker Teremyağ 250 gr Kase Margarin                Price: 30,50 TL
+
+Features:
+ - Ürün Tipi: Margarin
+ - Toplam Ağırlık: 750 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/ulker-teremyag-3-x-250-gr-paket-margarin-_1480513.jpg
+
+
+63
+Product Name: Evin 250 gr Paket Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 12,75 TL
+
+Market Products:
+ - Market: Şok                  Product: Evin Margarin 250gr            Price: 12,75 TL   Unit Price: 51,00 TL/kg
+
+Similar Products:
+ - Similar Product: Vera Paket 250 gr Margarin                         Price: 9,00 TL
+ - Similar Product: Sana 250 gr Klasik Paket Margarin                  Price: 18,75 TL
+ - Similar Product: Teremyağ 3 x 250 gr Paket Margarin                 Price: 59,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/evin-250-gr-paket-margarin-_341755.jpg
+
+
+64
+Product Name: Becel 250 gr Tereyağı Keyfi Kase Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 25,00 TL
+
+Market Products:
+ - Market: Bim                  Product: Marg.klasik/t.yagi Keyfi 250 Gr Becel Price: 25,00 TL   Unit Price: 100,00 TL/kg
+ - Market: A101                 Product: Margarin Kase 250 G Tereyag Keyfi Becel Price: 29,75 TL   Unit Price: 119,00 TL/kg
+ - Market: Migros               Product: Becel Tereyagi Keyfi Kase Margarin 250 G Price: 29,75 TL   Unit Price: 119,00 TL/kg
+ - Market: Carrefour            Product: Becel Tereyag Keyfi Kase 250 Gr Price: 33,25 TL   Unit Price: 133,00 TL/kg
+
+Similar Products:
+ - Similar Product: Ülker Teremyağ Gurme 250 gr Kase Tereyağı          Price: 26,00 TL
+ - Similar Product: Ülker Teremyağ Gurme Kaymaklı Kase 400 gr Tereyağı Price: 50,80 TL
+ - Similar Product: Sole 250 gr Kase Margarin                          Price: 13,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/becel-250-gr-tereyagi-keyfi-kase-margarin-_230337.jpg
+
+
+65
+Product Name: Enka 250 gr Sade Yağ
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 127,90 TL
+
+Market Products:
+ - Market: Şok                  Product: Enka Sade Yag 250 Gr           Price: 127,90 TL  Unit Price: 511,60 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/enka-250-gr-sade-yag-_1658218.jpg
+
+
+66
+Product Name: Tire 225 gr Organik Sade Yağ
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 200,90 TL
+
+Market Products:
+ - Market: Carrefour            Product: Tire Organik Sade Yag 225 Gr   Price: 200,90 TL  Unit Price: 0
+
+Similar Products:
+ - Similar Product: Tire 225 gr Sade Yağ                               Price: 159,40 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tire-225-gr-organik-sade-yag-_1883963.jpg
+
+
+67
+Product Name: Kahvaltı Dünyası 500 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 212,00 TL
+
+Market Products:
+ - Market: Migros               Product: Kahvalti Dunyasi Tereyagi 500g Price: 212,00 TL  Unit Price: 424,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kahvalti-dunyasi-500-gr-tereyagi-_1525882.jpg
+
+
+68
+Product Name: Ünsüt 500 gr Geleneksel Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 149,90 TL
+
+Market Products:
+ - Market: Migros               Product: Ünsut Geleneksel Tereyag 500g  Price: 149,90 TL  Unit Price: 299,80 TL/kg
+
+Similar Products:
+ - Similar Product: Torku Geleneksel 500 gr Rulo Tereyağı              Price: 189,90 TL
+ - Similar Product: Kurpu 500 gr Geleneksel Tereyağı                   Price: 189,00 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/unsut-500-gr-geleneksel-tereyagi-_1625755.jpg
+
+
+69
+Product Name: Otat 1 kg Rulo Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 378,95 TL
+
+Market Products:
+ - Market: Carrefour            Product: Otat Rulo Tereyagi 1 Kg.       Price: 378,95 TL  Unit Price: 378,95 TL/kg
+
+Similar Products:
+ - Similar Product: Çağlak 1 kg Tuzsuz Rulo Tereyağı                   Price: 290,00 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/otat-1-kg-rulo-tereyagi-_1409629.jpg
+
+
+70
+Product Name: Güneşoğlu 250 gr Tereyağ
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 75,00 TL
+
+Market Products:
+ - Market: Hakmar Express       Product: Tereyagi Koy 250g Gunesoglu    Price: 75,00 TL   Unit Price: 300,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/gunesoglu-250-gr-tereyag-_1279565.jpg
+
+
+71
+Product Name: Kuşadası 500 gr Rulo Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 159,50 TL
+
+Market Products:
+ - Market: A101                 Product: Tereyagi Rulo 500 G Kusadasi   Price: 159,50 TL  Unit Price: 319,00 TL/kg
+
+Similar Products:
+ - Similar Product: Torku Geleneksel 500 gr Rulo Tereyağı              Price: 189,90 TL
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: İnek Sütü
+ - Ürün Tipi: Tereyağ
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/kusadasi-500-gr-rulo-tereyagi-_1587618.jpg
+
+
+72
+Product Name: Pervin 350 gr Kozalak Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 87,50 TL
+
+Market Products:
+ - Market: Bim                  Product: Tereyagi Kozalak 350gr Pervin  Price: 87,50 TL   Unit Price: 250,00 TL/kg
+
+Similar Products:
+ - Similar Product: Mis 350 gr Kozalak Tereyağı                        Price: 107,50 TL
+ - Similar Product: Mis 500 gr Kozalak Tereyağı                        Price: 93,90 TL
+
+Features:
+ - İçerik: Tuzlu
+ - Ürün Türü: İnek Sütü
+ - Ürün Tipi: Tereyağ
+ - Toplam Ağırlık: 350 gr
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/pervin-350-gr-kozalak-tereyagi-_1431611.jpg
+
+
+73
+Product Name: Kebirzade 500 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 187,50 TL
+
+Market Products:
+ - Market: Hakmar Express       Product: Tereyagi 500g Kebirzade        Price: 187,50 TL  Unit Price: 375,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Tereyağ
+ - Toplam Ağırlık: 500 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/kebirzade-500-gr-tereyagi-_1440924.jpg
+
+
+74
+Product Name: Laz Kızı 400 gr Tonya Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 180,00 TL
+
+Market Products:
+ - Market: Migros               Product: Laz Kizi Tonya Tereyagi 400g   Price: 180,00 TL  Unit Price: 450,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/laz-kizi-400-gr-tonya-tereyagi-_1634048.jpg
+
+
+75
+Product Name: Göynük 1 kg Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 279,00 TL
+
+Market Products:
+ - Market: Hakmar Express       Product: Tereyagi 1000g Goynuk          Price: 279,00 TL  Unit Price: 279,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: İnek Sütü
+ - Ürün Tipi: Tereyağ
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg
+
+
+76
+Product Name: Ülker Teremyağ Gurme Kaymaklı Kase 400 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 50,80 TL
+
+Market Products:
+ - Market: Şok                  Product: Teremyag Gurme Kaymakli Kase 400gr Price: 50,80 TL   Unit Price: 127,00 TL/kg
+
+Similar Products:
+ - Similar Product: Ülker Teremyağ 200 gr Gurme Kaymaklı Kase Margarin Price: 20,25 TL
+ - Similar Product: Ülker Teremyağ Gurme 250 gr Kase Tereyağı          Price: 26,00 TL
+ - Similar Product: Ülker Teremyağ Gurme 500 gr Kase Margarin          Price: 51,25 TL
+ - Similar Product: Ülker 400 gr Teremyağ Kase Margarin                Price: 47,50 TL
+
+Features:
+ - Ürün Tipi: Margarin
+ - Toplam Ağırlık: 400 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/ulker-teremyag-gurme-kaymakli-kase-400-gr-tereyagi-_1317851.jpg
+
+
+77
+Product Name: Mis 500 gr Tuzlu Topak Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 137,50 TL
+
+Market Products:
+ - Market: Şok                  Product: Mis Tuzlu Tereyagi 500 Gr      Price: 137,50 TL  Unit Price: 275,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/mis-500-gr-tuzlu-topak-tereyagi-_1501827.jpg
+
+
+78
+Product Name: Evin 250 gr Kase Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 14,50 TL
+
+Market Products:
+ - Market: Şok                  Product: Evin Kase Margarin 250 Gr      Price: 14,50 TL   Unit Price: 58,00 TL/kg
+
+Similar Products:
+ - Similar Product: Sole 250 gr Kase Margarin                          Price: 13,50 TL
+ - Similar Product: Ülker Teremyağ Gurme 250 gr Kase Tereyağı          Price: 26,00 TL
+ - Similar Product: Vera 250 gr Omega3 Kase Margarin                   Price: 14,50 TL
+ - Similar Product: Luna %57 Yağlı Kase 250 gr Tereyağ Lezzeti Margarin Price: 22,25 TL
+ - Similar Product: Luna %57 Yağlı Kase 250 gr Tereyağ Lezzeti Margarin Price: 22,25 TL
+ - Similar Product: Ülker Teremyağ 250 gr Kase Margarin                Price: 30,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/evin-250-gr-kase-margarin-_1313932.jpg
+
+
+79
+Product Name: Kaanlar 500 gr Geleneksel Tereyağ
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 187,50 TL
+
+Market Products:
+ - Market: A101                 Product: Tereyagi 500 G Kaanlar         Price: 187,50 TL  Unit Price: 375,00 TL/kg
+
+Similar Products:
+ - Similar Product: Ünsüt 500 gr Geleneksel Tereyağı                   Price: 149,90 TL
+ - Similar Product: Sütaş 500 gr Geleneksel Tereyağ                    Price: 109,95 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kaanlar-500-gr-geleneksel-tereyag-_230369.jpg
+
+
+80
+Product Name: Kebir 1 kg Topak Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 395,00 TL
+
+Market Products:
+ - Market: A101                 Product: Tereyagi Topak 1 Kg Kebir      Price: 395,00 TL  Unit Price: 395,00 TL/kg
+
+Similar Products:
+ - Similar Product: Ketaş 1 kg Topak Tereyağı                          Price: 374,00 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kebir-1-kg-topak-tereyagi-_1852519.jpg
+
+
+81
+Product Name: Ülker Teremyağ 200 gr Gurme Kaymaklı Kase Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 20,25 TL
+
+Market Products:
+ - Market: A101                 Product: Margarin Paket 200 G Teremyag Gurme Price: 20,25 TL   Unit Price: 101,25 TL/kg
+ - Market: Carrefour            Product: Teremyag Gurme Kaymakli Pkt.mar.200 Gr Price: 24,00 TL   Unit Price: 120,00 TL/kg
+ - Market: Migros               Product: Teremyag Gurme Kaymakli Paket 200g Price: 27,50 TL   Unit Price: 137,50 TL/kg
+
+Similar Products:
+ - Similar Product: Ülker Teremyağ Gurme Kaymaklı Kase 400 gr Tereyağı Price: 50,80 TL
+ - Similar Product: Ülker Teremyağ Gurme 500 gr Kase Margarin          Price: 51,25 TL
+ - Similar Product: Ülker Teremyağ Gurme 250 gr Kase Tereyağı          Price: 26,00 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/ulker-teremyag-200-gr-gurme-kaymakli-kase-margarin-_1443100.jpg
+
+
+82
+Product Name: Halk 6 x 250 gr Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 59,00 TL
+
+Market Products:
+ - Market: A101                 Product: Margarin Paket 6x250 G Halk    Price: 59,00 TL   Unit Price: 39,33 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/halk-6-x-250-gr-margarin-_341556.jpg
+
+
+83
+Product Name: Atatürk Orman Çiftliği 500 gr Tereyağ
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 173,45 TL
+
+Market Products:
+ - Market: A101                 Product: Tereyagi 500 G Aoc             Price: 173,45 TL  Unit Price: 346,90 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: Süt
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+ - Yağ Oranı: Tam Yağlı
+ - Ürün Tipi: Tereyağ
+ - Laktozsuz: Evet
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/ataturk-orman-ciftligi-500-gr-tereyag-_325742.jpg
+
+
+84
+Product Name: Ülker Teremyağ 250 gr Kase Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 30,50 TL
+
+Market Products:
+ - Market: Şok                  Product: Teremyag Kase Margarin 250 Gr. Price: 30,50 TL   Unit Price: 122,00 TL/kg
+
+Similar Products:
+ - Similar Product: Ülker Teremyağ Gurme 250 gr Kase Tereyağı          Price: 26,00 TL
+ - Similar Product: Ülker Teremyağ Gurme 500 gr Kase Margarin          Price: 51,25 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/ulker-teremyag-250-gr-kase-margarin-_230591.jpg
+
+
+85
+Product Name: Vera 250 gr Omega3 Kase Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 14,50 TL
+
+Market Products:
+ - Market: A101                 Product: Margarin Kase 250 G Vera       Price: 14,50 TL   Unit Price: 58,00 TL/kg
+
+Similar Products:
+ - Similar Product: Sole 250 gr Kase Margarin                          Price: 13,50 TL
+ - Similar Product: Evin 250 gr Kase Margarin                          Price: 14,50 TL
+ - Similar Product: Ülker Teremyağ 250 gr Kase Margarin                Price: 30,50 TL
+ - Similar Product: Ülker Teremyağ Gurme 250 gr Kase Tereyağı          Price: 26,00 TL
+ - Similar Product: Luna %57 Yağlı Kase 250 gr Tereyağ Lezzeti Margarin Price: 22,25 TL
+ - Similar Product: Luna %57 Yağlı Kase 250 gr Tereyağ Lezzeti Margarin Price: 22,25 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/vera-250-gr-omega3-kase-margarin-_1587637.jpg
+
+
+86
+Product Name: Torku 250 gr Tereyağ
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 123,50 TL
+
+Market Products:
+ - Market: A101                 Product: Tereyagi 250 G Torku           Price: 123,50 TL  Unit Price: 494,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/torku-250-gr-tereyag-_1253820.jpg
+
+
+87
+Product Name: Mis 250gr Tuzsuz Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 75,00 TL
+
+Market Products:
+ - Market: Şok                  Product: Mis Tereyag 250 Gr             Price: 75,00 TL   Unit Price: 300,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/mis-250gr-tuzsuz-tereyagi-_1432941.jpg
+
+
+88
+Product Name: Pınar Geleneksel Tuzsuz 200 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 68,95 TL
+
+Market Products:
+ - Market: Carrefour            Product: Pinar Geleneksel Tereyag 200 Gr Price: 68,95 TL   Unit Price: 344,75 TL/kg
+ - Market: Migros               Product: Pinar Geleneksel Tuzsuz Tereyagi 200 G Price: 69,00 TL   Unit Price: 345,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL:
+
+
+89
+Product Name: Sütaş 250 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 88,50 TL
+
+Market Products:
+ - Market: Şok                  Product: Sutas Tereyag 250 Gr           Price: 88,50 TL   Unit Price: 354,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sutas-250-gr-tereyagi-_1434280.jpg
+
+
+90
+Product Name: Tahsildaroğlu 450 gr Dilimli Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 109,00 TL
+
+Market Products:
+ - Market: Migros               Product: Tahsildaroglu Dilimli Tereyag 450 G Price: 109,00 TL  Unit Price: 242,22 TL/kg
+
+Similar Products:
+ - Similar Product: Sütaş 1 kg Dilimli Yayık Tereyağı                  Price: 375,00 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tahsildaroglu-450-gr-dilimli-tereyagi-_96866.jpg
+
+
+91
+Product Name: Birma 250 gr Paket Bitkisel Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 14,50 TL
+
+Market Products:
+ - Market: Hakmar Express       Product: Margarin Paket 250gr Birma     Price: 14,50 TL   Unit Price: 58,00 TL/kg
+
+Similar Products:
+ - Similar Product: Vera Paket 250 gr Margarin                         Price: 9,00 TL
+ - Similar Product: Teremyağ 3 x 250 gr Paket Margarin                 Price: 59,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/birma-250-gr-paket-bitkisel-margarin-_860545.jpg
+
+
+92
+Product Name: Doğuş 1 kg Naturel Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 179,50 TL
+
+Market Products:
+ - Market: Hakmar Express       Product: Tereyagi 1000g Dogus-090523    Price: 179,50 TL  Unit Price: 179,50 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: Süt
+ - Ürün Tipi: Tereyağ
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL:
+
+
+93
+Product Name: Pervin 250 gr Folyo Tereyağ
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 61,00 TL
+
+Market Products:
+ - Market: Bim                  Product: Tereyag Folyo 250 Gr Pervin    Price: 61,00 TL   Unit Price: 244,00 TL/kg
+
+Similar Products:
+ - Similar Product: Pınar 200 gr Folyo Tereyağı                        Price: 99,95 TL
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: Süt
+ - Ürün Tipi: Tereyağ
+ - Toplam Ağırlık: 250 gr
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Folyo
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/pervin-250-gr-folyo-tereyag-_1430787.jpg
+
+
+94
+Product Name: Sole 250 gr Paket Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 12,00 TL
+
+Market Products:
+ - Market: Bim                  Product: Margarin 250 Gr Paket Sole     Price: 12,00 TL   Unit Price: 48,00 TL/kg
+
+Similar Products:
+ - Similar Product: Vera Paket 250 gr Margarin                         Price: 9,00 TL
+ - Similar Product: Teremyağ 3 x 250 gr Paket Margarin                 Price: 59,90 TL
+
+Features:
+ - Ürün Tipi: Margarin
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/sole-250-gr-paket-margarin-_1431003.jpg
+
+
+95
+Product Name: Tarım Kredi 500 gr Tuzsuz Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 139,50 TL
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tkk Tuzsuz Tereyagi 500 Gr     Price: 139,50 TL  Unit Price: 279,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tarim-kredi-500-gr-tuzsuz-tereyagi-_1440772.jpg
+
+
+96
+Product Name: Carrefour 500 gr Tereyağ
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 149,00 TL
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Tereyag 500g         Price: 149,00 TL  Unit Price: 298,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-500-gr-tereyag-_858271.jpg
+
+
+97
+Product Name: Mengen Çiftliği 1 kg Tuzlu Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 390,00 TL
+
+Market Products:
+ - Market: Carrefour            Product: Mengen Çiftligi Tereyag Tuzlu  Price: 390,00 TL  Unit Price: 390,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/mengen-ciftligi-1-kg-tuzlu-tereyagi-_231037.jpg
+
+
+98
+Product Name: Carrefour 1 kg Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 279,00 TL
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Tereyag 1kg          Price: 279,00 TL  Unit Price: 279,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-1-kg-tereyagi-_231206.jpg
+
+
+99
+Product Name: Hasmandıra 750 gr Kova Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 215,00 TL
+
+Market Products:
+ - Market: Migros               Product: Hasmandira Kova Tereyagi 750 G Price: 215,00 TL  Unit Price: 286,67 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/hasmandira-750-gr-kova-tereyagi-_1558891.jpg
+
+
+100
+Product Name: Pınar 200 gr Folyo Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 99,95 TL
+
+Market Products:
+ - Market: Carrefour            Product: Pinar Tereyag Folyo 200 Gr.    Price: 99,95 TL   Unit Price: 499,75 TL/kg
+ - Market: Migros               Product: Pinar Tereyagi Folyo 200g      Price: 99,95 TL   Unit Price: 499,75 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/pinar-200-gr-folyo-tereyagi-_996689.jpg
+
+
+101
+Product Name: Tire Süt Kooperatifi 1 kg Pastörize Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 479,85 TL
+
+Market Products:
+ - Market: Carrefour            Product: Tire Pastorize Tereyag 1000 Gr Price: 479,85 TL  Unit Price: 479,85 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tire-sut-kooperatifi-1-kg-pastorize-tereyagi-_1443555.jpg
+
+
+102
+Product Name: Tire Süt Kooperatifi 900 gr Pastörize Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 415,00 TL
+
+Market Products:
+ - Market: Migros               Product: Tire Pastorize Tereyagi 900 G  Price: 415,00 TL  Unit Price: 461,11 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL:
+
+
+103
+Product Name: Polonezköy 200 gr Hususi Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 109,00 TL
+
+Market Products:
+ - Market: Migros               Product: Polonezkoy Hususi Tereyagi 200 G Price: 109,00 TL  Unit Price: 545,00 TL/kg
+
+Similar Products:
+ - Similar Product: Elle Vire 200 gr Tuzsuz Tereyağı                   Price: 228,80 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/polonezkoy-200-gr-hususi-tereyagi-_1864868.jpg
+
+
+104
+Product Name: Efeler Çiftliği 200 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 169,90 TL
+
+Market Products:
+ - Market: Migros               Product: Efeler Çiftligi Tereyag 200 G  Price: 169,90 TL  Unit Price: 849,50 TL/kg
+ - Market: Carrefour            Product: Efeler Çiftligi Tereyag 200 Gr Price: 176,70 TL  Unit Price: 0
+
+Similar Products:
+ - Similar Product: Elle Vire 200 gr Tuzsuz Tereyağı                   Price: 228,80 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/efeler-ciftligi-200-gr-tereyagi-_1707698.jpg
+
+
+105
+Product Name: Pınar 125 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 65,50 TL
+
+Market Products:
+ - Market: Carrefour            Product: Pinar Tereyagi 125 Gr          Price: 65,50 TL   Unit Price: 524,00 TL/kg
+ - Market: Migros               Product: Pinar Tereyag 125 G            Price: 68,90 TL   Unit Price: 551,20 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/pinar-125-gr-tereyagi-_230354.jpg
+
+
+106
+Product Name: Milkten 250 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 75,00 TL
+
+Market Products:
+ - Market: A101                 Product: Tereyagi 250 G Milkten         Price: 75,00 TL   Unit Price: 300,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: İnek Sütü
+ - Ürün Tipi: Tereyağ
+ - Toplam Ağırlık: 250 gr
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL:
+
+
+107
+Product Name: Orkide Ailem Paket 4x250 gr Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 49,00 TL
+
+Market Products:
+ - Market: A101                 Product: Margarin Paket 4x250 G Orkide Ailem Price: 49,00 TL   Unit Price: 49,00 TL/kg
+
+Similar Products:
+ - Similar Product: Bizim 4x250 gr Margarin                            Price: 53,30 TL
+ - Similar Product: Vera Paket 250 gr Margarin                         Price: 9,00 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/orkide-ailem-paket-4x250-gr-margarin-_1724560.jpg
+
+
+108
+Product Name: Ayder Çiftliği Topak 1 kg Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 352,50 TL
+
+Market Products:
+ - Market: A101                 Product: Tereyagi Topak 1 Kg Ayder Çiftligi Price: 352,50 TL  Unit Price: 352,50 TL/kg
+
+Similar Products:
+ - Similar Product: Ketaş 1 kg Topak Tereyağı                          Price: 374,00 TL
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: Süt
+ - Ürün Tipi: Tereyağ
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/ayder-ciftligi-topak-1-kg-tereyagi-_1086019.jpg
+
+
+109
+Product Name: Rani 500 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 228,25 TL
+
+Market Products:
+ - Market: Carrefour            Product: Rani Tereyagi 500 Gr Kutu      Price: 228,25 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/rani-500-gr-tereyagi-_1827756.jpg
+
+
+110
+Product Name: Mon Beurre 250 gr Gurme Yayık Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 219,90 TL
+
+Market Products:
+ - Market: Migros               Product: Mon Beurre Gurme Yayik Tereyagi 250 G Price: 219,90 TL  Unit Price: 879,60 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/mon-beurre-250-gr-gurme-yayik-tereyagi-_1350359.jpg
+
+
+111
+Product Name: Carrefour 250 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 75,00 TL
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Tereyag 250g         Price: 75,00 TL   Unit Price: 300,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-250-gr-tereyagi-_1457993.jpg
+
+
+112
+Product Name: Elle Vire 200 gr Tuzsuz Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 228,80 TL
+
+Market Products:
+ - Market: Carrefour            Product: Elle Vire Tuzsuz Tereyag 200 Gr Price: 228,80 TL  Unit Price: 1.144,00 TL/kg
+
+Similar Products:
+ - Similar Product: Pınar Geleneksel Tuzsuz 200 gr Tereyağı            Price: 68,95 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/elle-vire-200-gr-tuzsuz-tereyagi-_202473.jpg
+
+
+113
+Product Name: Tahsildaroğlu 250 gr Yayık Tereyağ
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 139,90 TL
+
+Market Products:
+ - Market: Carrefour            Product: Tahsildaroglu Yayik Tereyag 250 Gr Price: 139,90 TL  Unit Price: 559,60 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tahsildaroglu-250-gr-yayik-tereyag-_642093.jpg
+
+
+114
+Product Name: Efeler Çiftliği 1 kg Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 569,80 TL
+
+Market Products:
+ - Market: Carrefour            Product: Efeler Çiftligi Tereyagi 1000 Gr Price: 569,80 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/efeler-ciftligi-1-kg-tereyagi-_1874104.jpg
+
+
+115
+Product Name: Migros 500 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 149,00 TL
+
+Market Products:
+ - Market: Migros               Product: Migros Tereyag 500 G (s)       Price: 149,00 TL  Unit Price: 298,00 TL/kg
+ - Market: Migros               Product: Migros Tereyag 500g            Price: 149,00 TL  Unit Price: 298,00 TL/kg
+ - Market: Migros               Product: Migros Tereyagi 500 G          Price: 149,00 TL  Unit Price: 298,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: İnek Sütü
+ - Ürün Tipi: Tereyağ
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-500-gr-tereyagi-_445712.jpg
+
+
+116
+Product Name: Carrefour 350 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 107,50 TL
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Tereyag 350g Kozalak Price: 107,50 TL  Unit Price: 307,14 TL/kg
+
+Similar Products:
+ - Similar Product: Mis 350 gr Kozalak Tereyağı                        Price: 107,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-350-gr-tereyagi-_1457990.jpg
+
+
+117
+Product Name: Sek 1 kg Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 450,00 TL
+
+Market Products:
+ - Market: Carrefour            Product: Sek Tereyag 1000 Gr            Price: 450,00 TL  Unit Price: 450,00 TL/kg
+ - Market: Migros               Product: Sek Tereyagi 1 Kg              Price: 450,00 TL  Unit Price: 450,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sek-1-kg-tereyagi-_1235651.jpg
+
+
+118
+Product Name: Otat 1 kg Köy Tipi Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 409,90 TL
+
+Market Products:
+ - Market: Migros               Product: Otat Koy Tipi Tereyagi 1 Kg    Price: 409,90 TL  Unit Price: 409,90 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/otat-1-kg-koy-tipi-tereyagi-_96238.jpg
+
+
+119
+Product Name: Ekici 250 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 9,95 TL
+
+Market Products:
+ - Market: A101                 Product: Tereyagi 250 G Ekici           Price: 9,95 TL    Unit Price: 39,80 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL:
+
+
+120
+Product Name: Bizim Kase 250 gr Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 19,00 TL
+
+Market Products:
+ - Market: Bim                  Product: Margarin 250 Gr. Bizim         Price: 19,00 TL   Unit Price: 76,00 TL/kg
+ - Market: Carrefour            Product: Bizim Margarin Kase 250gr      Price: 21,45 TL   Unit Price: 85,80 TL/kg
+
+Similar Products:
+ - Similar Product: Sole 250 gr Kase Margarin                          Price: 13,50 TL
+ - Similar Product: Ülker Teremyağ Gurme 250 gr Kase Tereyağı          Price: 26,00 TL
+ - Similar Product: Vera 250 gr Omega3 Kase Margarin                   Price: 14,50 TL
+ - Similar Product: Evin 250 gr Kase Margarin                          Price: 14,50 TL
+ - Similar Product: Luna %57 Yağlı Kase 250 gr Tereyağ Lezzeti Margarin Price: 22,25 TL
+ - Similar Product: Luna %57 Yağlı Kase 250 gr Tereyağ Lezzeti Margarin Price: 22,25 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/bizim-kase-250-gr-margarin-_1541670.jpg
+
+
+121
+Product Name: Hasmandıra 1 kg Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 399,00 TL
+
+Market Products:
+ - Market: Migros               Product: Hasmandira Tereyagi Kg         Price: 399,00 TL  Unit Price: 399,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/hasmandira-1-kg-tereyagi-_641987.jpg
+
+
+122
+Product Name: İçim Geleneksel Lezzet 400 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 199,90 TL
+
+Market Products:
+ - Market: Migros               Product: Icim Tereyagi Geleneksel Lezzet 400 G Price: 199,90 TL  Unit Price: 499,75 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/icim-geleneksel-lezzet-400-gr-tereyagi-_1441372.jpg
+
+
+123
+Product Name: Lurpak Organik Yağ 200 gr
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 274,50 TL
+
+Market Products:
+ - Market: Migros               Product: Lurpak Organik Surulebilir Yag 200 G Price: 274,50 TL  Unit Price: 1.372,50 TL/kg
+ - Market: Carrefour            Product: Lurpak Organik Surulebilir Yag 200 Gr Price: 285,90 TL  Unit Price: 1.429,50 TL/kg
+
+Similar Products:
+ - Similar Product: Elta 200 gr Ada Organik Tereyağı                   Price: 149,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/lurpak-organik-yag-200-gr-_641722.jpg
+
+
+124
+Product Name: Hasmandıra 1 kg Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 399,00 TL
+
+Market Products:
+ - Market: Migros               Product: Hasmandira Tereyagi Kg         Price: 399,00 TL  Unit Price: 399,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/hasmandira-1-kg-tereyagi-_641987.jpg
+
+
+125
+Product Name: Otat 1 kg Köy Tipi Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 409,90 TL
+
+Market Products:
+ - Market: Migros               Product: Otat Koy Tipi Tereyagi 1 Kg    Price: 409,90 TL  Unit Price: 409,90 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/otat-1-kg-koy-tipi-tereyagi-_96238.jpg
+
+
+126
+Product Name: Milkten 1 kg Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 279,00 TL
+
+Market Products:
+ - Market: A101                 Product: Tereyagi 1 Kg Milkten          Price: 279,00 TL  Unit Price: 279,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: İnek Sütü
+ - Ürün Tipi: Tereyağ
+ - Toplam Ağırlık: 1 kg
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/milkten-1-kg-tereyagi-_1448511.jpg
+
+
+127
+Product Name: Milkten 500 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 137,50 TL
+
+Market Products:
+ - Market: A101                 Product: Tereyagi 500 G Milkten         Price: 137,50 TL  Unit Price: 275,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Tuzsuz
+ - Ürün Türü: İnek Sütü
+ - Ürün Tipi: Tereyağ
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/milkten-500-gr-tereyagi-_1434716.jpg
+
+
+128
+Product Name: Migros 500 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 149,00 TL
+
+Market Products:
+ - Market: Migros               Product: Migros Tereyag 500 G (s)       Price: 149,00 TL  Unit Price: 298,00 TL/kg
+ - Market: Migros               Product: Migros Tereyag 500g            Price: 149,00 TL  Unit Price: 298,00 TL/kg
+ - Market: Migros               Product: Migros Tereyagi 500 G          Price: 149,00 TL  Unit Price: 298,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: İnek Sütü
+ - Ürün Tipi: Tereyağ
+ - Toplam Ağırlık: 500 gr
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-500-gr-tereyagi-_445712.jpg
+
+
+129
+Product Name: Laz Kızı 16x10 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 83,90 TL
+
+Market Products:
+ - Market: Migros               Product: Laz Kizi Tereyagi 16x10 G      Price: 83,90 TL   Unit Price: 524,38 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/laz-kizi-16x10-gr-tereyagi-_1872175.jpg
+
+
+130
+Product Name: Sana Tereyağ Lezzeti 500 gr Kase Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 37,50 TL
+
+Market Products:
+ - Market: Migros               Product: Sana Tereyagi Lezzeti Kase 500 G Price: 37,50 TL   Unit Price: 75,00 TL/kg
+ - Market: Carrefour            Product: Sana Ter.lez 500gr Kase.       Price: 50,90 TL   Unit Price: 101,80 TL/kg
+
+Similar Products:
+ - Similar Product: Luna %57 Yağlı Kase 250 gr Tereyağ Lezzeti Margarin Price: 22,25 TL
+ - Similar Product: Luna %57 Yağlı Kase 250 gr Tereyağ Lezzeti Margarin Price: 22,25 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sana-tereyag-lezzeti-500-gr-kase-margarin-_860570.jpg
+
+
+131
+Product Name: Ekici 250 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 9,95 TL
+
+Market Products:
+ - Market: A101                 Product: Tereyagi 250 G Ekici           Price: 9,95 TL    Unit Price: 39,80 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL:
+
+
+132
+Product Name: Baltalı 200 gr Keçi Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 139,00 TL
+
+Market Products:
+ - Market: Migros               Product: Baltali Keci Tereyagi 200 G    Price: 139,00 TL  Unit Price: 695,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: Keçi Sütü
+ - Ürün Tipi: Tereyağ
+ - Toplam Ağırlık: 200 gr
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/baltali-200-gr-keci-tereyagi-_329352.jpg
+
+
+133
+Product Name: İçim Geleneksel Lezzet 400 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 199,90 TL
+
+Market Products:
+ - Market: Migros               Product: Icim Tereyagi Geleneksel Lezzet 400 G Price: 199,90 TL  Unit Price: 499,75 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/icim-geleneksel-lezzet-400-gr-tereyagi-_1441372.jpg
+
+
+134
+Product Name: Carrefour 350 gr Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 107,50 TL
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Tereyag 350g Kozalak Price: 107,50 TL  Unit Price: 307,14 TL/kg
+
+Similar Products:
+ - Similar Product: Mis 350 gr Kozalak Tereyağı                        Price: 107,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-350-gr-tereyagi-_1457990.jpg
+
+
+135
+Product Name: Sek 1 kg Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 450,00 TL
+
+Market Products:
+ - Market: Carrefour            Product: Sek Tereyag 1000 Gr            Price: 450,00 TL  Unit Price: 450,00 TL/kg
+ - Market: Migros               Product: Sek Tereyagi 1 Kg              Price: 450,00 TL  Unit Price: 450,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sek-1-kg-tereyagi-_1235651.jpg
+
+
+136
+Product Name: Lurpak Organik Yağ 200 gr
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 274,50 TL
+
+Market Products:
+ - Market: Migros               Product: Lurpak Organik Surulebilir Yag 200 G Price: 274,50 TL  Unit Price: 1.372,50 TL/kg
+ - Market: Carrefour            Product: Lurpak Organik Surulebilir Yag 200 Gr Price: 285,90 TL  Unit Price: 1.429,50 TL/kg
+
+Similar Products:
+ - Similar Product: Elta 200 gr Ada Organik Tereyağı                   Price: 149,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/lurpak-organik-yag-200-gr-_641722.jpg
+
+
+137
+Product Name: Bizim Kase 250 gr Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 19,00 TL
+
+Market Products:
+ - Market: Bim                  Product: Margarin 250 Gr. Bizim         Price: 19,00 TL   Unit Price: 76,00 TL/kg
+ - Market: Carrefour            Product: Bizim Margarin Kase 250gr      Price: 21,45 TL   Unit Price: 85,80 TL/kg
+
+Similar Products:
+ - Similar Product: Sole 250 gr Kase Margarin                          Price: 13,50 TL
+ - Similar Product: Ülker Teremyağ Gurme 250 gr Kase Tereyağı          Price: 26,00 TL
+ - Similar Product: Vera 250 gr Omega3 Kase Margarin                   Price: 14,50 TL
+ - Similar Product: Evin 250 gr Kase Margarin                          Price: 14,50 TL
+ - Similar Product: Luna %57 Yağlı Kase 250 gr Tereyağ Lezzeti Margarin Price: 22,25 TL
+ - Similar Product: Luna %57 Yağlı Kase 250 gr Tereyağ Lezzeti Margarin Price: 22,25 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/bizim-kase-250-gr-margarin-_1541670.jpg
+
+
+138
+Product Name: Sana 250 gr Hamurişi Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 29,75 TL
+
+Market Products:
+ - Market: Migros               Product: Sana Hamurisi Paket 250 G      Price: 29,75 TL   Unit Price: 119,00 TL/kg
+ - Market: Şok                  Product: Sana Hamurisi Paket Margarin 250 Gr Price: 29,75 TL   Unit Price: 119,00 TL/kg
+ - Market: Carrefour            Product: Sana Hamurisi Paket 250 Gr     Price: 34,45 TL   Unit Price: 137,80 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sana-250-gr-hamurisi-margarin-_231437.jpg
+
+
+139
+Product Name: Teremyağ 3 x 250 gr Paket Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 59,90 TL
+
+Market Products:
+ - Market: A101                 Product: Margarin Paket 3x250 G Teremyag Price: 59,90 TL   Unit Price: 79,87 TL/kg
+
+Similar Products:
+ - Similar Product: Vera Paket 250 gr Margarin                         Price: 9,00 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/teremyag-3-x-250-gr-paket-margarin-_1833729.jpg
+
+
+140
+Product Name: Mis 350 gr Kozalak Tereyağı
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 107,50 TL
+
+Market Products:
+ - Market: Şok                  Product: Mis Kozalak Tereyag 350 Gr     Price: 107,50 TL  Unit Price: 307,14 TL/kg
+
+Similar Products:
+ - Similar Product: Pervin 350 gr Kozalak Tereyağı                     Price: 87,50 TL
+ - Similar Product: Mis 500 gr Kozalak Tereyağı                        Price: 93,90 TL
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: İnek Sütü
+ - Ürün Tipi: Tereyağ
+ - Toplam Ağırlık: 350 gr
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/mis-350-gr-kozalak-tereyagi-_1432861.jpg
+
+
+141
+Product Name: Luna 250 gr Kase Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 12,95 TL
+
+Market Products:
+ - Market: Şok                  Product: Luna Kase Margarin 250 Gr      Price: 12,95 TL   Unit Price: 51,80 TL/kg
+ - Market: Migros               Product: Luna Kase Margarin 250 G       Price: 22,25 TL   Unit Price: 89,00 TL/kg
+
+Similar Products:
+ - Similar Product: Sole 250 gr Kase Margarin                          Price: 13,50 TL
+ - Similar Product: Ülker Teremyağ Gurme 250 gr Kase Tereyağı          Price: 26,00 TL
+ - Similar Product: Vera 250 gr Omega3 Kase Margarin                   Price: 14,50 TL
+ - Similar Product: Evin 250 gr Kase Margarin                          Price: 14,50 TL
+ - Similar Product: Luna %57 Yağlı Kase 250 gr Tereyağ Lezzeti Margarin Price: 22,25 TL
+ - Similar Product: Luna %57 Yağlı Kase 250 gr Tereyağ Lezzeti Margarin Price: 22,25 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/luna-250-gr-kase-margarin-_341689.jpg
+
+
+142
+Product Name: Becel 250 gr Zeytinyağlı Kase Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 29,95 TL
+
+Market Products:
+ - Market: Carrefour            Product: Becel Zeytinyagli Margarin Kase 250 Gr Price: 29,95 TL   Unit Price: 119,80 TL/kg
+ - Market: Migros               Product: Becel Zeytinyagli Kase Margarin 250 G Price: 32,25 TL   Unit Price: 129,00 TL/kg
+ - Market: Şok                  Product: Becel Zeytinyagli Kase Margarin 250 Gr. Price: 32,25 TL   Unit Price: 129,00 TL/kg
+
+Similar Products:
+ - Similar Product: Sole 250 gr Kase Margarin                          Price: 13,50 TL
+ - Similar Product: Ülker Teremyağ Gurme 250 gr Kase Tereyağı          Price: 26,00 TL
+ - Similar Product: Vera 250 gr Omega3 Kase Margarin                   Price: 14,50 TL
+ - Similar Product: Evin 250 gr Kase Margarin                          Price: 14,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/becel-250-gr-zeytinyagli-kase-margarin-_230333.jpg
+
+
+143
+Product Name: Yayla 250 gr Paket Margarin
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Tereyağ ve Margarin,
+Cheapest Price: 14,90 TL
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Yayla Margarin Pt.250gr (%60 Yagli) Price: 14,90 TL   Unit Price: 59,60 TL/kg
+ - Market: Migros               Product: Yayla Paket Margarin 250g      Price: 19,25 TL   Unit Price: 77,00 TL/kg
+
+Similar Products:
+ - Similar Product: Vera Paket 250 gr Margarin                         Price: 9,00 TL
+ - Similar Product: Teremyağ 3 x 250 gr Paket Margarin                 Price: 59,90 TL
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: Süt
+ - Ürün Tipi: Margarin
+ - Toplam Ağırlık: 250 gr
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/yayla-250-gr-paket-margarin-_323123.jpg
+
+
+{'torku': 3, 'geleneksel': 10, '1': 28, 'kg': 30, 'tereyağı': 83, 'karlıdağ': 1, '750': 4, 'gr': 112, 'tuzlu': 6, 'vita': 3, 'bitkisel': 3, 'susuz': 1, 'yağ': 9, 'teneke': 3, 'pervin': 3, 'tereyağ': 18, 'sütaş': 8, '10x100': 1, 'porsiyon': 1, 'i̇çim': 4, 'dilimli': 2, 'yayık': 3, 'çağlak': 1, 'tuzsuz': 6, 'rulo': 4, 'ülker': 8, 
+'teremyağ': 11, 'gurme': 5, '500': 26, 'kase': 20, 'margarin': 36, 'sole': 2, '250': 45, 'pınar': 4, 'mis': 7, 'kaanlar': 2, 'luna': 4, '%57': 2, 'yağlı': 2, 'lezzeti': 3, 'vera': 2, 'paket': 15, 'sana': 4, 'klasik': 1, 'bizim': 3, '4x250': 2, 'tarsüt': 2, 'kebir': 2, 'köy': 4, 'lezzetli': 1, 'tire': 4, '225': 3, 'sade': 7, 'kahvaltı': 3, 'dünyası': 3, '700': 1, 'mengen': 2, 'çiftlik': 1, 'ketaş': 1, 'topak': 4, 'kozalak': 3, '350': 6, 'evin': 3, '2': 2, 'enka': 2, 'becel': 4, 'zeytinyağlı': 2, 'margarini': 2, 'milkten': 6, '950': 2, '3': 3, 'x': 4, '400': 6, 'terem': 2, 'migros': 3, 'lurpak': 3, 'sürülebilir': 1, 'yörük': 1, 'çiftliği': 6, '300': 1, 'ghee': 1, 'sek': 3, 'ekmeküstü': 1, 'kurpu': 1, 'donuk': 1, '4x100': 1, 'elta': 1, '200': 10, 'ada': 1, 'organik': 4, 'kanlıca': 1, 'keyfi': 1, 'ünsüt': 1, 'otat': 3, 'güneşoğlu': 1, 'kuşadası': 1, 'kebirzade': 1, 'laz': 2, 'kızı': 2, 'tonya': 1, 'göynük': 1, 'kaymaklı': 2, 'halk': 1, '6': 1, 'atatürk': 1, 'orman': 1, 'omega3': 
+1, '250gr': 1, 'tahsildaroğlu': 2, '450': 1, 'birma': 1, 'doğuş': 1, 'naturel': 1, 'folyo': 2, 'tarım': 1, 'kredi': 1, 'carrefour': 5, 'hasmandıra': 3, 'kova': 1, 'süt': 2, 'kooperatifi': 2, 'pastörize': 2, '900': 1, 'polonezköy': 1, 'hususi': 1, 'efeler': 2, '125': 1, 'orkide': 1, 'ailem': 1, 'ayder': 1, 'rani': 1, 'mon': 1, 'beurre': 1, 'elle': 1, 'vire': 1, 'tipi': 2, 'ekici': 2, 'lezzet': 2, '16x10': 1, 'baltalı': 1, 'keçi': 1, 'hamurişi': 1, 'yayla': 1}
+['İçerik', 'Ürün Türü', 'Ürün Tipi', 'Toplam Ağırlık', 'Menşei', 'Ambalaj Tipi', 'Adet', 'Yağ Oranı', 'Laktozsuz']
+
+# Tereyağı ve margarin ürünlerinin içeriklerini belirten sözlük
+tereyagi_margarin_icerik_dict = {
+    'torku': 'Torku', 'geleneksel': 'Geleneksel', 'karlıdağ': 'Karlıdağ', 'tuzlu': 'Tuzlu', 'vita': 'Vita', 
+    'bitkisel': 'Bitkisel', 'susuz': 'Susuz', 'yağ': 'Yağ', 'pervin': 'Pervin', 'sütaş': 'Sütaş', 'içim': 'İçim', 
+    'dilimli': 'Dilimli', 'yayık': 'Yayık', 'çağlak': 'Çağlak', 'tuzsuz': 'Tuzsuz', 'rulo': 'Rulo', 'ülker': 'Ülker', 
+    'teremyağ': 'Teremyağ', 'gurme': 'Gurme', 'kaanlar': 'Kaanlar', 'luna': 'Luna', 'yağlı': 'Yağlı', 'lezzeti': 'Lezzetli', 
+    'vera': 'Vera', 'paket': 'Paket', 'sana': 'Sana', 'klasik': 'Klasik', 'bizim': 'Bizim', 'tarsüt': 'Tarsüt', 'kebir': 'Kebir', 
+    'köy': 'Köy', 'lezzetli': 'Lezzetli', 'tire': 'Tire', 'sade': 'Sade', 'kahvaltı': 'Kahvaltı', 'dünyası': 'Dünyası', 
+    'mengen': 'Mengen', 'çiftlik': 'Çiftlik', 'ketaş': 'Ketaş', 'topak': 'Topak', 'kozalak': 'Kozalak', 'evin': 'Evin', 
+    'enka': 'Enka', 'becel': 'Becel', 'zeytinyağlı': 'Zeytinyağlı', 'margarini': 'Margarini', 'milkten': 'Milkten', 
+    'elta': 'Elta', 'ada': 'Ada', 'organik': 'Organik', 'tarım': 'Tarım', 'kredi': 'Kredi', 'carrefour': 'Carrefour', 
+    'hasmandıra': 'Hasmandıra', 'kova': 'Kova', 'süt': 'Süt', 'kooperatifi': 'Kooperatifi', 'pastörize': 'Pastörize', 
+    'polonezköy': 'Polonezköy', 'hususi': 'Hususi', 'efeler': 'Efeler', 'orkide': 'Orkide', 'ailem': 'Ailem', 'ayder': 'Ayder', 
+    'rani': 'Rani', 'mon': 'Mon', 'beurre': 'Beurre', 'elle': 'Elle', 'vire': 'Vire', 'tipi': 'Tipi', 'ekici': 'Ekici', 
+    'lezzet': 'Lezzet', 'baltalı': 'Baltalı', 'keçi': 'Keçi', 'hamurişi': 'Hamurişi', 'yayla': 'Yayla'
+}
+
+
+# Tereyağı ve margarin ürünlerinin tipi sözlüğü
+tereyağ_margarin_tipi_dict = {
+    'torku': 'Tereyağı', 'geleneksel': 'Tereyağı', 'kg': 'Tereyağı', 'tereyağı': 'Tereyağı', 
+    'karlıdağ': 'Tereyağı', 'gr': 'Tereyağı', 'tuzlu': 'Tereyağı', 'vita': 'Tereyağı', 
+    'bitkisel': 'Tereyağı', 'susuz': 'Tereyağı', 'yağ': 'Tereyağı', 'teneke': 'Tereyağı', 
+    'pervin': 'Tereyağı', 'sütaş': 'Tereyağı', 'içim': 'Tereyağı', 'dilimli': 'Tereyağı', 
+    'yayık': 'Tereyağı', 'çağlak': 'Tereyağı', 'tuzsuz': 'Tereyağı', 'rulo': 'Tereyağı', 
+    'ülker': 'Tereyağı', 'teremyağ': 'Tereyağı', 'gurme': 'Tereyağı', 'kase': 'Tereyağı', 
+    'margarin': 'Margarin', 'sole': 'Margarin', 'pınar': 'Margarin', 'mis': 'Margarin', 
+    'kaanlar': 'Margarin', 'luna': 'Margarin', 'yağlı': 'Margarin', 'lezzeti': 'Margarin', 
+    'vera': 'Margarin', 'paket': 'Margarin', 'sana': 'Margarin', 'klasik': 'Margarin', 
+    'bizim': 'Margarin', 'tarsüt': 'Margarin', 'kebir': 'Margarin', 'köy': 'Margarin', 
+    'lezzetli': 'Margarin', 'tire': 'Margarin', 'sade': 'Margarin', 'kahvaltı': 'Margarin', 
+    'dünyası': 'Margarin', 'mengen': 'Margarin', 'çiftlik': 'Margarin', 'ketaş': 'Margarin', 
+    'topak': 'Margarin', 'kozalak': 'Margarin', 'evin': 'Margarin', 'enka': 'Margarin', 
+    'becel': 'Margarin', 'zeytinyağlı': 'Margarin', 'margarini': 'Margarin', 'milkten': 'Margarin', 
+    '950': 'Margarin', 'elta': 'Margarin', 'ada': 'Margarin', 'organik': 'Margarin', 'kanlıca': 'Margarin', 
+    'keyfi': 'Margarin', 'ünsüt': 'Margarin', 'otat': 'Margarin', 'kuşadası': 'Margarin', 'kebirzade': 'Margarin', 
+    'laz': 'Margarin', 'kızı': 'Margarin', 'tonya': 'Margarin', 'göynük': 'Margarin', 'halk': 'Margarin', 
+    'atatürk': 'Margarin', 'orman': 'Margarin', 'omega3': 'Margarin', 'tahsildaroğlu': 'Margarin', 'birma': 'Margarin', 
+    'doğuş': 'Margarin', 'naturel': 'Margarin', 'folyo': 'Margarin', 'tarım': 'Margarin', 'kredi': 'Margarin', 
+    'carrefour': 'Margarin', 'hasmandıra': 'Margarin', 'kova': 'Margarin', 'süt': 'Margarin', 'kooperatifi': 'Margarin', 
+    'pastörize': 'Margarin', 'polonezköy': 'Margarin', 'hususi': 'Margarin', 'efeler': 'Margarin', 'orkide': 'Margarin', 
+    'ailem': 'Margarin', 'ayder': 'Margarin', 'rani': 'Margarin', 'mon': 'Margarin', 'beurre': 'Margarin', 
+    'elle': 'Margarin', 'vire': 'Margarin', 'tipi': 'Margarin', 'ekici': 'Margarin', 'lezzet': 'Margarin', 
+    '16x10': 'Margarin', 'baltalı': 'Margarin', 'keçi': 'Margarin', 'hamurişi': 'Margarin', 'yayla': 'Margarin'
+}
+
+tereyağ_margarin_türü_dict = {
+    'torku': 'Torku Tereyağı', 'geleneksel': 'Geleneksel Tereyağı', 'kg': 'Kg Tereyağı', 'tereyağı': 'Tereyağı', 
+    'karlıdağ': 'Karlıdağ Tereyağı', 'gr': 'Gr Tereyağı', 'tuzlu': 'Tuzlu Tereyağı', 'vita': 'Vita Tereyağı', 
+    'bitkisel': 'Bitkisel Tereyağı', 'susuz': 'Susuz Tereyağı', 'yağ': 'Yağlı Tereyağı', 'teneke': 'Teneke Tereyağı', 
+    'pervin': 'Pervin Tereyağı', 'sütaş': 'Sütaş Tereyağı', 'içim': 'İçim Tereyağı', 'dilimli': 'Dilimli Tereyağı', 
+    'yayık': 'Yayık Tereyağı', 'çağlak': 'Çağlak Tereyağı', 'tuzsuz': 'Tuzsuz Tereyağı', 'rulo': 'Rulo Tereyağı', 
+    'ülker': 'Ülker Tereyağı', 'teremyağ': 'Teremyağ Tereyağı', 'gurme': 'Gurme Tereyağı', 'kase': 'Kase Tereyağı', 
+    'margarin': 'Margarin', 'sole': 'Sole Margarin', 'pınar': 'Pınar Margarin', 'mis': 'Mis Margarin', 
+    'kaanlar': 'Kaanlar Margarin', 'luna': 'Luna Margarin', 'yağlı': 'Yağlı Margarin', 'lezzeti': 'Lezzetli Margarin', 
+    'vera': 'Vera Margarin', 'paket': 'Paket Margarin', 'sana': 'Sana Margarin', 'klasik': 'Klasik Margarin', 
+    'bizim': 'Bizim Margarin', 'tarsüt': 'Tarsüt Margarin', 'kebir': 'Kebir Margarin', 'köy': 'Köy Margarin', 
+    'lezzetli': 'Lezzetli Margarin', 'tire': 'Tire Margarin', 'sade': 'Sade Margarin', 'kahvaltı': 'Kahvaltı Margarini', 
+    'dünyası': 'Dünyası Margarin', 'mengen': 'Mengen Margarini', 'çiftlik': 'Çiftlik Margarini', 'ketaş': 'Ketaş Margarini', 
+    'topak': 'Topak Margarini', 'kozalak': 'Kozalak Margarini', 'evin': 'Evin Margarini', 'enka': 'Enka Margarini', 
+    'becel': 'Becel Margarini', 'zeytinyağlı': 'Zeytinyağlı Margarin', 'milkten': 'Milkten Margarin', 
+    '950': '950 Margarin', 'elta': 'Elta Margarin', 'ada': 'Ada Margarin', 'organik': 'Organik Margarin', 
+    'kanlıca': 'Kanlıca Margarin', 'keyfi': 'Keyfi Margarin', 'ünsüt': 'Ünsüt Margarin', 'otat': 'Otat Margarin', 
+    'kuşadası': 'Kuşadası Margarin', 'kebirzade': 'Kebirzade Margarin', 'laz': 'Laz Margarin', 'kızı': 'Kızı Margarin', 
+    'tonya': 'Tonya Margarin', 'göynük': 'Göynük Margarin', 'halk': 'Halk Margarin', 'atatürk': 'Atatürk Margarin', 
+    'orman': 'Orman Margarin', 'omega3': 'Omega3 Margarin', 'tahsildaroğlu': 'Tahsildaroğlu Margarin', 
+    'birma': 'Birma Margarin', 'doğuş': 'Doğuş Margarin', 'naturel': 'Naturel Margarin', 'folyo': 'Folyo Margarin', 
+    'tarım': 'Tarım Margarin', 'kredi': 'Kredi Margarin', 'carrefour': 'Carrefour Margarin', 'hasmandıra': 'Hasmandıra Margarin', 
+    'kova': 'Kova Margarin', 'süt': 'Süt Margarin', 'kooperatifi': 'Kooperatif Margarin', 'pastörize': 'Pastörize Margarin', 
+    'polonezköy': 'Polonezköy Margarin', 'hususi': 'Hususi Margarin', 'efeler': 'Efeler Margarin', 'orkide': 'Orkide Margarin', 
+    'ailem': 'Ailem Margarin', 'ayder': 'Ayder Margarin', 'rani': 'Rani Margarin', 'mon': 'Mon Margarin', 'beurre': 'Beurre Margarin', 
+    'elle': 'Elle Margarin', 'vire': 'Vire Margarin', 'tipi': 'Tipi Margarin', 'ekici': 'Ekici Margarin', 'lezzet': 'Lezzet Margarin', 
+    '16x10': '16x10 Margarin', 'baltalı': 'Baltalı Margarin', 'keçi': 'Keçi Margarin', 'hamurişi': 'Hamurişi Margarin', 'yayla': 'Yayla Margarin'
+}
+

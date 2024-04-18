@@ -1,0 +1,130 @@
+1
+Product Name: Tuttaze 16 Adet Hazır Kesilmiş Pişirme Kağıdı
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Mutfak Sarf Malzemeleri, Pişirme Kağıdı
+Cheapest Price: 28,50 TL
+
+Market Products:
+ - Market: Şok                  Product: Tuttaze Hazir Kesilmis Pisirme Kagidi 16 Adet Price: 28,50 TL   Unit Price: 1,78 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 16 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/tuttaze-16-adet-hazir-kesilmis-pisirme-kagidi-_1436514.jpg
+
+
+2
+Product Name: Sera 8 m Pişirme Kağıdı
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Mutfak Sarf Malzemeleri, Pişirme Kağıdı
+Cheapest Price: 9,15 TL
+
+Market Products:
+ - Market: Şok                  Product: Sera Pisirme Kagidi 8m         Price: 9,15 TL    Unit Price: 1,14 TL/m
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Uzunluk: 8 m
+Product Image URL: https://cdn.cimri.io/market/260x260/sera-8-m-pisirme-kagidi-_306558.jpg
+
+
+3
+Product Name: Roll Up 2x20'li Doğaya Dönüşümlü Pişirme Kağıdı
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Mutfak Sarf Malzemeleri, Pişirme Kağıdı
+Cheapest Price: 42,00 TL
+
+Market Products:
+ - Market: Migros               Product: Roll-up Dogaya Donusumlu Pisirme Kagidi 2x20li Price: 42,00 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Roll Up Doğaya Dönüş Kesilmiş 20'li Yağlı Pişirme Kağıdı Price: 89,95 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/roll-up-2x20li-dogaya-donusumlu-pisirme-kagidi-_1664147.jpg
+
+
+4
+Product Name: Tuttaze 8 m Pişirme Kağıdı
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Mutfak Sarf Malzemeleri, Pişirme Kağıdı
+Cheapest Price: 33,00 TL
+
+Market Products:
+ - Market: Şok                  Product: Tuttaze Pisirme Kagidi 8 Mt    Price: 33,00 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tuttaze-8-m-pisirme-kagidi-_1238813.jpg
+
+
+5
+Product Name: Cook 39 cm Pişirme Kağıdı
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Mutfak Sarf Malzemeleri, Pişirme Kağıdı
+Cheapest Price: 84,90 TL
+
+Market Products:
+ - Market: Migros               Product: Cook Pisirme Kagidi 8 Mx39 Cm  Price: 84,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg
+
+
+6
+Product Name: Protex 16'lı Pişirme Kağıdı
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Mutfak Sarf Malzemeleri, Pişirme Kağıdı
+Cheapest Price: 23,50 TL
+
+Market Products:
+ - Market: Bim                  Product: Pisirme Kagidi 16'li Protex    Price: 23,50 TL   Unit Price: 1,96 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 12 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/protex-16li-pisirme-kagidi-_1431927.jpg
+
+
+7
+Product Name: Roll Up Doğaya Dönüş Kesilmiş 20'li Yağlı Pişirme Kağıdı
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Mutfak Sarf Malzemeleri, Pişirme Kağıdı
+Cheapest Price: 89,95 TL
+
+Market Products:
+ - Market: Migros               Product: Roll-up Dogaya Donus.(pefc)yagli Pisirme Kagi.20li Price: 89,95 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/roll-up-dogaya-donus-kesilmis-20li-yagli-pisirme-kagidi-_1396778.jpg
+
+
+{'tuttaze': 2, '16': 1, 'adet': 1, 'hazır': 1, 'kesilmiş': 2, 'pişirme': 7, 'kağıdı': 7, 'sera': 1, '8': 2, 'm': 2, 'roll': 2, 'up': 2, "2x20'li": 1, 'doğaya': 2, 'dönüşümlü': 1, 'cook': 1, '39': 1, 'cm': 1, 'protex': 1, "16'lı": 1, 'dönüş': 1, "20'li": 1, 'yağlı': 1}
+['Adet', 'Uzunluk']
+
+pişirme_kağıdı_içerik_dict = {
+'tuttaze': 'Tuttaze',  '16': "16'lı" , 'sera': 'Sera', '8': "8'li" , 'roll': 'Roll', "2x20'li": "2x20'li" , 'dönüşümlü': 'Dönüşümlü',  
+'39': "39'lu", 'protex': 'Protex', "16'lı": "16'lı", "20'li": "20'li", 'yağlı':'Yağlı', 'dönüş': 'Dönüş', 'cook':'Cook'
+}
+
+pişirme_kağıdı_ürün_tipi_dict = {
+'tuttaze': 'Pişirme Kağıdı',  '16': 'Pişirme Kağıdı', 'sera': 'Pişirme Kağıdı', '8': 'Pişirme Kağıdı' , 'roll': 'Pişirme Kağıdı', "2x20'li": 'Pişirme Kağıdı' , 
+'dönüşümlü': 'Pişirme Kağıdı',  '39': 'Pişirme Kağıdı', 'protex': 'Pişirme Kağıdı', "16'lı": 'Pişirme Kağıdı', "20'li": 'Pişirme Kağıdı', 
+'yağlı':'Pişirme Kağıdı', 'dönüş': 'Pişirme Kağıdı', 'cook':'Pişirme Kağıdı'
+}
+
+pişirme_kağıdı_ürün_tipi_dict = {
+'tuttaze': 'Tuttaze Pişirme Kağıdı',  '16': "16'lı Pişirme Kağıdı" , 'sera': 'Sera Pişirme Kağıdı', '8': "8'li Pişirme Kağıdı" , 'roll': 'Roll Pişirme Kağıdı', 
+"2x20'li": "2x20'li Pişirme Kağıdı" , 'dönüşümlü': 'Dönüşümlü Pişirme Kağıdı',  
+'39': "39'lu Pişirme Kağıdı", 'protex': 'Protex Pişirme Kağıdı', "16'lı": "16'lı Pişirme Kağıdı", "20'li": "20'li Pişirme Kağıdı", 'yağlı':'Yağlı Pişirme Kağıdı', 
+'dönüş': 'Dönüş Pişirme Kağıdı', 'cook':'Cook Pişirme Kağıdı'
+}

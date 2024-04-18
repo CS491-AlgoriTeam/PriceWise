@@ -1,0 +1,335 @@
+1
+Product Name: Garliko 25'li Kuru Dolmalık Biber
+Main Category: Gıda
+Sub-categories: Konserve, Sos ve Hazır Yemek, Kuru Sebze
+Cheapest Price: 89,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Garliko Biber Dolmalik25'li Kurutulmus Price: 89,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/garliko-25li-kuru-dolmalik-biber-_99826.jpg 
+
+
+2
+Product Name: Reyondan 1 kg Kaya Kurusu
+Main Category: Gıda
+Sub-categories: Konserve, Sos ve Hazır Yemek, Kuru Sebze
+Cheapest Price: 389,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Kaya Kurusu Kg                 Price: 389,90 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Kaya Kurusu
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/reyondan-1-kg-kaya-kurusu-_637753.jpg 
+
+
+3
+Product Name: Kühne 27 gr Çıtır Sebze Kurutulmuş Pancar
+Main Category: Gıda
+Sub-categories: Konserve, Sos ve Hazır Yemek, Kuru Sebze
+Cheapest Price: 9,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuhne Çitir Sebze Kurutulmus Pancar 27 G Price: 9,95 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Kühne 27 gr Çıtır Sebze Kurutulmuş Pancar          Price: 9,95 TL   
+ - Similar Product: Kühne 27 gr Çıtır Sebze Kurutulmuş Havuç           Price: 9,95 TL   
+
+Features:
+ - Ürün Tipi: Pancar Kurusu
+ - Toplam Ağırlık: 27 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/kuhne-27-gr-citir-sebze-kurutulmus-pancar-_282179.jpg 
+
+
+4
+Product Name: Muti Dondurulmus Biber Şerit Mix 450g
+Main Category: Gıda
+Sub-categories: Konserve, Sos ve Hazır Yemek, Kuru Sebze
+Cheapest Price: 49,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Muti Dondurulmus Biber Şerit Mix 450g Price: 49,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/muti-dondurulmus-biber-serit-mix-450g-_1441443.jpg 
+
+
+5
+Product Name: 1 kg Kuru Sarımsak
+Main Category: Gıda
+Sub-categories: Konserve, Sos ve Hazır Yemek, Kuru Sebze
+Cheapest Price: 99,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sarimsak Kuru Kg               Price: 99,90 TL   Unit Price: 0
+ - Market: Şok                  Product: Sarimsak Kuru Kg               Price: 189,90 TL  Unit Price: 0
+ - Market: Migros               Product: Sarimsak Kuru Kg               Price: 200,00 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Sarımsak Kurusu
+ - Toplam Ağırlık: 1 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/1-kg-kuru-sarimsak-_434493.jpg 
+
+
+6
+Product Name: Garliko 25 Adet Kurutulmuş Acı Biber
+Main Category: Gıda
+Sub-categories: Konserve, Sos ve Hazır Yemek, Kuru Sebze
+Cheapest Price: 39,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Garliko Kuru Aci Biber 25'li   Price: 39,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/garliko-25-adet-kurutulmus-aci-biber-_1275650.jpg 
+
+
+7
+Product Name: Garliko 25'li Kuru Dolmalık Patlıcan
+Main Category: Gıda
+Sub-categories: Konserve, Sos ve Hazır Yemek, Kuru Sebze
+Cheapest Price: 89,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Garliko Kuru Dolmalik Patlican 25'li Price: 89,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/garliko-25li-kuru-dolmalik-patlican-_713219.jpg 
+
+
+8
+Product Name: Melis 100 gr Çıtır Soğan
+Main Category: Gıda
+Sub-categories: Konserve, Sos ve Hazır Yemek, Kuru Sebze
+Cheapest Price: 29,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Melis Çitir Sogan 100 G        Price: 29,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/melis-100-gr-citir-sogan-_565484.jpg 
+
+
+9
+Product Name: Kühne 340 gr Kurutulmuş Domates
+Main Category: Gıda
+Sub-categories: Konserve, Sos ve Hazır Yemek, Kuru Sebze
+Cheapest Price: 110,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Kuhne Kurutulmus Domates 340 Gr Price: 110,00 TL  Unit Price: 0
+ - Market: Migros               Product: Kuhne Kurutulmus Domates 340g  Price: 119,90 TL  Unit Price: 0
+ - Market: Şok                  Product: Kuhne Kurutulmus Domates 340 Gr Price: 119,90 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Domates Kurusu
+ - Toplam Ağırlık: 340 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/kuhne-340-gr-kurutulmus-domates-_282138.jpg 
+
+
+10
+Product Name: Tat 800 gr İkili Doğranmış Domates
+Main Category: Gıda
+Sub-categories: Konserve, Sos ve Hazır Yemek, Kuru Sebze
+Cheapest Price: 29,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Tat Ikili Dogranmis Domates 800 G Price: 29,00 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Toplam Ağırlık: 800 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/tat-800-gr-ikili-dogranmis-domates-_282142.jpg 
+
+
+11
+Product Name: Mushroom & More 40 gr Kuru Shitake Mantarı
+Main Category: Gıda
+Sub-categories: Konserve, Sos ve Hazır Yemek, Kuru Sebze
+Cheapest Price: 28,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Mushroom&more Shitake Mantari 40g Price: 28,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Toplam Ağırlık: 40 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/mushroom-more-40-gr-kuru-shitake-mantari-_466863.jpg 
+
+
+12
+Product Name: Gurme212 300 gr Güneşte Kuru Domates
+Main Category: Gıda
+Sub-categories: Konserve, Sos ve Hazır Yemek, Kuru Sebze
+Cheapest Price: 71,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Gurme212 Guneste Kuru Domates (m) 300g Price: 71,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/gurme212-300-gr-guneste-kuru-domates-_712159.jpg 
+
+
+13
+Product Name: Kühne 27 gr Çıtır Sebze Kurutulmuş Havuç
+Main Category: Gıda
+Sub-categories: Konserve, Sos ve Hazır Yemek, Kuru Sebze
+Cheapest Price: 9,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kuhne Çitir Sebze Kurutulmus Havuc 27 G Price: 9,95 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Kühne 27 gr Çıtır Sebze Kurutulmuş Pancar          Price: 9,95 TL   
+ - Similar Product: Kühne 27 gr Çıtır Sebze Kurutulmuş Havuç           Price: 9,95 TL   
+
+Features:
+ - Ürün Tipi: Havuç Kurusu
+ - Toplam Ağırlık: 27 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/kuhne-27-gr-citir-sebze-kurutulmus-havuc-_282178.jpg 
+
+
+14
+Product Name: Freeze Fresh 15 gr Dondurularak Kurutulmuş Vişne
+Main Category: Gıda
+Sub-categories: Konserve, Sos ve Hazır Yemek, Kuru Sebze
+Cheapest Price: 59,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Freeze Fresh Visne 15 G.       Price: 59,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/freeze-fresh-15-gr-dondurularak-kurutulmus-visne-_1739229.jpg 
+
+
+15
+Product Name: S.S.Tire 1 kg Kuru Fasulye
+Main Category: Gıda
+Sub-categories: Konserve, Sos ve Hazır Yemek, Kuru Sebze
+Cheapest Price: 122,95 TL 
+
+Market Products:
+ - Market: Migros               Product: S.s.tire Organik Kuru Fasulye 1 Kg Price: 122,95 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/s-s-tire-1-kg-kuru-fasulye-_1443250.jpg 
+
+
+Word Dictionary:
+garliko: 3
+25'li: 2
+kuru: 6
+dolmalık: 2
+biber: 3
+reyondan: 1
+1: 3
+kg: 3
+kaya: 1
+kurusu: 1
+kühne: 3
+27: 2
+gr: 8
+çıtır: 3
+sebze: 2
+kurutulmuş: 5
+pancar: 1
+muti: 1
+dondurulmus: 1
+şerit: 1
+mix: 1
+450g: 1
+sarımsak: 1
+25: 1
+adet: 1
+acı: 1
+patlıcan: 1
+melis: 1
+100: 1
+soğan: 1
+340: 1
+domates: 3
+tat: 1
+800: 1
+i̇kili: 1
+doğranmış: 1
+mushroom: 1
+&: 1
+more: 1
+40: 1
+shitake: 1
+mantarı: 1
+gurme212: 1
+300: 1
+güneşte: 1
+havuç: 1
+freeze: 1
+fresh: 1
+15: 1
+dondurularak: 1
+vişne: 1
+s.s.tire: 1
+fasulye: 1
+
+Feature List:
+Ürün Tipi
+Toplam Ağırlık
+
+
+kuru_sebze_icerik_dict = {"garliko": "Sarımsak", "biber": "Biber", 
+                         "dolmalık": "Biber", "kaya": "Biber", 
+                          "çıtır": "Çıtır",
+                         "pancar": "Pancar", "dondurulmus": "Dondurulmuş", 
+                         "sarımsak": "Sarımsak", 
+                         "patlıcan": "Patlıcan", "soğan": "Soğan", 
+                         "domates": "Domates",
+                         "mushroom": "Mantar",
+                         "mantarı": "Mantar", 
+                         "havuç": "Havuç", 
+                         "vişne": "Vişne", 
+                         "fasulye": "Fasulye"}
+
+    
+
+kuru_sebze_urun_turu_dict = {"garliko": "Sarımsak", "kuru": "Kurutulmuş", "biber": "Biber", 
+                            "dolmalık": "Dolmalık Biber", "kaya": "Kaya Biber", 
+                            "sebze": "Sebze", 
+                            "pancar": "Kurutulmuş Pancar",  
+                            "sarımsak": "Kuru Sarımsak", 
+                            "patlıcan": "Kuru Patlıcan", "soğan": "Çıtır Soğan", 
+                            "domates": "Kurutulmuş Domates",
+                             "mushroom": "Kuru Mantar",
+                            "mantarı": "Kuru Mantar", 
+                            "havuç": "Havuç", 
+                            "vişne": "Kurutulmuş Vişne", 
+                            "fasulye": "Kuru Fasulye"}
+
+kuru_sebze_urun_tipi_dict = {"kuru": "Kurutulmuş", "çıtır": "Çıtır", "kurusu": "Kurutulmuş", "dondurulmus": "Dondurulmuş",
+				 "freeze": "Dondurulmuş", "fresh": "taze", "doğranmış": "Doğranmış",}

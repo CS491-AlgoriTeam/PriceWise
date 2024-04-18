@@ -170,6 +170,7 @@ import 'package:carousel_slider/carousel_slider.dart';
 import 'package:pwfe/pages/AddShoppingListPage.dart';
 import 'package:pwfe/pages/ShoppingListDetailsPage.dart';
 import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
+import 'package:pwfe/pages/ShowItem.dart';
 
 class MyShoppingLists extends StatefulWidget {
   MyShoppingLists({Key? key}) : super(key: key);
@@ -264,7 +265,7 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
     }
   }
   // Build item card for carousel
-  Widget buildItemCardSales(Map<String, String> item) {
+  /*Widget buildItemCardSales(Map<String, String> item) {
     return Container(
       width: MediaQuery.of(context).size.width * 0.60, // This is 80% of screen width
       height: 200, // Example height, adjust as necessary
@@ -278,8 +279,31 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
         ),
       ),
     );
+  }*/
+  Widget buildItemCardSales(Map<String, String> item) {
+    return GestureDetector(
+      onTap: () {
+        // Navigate to the ItemDetailsPage
+        Navigator.push(
+          context,
+          MaterialPageRoute(builder: (context) => ItemDetailsPage(item: item)),
+        );
+      },
+      child: Container(
+        width: MediaQuery.of(context).size.width * 0.60, // This is 80% of screen width
+        height: 200, // Example height, adjust as necessary
+        child: Card(
+          child: Column(
+            children: <Widget>[
+              Image.asset(item['photo']!),
+              Text(item['name']!),
+              if (item.containsKey('price')) Text(item['price']!),
+            ],
+          ),
+        ),
+      ),
+    );
   }
-
    // Build item card for carousel
   Widget buildItemCardRecipe(Map<String, String> item) {
     return Container(

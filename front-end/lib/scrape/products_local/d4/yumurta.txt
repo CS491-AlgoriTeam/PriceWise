@@ -1,0 +1,2356 @@
+1
+Product Name: Abalı Çiftliği 30'lu M Boy Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 84,95 TL
+
+Market Products:
+ - Market: Şok                  Product: Anadolu Çiftligi M Yumurta 30'lu (53-62 Gr) Price: 84,95 TL   Unit Price: 2,83 TL/Adet
+
+Similar Products:
+ - Similar Product: Anadolu Çiftliği 53-62 gr M Boy 10'lu Gezen Tavuk Yumurta Price: 57,50 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+
+Features:
+ - Adet: 30 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/abali-ciftligi-30lu-m-boy-yumurta-_863963.jpg
+
+
+2
+Product Name: Bili Bili 30'lu 53-63 gr Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 95,00 TL
+
+Market Products:
+ - Market: Bim                  Product: Yumurta 30'lu 53-63 G Bili Bili Price: 95,00 TL   Unit Price: 3,17 TL/Adet
+
+Similar Products:
+ - Similar Product: Türem 6'lı 53-63 gr Yumurta                        Price: 26,30 TL
+ - Similar Product: Yumtat 30'lu 53-62 gr Beyaz Yumurta                Price: 109,00 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: Türem 63-73 gr 30'lu Yumurta                       Price: 116,15 TL
+
+Features:
+ - Adet: 30 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/bili-bili-30lu-53-63-gr-yumurta-_1431417.jpg
+
+
+3
+Product Name: Lopi 6'lı M 53-62 gr Organik Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 29,90 TL
+
+Market Products:
+ - Market: Şok                  Product: Lopi M Organik Yumurta 6'li (53-62 Gr) Price: 29,90 TL   Unit Price: 4,98 TL/Adet
+
+Similar Products:
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Coşkun 6'lı M Boy 53-62 gr Organik Yumurta         Price: 42,50 TL
+ - Similar Product: Flotty 53-62 Baby 10'lu Organik Yumurta            Price: 88,75 TL
+ - Similar Product: S.S Tire Organik 10'lu 53-62 gr Yumurta            Price: 91,50 TL
+ - Similar Product: Kumartaşlı M 6'lı 53-62 gr Organik Yumurta         Price: 42,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/lopi-6li-m-53-62-gr-organik-yumurta-_1435919.jpg
+
+
+4
+Product Name: Güres M 30'lu Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 84,95 TL
+
+Market Products:
+ - Market: Migros               Product: Gures 30lu M-orta Boy Yumurta (53-62 G) Price: 84,95 TL   Unit Price: 2,83 TL/Adet
+
+Similar Products:
+ - Similar Product: Türem 63-73 gr 30'lu Yumurta                       Price: 116,15 TL
+ - Similar Product: Yumtat 30'lu 53-62 gr Beyaz Yumurta                Price: 109,00 TL
+
+Features:
+ - Adet: 30 Adet
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/gures-m-30lu-yumurta-_1415137.jpg
+
+
+5
+Product Name: Agsu 12 Adet Doğal Bıldırcın Yumurtası 12 Adet
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 29,90 TL
+
+Market Products:
+ - Market: Şok                  Product: Agsu Bildircin Yumurtasi 12'li Price: 29,90 TL   Unit Price: 2,49 TL/Adet
+ - Market: Tarım Kredi Kooperatifi Product: Agsu Bildircin Yumurtasi 12 Li Price: 33,50 TL   Unit Price: 2,79 TL/Adet
+
+Similar Products:
+ - Similar Product: Türem 12'li Bıldırcın Yumurtası                    Price: 24,70 TL
+ - Similar Product: Yeşil Foça 12'li Bıldırcın Yumurtası               Price: 50,75 TL
+ - Similar Product: Bıldıryum 12'li Bıldırcın Yumurtası                Price: 29,90 TL
+ - Similar Product: Gordo 12'li Bıldırcın Yumurtası                    Price: 20,25 TL
+
+Features:
+ - Ürün Tipi: Bıldırcın Yumurtası
+ - Adet: 12 Adet
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/agsu-12-adet-dogal-bildircin-yumurtasi-12-adet-_323034.jpg
+
+
+6
+Product Name: Keskinoğlu 30'lu S Boy Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 77,00 TL
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Keskinoglu 30 Lu Small Yumurta Price: 77,00 TL   Unit Price: 2,57 TL/Adet
+
+Similar Products:
+ - Similar Product: CP 30'lu M Boy Yumurta                             Price: 95,00 TL
+ - Similar Product: Özlü 30'lu M Boy Yumurta                           Price: 87,50 TL
+ - Similar Product: Heröğün M Boy 30'lu Yumurta                        Price: 87,50 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/keskinoglu-30lu-s-boy-yumurta-_1479992.jpg
+
+
+7
+Product Name: Bili Bili 15'li 63-72 gr Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 55,00 TL
+
+Market Products:
+ - Market: Bim                  Product: Yumurta 15'li 63-72 G Bili Bili Price: 55,00 TL   Unit Price: 3,67 TL/Adet
+ - Market: Bim                  Product: Yumurta 15'li 63-72 Gr Bili Bili Price: 55,00 TL   Unit Price: 3,67 TL/Adet
+
+Similar Products:
+ - Similar Product: Anadolu Çiftliği L 15'li 63-72 gr Yumurta          Price: 44,95 TL
+ - Similar Product: Mertgül Tav 63-72 gr l 15'li Kahve Yumurta         Price: 61,55 TL
+ - Similar Product: Yumurtacım L Boy 15'li 63-72 gr Yumurta            Price: 44,95 TL
+ - Similar Product: Güres 63-72 gr Büyük Boy 15'li Yumurta             Price: 44,95 TL
+
+Features:
+ - Adet: 15 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/bili-bili-15li-63-72-gr-yumurta-_1430680.jpg
+
+
+8
+Product Name: Carrefour 30'lu Medium Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 89,00 TL
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Yumurta 30lu M       Price: 89,00 TL   Unit Price: 2,97 TL/Adet
+
+Similar Products:
+ - Similar Product: Kumbasar Medium Boy 30'lu Yumurta                  Price: 98,45 TL
+ - Similar Product: CP 30'lu M Boy Yumurta                             Price: 95,00 TL
+ - Similar Product: Özlü 30'lu M Boy Yumurta                           Price: 87,50 TL
+
+Features:
+ - Adet: 30 Adet
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-30lu-medium-yumurta-_282453.jpg
+
+
+9
+Product Name: Anadolu Çiftliği L 15'li 63-72 gr Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 44,95 TL
+
+Market Products:
+ - Market: Şok                  Product: Anadolu Çiftligi L Yumurta 15'li (63-72 Gr) Price: 44,95 TL   Unit Price: 3,00 TL/Adet
+
+Similar Products:
+ - Similar Product: Mertgül Tav 63-72 gr l 15'li Kahve Yumurta         Price: 61,55 TL
+ - Similar Product: Yumurtacım L Boy 15'li 63-72 gr Yumurta            Price: 44,95 TL
+ - Similar Product: Güres 63-72 gr Büyük Boy 15'li Yumurta             Price: 44,95 TL
+ - Similar Product: Bili Bili 15'li 63-72 gr Yumurta                   Price: 55,00 TL
+
+Features:
+ - Adet: 15 Adet
+ - Kategori: Yumurta
+Product Image URL: https://cdn.cimri.io/market/260x260/anadolu-ciftligi-l-15li-63-72-gr-yumurta-_1434474.jpg
+
+
+10
+Product Name: Yumtat 10'lu 53-62 gr Kahverengi Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 39,90 TL
+
+Market Products:
+ - Market: Hakmar Express       Product: Yumurta K.rengi 10 Lu 53-62g Yumtat Price: 39,90 TL   Unit Price: 3,99 TL/Adet
+
+Similar Products:
+ - Similar Product: Kumbasar Kahverengi 10 Adet 53-62 gr Yumurta       Price: 47,80 TL
+ - Similar Product: Yumtat 15'li 53-62 gr Saf Kahverengi Yumurta       Price: 57,50 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Yumtat 10'lu 53-62 gr Beyaz Yumurta                Price: 39,90 TL
+
+Features:
+ - Adet: 10 Adet
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg
+
+
+11
+Product Name: Kılıçlar 15'li Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 62,40 TL
+
+Market Products:
+ - Market: Carrefour            Product: Kiliclar Yum.15(m)             Price: 62,40 TL   Unit Price: 4,16 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumtat 15'li 53-62 gr Saf Kahverengi Yumurta       Price: 57,50 TL
+ - Similar Product: Yumtat 15'li 53-62 gr Beyaz Yumurta                Price: 57,50 TL
+ - Similar Product: Heröğün 15'li L Boy Yumurta                        Price: 55,00 TL
+ - Similar Product: Kozlu 15'li l Duble Beyaz Yumurta                  Price: 55,00 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kiliclar-15li-yumurta-_1441522.jpg
+
+
+12
+Product Name: Dedefarm M Boy 30'lu Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 75,75 TL
+
+Market Products:
+ - Market: Carrefour            Product: Dedefarm Yumurta 30 Lu M Boy   Price: 75,75 TL   Unit Price: 75,75 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: CP 30'lu M Boy Yumurta                             Price: 95,00 TL
+ - Similar Product: Heröğün M Boy 30'lu Yumurta                        Price: 87,50 TL
+ - Similar Product: Özlü 30'lu M Boy Yumurta                           Price: 87,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg
+
+
+13
+Product Name: Dede Farm 10'lu Free Range Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 51,99 TL
+
+Market Products:
+ - Market: Carrefour            Product: Dede Farm Free Range Yumurta 10 Price: 51,99 TL   Unit Price: 5,20 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumtat 10'lu 53-62 gr Beyaz Yumurta                Price: 39,90 TL
+ - Similar Product: Türem 10'lu Yumurta                                Price: 52,10 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/dede-farm-10lu-free-range-yumurta-_1444143.jpg
+
+
+14
+Product Name: Sade Organik Yumurta 10'lu
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 88,45 TL
+
+Market Products:
+ - Market: Carrefour            Product: Sade Organik Yumurta 10 Lu     Price: 88,45 TL   Unit Price: 8,85 TL/Adet
+
+Similar Products:
+ - Similar Product: Flotty 53-62 Baby 10'lu Organik Yumurta            Price: 88,75 TL
+ - Similar Product: Flotty Organik L Boy 10'lu Yumurta                 Price: 95,50 TL
+ - Similar Product: Flotty Organik L Boy 10'lu Yumurta                 Price: 95,50 TL
+ - Similar Product: S.S Tire Organik 10'lu 53-62 gr Yumurta            Price: 91,50 TL
+
+Features:
+ - Adet: 10 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/sade-organik-yumurta-10lu-_562870.jpg
+
+
+15
+Product Name: Dedefarm L Boy 30'lu Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 114,85 TL
+
+Market Products:
+ - Market: Carrefour            Product: Dedefarm Yumurta 30 Lu L Boy   Price: 114,85 TL  Unit Price: 114,85 TL/Adet
+
+Similar Products:
+ - Similar Product: CP 30'lu M Boy Yumurta                             Price: 95,00 TL
+ - Similar Product: Özlü 30'lu M Boy Yumurta                           Price: 87,50 TL
+ - Similar Product: Heröğün M Boy 30'lu Yumurta                        Price: 87,50 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/dedefarm-l-boy-30lu-yumurta-_1449978.jpg
+
+
+16
+Product Name: Kumbasar 15'li 53-62 gr  Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 52,50 TL
+
+Market Products:
+ - Market: Carrefour            Product: Kumb Yumurta 15 Li 53-62 Gr    Price: 52,50 TL   Unit Price: 3,50 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumtat 15'li 53-62 gr Saf Kahverengi Yumurta       Price: 57,50 TL
+ - Similar Product: Yumtat 15'li 53-62 gr Beyaz Yumurta                Price: 57,50 TL
+ - Similar Product: Doğalım 15'li Orta Boy Yumurta 53-62 gr            Price: 94,50 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Kumb 6'li 53-62 gr Yumurta                         Price: 26,60 TL
+
+Features:
+ - Ürün Tipi: Organik
+ - Adet: 15 Adet
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/kumbasar-15li-53-62-gr-yumurta-_282455.jpg
+
+
+17
+Product Name: Kumbasar 30'lu 63-72 gr Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 114,45 TL
+
+Market Products:
+ - Market: Carrefour            Product: Kumb.30lu Yum.63-73gr          Price: 114,45 TL  Unit Price: 3,81 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: Kumbasar 63-72 gr 10'lu Jumbo Yumurta              Price: 47,80 TL
+ - Similar Product: Anadolu Çiftliği L 15'li 63-72 gr Yumurta          Price: 44,95 TL
+ - Similar Product: Mertgül Tav 63-72 gr l 15'li Kahve Yumurta         Price: 61,55 TL
+
+Features:
+ - Ürün Tipi: Organik
+ - Adet: 30 Adet
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/kumbasar-30lu-63-72-gr-yumurta-_282443.jpg
+
+
+18
+Product Name: Gordo 12'li Bıldırcın Yumurtası
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 20,25 TL
+
+Market Products:
+ - Market: Carrefour            Product: Gordo Bildircin Yumurtasi 12 Li Price: 20,25 TL   Unit Price: 1,69 TL/Adet
+
+Similar Products:
+ - Similar Product: Türem 12'li Bıldırcın Yumurtası                    Price: 24,70 TL
+ - Similar Product: Yeşil Foça 12'li Bıldırcın Yumurtası               Price: 50,75 TL
+ - Similar Product: Bıldıryum 12'li Bıldırcın Yumurtası                Price: 29,90 TL
+ - Similar Product: Güres 12'li Bıldırcın Yumurta                      Price: 29,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/gordo-12li-bildircin-yumurtasi-_1449937.jpg
+
+
+19
+Product Name: Yumurtacım 30'lu M Boy Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 84,95 TL
+
+Market Products:
+ - Market: Migros               Product: Yumurtacim 30'lu M Boy Yumurta (53-62 G) Price: 84,95 TL   Unit Price: 2,83 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: CP 30'lu M Boy Yumurta                             Price: 95,00 TL
+ - Similar Product: Heröğün M Boy 30'lu Yumurta                        Price: 87,50 TL
+ - Similar Product: Özlü 30'lu M Boy Yumurta                           Price: 87,50 TL
+
+Features:
+ - Paket Sayısı: 1
+ - Adet: 30 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/yumurtacim-30lu-m-boy-yumurta-_972276.jpg
+
+
+20
+Product Name: Raya Organik 8'li M Boy Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 75,90 TL
+
+Market Products:
+ - Market: Migros               Product: Raya Organik 8 Li M Boy Yumurta (53-62 G) Price: 75,90 TL   Unit Price: 9,49 TL/Adet
+
+Similar Products:
+ - Similar Product: Flotty Organik L Boy 10'lu Yumurta                 Price: 95,50 TL
+ - Similar Product: Flotty Organik L Boy 10'lu Yumurta                 Price: 95,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/raya-organik-8li-m-boy-yumurta-_1674014.jpg
+
+
+21
+Product Name: Bilken 30'lu M Boy 53-62 gr Beyaz Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 84,95 TL
+
+Market Products:
+ - Market: Migros               Product: Bilken 30lu M Boy Beyaz Yumurta (53-62 G) Price: 84,95 TL   Unit Price: 2,83 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumtat 30'lu 53-62 gr Beyaz Yumurta                Price: 109,00 TL
+ - Similar Product: Doğalım 15'li Orta Boy Yumurta 53-62 gr            Price: 94,50 TL
+ - Similar Product: Güres M Orta Boy 53-62 gr 6'lı Yumurta             Price: 35,90 TL
+ - Similar Product: Coşkun 6'lı M Boy 53-62 gr Organik Yumurta         Price: 42,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/bilken-30lu-m-boy-53-62-gr-beyaz-yumurta-_1444173.jpg
+
+
+22
+Product Name: Doğalım 6'lı Orta Boy Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 44,50 TL
+
+Market Products:
+ - Market: Migros               Product: Dogalim 6'li M-orta Boy Yumurta (53-62g) Price: 44,50 TL   Unit Price: 7,42 TL/Adet
+ - Market: Carrefour            Product: Dogalim Yumurta 6 Li 53-62 Gr  Price: 48,75 TL   Unit Price: 8,13 TL/Adet
+
+Similar Products:
+ - Similar Product: Flotty Organik 10'lu M Orta Boy Yumurta            Price: 92,50 TL
+ - Similar Product: Flotty Organik 10'lu M Orta Boy Yumurta            Price: 92,50 TL
+ - Similar Product: Kor Organik 10'lu M Orta Boy Yumurta               Price: 83,90 TL
+ - Similar Product: Kor Organik 10'lu M Orta Boy Yumurta               Price: 83,90 TL
+ - Similar Product: Orvital Organik 10'lu Orta Boy Yumurta             Price: 95,90 TL
+ - Similar Product: Güres M Orta Boy 53-62 gr 6'lı Yumurta             Price: 35,90 TL
+
+Features:
+ - Paket Sayısı: 1
+ - Adet: 6 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/dogalim-6li-orta-boy-yumurta-_1001172.jpg
+
+
+23
+Product Name: Green Ranch M Boy 10'lu Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 69,50 TL
+
+Market Products:
+ - Market: Migros               Product: Green Ranch 10'lu M Boy Yumurta (53-62) G Price: 69,50 TL   Unit Price: 6,95 TL/Adet
+
+Similar Products:
+ - Similar Product: Kılıçlar 10'lu L Boy Yumurta                       Price: 54,60 TL
+ - Similar Product: Flotty Organik 10'lu M Orta Boy Yumurta            Price: 92,50 TL
+ - Similar Product: Flotty Organik 10'lu M Orta Boy Yumurta            Price: 92,50 TL
+ - Similar Product: Güres L 10'lu Büyük Boy Yumurta                    Price: 51,90 TL
+ - Similar Product: Kor Organik 10'lu M Orta Boy Yumurta               Price: 83,90 TL
+ - Similar Product: Kor Organik 10'lu M Orta Boy Yumurta               Price: 83,90 TL
+ - Similar Product: Flotty Organik L Boy 10'lu Yumurta                 Price: 95,50 TL
+ - Similar Product: Flotty Organik L Boy 10'lu Yumurta                 Price: 95,50 TL
+
+Features:
+ - Paket Sayısı: 1
+ - Adet: 10 Adet
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/green-ranch-m-boy-10lu-yumurta-_282479.jpg
+
+
+24
+Product Name: Bilken 53-62 gr 6'lı M Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 24,90 TL
+
+Market Products:
+ - Market: Migros               Product: Bilken 6li M Boy Yumurta (53-62 G) Price: 24,90 TL   Unit Price: 4,15 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumtat 15'li 53-62 gr Saf Kahverengi Yumurta       Price: 57,50 TL
+ - Similar Product: Yumtat 15'li 53-62 gr Beyaz Yumurta                Price: 57,50 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Kumb 6'li 53-62 gr Yumurta                         Price: 26,60 TL
+ - Similar Product: Doğalım 15'li Orta Boy Yumurta 53-62 gr            Price: 94,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg
+
+
+25
+Product Name: Bornova Çicekliköy L Boy 15'li Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 78,00 TL
+
+Market Products:
+ - Market: Carrefour            Product: Bornova Çiceklikoy Yumurta 15 Li Large Price: 78,00 TL   Unit Price: 5,20 TL/Adet
+
+Similar Products:
+ - Similar Product: Bornova Çiçekliköy L 6'lı Yumurta                  Price: 34,70 TL
+ - Similar Product: Bornova Çiçekliköy 10'lu L Yumurta                 Price: 53,30 TL
+ - Similar Product: Gordo 15'li M Boy Yumurta                          Price: 47,90 TL
+ - Similar Product: Yumurtacım L Boy 15'li 63-72 gr Yumurta            Price: 44,95 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/bornova-ciceklikoy-l-boy-15li-yumurta-_1443232.jpg
+
+
+26
+Product Name: Kumbasar Medium Boy 30'lu Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 98,45 TL
+
+Market Products:
+ - Market: Carrefour            Product: Kumbasar Yumurta 30 Lu 53-62 Gr Price: 98,45 TL   Unit Price: 3,28 TL/Adet
+
+Similar Products:
+ - Similar Product: Carrefour 30'lu Medium Yumurta                     Price: 89,00 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: CP 30'lu M Boy Yumurta                             Price: 95,00 TL
+ - Similar Product: Heröğün M Boy 30'lu Yumurta                        Price: 87,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kumbasar-medium-boy-30lu-yumurta-_537309.jpg
+
+
+27
+Product Name: Ali Babanın Bahçesinden M Boy 15'li Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 110,90 TL
+
+Market Products:
+ - Market: Carrefour            Product: Ali Babanin Bah.org.yumrta 15 Li 53-63 G Price: 110,90 TL  Unit Price: 7,39 TL/Adet
+
+Similar Products:
+ - Similar Product: Gordo 15'li M Boy Yumurta                          Price: 47,90 TL
+ - Similar Product: Yumurtacım L Boy 15'li 63-72 gr Yumurta            Price: 44,95 TL
+ - Similar Product: Heröğün 15'li L Boy Yumurta                        Price: 55,00 TL
+ - Similar Product: Doğalım 15'li Orta Boy Yumurta 53-62 gr            Price: 94,50 TL
+
+Features:
+ - Paket Sayısı: 1
+ - Adet: 15 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/ali-babanin-bahcesinden-m-boy-15li-yumurta-_863898.jpg
+
+
+28
+Product Name: Carrefour 15'li M Gezen Tavuk Yumurtası
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 98,50 TL
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Gezen Tavuk Yum.15 Li M Price: 98,50 TL   Unit Price: 6,57 TL/Adet
+
+Similar Products:
+ - Similar Product: Ali Babanın Bahçesinden 15'li Gezen Tavuk Yumurtası Price: 41,20 TL
+
+Features:
+ - Ürün Tipi: Organik
+ - Adet: 15 Adet
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-15li-m-gezen-tavuk-yumurtasi-_282507.jpg
+
+
+29
+Product Name: Carrefour 10'lu M Boy Gezen Tavuk Yumurtası
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 65,90 TL
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Gezen Tavuk Yum.10 Ad. M Price: 65,90 TL   Unit Price: 6,59 TL/Adet
+
+Similar Products:
+ - Similar Product: Anadolu Çiftliği 53-62 gr M Boy 10'lu Gezen Tavuk Yumurta Price: 57,50 TL
+ - Similar Product: Bodrum Akça 30'lu M Boy Gezen Tavuk Yumurtası      Price: 186,20 TL
+ - Similar Product: Gurata 53-62 gr 10'lu M Gezen Tavuk Yumurtası      Price: 73,90 TL
+ - Similar Product: Gurata 53-62 gr 10'lu M Gezen Tavuk Yumurtası      Price: 73,90 TL
+ - Similar Product: Raya 10'lu Gezen Tavuk Yumurtası                   Price: 79,90 TL
+ - Similar Product: Raya 10'lu Gezen Tavuk Yumurtası                   Price: 79,90 TL
+
+Features:
+ - Ürün Tipi: Organik
+ - Adet: 10 Adet
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-10lu-m-boy-gezen-tavuk-yumurtasi-_282481.jpg
+
+
+30
+Product Name: Seltav M Boy 30'lu Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 87,50 TL
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Seltav Yumurta M 30 Lu         Price: 87,50 TL   Unit Price: 2,92 TL/Adet
+
+Similar Products:
+ - Similar Product: Seltav M 6'lı 53-62 gr Yumurta                     Price: 42,50 TL
+ - Similar Product: CP 30'lu M Boy Yumurta                             Price: 95,00 TL
+ - Similar Product: Özlü 30'lu M Boy Yumurta                           Price: 87,50 TL
+ - Similar Product: Heröğün M Boy 30'lu Yumurta                        Price: 87,50 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/seltav-m-boy-30lu-yumurta-_1130336.jpg
+
+
+31
+Product Name: Bodrum Akça 30'lu M Boy Gezen Tavuk Yumurtası
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 186,20 TL
+
+Market Products:
+ - Market: Carrefour            Product: Bodrum Akca Gez.tavuk Yumurtasi 30lu M Price: 186,20 TL  Unit Price: 6,21 TL/Adet
+
+Similar Products:
+ - Similar Product: Carrefour 10'lu M Boy Gezen Tavuk Yumurtası        Price: 65,90 TL
+ - Similar Product: Anadolu Çiftliği 53-62 gr M Boy 10'lu Gezen Tavuk Yumurta Price: 57,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/bodrum-akca-30lu-m-boy-gezen-tavuk-yumurtasi-_1480717.jpg
+
+
+32
+Product Name: Carrefour 10 adet Omega 3 Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 69,90 TL
+
+Market Products:
+ - Market: Carrefour            Product: Crf Omega 3 Yumurta 10 Ad.m    Price: 69,90 TL   Unit Price: 6,99 TL/Adet
+
+Similar Products:
+ - Similar Product: Keskinoğlu 10'lu Omega-3 Yumurta                   Price: 73,50 TL
+ - Similar Product: Keskinoğlu 10'lu Omega-3 Yumurta                   Price: 73,50 TL
+ - Similar Product: Anadolu Çiftligi Omega 3 M 53-62 gr 10'lu Yumurta  Price: 46,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg
+
+
+33
+Product Name: Doğalım 53-62 gr 10'lu M Organik Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 80,50 TL
+
+Market Products:
+ - Market: Migros               Product: Dogalim Organik Yumurta 10'lu M Boy (53-62g) Price: 80,50 TL   Unit Price: 8,05 TL/Adet
+
+Similar Products:
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Flotty 53-62 Baby 10'lu Organik Yumurta            Price: 88,75 TL
+ - Similar Product: S.S Tire Organik 10'lu 53-62 gr Yumurta            Price: 91,50 TL
+ - Similar Product: Coşkun 6'lı M Boy 53-62 gr Organik Yumurta         Price: 42,50 TL
+ - Similar Product: Yumtat 10'lu 53-62 gr Beyaz Yumurta                Price: 39,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/dogalim-53-62-gr-10lu-m-organik-yumurta-_1446823.jpg
+
+
+34
+Product Name: Güres 63-72 gr Büyük Boy 15'li Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 44,95 TL
+
+Market Products:
+ - Market: Migros               Product: Gures L Buyuk Boy Yumurta 15li (63-72 G) Price: 44,95 TL   Unit Price: 3,00 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumurtacım L Boy 15'li 63-72 gr Yumurta            Price: 44,95 TL
+ - Similar Product: Anadolu Çiftliği L 15'li 63-72 gr Yumurta          Price: 44,95 TL
+ - Similar Product: Mertgül Tav 63-72 gr l 15'li Kahve Yumurta         Price: 61,55 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/gures-63-72-gr-buyuk-boy-15li-yumurta-_1441088.jpg
+
+
+35
+Product Name: Bilken 30'lu L Boy Beyaz Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 119,90 TL
+
+Market Products:
+ - Market: Migros               Product: Bilken 30lu L Boy Beyaz Yumurta (63-73 G) Price: 119,90 TL  Unit Price: 4,00 TL/Adet
+
+Similar Products:
+ - Similar Product: Bilken 30'lu M Boy 53-62 gr Beyaz Yumurta          Price: 84,95 TL
+ - Similar Product: CP 30'lu M Boy Yumurta                             Price: 95,00 TL
+ - Similar Product: Özlü 30'lu M Boy Yumurta                           Price: 87,50 TL
+ - Similar Product: Heröğün M Boy 30'lu Yumurta                        Price: 87,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/bilken-30lu-l-boy-beyaz-yumurta-_1441028.jpg
+
+
+36
+Product Name: Yumurtacım Organik 10'lu M Boy Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 67,90 TL
+
+Market Products:
+ - Market: Migros               Product: Yumurtacim Omega 3 10lu M Boy Yumurta (53-62 G) Price: 67,90 TL   Unit Price: 6,79 TL/Adet
+ - Market: Migros               Product: Yumurtacim M Boy Organik 10lu Yumurta (53-62 G) Price: 92,50 TL   Unit Price: 9,25 TL/Adet
+
+Similar Products:
+ - Similar Product: Flotty Organik 10'lu M Orta Boy Yumurta            Price: 92,50 TL
+ - Similar Product: Flotty Organik 10'lu M Orta Boy Yumurta            Price: 92,50 TL
+ - Similar Product: Kor Organik 10'lu M Orta Boy Yumurta               Price: 83,90 TL
+ - Similar Product: Kor Organik 10'lu M Orta Boy Yumurta               Price: 83,90 TL
+ - Similar Product: Flotty Organik L Boy 10'lu Yumurta                 Price: 95,50 TL
+ - Similar Product: Flotty Organik L Boy 10'lu Yumurta                 Price: 95,50 TL
+ - Similar Product: Orvital Organik 10'lu Orta Boy Yumurta             Price: 95,90 TL
+ - Similar Product: Kılıçlar 10'lu L Boy Yumurta                       Price: 54,60 TL
+
+Features:
+ - Adet: 10 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/yumurtacim-organik-10lu-m-boy-yumurta-_863953.jpg
+
+
+37
+Product Name: Güres 12'li Bıldırcın Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 29,90 TL
+
+Market Products:
+ - Market: Şok                  Product: Gures Bildircin Yumurtasi 12 Adet Price: 29,90 TL   Unit Price: 2,49 TL/Adet
+ - Market: Migros               Product: Gures Bildircin Yumurta 12li   Price: 42,90 TL   Unit Price: 3,58 TL/Adet
+
+Similar Products:
+ - Similar Product: Türem 12'li Bıldırcın Yumurtası                    Price: 24,70 TL
+ - Similar Product: Yeşil Foça 12'li Bıldırcın Yumurtası               Price: 50,75 TL
+ - Similar Product: Bıldıryum 12'li Bıldırcın Yumurtası                Price: 29,90 TL
+ - Similar Product: Gordo 12'li Bıldırcın Yumurtası                    Price: 20,25 TL
+
+Features:
+ - Ürün Tipi: Bıldırcın Yumurtası
+ - Adet: 12 Adet
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/gures-12li-bildircin-yumurta-_282468.jpg
+
+
+38
+Product Name: Anadolu Çiftligi Omega 3 M 53-62 gr 10'lu Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 46,90 TL
+
+Market Products:
+ - Market: Şok                  Product: Anadolu Çiftligi Omega 3 M 10'lu (53-62 Gr) Price: 46,90 TL   Unit Price: 4,69 TL/Adet
+
+Similar Products:
+ - Similar Product: Anadolu Çiftliği 53-62 gr M Boy 10'lu Gezen Tavuk Yumurta Price: 57,50 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Yumtat 10'lu 53-62 gr Beyaz Yumurta                Price: 39,90 TL
+ - Similar Product: Flotty 53-62 Baby 10'lu Organik Yumurta            Price: 88,75 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/anadolu-ciftligi-omega-3-m-53-62-gr-10lu-yumurta-_1438754.jpg
+
+
+39
+Product Name: Kumbasar Kahverengi 10 Adet 53-62 gr Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 47,80 TL
+
+Market Products:
+ - Market: Carrefour            Product: Kumbasar Khvrngi Yumurta 53-62 Gr 10lu Price: 47,80 TL   Unit Price: 4,78 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumtat 10'lu 53-62 gr Kahverengi Yumurta           Price: 39,90 TL
+ - Similar Product: Yumtat 15'li 53-62 gr Saf Kahverengi Yumurta       Price: 57,50 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Yumtat 10'lu 53-62 gr Beyaz Yumurta                Price: 39,90 TL
+ - Similar Product: Flotty 53-62 Baby 10'lu Organik Yumurta            Price: 88,75 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kumbasar-kahverengi-10-adet-53-62-gr-yumurta-_1450133.jpg
+
+
+40
+Product Name: Seltav M 6'lı 53-62 gr Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 42,50 TL
+
+Market Products:
+ - Market: Şok                  Product: Seltav Organik Yumurta M 6'li (53-62 Gr) Price: 42,50 TL   Unit Price: 7,08 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumtat 15'li 53-62 gr Saf Kahverengi Yumurta       Price: 57,50 TL
+ - Similar Product: Yumtat 15'li 53-62 gr Beyaz Yumurta                Price: 57,50 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Kumb 6'li 53-62 gr Yumurta                         Price: 26,60 TL
+ - Similar Product: Doğalım 15'li Orta Boy Yumurta 53-62 gr            Price: 94,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/seltav-m-6li-53-62-gr-yumurta-_1509692.jpg
+
+
+41
+Product Name: Güzide Hanım M 53-62 gr 6'lı Organik Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 42,50 TL
+
+Market Products:
+ - Market: Şok                  Product: Guzide Hanim M Organik Yumurta 6'li (53-62 Gr) Price: 42,50 TL   Unit Price: 7,08 TL/Adet
+
+Similar Products:
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Coşkun 6'lı M Boy 53-62 gr Organik Yumurta         Price: 42,50 TL
+ - Similar Product: S.S Tire Organik 10'lu 53-62 gr Yumurta            Price: 91,50 TL
+ - Similar Product: Kumartaşlı M 6'lı 53-62 gr Organik Yumurta         Price: 42,50 TL
+ - Similar Product: Setyum 6'lı 53-62 gr Organik Yumurta               Price: 42,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/guzide-hanim-m-53-62-gr-6li-organik-yumurta-_1438804.jpg
+
+
+42
+Product Name: Tombul Piliç 6'lı 53-62 gr M Organik Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 42,50 TL
+
+Market Products:
+ - Market: Şok                  Product: Tombul Pilic M Organik Yumurta 6'li (53-62 Gr) Price: 42,50 TL   Unit Price: 7,08 TL/Adet
+
+Similar Products:
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Coşkun 6'lı M Boy 53-62 gr Organik Yumurta         Price: 42,50 TL
+ - Similar Product: S.S Tire Organik 10'lu 53-62 gr Yumurta            Price: 91,50 TL
+ - Similar Product: Kumartaşlı M 6'lı 53-62 gr Organik Yumurta         Price: 42,50 TL
+ - Similar Product: Setyum 6'lı 53-62 gr Organik Yumurta               Price: 42,50 TL
+
+Features:
+ - Adet: 6 Adet
+ - Kategori: Yumurta
+Product Image URL: https://cdn.cimri.io/market/260x260/tombul-pilic-6li-53-62-gr-m-organik-yumurta-_1434444.jpg
+
+
+43
+Product Name: Anadolu Çiftliği 53-62 gr M Boy 10'lu Gezen Tavuk Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 57,50 TL
+
+Market Products:
+ - Market: Şok                  Product: Anadolu Çiftligi Gezen Tavuk Yumurta M 10'lu 53-62 Price: 57,50 TL   Unit Price: 5,75 TL/Adet
+
+Similar Products:
+ - Similar Product: Gurata 53-62 gr 10'lu M Gezen Tavuk Yumurtası      Price: 73,90 TL
+ - Similar Product: Gurata 53-62 gr 10'lu M Gezen Tavuk Yumurtası      Price: 73,90 TL
+ - Similar Product: Doğalım 15'li Orta Boy Yumurta 53-62 gr            Price: 94,50 TL
+ - Similar Product: Güres M Orta Boy 53-62 gr 6'lı Yumurta             Price: 35,90 TL
+ - Similar Product: Coşkun 6'lı M Boy 53-62 gr Organik Yumurta         Price: 42,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/anadolu-ciftligi-53-62-gr-m-boy-10lu-gezen-tavuk-yumurta-_1434695.jpg
+
+
+44
+Product Name: Koru Organik M 53-62 gr 6'lı Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 42,50 TL
+
+Market Products:
+ - Market: Şok                  Product: Koru Organik Yumurta M 6'li (53-62 Gr) Price: 42,50 TL   Unit Price: 7,08 TL/Adet
+
+Similar Products:
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Coşkun 6'lı M Boy 53-62 gr Organik Yumurta         Price: 42,50 TL
+ - Similar Product: Flotty 53-62 Baby 10'lu Organik Yumurta            Price: 88,75 TL
+ - Similar Product: S.S Tire Organik 10'lu 53-62 gr Yumurta            Price: 91,50 TL
+ - Similar Product: Kumartaşlı M 6'lı 53-62 gr Organik Yumurta         Price: 42,50 TL
+
+Features:
+ - Adet: 6 Adet
+ - Toplam Ağırlık: 318 gr
+ - Kategori: Yumurta
+Product Image URL: https://cdn.cimri.io/market/260x260/koru-organik-m-53-62-gr-6li-yumurta-_1434414.jpg
+
+
+45
+Product Name: Keskinoğlu 15'li Large Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 44,95 TL
+
+Market Products:
+ - Market: Migros               Product: Keskinoglu 15'li L-buyuk Boy Yumurta (63-72 G) Price: 44,95 TL   Unit Price: 3,00 TL/Adet
+ - Market: Tarım Kredi Kooperatifi Product: Keskinoglu 15 Li Large Yumurta Price: 55,00 TL   Unit Price: 3,67 TL/Adet
+
+Similar Products:
+ - Similar Product: Türem 15'li Large Beyaz Yumurta                    Price: 64,20 TL
+ - Similar Product: Gordo 15'li M Boy Yumurta                          Price: 47,90 TL
+
+Features:
+ - Paket Sayısı: 1
+ - Adet: 15 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/keskinoglu-15li-large-yumurta-_1001278.jpg
+
+
+46
+Product Name: Türem M Boy 30'lu Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 87,50 TL
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Turem Yumurta M Boy 30lu       Price: 87,50 TL   Unit Price: 2,92 TL/Adet
+
+Similar Products:
+ - Similar Product: CP 30'lu M Boy Yumurta                             Price: 95,00 TL
+ - Similar Product: Özlü 30'lu M Boy Yumurta                           Price: 87,50 TL
+ - Similar Product: Heröğün M Boy 30'lu Yumurta                        Price: 87,50 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/turem-m-boy-30lu-yumurta-_1130363.jpg
+
+
+47
+Product Name: Ada Konyum M 6'lı 53-62 gr Organik Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 33,50 TL
+
+Market Products:
+ - Market: Şok                  Product: Ada Konyum M Organik Yumurta 6'li (53-62 Gr) Price: 33,50 TL   Unit Price: 5,58 TL/Adet
+
+Similar Products:
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Coşkun 6'lı M Boy 53-62 gr Organik Yumurta         Price: 42,50 TL
+ - Similar Product: Flotty 53-62 Baby 10'lu Organik Yumurta            Price: 88,75 TL
+ - Similar Product: S.S Tire Organik 10'lu 53-62 gr Yumurta            Price: 91,50 TL
+ - Similar Product: Kumartaşlı M 6'lı 53-62 gr Organik Yumurta         Price: 42,50 TL
+
+Features:
+ - Adet: 6 Adet
+ - Toplam Ağırlık: 318 gr
+ - Kategori: Yumurta
+Product Image URL: https://cdn.cimri.io/market/260x260/ada-konyum-m-6li-53-62-gr-organik-yumurta-_1434646.jpg
+
+
+48
+Product Name: Bodrum Akça 10'lu Gezen Tavuk Yumurtası
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 69,29 TL
+
+Market Products:
+ - Market: Carrefour            Product: Bodrum Akca Gez.tavuk Yumurtasi 10lu M Price: 69,29 TL   Unit Price: 6,93 TL/Adet
+
+Similar Products:
+ - Similar Product: Gurata 53-62 gr 10'lu M Gezen Tavuk Yumurtası      Price: 73,90 TL
+ - Similar Product: Gurata 53-62 gr 10'lu M Gezen Tavuk Yumurtası      Price: 73,90 TL
+ - Similar Product: Raya 10'lu Gezen Tavuk Yumurtası                   Price: 79,90 TL
+ - Similar Product: Raya 10'lu Gezen Tavuk Yumurtası                   Price: 79,90 TL
+ - Similar Product: Carrefour 10'lu M Boy Gezen Tavuk Yumurtası        Price: 65,90 TL
+ - Similar Product: Anadolu Çiftliği 53-62 gr M Boy 10'lu Gezen Tavuk Yumurta Price: 57,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/bodrum-akca-10lu-gezen-tavuk-yumurtasi-_1480700.jpg
+
+
+49
+Product Name: Kozlu Yeniana 30'lu M Beyaz Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 87,50 TL
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Kozlu Yumurta Beyaz 30 Lu (m) Yeniana Price: 87,50 TL   Unit Price: 2,92 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumtat 30'lu 53-62 gr Beyaz Yumurta                Price: 109,00 TL
+ - Similar Product: Bilken 30'lu M Boy 53-62 gr Beyaz Yumurta          Price: 84,95 TL
+ - Similar Product: Bilken 30'lu L Boy Beyaz Yumurta                   Price: 119,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kozlu-yeniana-30lu-m-beyaz-yumurta-_1443294.jpg
+
+
+50
+Product Name: Yumtat 15'li 53-62 gr Saf Kahverengi Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 57,50 TL
+
+Market Products:
+ - Market: Hakmar Express       Product: Yumurta Saf K.rengi 15 Li 53-62gr Yumtat Price: 57,50 TL   Unit Price: 3,83 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumtat 10'lu 53-62 gr Kahverengi Yumurta           Price: 39,90 TL
+ - Similar Product: Kumbasar Kahverengi 10 Adet 53-62 gr Yumurta       Price: 47,80 TL
+ - Similar Product: Yumtat 15'li 53-62 gr Beyaz Yumurta                Price: 57,50 TL
+ - Similar Product: Doğalım 15'li Orta Boy Yumurta 53-62 gr            Price: 94,50 TL
+ - Similar Product: Kumbasar 15'li 53-62 gr  Yumurta                   Price: 52,50 TL
+
+Features:
+ - Adet: 15 Adet
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg
+
+
+51
+Product Name: Yumtat 15'li 53-62 gr Beyaz Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 57,50 TL
+
+Market Products:
+ - Market: Hakmar Express       Product: Yumurta Beyaz 15 Li 53-62g Yumtat Price: 57,50 TL   Unit Price: 3,83 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumtat 15'li 53-62 gr Saf Kahverengi Yumurta       Price: 57,50 TL
+ - Similar Product: Doğalım 15'li Orta Boy Yumurta 53-62 gr            Price: 94,50 TL
+ - Similar Product: Yumtat 10'lu 53-62 gr Beyaz Yumurta                Price: 39,90 TL
+ - Similar Product: Yumtat 30'lu 53-62 gr Beyaz Yumurta                Price: 109,00 TL
+ - Similar Product: Kumbasar 15'li 53-62 gr  Yumurta                   Price: 52,50 TL
+
+Features:
+ - Adet: 15 Adet
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg
+
+
+52
+Product Name: Anadolu Çiftligi 20'lı Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 62,00 TL
+
+Market Products:
+ - Market: Şok                  Product: Anadolu Çiftligi Xl Yumurta 20'li >72 Price: 62,00 TL   Unit Price: 3,10 TL/Adet
+
+Similar Products:
+ - Similar Product: Anadolu Çiftliği L 15'li 63-72 gr Yumurta          Price: 44,95 TL
+ - Similar Product: Anadolu Çiftligi Omega 3 M 53-62 gr 10'lu Yumurta  Price: 46,90 TL
+ - Similar Product: Anadolu Çiftliği 53-62 gr M Boy 10'lu Gezen Tavuk Yumurta Price: 57,50 TL
+
+Features:
+ - Adet: 20 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/anadolu-ciftligi-20li-yumurta-_1436488.jpg
+
+
+53
+Product Name: CP 30'lu M Boy Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 95,00 TL
+
+Market Products:
+ - Market: Migros               Product: Cp 30'lu M Orta Boy Yumurta (53-62) G Price: 95,00 TL   Unit Price: 3,17 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: Heröğün M Boy 30'lu Yumurta                        Price: 87,50 TL
+ - Similar Product: Özlü 30'lu M Boy Yumurta                           Price: 87,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/cp-30lu-m-boy-yumurta-_972218.jpg
+
+
+54
+Product Name: Heröğün M Boy 30'lu Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 87,50 TL
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Herogun Yumurta 30 Lu M Boy    Price: 87,50 TL   Unit Price: 2,92 TL/Adet
+
+Similar Products:
+ - Similar Product: CP 30'lu M Boy Yumurta                             Price: 95,00 TL
+ - Similar Product: Özlü 30'lu M Boy Yumurta                           Price: 87,50 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/herogun-m-boy-30lu-yumurta-_1443229.jpg
+
+
+55
+Product Name: Heröğün 15'li L Boy Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 55,00 TL
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Herogun Yumurta 15 Li L Boy    Price: 55,00 TL   Unit Price: 3,67 TL/Adet
+
+Similar Products:
+ - Similar Product: Gordo 15'li M Boy Yumurta                          Price: 47,90 TL
+ - Similar Product: Yumurtacım L Boy 15'li 63-72 gr Yumurta            Price: 44,95 TL
+ - Similar Product: Doğalım 15'li Orta Boy Yumurta 53-62 gr            Price: 94,50 TL
+ - Similar Product: Bilken 63-73 15'li L Boy Yumurta                   Price: 44,95 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg
+
+
+56
+Product Name: Özlü 30'lu M Boy Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 87,50 TL
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Özlu Yumurta M 30 Lu           Price: 87,50 TL   Unit Price: 2,92 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: CP 30'lu M Boy Yumurta                             Price: 95,00 TL
+ - Similar Product: Heröğün M Boy 30'lu Yumurta                        Price: 87,50 TL
+
+Features:
+ - Adet: 30 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/ozlu-30lu-m-boy-yumurta-_1001449.jpg
+
+
+57
+Product Name: Kozlu 15'li l Duble Beyaz Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 55,00 TL
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Kozlu Yumurta Beyaz 15 Li ( L ) Duble Price: 55,00 TL   Unit Price: 3,67 TL/Adet
+
+Similar Products:
+ - Similar Product: Kozlu Yeniana 30'lu M Beyaz Yumurta                Price: 87,50 TL
+ - Similar Product: Yumtat 15'li 53-62 gr Saf Kahverengi Yumurta       Price: 57,50 TL
+ - Similar Product: Yumtat 15'li 53-62 gr Beyaz Yumurta                Price: 57,50 TL
+ - Similar Product: Heröğün 15'li L Boy Yumurta                        Price: 55,00 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg
+
+
+58
+Product Name: Yeşil Foça 12'li Bıldırcın Yumurtası
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 50,75 TL
+
+Market Products:
+ - Market: Carrefour            Product: Yesilfoca Bildircin Yumurtasi 12 Li Price: 50,75 TL   Unit Price: 4,23 TL/Adet
+
+Similar Products:
+ - Similar Product: Türem 12'li Bıldırcın Yumurtası                    Price: 24,70 TL
+ - Similar Product: Bıldıryum 12'li Bıldırcın Yumurtası                Price: 29,90 TL
+ - Similar Product: Gordo 12'li Bıldırcın Yumurtası                    Price: 20,25 TL
+ - Similar Product: Güres 12'li Bıldırcın Yumurta                      Price: 29,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/yesil-foca-12li-bildircin-yumurtasi-_1443254.jpg
+
+
+59
+Product Name: Ali Babanın Bahçesinden 15'li Gezen Tavuk Yumurtası
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 41,20 TL
+
+Market Products:
+ - Market: Carrefour            Product: Ali Babanin Bahcesinden 15 Li Yumurta Price: 41,20 TL   Unit Price: 2,75 TL/Adet
+
+Similar Products:
+ - Similar Product: Carrefour 15'li M Gezen Tavuk Yumurtası            Price: 98,50 TL
+
+Features:
+ - Adet: 15 Adet
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL:
+
+
+60
+Product Name: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 121,75 TL
+
+Market Products:
+ - Market: Migros               Product: Seyyahin Çiftligi Organik Yumurta 10lu 53-62 G Price: 121,75 TL  Unit Price: 12,18 TL/Adet
+
+Similar Products:
+ - Similar Product: Flotty 53-62 Baby 10'lu Organik Yumurta            Price: 88,75 TL
+ - Similar Product: S.S Tire Organik 10'lu 53-62 gr Yumurta            Price: 91,50 TL
+ - Similar Product: Doğalım 53-62 gr 10'lu M Organik Yumurta           Price: 80,50 TL
+ - Similar Product: Coşkun 6'lı M Boy 53-62 gr Organik Yumurta         Price: 42,50 TL
+ - Similar Product: Yumtat 10'lu 53-62 gr Beyaz Yumurta                Price: 39,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/seyyahin-ciftligi-10lu-53-62-gr-organik-yumurta-_1667051.jpg
+
+
+61
+Product Name: Carrefour 10'lu Organik Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 77,90 TL
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Bio Organik Yumurta 10lu Price: 77,90 TL   Unit Price: 7,79 TL/Adet
+
+Similar Products:
+ - Similar Product: Flotty 53-62 Baby 10'lu Organik Yumurta            Price: 88,75 TL
+ - Similar Product: Flotty Organik 10'lu M Orta Boy Yumurta            Price: 92,50 TL
+ - Similar Product: Flotty Organik 10'lu M Orta Boy Yumurta            Price: 92,50 TL
+ - Similar Product: Kor Organik 10'lu M Orta Boy Yumurta               Price: 83,90 TL
+ - Similar Product: Kor Organik 10'lu M Orta Boy Yumurta               Price: 83,90 TL
+
+Features:
+ - Adet: 10 Adet
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-10lu-organik-yumurta-_282433.jpg
+
+
+62
+Product Name: Carrefour 15'li L Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 49,50 TL
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Yumurta 15li L       Price: 49,50 TL   Unit Price: 3,30 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumtat 15'li 53-62 gr Saf Kahverengi Yumurta       Price: 57,50 TL
+ - Similar Product: Yumtat 15'li 53-62 gr Beyaz Yumurta                Price: 57,50 TL
+ - Similar Product: Ali Babanın Bahçesinden 15'li Gezen Tavuk Yumurtası Price: 41,20 TL
+ - Similar Product: Türem 15'li Large Beyaz Yumurta                    Price: 64,20 TL
+
+Features:
+ - Adet: 15 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-15li-l-yumurta-_1432615.jpg
+
+
+63
+Product Name: Bornova Çiçekliköy L 6'lı Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 34,70 TL
+
+Market Products:
+ - Market: Carrefour            Product: Bornova Çiceklikoy Yumurta 6 Li Large Price: 34,70 TL   Unit Price: 5,78 TL/Adet
+
+Similar Products:
+ - Similar Product: Bornova Çicekliköy L Boy 15'li Yumurta             Price: 78,00 TL
+ - Similar Product: Bornova Çiçekliköy 10'lu L Yumurta                 Price: 53,30 TL
+ - Similar Product: Organik 6'lı Small Yumurta                         Price: 32,50 TL
+ - Similar Product: Gordo 15'li M Boy Yumurta                          Price: 47,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg
+
+
+64
+Product Name: Bornova Çiçekliköy 10'lu L Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 53,30 TL
+
+Market Products:
+ - Market: Carrefour            Product: Bornova Çiceklikoy Yumurta 10 Lu Large Price: 53,30 TL   Unit Price: 5,33 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumtat 10'lu 53-62 gr Beyaz Yumurta                Price: 39,90 TL
+ - Similar Product: Türem 10'lu Yumurta                                Price: 52,10 TL
+ - Similar Product: Kılıçlar 10'lu L Boy Yumurta                       Price: 54,60 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/bornova-ciceklikoy-10lu-l-yumurta-_1443529.jpg
+
+
+65
+Product Name: Türem 15'li Large Beyaz Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 64,20 TL
+
+Market Products:
+ - Market: Carrefour            Product: Turem Yumurta 15 Li 63-73 Gr   Price: 64,20 TL   Unit Price: 4,28 TL/Adet
+
+Similar Products:
+ - Similar Product: Keskinoğlu 15'li Large Yumurta                     Price: 44,95 TL
+ - Similar Product: Yumtat 15'li 53-62 gr Beyaz Yumurta                Price: 57,50 TL
+ - Similar Product: Kozlu 15'li l Duble Beyaz Yumurta                  Price: 55,00 TL
+
+Features:
+ - Paket Sayısı: 1
+ - Adet: 15 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/turem-15li-large-beyaz-yumurta-_941967.jpg
+
+
+66
+Product Name: Kumb 6'li 53-62 gr Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 26,60 TL
+
+Market Products:
+ - Market: Carrefour            Product: Kumb 6 Li Yumurta 53-62 Gr     Price: 26,60 TL   Unit Price: 4,43 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumtat 15'li 53-62 gr Saf Kahverengi Yumurta       Price: 57,50 TL
+ - Similar Product: Yumtat 15'li 53-62 gr Beyaz Yumurta                Price: 57,50 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Güres M Orta Boy 53-62 gr 6'lı Yumurta             Price: 35,90 TL
+ - Similar Product: Doğalım 15'li Orta Boy Yumurta 53-62 gr            Price: 94,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kumb-6li-53-62-gr-yumurta-_1433188.jpg
+
+
+67
+Product Name: Kumbasar 63-72 gr 10'lu Jumbo Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 47,80 TL
+
+Market Products:
+ - Market: Carrefour            Product: Kumbasar 10 Lu Jumbo Yumurta 73gr Üstu Price: 47,80 TL   Unit Price: 4,78 TL/Adet
+
+Similar Products:
+ - Similar Product: Anadolu Çiftliği L 15'li 63-72 gr Yumurta          Price: 44,95 TL
+ - Similar Product: Mertgül Tav 63-72 gr l 15'li Kahve Yumurta         Price: 61,55 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: Yumurtacım L Boy 15'li 63-72 gr Yumurta            Price: 44,95 TL
+
+Features:
+ - Ürün Tipi: Organik
+ - Adet: 10 Adet
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/kumbasar-63-72-gr-10lu-jumbo-yumurta-_282442.jpg
+
+
+68
+Product Name: Yumurtacım 6'lı M Boy Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 39,90 TL
+
+Market Products:
+ - Market: Migros               Product: Yumurtacim 6li M Boy Yumurta (53-62 G) Price: 39,90 TL   Unit Price: 6,65 TL/Adet
+
+Similar Products:
+ - Similar Product: Gordo 15'li M Boy Yumurta                          Price: 47,90 TL
+ - Similar Product: Kılıçlar 10'lu L Boy Yumurta                       Price: 54,60 TL
+
+Features:
+ - Paket Sayısı: 1
+ - Adet: 6 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/yumurtacim-6li-m-boy-yumurta-_1001639.jpg
+
+
+69
+Product Name: Carrefour 6'lı Organik Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 48,50 TL
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Bio Organik Yumurta 6li Price: 48,50 TL   Unit Price: 8,08 TL/Adet
+
+Similar Products:
+ - Similar Product: Organik 6'lı Small Yumurta                         Price: 32,50 TL
+
+Features:
+ - Adet: 6 Adet
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-6li-organik-yumurta-_282431.jpg
+
+
+70
+Product Name: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 121,75 TL
+
+Market Products:
+ - Market: Migros               Product: Seyyahin Çiftligi Organik Yumurta 10lu 53-62 G Price: 121,75 TL  Unit Price: 12,18 TL/Adet
+
+Similar Products:
+ - Similar Product: Flotty 53-62 Baby 10'lu Organik Yumurta            Price: 88,75 TL
+ - Similar Product: S.S Tire Organik 10'lu 53-62 gr Yumurta            Price: 91,50 TL
+ - Similar Product: Doğalım 53-62 gr 10'lu M Organik Yumurta           Price: 80,50 TL
+ - Similar Product: Coşkun 6'lı M Boy 53-62 gr Organik Yumurta         Price: 42,50 TL
+ - Similar Product: Yumtat 10'lu 53-62 gr Beyaz Yumurta                Price: 39,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/seyyahin-ciftligi-10lu-53-62-gr-organik-yumurta-_1667051.jpg
+
+
+71
+Product Name: Bilken 63-73 15'li L Boy Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 44,95 TL
+
+Market Products:
+ - Market: Migros               Product: Bilken 15li L Boy Yumurta (63-73 G) Price: 44,95 TL   Unit Price: 3,00 TL/Adet
+
+Similar Products:
+ - Similar Product: Türem 63-73 gr 30'lu Yumurta                       Price: 116,15 TL
+ - Similar Product: Yumurtacım L Boy 15'li 63-72 gr Yumurta            Price: 44,95 TL
+ - Similar Product: Güres 63-72 gr Büyük Boy 15'li Yumurta             Price: 44,95 TL
+ - Similar Product: Mertgül Tav 63-72 gr l 15'li Kahve Yumurta         Price: 61,55 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/bilken-63-73-15li-l-boy-yumurta-_1441879.jpg
+
+
+72
+Product Name: Güres M Orta Boy 53-62 gr 6'lı Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 35,90 TL
+
+Market Products:
+ - Market: Migros               Product: Gures 6li M Orta Boy Yumurta (53-62 G) Price: 35,90 TL   Unit Price: 5,98 TL/Adet
+
+Similar Products:
+ - Similar Product: Doğalım 15'li Orta Boy Yumurta 53-62 gr            Price: 94,50 TL
+ - Similar Product: Coşkun 6'lı M Boy 53-62 gr Organik Yumurta         Price: 42,50 TL
+ - Similar Product: Anadolu Çiftliği 53-62 gr M Boy 10'lu Gezen Tavuk Yumurta Price: 57,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/gures-m-orta-boy-53-62-gr-6li-yumurta-_1448125.jpg
+
+
+73
+Product Name: Coşkun 10'lu L Boy Kahverengi Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 69,90 TL
+
+Market Products:
+ - Market: Migros               Product: Coskun Kahverengi Yumurta 10'lu L Boy (63-72 G) Price: 69,90 TL   Unit Price: 6,99 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumtat 10'lu 53-62 gr Kahverengi Yumurta           Price: 39,90 TL
+ - Similar Product: Kumbasar Kahverengi 10 Adet 53-62 gr Yumurta       Price: 47,80 TL
+ - Similar Product: Kılıçlar 10'lu L Boy Yumurta                       Price: 54,60 TL
+ - Similar Product: Flotty Organik 10'lu M Orta Boy Yumurta            Price: 92,50 TL
+ - Similar Product: Flotty Organik 10'lu M Orta Boy Yumurta            Price: 92,50 TL
+ - Similar Product: Güres L 10'lu Büyük Boy Yumurta                    Price: 51,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/coskun-10lu-l-boy-kahverengi-yumurta-_1441079.jpg
+
+
+74
+Product Name: Doğalım 15'li Orta Boy Yumurta 53-62 gr
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 94,50 TL
+
+Market Products:
+ - Market: Migros               Product: Dogalim 15'li M-orta Boy Yumurta (53-62 G) Price: 94,50 TL   Unit Price: 6,30 TL/Adet
+ - Market: Carrefour            Product: Dogalim Yumurta 15 Li 53-62 Gr Price: 99,75 TL   Unit Price: 6,65 TL/Adet
+
+Similar Products:
+ - Similar Product: Güres M Orta Boy 53-62 gr 6'lı Yumurta             Price: 35,90 TL
+ - Similar Product: Yumtat 15'li 53-62 gr Saf Kahverengi Yumurta       Price: 57,50 TL
+ - Similar Product: Yumtat 15'li 53-62 gr Beyaz Yumurta                Price: 57,50 TL
+
+Features:
+ - Paket Sayısı: 1
+ - Adet: 15 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/dogalim-15li-orta-boy-yumurta-53-62-gr-_1001167.jpg
+
+
+75
+Product Name: Bıldıryum 12'li Bıldırcın Yumurtası
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 29,90 TL
+
+Market Products:
+ - Market: Şok                  Product: Bildiryum Bildircin Yumurtasi 12 Adet Price: 29,90 TL   Unit Price: 2,49 TL/Adet
+
+Similar Products:
+ - Similar Product: Türem 12'li Bıldırcın Yumurtası                    Price: 24,70 TL
+ - Similar Product: Yeşil Foça 12'li Bıldırcın Yumurtası               Price: 50,75 TL
+ - Similar Product: Gordo 12'li Bıldırcın Yumurtası                    Price: 20,25 TL
+ - Similar Product: Güres 12'li Bıldırcın Yumurta                      Price: 29,90 TL
+
+Features:
+ - Ürün Tipi: Bıldırcın Yumurtası
+ - Adet: 12 Adet
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/bildiryum-12li-bildircin-yumurtasi-_324552.jpg
+
+
+76
+Product Name: Coşkun 6'lı M Boy 53-62 gr Organik Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 42,50 TL
+
+Market Products:
+ - Market: Şok                  Product: Coskun Organik Yumurta M 6'li (53-62 Gr) Price: 42,50 TL   Unit Price: 7,08 TL/Adet
+
+Similar Products:
+ - Similar Product: Güres M Orta Boy 53-62 gr 6'lı Yumurta             Price: 35,90 TL
+ - Similar Product: Doğalım 15'li Orta Boy Yumurta 53-62 gr            Price: 94,50 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+
+Features:
+ - Adet: 6 Adet
+ - Toplam Ağırlık: 318 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/coskun-6li-m-boy-53-62-gr-organik-yumurta-_1435150.jpg
+
+
+77
+Product Name: Organik 6'lı Small Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 32,50 TL
+
+Market Products:
+ - Market: Bim                  Product: Organik Yumurta 6'li 53-63 G   Price: 32,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/organik-6li-small-yumurta-_971846.jpg
+
+
+78
+Product Name: Gordo 15'li M Boy Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 47,90 TL
+
+Market Products:
+ - Market: Migros               Product: Gordo M Boy Yumurta 15li (53-62 G) Price: 47,90 TL   Unit Price: 3,19 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumurtacım L Boy 15'li 63-72 gr Yumurta            Price: 44,95 TL
+ - Similar Product: Heröğün 15'li L Boy Yumurta                        Price: 55,00 TL
+ - Similar Product: Doğalım 15'li Orta Boy Yumurta 53-62 gr            Price: 94,50 TL
+ - Similar Product: Bilken 63-73 15'li L Boy Yumurta                   Price: 44,95 TL
+
+Features:
+ - Paket Sayısı: 1
+ - Adet: 15 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/gordo-15li-m-boy-yumurta-_594588.jpg
+
+
+79
+Product Name: Yumtat 10'lu 53-62 gr Beyaz Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 39,90 TL
+
+Market Products:
+ - Market: Hakmar Express       Product: Yumurta Beyaz 10 Lu 53-62g Yumtat Price: 39,90 TL   Unit Price: 3,99 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumtat 15'li 53-62 gr Beyaz Yumurta                Price: 57,50 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Yumtat 30'lu 53-62 gr Beyaz Yumurta                Price: 109,00 TL
+ - Similar Product: Gurata 53-62 gr 10'lu M Gezen Tavuk Yumurtası      Price: 73,90 TL
+ - Similar Product: Gurata 53-62 gr 10'lu M Gezen Tavuk Yumurtası      Price: 73,90 TL
+ - Similar Product: S.S Tire Organik 10'lu 53-62 gr Yumurta            Price: 91,50 TL
+
+Features:
+ - Adet: 10 Adet
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg
+
+
+80
+Product Name: Türem 6'lı 53-63 gr Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 26,30 TL
+
+Market Products:
+ - Market: Carrefour            Product: Turem Yumurta 6 Li 53-63 Gr    Price: 26,30 TL   Unit Price: 4,38 TL/Adet
+
+Similar Products:
+ - Similar Product: Bili Bili 30'lu 53-63 gr Yumurta                   Price: 95,00 TL
+ - Similar Product: Yumtat 10'lu 53-62 gr Beyaz Yumurta                Price: 39,90 TL
+ - Similar Product: Yumtat 30'lu 53-62 gr Beyaz Yumurta                Price: 109,00 TL
+ - Similar Product: Gurata 53-62 gr 10'lu M Gezen Tavuk Yumurtası      Price: 73,90 TL
+ - Similar Product: Gurata 53-62 gr 10'lu M Gezen Tavuk Yumurtası      Price: 73,90 TL
+ - Similar Product: S.S Tire Organik 10'lu 53-62 gr Yumurta            Price: 91,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/turem-6li-53-63-gr-yumurta-_1454454.jpg
+
+
+81
+Product Name: Kılıçlar 10'lu L Boy Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 54,60 TL
+
+Market Products:
+ - Market: Carrefour            Product: Kiliclar Yum.10(l)             Price: 54,60 TL   Unit Price: 5,46 TL/Adet
+
+Similar Products:
+ - Similar Product: Flotty Organik 10'lu M Orta Boy Yumurta            Price: 92,50 TL
+ - Similar Product: Flotty Organik 10'lu M Orta Boy Yumurta            Price: 92,50 TL
+ - Similar Product: Kor Organik 10'lu M Orta Boy Yumurta               Price: 83,90 TL
+ - Similar Product: Kor Organik 10'lu M Orta Boy Yumurta               Price: 83,90 TL
+ - Similar Product: Flotty Organik L Boy 10'lu Yumurta                 Price: 95,50 TL
+ - Similar Product: Flotty Organik L Boy 10'lu Yumurta                 Price: 95,50 TL
+ - Similar Product: Güres L 10'lu Büyük Boy Yumurta                    Price: 51,90 TL
+ - Similar Product: Orvital Organik 10'lu Orta Boy Yumurta             Price: 95,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kiliclar-10lu-l-boy-yumurta-_1441982.jpg
+
+
+82
+Product Name: Türem 10'lu Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 52,10 TL
+
+Market Products:
+ - Market: Carrefour            Product: Turem Yumurta 10 Lu 63-73 Gr   Price: 52,10 TL   Unit Price: 5,21 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumtat 10'lu 53-62 gr Beyaz Yumurta                Price: 39,90 TL
+ - Similar Product: Kılıçlar 10'lu L Boy Yumurta                       Price: 54,60 TL
+
+Features:
+ - Adet: 10 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/turem-10lu-yumurta-_1001587.jpg
+
+
+83
+Product Name: Türem 12'li Bıldırcın Yumurtası
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 24,70 TL
+
+Market Products:
+ - Market: Carrefour            Product: Turem Bildircin Yumurtasi 12 Li Price: 24,70 TL   Unit Price: 2,06 TL/Adet
+
+Similar Products:
+ - Similar Product: Yeşil Foça 12'li Bıldırcın Yumurtası               Price: 50,75 TL
+ - Similar Product: Bıldıryum 12'li Bıldırcın Yumurtası                Price: 29,90 TL
+ - Similar Product: Gordo 12'li Bıldırcın Yumurtası                    Price: 20,25 TL
+ - Similar Product: Güres 12'li Bıldırcın Yumurta                      Price: 29,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/turem-12li-bildircin-yumurtasi-_1047562.jpg
+
+
+84
+Product Name: Yumtat 30'lu 53-62 gr Beyaz Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 109,00 TL
+
+Market Products:
+ - Market: Hakmar Express       Product: Yumurta Beyaz 30 Lu 53-62g Yumtat Price: 109,00 TL  Unit Price: 3,63 TL/Adet
+
+Similar Products:
+ - Similar Product: Bilken 30'lu M Boy 53-62 gr Beyaz Yumurta          Price: 84,95 TL
+ - Similar Product: Yumtat 15'li 53-62 gr Beyaz Yumurta                Price: 57,50 TL
+ - Similar Product: Yumtat 10'lu 53-62 gr Beyaz Yumurta                Price: 39,90 TL
+ - Similar Product: Yumtat 15'li 53-62 gr Saf Kahverengi Yumurta       Price: 57,50 TL
+
+Features:
+ - Adet: 30 Adet
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg
+
+
+85
+Product Name: Art Organik 15'li Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 96,50 TL
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Artorganik Yumurta 15li        Price: 96,50 TL   Unit Price: 6,43 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumtat 15'li 53-62 gr Saf Kahverengi Yumurta       Price: 57,50 TL
+ - Similar Product: Yumtat 15'li 53-62 gr Beyaz Yumurta                Price: 57,50 TL
+ - Similar Product: Heröğün 15'li L Boy Yumurta                        Price: 55,00 TL
+ - Similar Product: Kozlu 15'li l Duble Beyaz Yumurta                  Price: 55,00 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/art-organik-15li-yumurta-_1883976.jpg
+
+
+86
+Product Name: Flotty Organik 10'lu M Orta Boy Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 92,50 TL
+
+Market Products:
+ - Market: Migros               Product: Flotty Organik 10lu M Orta Boy Yumurta (53-62g) Price: 92,50 TL   Unit Price: 9,25 TL/Adet
+ - Market: Carrefour            Product: Flotty Organik Yumurta Medium 10 Lu Price: 99,75 TL   Unit Price: 9,97 TL/Adet
+
+Similar Products:
+ - Similar Product: Kor Organik 10'lu M Orta Boy Yumurta               Price: 83,90 TL
+ - Similar Product: Kor Organik 10'lu M Orta Boy Yumurta               Price: 83,90 TL
+ - Similar Product: Orvital Organik 10'lu Orta Boy Yumurta             Price: 95,90 TL
+ - Similar Product: Flotty Organik L Boy 10'lu Yumurta                 Price: 95,50 TL
+ - Similar Product: Flotty Organik L Boy 10'lu Yumurta                 Price: 95,50 TL
+ - Similar Product: Yumurtacım Organik 10'lu M Boy Yumurta             Price: 67,90 TL
+
+Features:
+ - Ürün Tipi: Organik
+ - Adet: 10 Adet
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/flotty-organik-10lu-m-orta-boy-yumurta-_282499.jpg
+
+
+87
+Product Name: Gurata 53-62 gr 10'lu M Gezen Tavuk Yumurtası
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 73,90 TL
+
+Market Products:
+ - Market: Migros               Product: Gurata Gezen Tavuk Yumurtasi 10lu M Boy(53-62g) Price: 73,90 TL   Unit Price: 7,39 TL/Adet
+
+Similar Products:
+ - Similar Product: Anadolu Çiftliği 53-62 gr M Boy 10'lu Gezen Tavuk Yumurta Price: 57,50 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Yumtat 10'lu 53-62 gr Beyaz Yumurta                Price: 39,90 TL
+ - Similar Product: Flotty 53-62 Baby 10'lu Organik Yumurta            Price: 88,75 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/gurata-53-62-gr-10lu-m-gezen-tavuk-yumurtasi-_1443599.jpg
+
+
+88
+Product Name: Kor Organik 10'lu M Orta Boy Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 83,90 TL
+
+Market Products:
+ - Market: Migros               Product: Kor Organik 10'lu M Orta Boy Yumurta (53-62) G Price: 83,90 TL   Unit Price: 8,39 TL/Adet
+
+Similar Products:
+ - Similar Product: Flotty Organik 10'lu M Orta Boy Yumurta            Price: 92,50 TL
+ - Similar Product: Flotty Organik 10'lu M Orta Boy Yumurta            Price: 92,50 TL
+ - Similar Product: Orvital Organik 10'lu Orta Boy Yumurta             Price: 95,90 TL
+ - Similar Product: Flotty Organik L Boy 10'lu Yumurta                 Price: 95,50 TL
+ - Similar Product: Flotty Organik L Boy 10'lu Yumurta                 Price: 95,50 TL
+ - Similar Product: Yumurtacım Organik 10'lu M Boy Yumurta             Price: 67,90 TL
+
+Features:
+ - Ürün Tipi: Organik
+ - Adet: 10 Adet
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/kor-organik-10lu-m-orta-boy-yumurta-_282463.jpg
+
+
+89
+Product Name: Yumurtacım L Boy 30'lu 63-72 gr Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 114,90 TL
+
+Market Products:
+ - Market: Migros               Product: Yumurtacim 30lu L Boy Yumurta (63-72 G) Price: 114,90 TL  Unit Price: 3,83 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumurtacım L Boy 15'li 63-72 gr Yumurta            Price: 44,95 TL
+ - Similar Product: Güres 63-72 gr Büyük Boy 15'li Yumurta             Price: 44,95 TL
+ - Similar Product: Kumbasar 30'lu 63-72 gr Yumurta                    Price: 114,45 TL
+ - Similar Product: Kumbasar 63-72 gr 10'lu Jumbo Yumurta              Price: 47,80 TL
+ - Similar Product: Anadolu Çiftliği L 15'li 63-72 gr Yumurta          Price: 44,95 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/yumurtacim-l-boy-30lu-63-72-gr-yumurta-_1667775.jpg
+
+
+90
+Product Name: Coşkun 20'li L Boy Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 105,90 TL
+
+Market Products:
+ - Market: Migros               Product: Coskun 20'li L Boy Yumurta (63-72 G) Price: 105,90 TL  Unit Price: 5,29 TL/Adet
+
+Similar Products:
+ - Similar Product: Gordo 15'li M Boy Yumurta                          Price: 47,90 TL
+ - Similar Product: Kılıçlar 10'lu L Boy Yumurta                       Price: 54,60 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/coskun-20li-l-boy-yumurta-_1603861.jpg
+
+
+91
+Product Name: Keskinoğlu 10'lu Omega-3 Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 73,50 TL
+
+Market Products:
+ - Market: Migros               Product: Keskinoglu Omega-3 M-orta Boy Yumrt.10lu (53-62 G) Price: 73,50 TL   Unit Price: 7,35 TL/Adet
+
+Similar Products:
+ - Similar Product: Carrefour 10 adet Omega 3 Yumurta                  Price: 69,90 TL
+ - Similar Product: Anadolu Çiftligi Omega 3 M 53-62 gr 10'lu Yumurta  Price: 46,90 TL
+
+Features:
+ - Adet: 10 Adet
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/keskinoglu-10lu-omega-3-yumurta-_282459.jpg
+
+
+92
+Product Name: Flotty Organik L Boy 10'lu Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 95,50 TL
+
+Market Products:
+ - Market: Migros               Product: Flotty Organik 10lu L Boy Yumurta (63-72 G) Price: 95,50 TL   Unit Price: 9,55 TL/Adet
+
+Similar Products:
+ - Similar Product: Flotty Organik 10'lu M Orta Boy Yumurta            Price: 92,50 TL
+ - Similar Product: Flotty Organik 10'lu M Orta Boy Yumurta            Price: 92,50 TL
+ - Similar Product: Kor Organik 10'lu M Orta Boy Yumurta               Price: 83,90 TL
+ - Similar Product: Kor Organik 10'lu M Orta Boy Yumurta               Price: 83,90 TL
+ - Similar Product: Orvital Organik 10'lu Orta Boy Yumurta             Price: 95,90 TL
+ - Similar Product: Yumurtacım Organik 10'lu M Boy Yumurta             Price: 67,90 TL
+ - Similar Product: Kılıçlar 10'lu L Boy Yumurta                       Price: 54,60 TL
+
+Features:
+ - Adet: 10 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/flotty-organik-l-boy-10lu-yumurta-_863866.jpg
+
+
+93
+Product Name: Raya 10'lu Gezen Tavuk Yumurtası
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 79,90 TL
+
+Market Products:
+ - Market: Carrefour            Product: Raya Gezen Tav.yumurtasi 10 Lu M 53-62 G Price: 79,90 TL   Unit Price: 7,99 TL/Adet
+ - Market: Migros               Product: Raya Gezen Tavuk Yumurtasi 10lu M Boy (53-62 G) Price: 79,90 TL   Unit Price: 7,99 TL/Adet
+
+Similar Products:
+ - Similar Product: Gurata 53-62 gr 10'lu M Gezen Tavuk Yumurtası      Price: 73,90 TL
+ - Similar Product: Gurata 53-62 gr 10'lu M Gezen Tavuk Yumurtası      Price: 73,90 TL
+ - Similar Product: Carrefour 10'lu M Boy Gezen Tavuk Yumurtası        Price: 65,90 TL
+ - Similar Product: Anadolu Çiftliği 53-62 gr M Boy 10'lu Gezen Tavuk Yumurta Price: 57,50 TL
+ - Similar Product: Bodrum Akça 10'lu Gezen Tavuk Yumurtası            Price: 69,29 TL
+
+Features:
+ - Ürün Tipi: Gezen Tavuk Yumurtası
+ - Adet: 10 Adet
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/raya-10lu-gezen-tavuk-yumurtasi-_319439.jpg
+
+
+94
+Product Name: Flotty 53-62 Baby 10'lu Organik Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 88,75 TL
+
+Market Products:
+ - Market: Carrefour            Product: Flotty Baby Organik Yumurta 10 Lu 53-62 Price: 88,75 TL   Unit Price: 8,88 TL/Adet
+
+Similar Products:
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: S.S Tire Organik 10'lu 53-62 gr Yumurta            Price: 91,50 TL
+ - Similar Product: Doğalım 53-62 gr 10'lu M Organik Yumurta           Price: 80,50 TL
+ - Similar Product: Coşkun 6'lı M Boy 53-62 gr Organik Yumurta         Price: 42,50 TL
+ - Similar Product: Yumtat 10'lu 53-62 gr Beyaz Yumurta                Price: 39,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/flotty-53-62-baby-10lu-organik-yumurta-_1861858.jpg
+
+
+95
+Product Name: Türem 63-73 gr 30'lu Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 116,15 TL
+
+Market Products:
+ - Market: Carrefour            Product: Turem Yumurta 30 Lu 63-73 Gr   Price: 116,15 TL  Unit Price: 3,87 TL/Adet
+
+Similar Products:
+ - Similar Product: Bilken 63-73 15'li L Boy Yumurta                   Price: 44,95 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: Bili Bili 30'lu 53-63 gr Yumurta                   Price: 95,00 TL
+ - Similar Product: Kumbasar 30'lu 63-72 gr Yumurta                    Price: 114,45 TL
+ - Similar Product: Türem 6'lı 53-63 gr Yumurta                        Price: 26,30 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/turem-63-73-gr-30lu-yumurta-_1442116.jpg
+
+
+96
+Product Name: Keskinoğlu 10'lu Omega-3 Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 73,50 TL
+
+Market Products:
+ - Market: Migros               Product: Keskinoglu Omega-3 M-orta Boy Yumrt.10lu (53-62 G) Price: 73,50 TL   Unit Price: 7,35 TL/Adet
+
+Similar Products:
+ - Similar Product: Carrefour 10 adet Omega 3 Yumurta                  Price: 69,90 TL
+ - Similar Product: Anadolu Çiftligi Omega 3 M 53-62 gr 10'lu Yumurta  Price: 46,90 TL
+
+Features:
+ - Adet: 10 Adet
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/keskinoglu-10lu-omega-3-yumurta-_282459.jpg
+
+
+97
+Product Name: Kumartaşlı M 6'lı 53-62 gr Organik Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 42,50 TL
+
+Market Products:
+ - Market: Şok                  Product: Kumartasli Organik Yumurta M 6'li (53-62 Gr) Price: 42,50 TL   Unit Price: 7,08 TL/Adet
+
+Similar Products:
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Coşkun 6'lı M Boy 53-62 gr Organik Yumurta         Price: 42,50 TL
+ - Similar Product: Flotty 53-62 Baby 10'lu Organik Yumurta            Price: 88,75 TL
+ - Similar Product: S.S Tire Organik 10'lu 53-62 gr Yumurta            Price: 91,50 TL
+ - Similar Product: Setyum 6'lı 53-62 gr Organik Yumurta               Price: 42,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kumartasli-m-6li-53-62-gr-organik-yumurta-_1433769.jpg
+
+
+98
+Product Name: Flotty Organik L Boy 10'lu Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 95,50 TL
+
+Market Products:
+ - Market: Migros               Product: Flotty Organik 10lu L Boy Yumurta (63-72 G) Price: 95,50 TL   Unit Price: 9,55 TL/Adet
+
+Similar Products:
+ - Similar Product: Flotty Organik 10'lu M Orta Boy Yumurta            Price: 92,50 TL
+ - Similar Product: Flotty Organik 10'lu M Orta Boy Yumurta            Price: 92,50 TL
+ - Similar Product: Kor Organik 10'lu M Orta Boy Yumurta               Price: 83,90 TL
+ - Similar Product: Kor Organik 10'lu M Orta Boy Yumurta               Price: 83,90 TL
+ - Similar Product: Orvital Organik 10'lu Orta Boy Yumurta             Price: 95,90 TL
+ - Similar Product: Yumurtacım Organik 10'lu M Boy Yumurta             Price: 67,90 TL
+ - Similar Product: Kılıçlar 10'lu L Boy Yumurta                       Price: 54,60 TL
+
+Features:
+ - Adet: 10 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/flotty-organik-l-boy-10lu-yumurta-_863866.jpg
+
+
+99
+Product Name: Raya 10'lu Gezen Tavuk Yumurtası
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 79,90 TL
+
+Market Products:
+ - Market: Carrefour            Product: Raya Gezen Tav.yumurtasi 10 Lu M 53-62 G Price: 79,90 TL   Unit Price: 7,99 TL/Adet
+ - Market: Migros               Product: Raya Gezen Tavuk Yumurtasi 10lu M Boy (53-62 G) Price: 79,90 TL   Unit Price: 7,99 TL/Adet
+
+Similar Products:
+ - Similar Product: Gurata 53-62 gr 10'lu M Gezen Tavuk Yumurtası      Price: 73,90 TL
+ - Similar Product: Gurata 53-62 gr 10'lu M Gezen Tavuk Yumurtası      Price: 73,90 TL
+ - Similar Product: Carrefour 10'lu M Boy Gezen Tavuk Yumurtası        Price: 65,90 TL
+ - Similar Product: Anadolu Çiftliği 53-62 gr M Boy 10'lu Gezen Tavuk Yumurta Price: 57,50 TL
+ - Similar Product: Bodrum Akça 10'lu Gezen Tavuk Yumurtası            Price: 69,29 TL
+
+Features:
+ - Ürün Tipi: Gezen Tavuk Yumurtası
+ - Adet: 10 Adet
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/raya-10lu-gezen-tavuk-yumurtasi-_319439.jpg
+
+
+100
+Product Name: S.S Tire Organik 10'lu 53-62 gr Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 91,50 TL
+
+Market Products:
+ - Market: Migros               Product: Tire Organik Yumurta 10lu M Boy(53-62 G) Price: 91,50 TL   Unit Price: 9,15 TL/Adet
+
+Similar Products:
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Yumtat 10'lu 53-62 gr Beyaz Yumurta                Price: 39,90 TL
+ - Similar Product: Gurata 53-62 gr 10'lu M Gezen Tavuk Yumurtası      Price: 73,90 TL
+ - Similar Product: Gurata 53-62 gr 10'lu M Gezen Tavuk Yumurtası      Price: 73,90 TL
+ - Similar Product: Flotty 53-62 Baby 10'lu Organik Yumurta            Price: 88,75 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/s-s-tire-organik-10lu-53-62-gr-yumurta-_1441927.jpg
+
+
+101
+Product Name: Mertgül Tav 63-72 gr l 15'li Kahve Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 61,55 TL
+
+Market Products:
+ - Market: Carrefour            Product: Mertgul-tav 15 Li Kahve.yum.63-72 Gr (l) Price: 61,55 TL   Unit Price: 4,10 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumurtacım L Boy 15'li 63-72 gr Yumurta            Price: 44,95 TL
+ - Similar Product: Anadolu Çiftliği L 15'li 63-72 gr Yumurta          Price: 44,95 TL
+ - Similar Product: Güres 63-72 gr Büyük Boy 15'li Yumurta             Price: 44,95 TL
+ - Similar Product: Bili Bili 15'li 63-72 gr Yumurta                   Price: 55,00 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg
+
+
+102
+Product Name: Flotty Organik 10'lu M Orta Boy Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 92,50 TL
+
+Market Products:
+ - Market: Migros               Product: Flotty Organik 10lu M Orta Boy Yumurta (53-62g) Price: 92,50 TL   Unit Price: 9,25 TL/Adet
+ - Market: Carrefour            Product: Flotty Organik Yumurta Medium 10 Lu Price: 99,75 TL   Unit Price: 9,97 TL/Adet
+
+Similar Products:
+ - Similar Product: Kor Organik 10'lu M Orta Boy Yumurta               Price: 83,90 TL
+ - Similar Product: Kor Organik 10'lu M Orta Boy Yumurta               Price: 83,90 TL
+ - Similar Product: Orvital Organik 10'lu Orta Boy Yumurta             Price: 95,90 TL
+ - Similar Product: Flotty Organik L Boy 10'lu Yumurta                 Price: 95,50 TL
+ - Similar Product: Flotty Organik L Boy 10'lu Yumurta                 Price: 95,50 TL
+ - Similar Product: Yumurtacım Organik 10'lu M Boy Yumurta             Price: 67,90 TL
+
+Features:
+ - Ürün Tipi: Organik
+ - Adet: 10 Adet
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/flotty-organik-10lu-m-orta-boy-yumurta-_282499.jpg
+
+
+103
+Product Name: Gurata 53-62 gr 10'lu M Gezen Tavuk Yumurtası
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 73,90 TL
+
+Market Products:
+ - Market: Migros               Product: Gurata Gezen Tavuk Yumurtasi 10lu M Boy(53-62g) Price: 73,90 TL   Unit Price: 7,39 TL/Adet
+
+Similar Products:
+ - Similar Product: Anadolu Çiftliği 53-62 gr M Boy 10'lu Gezen Tavuk Yumurta Price: 57,50 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Yumtat 10'lu 53-62 gr Beyaz Yumurta                Price: 39,90 TL
+ - Similar Product: Flotty 53-62 Baby 10'lu Organik Yumurta            Price: 88,75 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/gurata-53-62-gr-10lu-m-gezen-tavuk-yumurtasi-_1443599.jpg
+
+
+104
+Product Name: Güres L 10'lu Büyük Boy Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 51,90 TL
+
+Market Products:
+ - Market: Migros               Product: Gures 10lu L-buyuk Boy Yumurta (63-72g.) Price: 51,90 TL   Unit Price: 5,19 TL/Adet
+
+Similar Products:
+ - Similar Product: Güres 63-72 gr Büyük Boy 15'li Yumurta             Price: 44,95 TL
+ - Similar Product: Kılıçlar 10'lu L Boy Yumurta                       Price: 54,60 TL
+ - Similar Product: Flotty Organik 10'lu M Orta Boy Yumurta            Price: 92,50 TL
+ - Similar Product: Flotty Organik 10'lu M Orta Boy Yumurta            Price: 92,50 TL
+ - Similar Product: Kor Organik 10'lu M Orta Boy Yumurta               Price: 83,90 TL
+ - Similar Product: Kor Organik 10'lu M Orta Boy Yumurta               Price: 83,90 TL
+
+Features:
+ - Adet: 10 Adet
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/gures-l-10lu-buyuk-boy-yumurta-_1415143.jpg
+
+
+105
+Product Name: Kor Organik 10'lu M Orta Boy Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 83,90 TL
+
+Market Products:
+ - Market: Migros               Product: Kor Organik 10'lu M Orta Boy Yumurta (53-62) G Price: 83,90 TL   Unit Price: 8,39 TL/Adet
+
+Similar Products:
+ - Similar Product: Flotty Organik 10'lu M Orta Boy Yumurta            Price: 92,50 TL
+ - Similar Product: Flotty Organik 10'lu M Orta Boy Yumurta            Price: 92,50 TL
+ - Similar Product: Orvital Organik 10'lu Orta Boy Yumurta             Price: 95,90 TL
+ - Similar Product: Flotty Organik L Boy 10'lu Yumurta                 Price: 95,50 TL
+ - Similar Product: Flotty Organik L Boy 10'lu Yumurta                 Price: 95,50 TL
+ - Similar Product: Yumurtacım Organik 10'lu M Boy Yumurta             Price: 67,90 TL
+
+Features:
+ - Ürün Tipi: Organik
+ - Adet: 10 Adet
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/kor-organik-10lu-m-orta-boy-yumurta-_282463.jpg
+
+
+106
+Product Name: Yumurtacım L Boy 30'lu 63-72 gr Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 114,90 TL
+
+Market Products:
+ - Market: Migros               Product: Yumurtacim 30lu L Boy Yumurta (63-72 G) Price: 114,90 TL  Unit Price: 3,83 TL/Adet
+
+Similar Products:
+ - Similar Product: Yumurtacım L Boy 15'li 63-72 gr Yumurta            Price: 44,95 TL
+ - Similar Product: Güres 63-72 gr Büyük Boy 15'li Yumurta             Price: 44,95 TL
+ - Similar Product: Kumbasar 30'lu 63-72 gr Yumurta                    Price: 114,45 TL
+ - Similar Product: Kumbasar 63-72 gr 10'lu Jumbo Yumurta              Price: 47,80 TL
+ - Similar Product: Anadolu Çiftliği L 15'li 63-72 gr Yumurta          Price: 44,95 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/yumurtacim-l-boy-30lu-63-72-gr-yumurta-_1667775.jpg
+
+
+107
+Product Name: Orvital Organik 10'lu Orta Boy Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 95,90 TL
+
+Market Products:
+ - Market: Migros               Product: Orvital Organik 10lu M Orta Boy Yumurta (53-62 G) Price: 95,90 TL   Unit Price: 9,59 TL/Adet
+
+Similar Products:
+ - Similar Product: Flotty Organik 10'lu M Orta Boy Yumurta            Price: 92,50 TL
+ - Similar Product: Flotty Organik 10'lu M Orta Boy Yumurta            Price: 92,50 TL
+ - Similar Product: Kor Organik 10'lu M Orta Boy Yumurta               Price: 83,90 TL
+ - Similar Product: Kor Organik 10'lu M Orta Boy Yumurta               Price: 83,90 TL
+ - Similar Product: Flotty Organik L Boy 10'lu Yumurta                 Price: 95,50 TL
+ - Similar Product: Flotty Organik L Boy 10'lu Yumurta                 Price: 95,50 TL
+ - Similar Product: Yumurtacım Organik 10'lu M Boy Yumurta             Price: 67,90 TL
+
+Features:
+ - Ürün Tipi: Organik
+ - Adet: 10 Adet
+ - Menşei: Türkiye
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/orvital-organik-10lu-orta-boy-yumurta-_282465.jpg
+
+
+108
+Product Name: Setyum 6'lı 53-62 gr Organik Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 42,50 TL
+
+Market Products:
+ - Market: Şok                  Product: Setyum Organik Yumurta M 6'li (53-62 Gr) Price: 42,50 TL   Unit Price: 7,08 TL/Adet
+
+Similar Products:
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Coşkun 6'lı M Boy 53-62 gr Organik Yumurta         Price: 42,50 TL
+ - Similar Product: Flotty 53-62 Baby 10'lu Organik Yumurta            Price: 88,75 TL
+ - Similar Product: S.S Tire Organik 10'lu 53-62 gr Yumurta            Price: 91,50 TL
+ - Similar Product: Kumartaşlı M 6'lı 53-62 gr Organik Yumurta         Price: 42,50 TL
+
+Features:
+ - Adet: 6 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/setyum-6li-53-62-gr-organik-yumurta-_1432852.jpg
+
+
+109
+Product Name: Keskinoğlu 30 'lu M Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 84,95 TL
+
+Market Products:
+ - Market: Migros               Product: Keskinoglu 30'lu M-orta Boy Yumurta (53-62 G.) Price: 84,95 TL   Unit Price: 2,83 TL/Adet
+ - Market: Tarım Kredi Kooperatifi Product: Keskinoglu 30 Lu Medium Yumurta Price: 87,50 TL   Unit Price: 2,92 TL/Adet
+
+Similar Products:
+ - Similar Product: Türem 63-73 gr 30'lu Yumurta                       Price: 116,15 TL
+ - Similar Product: Yumtat 30'lu 53-62 gr Beyaz Yumurta                Price: 109,00 TL
+
+Features:
+ - Ürün Tipi: Organik
+ - Adet: 30 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/keskinoglu-30-lu-m-yumurta-_282447.jpg
+
+
+110
+Product Name: Yumurtacım L Boy 15'li 63-72 gr Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 44,95 TL
+
+Market Products:
+ - Market: Migros               Product: Yumurtacim 15li L Boy Yumurta (63-72 G) Price: 44,95 TL   Unit Price: 3,00 TL/Adet
+
+Similar Products:
+ - Similar Product: Güres 63-72 gr Büyük Boy 15'li Yumurta             Price: 44,95 TL
+ - Similar Product: Anadolu Çiftliği L 15'li 63-72 gr Yumurta          Price: 44,95 TL
+ - Similar Product: Mertgül Tav 63-72 gr l 15'li Kahve Yumurta         Price: 61,55 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+ - Similar Product: Yumurtacım L Boy 30'lu 63-72 gr Yumurta            Price: 114,90 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/yumurtacim-l-boy-15li-63-72-gr-yumurta-_1129718.jpg
+
+
+111
+Product Name: Gordo Organik M 6'lı 53-62 gr Yumurta
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Yumurta,
+Cheapest Price: 42,50 TL
+
+Market Products:
+ - Market: Şok                  Product: Gordo Organik Yumurta M 6'li (53-62 Gr) Price: 42,50 TL   Unit Price: 7,08 TL/Adet
+
+Similar Products:
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Seyyahın Çiftliği 10'lu 53-62 gr Organik Yumurta   Price: 121,75 TL
+ - Similar Product: Coşkun 6'lı M Boy 53-62 gr Organik Yumurta         Price: 42,50 TL
+ - Similar Product: Flotty 53-62 Baby 10'lu Organik Yumurta            Price: 88,75 TL
+ - Similar Product: Kumartaşlı M 6'lı 53-62 gr Organik Yumurta         Price: 42,50 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/gordo-organik-m-6li-53-62-gr-yumurta-_1701667.jpg
+
+
+{'abalı': 1, 'çiftliği': 5, "30'lu": 23, 'm': 41, 'boy': 44, 'yumurta': 97, 'bili': 4, '53-63': 2, 'gr': 42, 'lopi': 1, "6'lı": 18, '53-62': 31, 'organik': 28, 'güres': 5, 'agsu': 1, '12': 2, 'adet': 4, 'doğal': 1, 'bıldırcın': 6, 'yumurtası': 14, 'keskinoğlu': 5, 's': 1, "15'li": 22, '63-72': 9, 'carrefour': 7, 'medium': 2, 'anadolu': 4, 'l': 20, 'yumtat': 5, "10'lu": 35, 'kahverengi': 4, 'kılıçlar': 2, 'dedefarm': 2, 'dede': 1, 'farm': 1, 'free': 1, 'range': 1, 'sade': 1, 'kumbasar': 5, 'gordo': 3, "12'li": 5, 'yumurtacım': 6, 'raya': 3, "8'li": 1, 'bilken': 4, 'beyaz': 8, 'doğalım': 3, 'orta': 8, 'green': 1, 'ranch': 1, 'bornova': 3, 'çicekliköy': 1, 'ali': 2, 'babanın': 2, 'bahçesinden': 2, 'gezen': 10, 'tavuk': 10, 'seltav': 2, 'bodrum': 2, 'akça': 2, '10': 2, 'omega': 2, '3': 2, 'büyük': 2, 'çiftligi': 2, 'güzide': 1, 'hanım': 1, 'tombul': 1, 'piliç': 1, 'koru': 1, 'large': 2, 'türem': 6, 'ada': 1, 'konyum': 1, 'kozlu': 2, 'yeniana': 1, 'saf': 1, "20'lı": 1, 'cp': 1, 'heröğün': 2, 'özlü': 1, 'duble': 1, 'yeşil': 1, 'foça': 1, 'seyyahın': 2, 'çiçekliköy': 2, 'kumb': 1, "6'li": 1, 'jumbo': 1, '63-73': 2, 'coşkun': 3, 'bıldıryum': 1, 
+'small': 1, 'art': 1, 'flotty': 5, 'gurata': 2, 'kor': 2, "20'li": 1, 'omega-3': 2, 'baby': 1, 'kumartaşlı': 1, 's.s': 1, 'tire': 1, 'mertgül': 1, 'tav': 1, 'kahve': 1, 'orvital': 1, 'setyum': 1, '30': 1, "'lu": 1}
+['Adet', 'Menşei', 'Ürün Tipi', 'Kategori', 'Paket Sayısı', 'Organik', 'Toplam Ağırlık']
+
+
+# Ürün içeriği 
+yumurta_içerik_dict = {"30'lu":"30'lu", 'm':'Medium', 'organik':'Organik',
+'doğal': 'Doğal', "6'lı":"6'lı",'bıldırcın':'Bıldırcın', "15'li":"15'li", "10'lu":"10'lu",
+'kahverengi':'Kahverengi','farm':'Farm','free':'Free', 'range':'Range', 'sade':'Sade',
+ "20'li":"20'li",'small':'small','large':'Large'
+
+}
+# Ürün tipi
+yumurta_ürün_tipi_dict = {
+    "30'lu": 'Yumurta',
+    'm': 'Yumurta',
+    'organik': 'Yumurta',
+    'doğal': 'Yumurta',
+    "6'lı": 'Yumurta',
+    'bıldırcın': 'Yumurta',
+    "15'li": 'Yumurta',
+    "10'lu": 'Yumurta',
+    'kahverengi': 'Yumurta',
+    'farm': 'Yumurta',
+    'free': 'Yumurta',
+    'range': 'Yumurta',
+    'sade': 'Yumurta',
+    "20'li": 'Yumurta',
+    'small': 'Yumurta',
+    'large': 'Yumurta'
+}
+
+# Ürün türü
+yumurta_ürün_türü_dict = {
+    "30'lu": "30'lu Yumurta",
+    'm': 'Medium Yumurta',
+    'organik': 'Organik Yumurta',
+    'doğal': 'Doğal Yumurta',
+    "6'lı": "6'lı Yumurta",
+    'bıldırcın': 'Bıldırcın Yumurta',
+    "15'li": "15'li Yumurta",
+    "10'lu": "10'lu Yumurta",
+    'kahverengi': 'Kahverengi Yumurta',
+    'farm': 'Farm Yumurta',
+    'free': 'Free Yumurta',
+    'range': 'Range Yumurta',
+    'sade': 'Sade Yumurta',
+    "20'li": "20'li Yumurta",
+    'small': 'small Yumurta',
+    'large': 'Large Yumurta'
+}

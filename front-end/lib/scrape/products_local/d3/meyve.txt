@@ -1,0 +1,1794 @@
+1
+Product Name: Erik
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 14,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Erik Can Kg                    Price: 14,90 TL   Unit Price: 14,90 TL/kg
+ - Market: Bim                  Product: Yesil Erik Kg                  Price: 34,50 TL   Unit Price: 34,50 TL/kg
+ - Market: Migros               Product: Erik Can Pkt Kg                Price: 37,90 TL   Unit Price: 37,90 TL/kg
+ - Market: Migros               Product: Erik Can Kg.                   Price: 39,90 TL   Unit Price: 39,90 TL/kg
+ - Market: Şok                  Product: Papaz Erik Kg                  Price: 99,90 TL   Unit Price: 99,90 TL/kg
+ - Market: Şok                  Product: Erik Can 500 Gr Paket          Price: 99,90 TL   Unit Price: 199,80 TL/kg
+ - Market: Migros               Product: Erik Can 250 Gr Adet           Price: 200,00 TL  Unit Price: 800,00 TL/kg
+
+Similar Products:
+ - Similar Product: Anjelika Erik                                      Price: 39,95 TL  
+ - Similar Product: Papaz Erik                                         Price: 27,45 TL  
+ - Similar Product: Kırmızı Erik                                       Price: 36,90 TL  
+ - Similar Product: Malta Eriği                                        Price: 44,90 TL  
+
+Features:
+ - Ürün Tipi: Erik
+Product Image URL:  
+
+
+2
+Product Name: Yaban Mersini
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 25,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Frutibon Yaban Mersini 50gr    Price: 25,50 TL   Unit Price: 510,00 TL/kg
+ - Market: Carrefour            Product: Blueberry-yaban Mersini 125 G  Price: 39,90 TL   Unit Price: 319,20 TL/kg
+ - Market: Carrefour            Product: Verita Blueberry-yaban Mersini 125g Price: 89,90 TL   Unit Price: 719,20 TL/kg
+
+Similar Products:
+ - Similar Product: Yaban Mersini (Paket)                              Price: 69,50 TL  
+
+Features:
+ - Ürün Tipi: Yaban Mersini
+Product Image URL:  
+
+
+3
+Product Name: Karpuz kg
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 7,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Karpuz Kg                      Price: 7,50 TL    Unit Price: 7,50 TL/kg
+ - Market: Bim                  Product: Karpuz Kg                      Price: 29,75 TL   Unit Price: 29,75 TL/kg
+ - Market: Şok                  Product: Karpuz Kg.                     Price: 39,90 TL   Unit Price: 39,90 TL/kg
+ - Market: Carrefour            Product: Karpuz Kg                      Price: 44,90 TL   Unit Price: 44,90 TL/kg
+
+Similar Products:
+ - Similar Product: Mini Karpuz Kg                                     Price: 9,75 TL   
+ - Similar Product: Çekirdeksiz Karpuz                                 Price: 9,75 TL   
+ - Similar Product: Siyah Karpuz                                       Price: 17,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/karpuz-kg-_1506200.jpg 
+
+
+4
+Product Name: Yerli Muz
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 37,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Muz Yerli Dokme Kg             Price: 37,75 TL   Unit Price: 37,75 TL/kg
+ - Market: Şok                  Product: Yerli Muz Kg.                  Price: 45,90 TL   Unit Price: 45,90 TL/kg
+ - Market: Şok                  Product: Yerli Muz 750 Gr               Price: 46,90 TL   Unit Price: 62,53 TL/kg
+ - Market: Tarım Kredi Kooperatifi Product: Muz Yerli Kg                   Price: 47,90 TL   Unit Price: 47,90 TL/kg
+ - Market: Hakmar Express       Product: Meyve Muz Yerli Kg Fiyati      Price: 49,95 TL   Unit Price: 49,95 TL/kg
+ - Market: Carrefour            Product: Muz Yerli Kg                   Price: 57,90 TL   Unit Price: 57,90 TL/kg
+
+Similar Products:
+ - Similar Product: Organik Muz                                        Price: 69,90 TL  
+
+Features:
+ - Ürün Tipi: Muz
+Product Image URL:  
+
+
+5
+Product Name: Taze Çağla
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 10,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Çagla Kg.                      Price: 10,00 TL   Unit Price: 10,00 TL/kg
+ - Market: Şok                  Product: Çagla Paket 250 Gr.            Price: 19,90 TL   Unit Price: 79,60 TL/kg
+ - Market: Şok                  Product: Çagla Paket 500 Gr.            Price: 29,90 TL   Unit Price: 59,80 TL/kg
+ - Market: Migros               Product: Çagla Badem Kg.                Price: 200,00 TL  Unit Price: 200,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Çağla
+Product Image URL:  
+
+
+6
+Product Name: Papaz Erik
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 27,45 TL 
+
+Market Products:
+ - Market: Migros               Product: Erik Papaz 500 G Paket Adet    Price: 27,45 TL   Unit Price: 54,90 TL/kg
+ - Market: Migros               Product: Erik Papaz Ekstra Kg           Price: 56,90 TL   Unit Price: 56,90 TL/kg
+ - Market: Migros               Product: Erik Papaz Kg.                 Price: 79,90 TL   Unit Price: 79,90 TL/kg
+
+Similar Products:
+ - Similar Product: Anjelika Erik                                      Price: 39,95 TL  
+ - Similar Product: Alyanak Erik                                       Price: 22,90 TL  
+ - Similar Product: Mürdüm Erik Kg                                     Price: 29,90 TL  
+ - Similar Product: Erik                                               Price: 14,90 TL  
+
+Features:
+Product Image URL:  
+
+
+7
+Product Name: Ejder Meyvesi Adet
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 24,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Ejder Meyvesi                  Price: 24,75 TL   Unit Price: 24,75 TL/Adet
+ - Market: Carrefour            Product: Pitahaya Ejder Meyvesi         Price: 29,90 TL   Unit Price: 29,90 TL/Adet
+ - Market: Şok                  Product: Pitahaya (ejder Meyvesi) Adet  Price: 49,90 TL   Unit Price: 49,90 TL/Adet
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Ejder Meyvesi
+Product Image URL:  
+
+
+8
+Product Name: Kiraz
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 44,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Kiraz Kg (22-24 Mm) Eko        Price: 44,90 TL   Unit Price: 44,90 TL/kg
+ - Market: Carrefour            Product: Kiraz Kg                       Price: 102,90 TL  Unit Price: 102,90 TL/kg
+ - Market: Şok                  Product: Kiraz Paket                    Price: 149,00 TL  Unit Price: 149,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Kiraz
+Product Image URL:  
+
+
+9
+Product Name: Japon Şeftali
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 200,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Yassi Şeftali Kg               Price: 200,00 TL  Unit Price: 200,00 TL/kg
+
+Similar Products:
+ - Similar Product: Şeftali                                            Price: 29,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/japon-seftali-_1134638.jpg 
+
+
+10
+Product Name: Çekirdeksiz Üzüm
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 27,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Çekirdeksiz Üzum Dokme Kg      Price: 27,75 TL   Unit Price: 27,75 TL/kg
+ - Market: Migros               Product: Üzum Çekirdeksiz Kg.           Price: 54,90 TL   Unit Price: 54,90 TL/kg
+ - Market: Şok                  Product: Çekirdeksiz Üzum Kg.           Price: 89,90 TL   Unit Price: 89,90 TL/kg
+
+Similar Products:
+ - Similar Product: Çekirdeksiz Karpuz                                 Price: 9,75 TL   
+ - Similar Product: Salihli Üzüm                                       Price: 200,00 TL 
+ - Similar Product: Siyah Üzüm Adet                                    Price: 64,90 TL  
+ - Similar Product: Beyaz Üzüm                                         Price: 34,90 TL  
+
+Features:
+ - Ürün Tipi: Beyaz Üzüm
+Product Image URL:  
+
+
+11
+Product Name: Kestane
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 99,50 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Meyve Kestane Kg Fiyati        Price: 99,50 TL   Unit Price: 99,50 TL/kg
+ - Market: A101                 Product: Kestane Kg                     Price: 199,95 TL  Unit Price: 199,95 TL/kg
+ - Market: Şok                  Product: Kestane Kg.                    Price: 229,90 TL  Unit Price: 229,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Kestane
+Product Image URL:  
+
+
+12
+Product Name: Limon
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 7,25 TL 
+
+Market Products:
+ - Market: Bim                  Product: Limon Kg                       Price: 7,25 TL    Unit Price: 7,25 TL/kg
+ - Market: Bim                  Product: Limon Kg                       Price: 7,25 TL    Unit Price: 7,25 TL/kg
+ - Market: Carrefour            Product: Limon Enterdonat               Price: 14,50 TL   Unit Price: 14,50 TL/kg
+ - Market: Tarım Kredi Kooperatifi Product: Limon Kg                       Price: 15,90 TL   Unit Price: 15,90 TL/kg
+ - Market: Bim                  Product: Limon Dokme Kg                 Price: 16,75 TL   Unit Price: 16,75 TL/kg
+ - Market: Hakmar Express       Product: Yesillik Limon Taze Kg Fiyati  Price: 16,95 TL   Unit Price: 16,95 TL/kg
+ - Market: Şok                  Product: Limon Pazar Kg                 Price: 18,45 TL   Unit Price: 18,45 TL/kg
+ - Market: Şok                  Product: Limon Kg                       Price: 18,75 TL   Unit Price: 18,75 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Limon
+Product Image URL:  
+
+
+13
+Product Name: Çilek
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 29,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Çilek 400 Gr Paket             Price: 29,90 TL   Unit Price: 74,75 TL/kg
+ - Market: Migros               Product: Hemen Çilek Paket Adet 250 G   Price: 45,00 TL   Unit Price: 180,00 TL/kg
+ - Market: Carrefour            Product: Çilek Paket 500 Gr             Price: 79,90 TL   Unit Price: 159,80 TL/kg
+ - Market: Carrefour            Product: Çilek                          Price: 129,90 TL  Unit Price: 129,90 TL/kg
+ - Market: Migros               Product: Çilek Kg.                      Price: 129,95 TL  Unit Price: 129,95 TL/kg
+ - Market: Şok                  Product: Çilek Kg.                      Price: 149,90 TL  Unit Price: 149,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Çilek
+Product Image URL:  
+
+
+14
+Product Name: Kumkuat
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 39,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Kumkuat 200 Gr                 Price: 39,90 TL   Unit Price: 199,50 TL/kg
+ - Market: Carrefour            Product: Kumkuat 200 Gr                 Price: 45,90 TL   Unit Price: 229,50 TL/kg
+ - Market: Carrefour            Product: Kumkuat Kg                     Price: 54,90 TL   Unit Price: 54,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Kumkuat
+Product Image URL:  
+
+
+15
+Product Name: Sıkmalık Portakal
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 13,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Portakal Sikmalik Kg           Price: 13,75 TL   Unit Price: 13,75 TL/kg
+ - Market: Hakmar Express       Product: Meyve Portakal Sikma Kg Fiyati Price: 14,95 TL   Unit Price: 14,95 TL/kg
+ - Market: Bim                  Product: Portakal Sikmalik Kg           Price: 16,75 TL   Unit Price: 16,75 TL/kg
+ - Market: Carrefour            Product: Portakal Sikmalik              Price: 17,90 TL   Unit Price: 17,90 TL/kg
+ - Market: A101                 Product: Portakal Sikma File            Price: 18,50 TL   Unit Price: 18,50 TL/kg
+
+Similar Products:
+ - Similar Product: Finike Portakal                                    Price: 19,95 TL  
+ - Similar Product: Organik Portakal                                   Price: 39,90 TL  
+
+Features:
+ - Ürün Tipi: Portakal
+Product Image URL:  
+
+
+16
+Product Name: Anjelika Erik
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 39,95 TL 
+
+Market Products:
+ - Market: Şok                  Product: Erik Anjelika 500 G            Price: 39,95 TL   Unit Price: 79,90 TL/kg
+ - Market: Migros               Product: Erik Angelica Kg.              Price: 79,90 TL   Unit Price: 79,90 TL/kg
+ - Market: Hakmar Express       Product: Meyve Erik Anjelika Kg Fiyati  Price: 79,95 TL   Unit Price: 79,95 TL/kg
+
+Similar Products:
+ - Similar Product: Papaz Erik                                         Price: 27,45 TL  
+ - Similar Product: Alyanak Erik                                       Price: 22,90 TL  
+ - Similar Product: Mürdüm Erik Kg                                     Price: 29,90 TL  
+ - Similar Product: Erik                                               Price: 14,90 TL  
+
+Features:
+ - Ürün Tipi: Erik
+Product Image URL:  
+
+
+17
+Product Name: Ananas Adet
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 49,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Ananas Adet                    Price: 49,75 TL   Unit Price: 49,75 TL/Adet
+ - Market: Hakmar Express       Product: Meyve Ananas Adet              Price: 79,95 TL   Unit Price: 79,95 TL/Adet
+ - Market: Şok                  Product: Ananas Adet                    Price: 89,95 TL   Unit Price: 89,95 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL:  
+
+
+18
+Product Name: Kırkağaç Kavun
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 49,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Kavun Kirkagac Kg              Price: 49,90 TL   Unit Price: 49,90 TL/kg
+ - Market: Carrefour            Product: Kavun Kirkagac Kg.             Price: 49,95 TL   Unit Price: 49,95 TL/kg
+
+Similar Products:
+ - Similar Product: Kallavi Kavun                                      Price: 8,79 TL   
+ - Similar Product: Biga Kavun                                         Price: 37,90 TL  
+ - Similar Product: Kışlık Kavun                                       Price: 59,90 TL  
+ - Similar Product: Kavun                                              Price: 7,90 TL   
+
+Features:
+ - Ürün Tipi: Kavun
+Product Image URL:  
+
+
+19
+Product Name: Portakal
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 14,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Portakal Kg                    Price: 14,75 TL   Unit Price: 14,75 TL/kg
+ - Market: Bim                  Product: Portakal Kg                    Price: 15,75 TL   Unit Price: 15,75 TL/kg
+ - Market: Tarım Kredi Kooperatifi Product: Portakal Kg                    Price: 16,90 TL   Unit Price: 16,90 TL/kg
+ - Market: Şok                  Product: Portakal Kg.                   Price: 17,50 TL   Unit Price: 17,50 TL/kg
+
+Similar Products:
+ - Similar Product: Finike Portakal                                    Price: 19,95 TL  
+ - Similar Product: Organik Portakal                                   Price: 39,90 TL  
+
+Features:
+ - Ürün Tipi: Portakal
+Product Image URL:  
+
+
+20
+Product Name: Kırmızı Üzüm
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 29,95 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Meyve Üzum Red Globe Kg Fiyati Price: 29,95 TL   Unit Price: 29,95 TL/kg
+ - Market: Bim                  Product: Red Globe Üzum Kg              Price: 39,75 TL   Unit Price: 39,75 TL/kg
+ - Market: Migros               Product: Üzum Red Globe Kg.             Price: 79,95 TL   Unit Price: 79,95 TL/kg
+ - Market: Şok                  Product: Üzum Red Globe Kg.             Price: 99,90 TL   Unit Price: 99,90 TL/kg
+
+Similar Products:
+ - Similar Product: Kırmızı Erik                                       Price: 36,90 TL  
+ - Similar Product: Kırmızı Elma                                       Price: 16,90 TL  
+ - Similar Product: Siyah Üzüm Adet                                    Price: 64,90 TL  
+ - Similar Product: Beyaz Üzüm                                         Price: 34,90 TL  
+ - Similar Product: Salihli Üzüm                                       Price: 200,00 TL 
+
+Features:
+ - Ürün Tipi: Üzüm
+Product Image URL:  
+
+
+21
+Product Name: Malta Eriği
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 44,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Malta Erik Kg.                 Price: 44,90 TL   Unit Price: 44,90 TL/kg
+ - Market: Migros               Product: Erik Malta Kg.                 Price: 46,90 TL   Unit Price: 46,90 TL/kg
+ - Market: Şok                  Product: Malta Erigi Paket 400 Gr       Price: 99,90 TL   Unit Price: 249,75 TL/kg
+
+Similar Products:
+ - Similar Product: Anjelika Erik                                      Price: 39,95 TL  
+ - Similar Product: Papaz Erik                                         Price: 27,45 TL  
+ - Similar Product: Alyanak Erik                                       Price: 22,90 TL  
+ - Similar Product: Mürdüm Erik Kg                                     Price: 29,90 TL  
+
+Features:
+ - Ürün Tipi: Malta Erik
+Product Image URL:  
+
+
+22
+Product Name: Şeftali
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 29,90 TL 
+
+Market Products:
+ - Market: Bim                  Product: Şeftali Kg                     Price: 29,90 TL   Unit Price: 29,90 TL/kg
+ - Market: Migros               Product: Şeftali Nektarin 500 Gr Adet   Price: 29,90 TL   Unit Price: 59,80 TL/kg
+ - Market: Carrefour            Product: Şeftali                        Price: 45,90 TL   Unit Price: 45,90 TL/kg
+ - Market: Migros               Product: Şeftali Nektarin Kg.           Price: 49,90 TL   Unit Price: 49,90 TL/kg
+ - Market: Migros               Product: Şeftali Ekstra Kg.             Price: 64,90 TL   Unit Price: 64,90 TL/kg
+ - Market: Şok                  Product: Şeftali Kg.                    Price: 99,90 TL   Unit Price: 99,90 TL/kg
+ - Market: Migros               Product: Şeftali 500 Gr Adet            Price: 200,00 TL  Unit Price: 400,00 TL/kg
+ - Market: Migros               Product: Şeftali Kg.                    Price: 200,00 TL  Unit Price: 200,00 TL/kg
+
+Similar Products:
+ - Similar Product: Japon Şeftali                                      Price: 200,00 TL 
+
+Features:
+ - Ürün Tipi: Şeftali
+Product Image URL:  
+
+
+23
+Product Name: Deveci Armut
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 19,95 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Meyve Armut Deveci Ekonomik    Price: 19,95 TL   Unit Price: 19,95 TL/kg
+ - Market: Carrefour            Product: Armut Deveci Pazar             Price: 24,90 TL   Unit Price: 24,90 TL/kg
+ - Market: Migros               Product: Armut Deveci Eko Kg.           Price: 24,90 TL   Unit Price: 24,90 TL/kg
+ - Market: Hakmar Express       Product: Meyve Armut Deveci Kg Fiyati   Price: 29,95 TL   Unit Price: 29,95 TL/kg
+ - Market: Hakmar Express       Product: Meyve Armut Deveci Çikma       Price: 31,95 TL   Unit Price: 31,95 TL/kg
+ - Market: Bim                  Product: Armut Deveci Dokme Kg          Price: 32,75 TL   Unit Price: 32,75 TL/kg
+ - Market: A101                 Product: Armut Deveci                   Price: 39,75 TL   Unit Price: 39,75 TL/kg
+ - Market: Carrefour            Product: Armut Deveci                   Price: 46,90 TL   Unit Price: 46,90 TL/kg
+ - Market: Migros               Product: Armut Deveci Bursa Kg          Price: 49,95 TL   Unit Price: 49,95 TL/kg
+ - Market: Şok                  Product: Armut Deveci Kg                Price: 49,95 TL   Unit Price: 49,95 TL/kg
+ - Market: Migros               Product: Armut Deveci Ekstra Kg.        Price: 66,95 TL   Unit Price: 66,95 TL/kg
+
+Similar Products:
+ - Similar Product: Demirci Armut                                      Price: 50,00 TL  
+ - Similar Product: Margarit Armut                                     Price: 9,99 TL   
+ - Similar Product: Karyağdı Armut                                     Price: 52,95 TL  
+ - Similar Product: Etruska Armut                                      Price: 39,90 TL  
+ - Similar Product: Santa Maria Armut                                  Price: 29,95 TL  
+
+Features:
+ - Ürün Tipi: Armut
+Product Image URL:  
+
+
+24
+Product Name: Mango (Adet)
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 24,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Mango                          Price: 24,50 TL   Unit Price: 24,50 TL/Adet
+ - Market: Şok                  Product: Verita Fresh Cut Mango         Price: 49,90 TL   Unit Price: 49,90 TL/Adet
+ - Market: Carrefour            Product: Mango                          Price: 60,90 TL   Unit Price: 60,90 TL/Adet
+ - Market: Şok                  Product: Mango Adet                     Price: 79,95 TL   Unit Price: 79,95 TL/Adet
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Mango
+Product Image URL:  
+
+
+25
+Product Name: Kırmızı Erik
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 36,90 TL 
+
+Market Products:
+ - Market: Bim                  Product: Kirmizi Erik Dokme Kg          Price: 36,90 TL   Unit Price: 36,90 TL/kg
+ - Market: Şok                  Product: Kirmizi Erik Kg.               Price: 49,90 TL   Unit Price: 49,90 TL/kg
+
+Similar Products:
+ - Similar Product: Anjelika Erik                                      Price: 39,95 TL  
+ - Similar Product: Papaz Erik                                         Price: 27,45 TL  
+ - Similar Product: Malta Eriği                                        Price: 44,90 TL  
+ - Similar Product: Mürdüm Erik Kg                                     Price: 29,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kirmizi-erik-_1414275.jpg 
+
+
+26
+Product Name: Kızılcık
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 14,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Kizilcik Kg.                   Price: 14,90 TL   Unit Price: 14,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Kızılcık
+Product Image URL:  
+
+
+27
+Product Name: Beyaz İncir
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 79,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Incir Beyaz Kg.                Price: 79,90 TL   Unit Price: 79,90 TL/kg
+
+Similar Products:
+ - Similar Product: Siyah İncir                                        Price: 94,90 TL  
+ - Similar Product: Beyaz Nektarin                                     Price: 45,90 TL  
+ - Similar Product: Beyaz Dut                                          Price: 149,90 TL 
+ - Similar Product: Beyaz Üzüm                                         Price: 34,90 TL  
+
+Features:
+ - Ürün Tipi: Beyaz İncir
+Product Image URL: https://cdn.cimri.io/market/260x260/beyaz-incir-_605930.jpg 
+
+
+28
+Product Name: Mandalina
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 15,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Mandalina Dokme Kg             Price: 15,75 TL   Unit Price: 15,75 TL/kg
+ - Market: Carrefour            Product: Mandalina Kg.                  Price: 19,90 TL   Unit Price: 19,90 TL/kg
+ - Market: Tarım Kredi Kooperatifi Product: Mandalina Kg                   Price: 22,90 TL   Unit Price: 22,90 TL/kg
+ - Market: Şok                  Product: Mandalina Kg.                  Price: 24,75 TL   Unit Price: 24,75 TL/kg
+
+Similar Products:
+ - Similar Product: Organik Mandalina                                  Price: 34,90 TL  
+ - Similar Product: Satsuma Mandalina                                  Price: 28,90 TL  
+
+Features:
+ - Ürün Tipi: Mandalina
+Product Image URL:  
+
+
+29
+Product Name: Muşmula
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 21,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Musmula                        Price: 21,90 TL   Unit Price: 21,90 TL/kg
+ - Market: Şok                  Product: Musmula 500 G                  Price: 39,90 TL   Unit Price: 79,80 TL/kg
+ - Market: Şok                  Product: Musmula Kg.                    Price: 49,90 TL   Unit Price: 49,90 TL/kg
+ - Market: Migros               Product: Musmula Kg.                    Price: 79,95 TL   Unit Price: 79,95 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Muşmula
+Product Image URL:  
+
+
+30
+Product Name: Kırmızı Elma
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 16,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Elma Starking Eko              Price: 16,90 TL   Unit Price: 16,90 TL/kg
+ - Market: Tarım Kredi Kooperatifi Product: Elma Starking Kg               Price: 25,90 TL   Unit Price: 25,90 TL/kg
+ - Market: Bim                  Product: Elma Starking Dokme Kg         Price: 26,75 TL   Unit Price: 26,75 TL/kg
+ - Market: A101                 Product: Elma Starking                  Price: 29,75 TL   Unit Price: 29,75 TL/kg
+ - Market: Şok                  Product: Elma Starking Kg               Price: 29,75 TL   Unit Price: 29,75 TL/kg
+ - Market: Şok                  Product: Elma Starking Eko Kg           Price: 29,75 TL   Unit Price: 29,75 TL/kg
+ - Market: Carrefour            Product: Elma Starking                  Price: 29,90 TL   Unit Price: 29,90 TL/kg
+ - Market: Carrefour            Product: Elma Star Gurme                Price: 36,95 TL   Unit Price: 36,95 TL/kg
+
+Similar Products:
+ - Similar Product: Arap Kızı Elma                                     Price: 59,90 TL  
+ - Similar Product: Yeşil Elma                                         Price: 24,95 TL  
+ - Similar Product: Fuji Elma                                          Price: 19,75 TL  
+ - Similar Product: Sarı Golden Elma                                   Price: 19,75 TL  
+ - Similar Product: Amasya Elma                                        Price: 52,95 TL  
+
+Features:
+ - Ürün Tipi: Elma
+Product Image URL:  
+
+
+31
+Product Name: Yaban Mersini (Paket)
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 69,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Yaban Mersini Paket            Price: 69,50 TL   Unit Price: 69,50 TL/Adet
+ - Market: Şok                  Product: Yaban Mersini Pkt              Price: 109,90 TL  Unit Price: 109,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Kivi (Paket)                                       Price: 8,75 TL   
+ - Similar Product: Yaban Mersini                                      Price: 25,50 TL  
+
+Features:
+ - Ürün Tipi: Yaban Mersini
+Product Image URL: https://cdn.cimri.io/market/260x260/yaban-mersini-paket-_1414776.jpg 
+
+
+32
+Product Name: Nektarin
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 34,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Nektarin Kg                    Price: 34,75 TL   Unit Price: 34,75 TL/kg
+ - Market: Şok                  Product: Nektarin Kg                    Price: 99,90 TL   Unit Price: 99,90 TL/kg
+
+Similar Products:
+ - Similar Product: Beyaz Nektarin                                     Price: 45,90 TL  
+
+Features:
+ - Ürün Tipi: Nektarin
+Product Image URL:  
+
+
+33
+Product Name: Beyaz Üzüm
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 34,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Üzum Beyaz 500 Gr Paket        Price: 34,90 TL   Unit Price: 69,80 TL/kg
+ - Market: Şok                  Product: Yesil Üzum 500 G               Price: 139,00 TL  Unit Price: 278,00 TL/kg
+ - Market: Migros               Product: Üzum Tarsus Kg.                Price: 200,00 TL  Unit Price: 200,00 TL/kg
+
+Similar Products:
+ - Similar Product: Siyah Üzüm Adet                                    Price: 64,90 TL  
+ - Similar Product: Salihli Üzüm                                       Price: 200,00 TL 
+ - Similar Product: Çekirdeksiz Üzüm                                   Price: 27,75 TL  
+ - Similar Product: Muskule Üzüm                                       Price: 49,90 TL  
+
+Features:
+ - Ürün Tipi: Beyaz Üzüm
+Product Image URL:  
+
+
+34
+Product Name: Kan Greyfurt
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 15,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Greyfurt Kg                    Price: 15,75 TL   Unit Price: 15,75 TL/kg
+ - Market: Şok                  Product: Greyfurt Kg                    Price: 19,90 TL   Unit Price: 19,90 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kan-greyfurt-_1134667.jpg 
+
+
+35
+Product Name: Avokado Tane
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 34,75 TL 
+
+Market Products:
+ - Market: Şok                  Product: Avokado Adet.                  Price: 34,75 TL   Unit Price: 34,75 TL/Adet
+ - Market: Carrefour            Product: Avokado Ithal Adet             Price: 37,90 TL   Unit Price: 37,90 TL/Adet
+ - Market: Hakmar Express       Product: Meyve Avokado Adet             Price: 39,95 TL   Unit Price: 39,95 TL/Adet
+ - Market: Carrefour            Product: Avokado Yerli Adt              Price: 39,99 TL   Unit Price: 39,99 TL/Adet
+ - Market: Şok                  Product: Avokado Yemeye Hazir Adet      Price: 49,95 TL   Unit Price: 49,95 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/avokado-tane-_1691412.jpg 
+
+
+36
+Product Name: Finike Portakal
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 19,95 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Meyve Portakal Finike Kg Fiyati Price: 19,95 TL   Unit Price: 19,95 TL/kg
+
+Similar Products:
+ - Similar Product: Organik Portakal                                   Price: 39,90 TL  
+ - Similar Product: Sıkmalık Portakal                                  Price: 13,75 TL  
+
+Features:
+ - Ürün Tipi: Portakal
+Product Image URL:  
+
+
+37
+Product Name: Razaki Üzüm
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 69,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Üzum Razaki Kg                 Price: 69,90 TL   Unit Price: 69,90 TL/kg
+ - Market: Migros               Product: Üzum Razaki Kg.                Price: 200,00 TL  Unit Price: 200,00 TL/kg
+
+Similar Products:
+ - Similar Product: Salihli Üzüm                                       Price: 200,00 TL 
+ - Similar Product: Çekirdeksiz Üzüm                                   Price: 27,75 TL  
+ - Similar Product: Siyah Üzüm Adet                                    Price: 64,90 TL  
+ - Similar Product: Beyaz Üzüm                                         Price: 34,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/razaki-uzum-_1701654.jpg 
+
+
+38
+Product Name: Kavun
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 7,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Kavun Kg.                      Price: 7,90 TL    Unit Price: 7,90 TL/kg
+ - Market: Bim                  Product: Galya Kavun                    Price: 13,75 TL   Unit Price: 13,75 TL/kg
+ - Market: Bim                  Product: Sari Kavun Kg                  Price: 14,75 TL   Unit Price: 14,75 TL/kg
+ - Market: Bim                  Product: Kavun Kg                       Price: 14,75 TL   Unit Price: 14,75 TL/kg
+ - Market: Carrefour            Product: Kavun Galya Kg                 Price: 17,90 TL   Unit Price: 17,90 TL/kg
+ - Market: Carrefour            Product: Kavun Sari                     Price: 19,90 TL   Unit Price: 19,90 TL/kg
+ - Market: Carrefour            Product: Kavun Davutbey                 Price: 20,90 TL   Unit Price: 20,90 TL/kg
+ - Market: Şok                  Product: Galya Kavun Kg                 Price: 49,90 TL   Unit Price: 49,90 TL/kg
+
+Similar Products:
+ - Similar Product: Kırkağaç Kavun                                     Price: 49,90 TL  
+ - Similar Product: Siyah Kavun                                        Price: 14,75 TL  
+ - Similar Product: Kallavi Kavun                                      Price: 8,79 TL   
+ - Similar Product: Biga Kavun                                         Price: 37,90 TL  
+
+Features:
+ - Ürün Tipi: Kavun
+Product Image URL:  
+
+
+39
+Product Name: Vişne
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 13,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Visne Kg.                      Price: 13,90 TL   Unit Price: 13,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Vişne
+Product Image URL:  
+
+
+40
+Product Name: Siyah İncir
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 94,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Incir Kg.                      Price: 94,90 TL   Unit Price: 94,90 TL/kg
+
+Similar Products:
+ - Similar Product: Beyaz İncir                                        Price: 79,90 TL  
+ - Similar Product: Siyah Üzüm Adet                                    Price: 64,90 TL  
+ - Similar Product: Siyah Karpuz                                       Price: 17,90 TL  
+ - Similar Product: Siyah Kavun                                        Price: 14,75 TL  
+
+Features:
+ - Ürün Tipi: İncir
+Product Image URL:  
+
+
+41
+Product Name: Sarı Golden Elma
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 19,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Elma Golden Dokme Kg           Price: 19,75 TL   Unit Price: 19,75 TL/kg
+ - Market: Carrefour            Product: Elma Golden Eko                Price: 23,90 TL   Unit Price: 23,90 TL/kg
+ - Market: Tarım Kredi Kooperatifi Product: Elma Golden Kg                 Price: 25,90 TL   Unit Price: 25,90 TL/kg
+ - Market: Şok                  Product: Elma Golden 1 Kg               Price: 29,75 TL   Unit Price: 29,75 TL/kg
+ - Market: Şok                  Product: Elma Golden Eko Kg             Price: 29,75 TL   Unit Price: 29,75 TL/kg
+ - Market: Carrefour            Product: Elma Golden                    Price: 29,90 TL   Unit Price: 29,90 TL/kg
+ - Market: Hakmar Express       Product: Meyve Elma Golden Kg Fiyati    Price: 29,95 TL   Unit Price: 29,95 TL/kg
+ - Market: A101                 Product: Elma Golden                    Price: 34,75 TL   Unit Price: 34,75 TL/kg
+ - Market: Şok                  Product: Golden Elma Kg                 Price: 34,90 TL   Unit Price: 34,90 TL/kg
+ - Market: Carrefour            Product: Elma Golden Gurme              Price: 34,95 TL   Unit Price: 34,95 TL/kg
+
+Similar Products:
+ - Similar Product: Arap Kızı Elma                                     Price: 59,90 TL  
+ - Similar Product: Yeşil Elma                                         Price: 24,95 TL  
+ - Similar Product: Fuji Elma                                          Price: 19,75 TL  
+ - Similar Product: Kırmızı Elma                                       Price: 16,90 TL  
+ - Similar Product: Amasya Elma                                        Price: 52,95 TL  
+
+Features:
+ - Ürün Tipi: Elma
+Product Image URL:  
+
+
+42
+Product Name: Amasya Elma
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 52,95 TL 
+
+Market Products:
+ - Market: A101                 Product: Elma Amasya                    Price: 52,95 TL   Unit Price: 52,95 TL/kg
+ - Market: Carrefour            Product: Elma Amasya                    Price: 63,90 TL   Unit Price: 63,90 TL/kg
+
+Similar Products:
+ - Similar Product: Arap Kızı Elma                                     Price: 59,90 TL  
+ - Similar Product: Yeşil Elma                                         Price: 24,95 TL  
+ - Similar Product: Fuji Elma                                          Price: 19,75 TL  
+ - Similar Product: Kırmızı Elma                                       Price: 16,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/amasya-elma-_1452995.jpg 
+
+
+43
+Product Name: Kayısı (kg)
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 29,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Kayisi Kg                      Price: 29,75 TL   Unit Price: 29,75 TL/kg
+ - Market: Migros               Product: Kayisi Kg.                     Price: 59,90 TL   Unit Price: 59,90 TL/kg
+ - Market: Şok                  Product: Kayisi Kg.                     Price: 199,00 TL  Unit Price: 199,00 TL/kg
+
+Similar Products:
+ - Similar Product: Malatya Kayısı                                     Price: 69,90 TL  
+ - Similar Product: Iğdır Kayısı                                       Price: 59,90 TL  
+ - Similar Product: Kayısı Paket                                       Price: 199,00 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kayisi-kg-_1486974.jpg 
+
+
+44
+Product Name: Mini Karpuz Kg
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 9,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Mini Karpuz Kg                 Price: 9,75 TL    Unit Price: 9,75 TL/kg
+ - Market: Carrefour            Product: Karpuz Mini                    Price: 18,90 TL   Unit Price: 18,90 TL/kg
+ - Market: Şok                  Product: Karpuz Mini Kg.                Price: 19,90 TL   Unit Price: 19,90 TL/kg
+
+Similar Products:
+ - Similar Product: Çekirdeksiz Karpuz                                 Price: 9,75 TL   
+ - Similar Product: Siyah Karpuz                                       Price: 17,90 TL  
+ - Similar Product: Karpuz kg                                          Price: 7,50 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/mini-karpuz-kg-_1630118.jpg 
+
+
+45
+Product Name: Böğürtlen
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 29,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Bogurtlen Kg.                  Price: 29,90 TL   Unit Price: 29,90 TL/kg
+ - Market: Carrefour            Product: Verita Bogurtlen 125 G         Price: 116,90 TL  Unit Price: 935,20 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Böğürtlen
+Product Image URL:  
+
+
+46
+Product Name: Süt Mısır Adet
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 49,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Misir Adet                     Price: 49,90 TL   Unit Price: 49,90 TL/Adet
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Mısır
+Product Image URL:  
+
+
+47
+Product Name: Çekirdeksiz Karpuz
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 9,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Çekirdeksiz Karpuz             Price: 9,75 TL    Unit Price: 9,75 TL/Adet
+ - Market: Bim                  Product: Çekirdeksiz Karpuz             Price: 9,75 TL    Unit Price: 9,75 TL/Adet
+ - Market: Şok                  Product: Çekirdeksiz Karpuz Kg          Price: 39,90 TL   Unit Price: 39,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Mini Karpuz Kg                                     Price: 9,75 TL   
+ - Similar Product: Siyah Karpuz                                       Price: 17,90 TL  
+ - Similar Product: Karpuz kg                                          Price: 7,50 TL   
+ - Similar Product: Çekirdeksiz Üzüm                                   Price: 27,75 TL  
+
+Features:
+ - Ürün Tipi: Karpuz
+ - Adet: 1 Adet
+ - Organik: Evet
+Product Image URL: https://cdn.cimri.io/market/260x260/cekirdeksiz-karpuz-_1156913.jpg 
+
+
+48
+Product Name: Yeşil Elma
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 24,95 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Elma Grany Ekonomik            Price: 24,95 TL   Unit Price: 24,95 TL/kg
+ - Market: Carrefour            Product: Elma Grany Smith               Price: 38,90 TL   Unit Price: 38,90 TL/kg
+ - Market: Şok                  Product: Elma Granny Kg                 Price: 39,75 TL   Unit Price: 39,75 TL/kg
+ - Market: Şok                  Product: Elma Granny Smith 1 Kg         Price: 39,75 TL   Unit Price: 39,75 TL/kg
+ - Market: Hakmar Express       Product: Meyve Elma Gransimit Kg Fiyati Price: 39,95 TL   Unit Price: 39,95 TL/kg
+ - Market: Carrefour            Product: Elma Grany Smith Gurme         Price: 46,90 TL   Unit Price: 46,90 TL/kg
+
+Similar Products:
+ - Similar Product: Arap Kızı Elma                                     Price: 59,90 TL  
+ - Similar Product: Fuji Elma                                          Price: 19,75 TL  
+ - Similar Product: Kırmızı Elma                                       Price: 16,90 TL  
+ - Similar Product: Sarı Golden Elma                                   Price: 19,75 TL  
+ - Similar Product: Amasya Elma                                        Price: 52,95 TL  
+
+Features:
+ - Ürün Tipi: Yeşil Elma
+Product Image URL:  
+
+
+49
+Product Name: Malatya Kayısı
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 69,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Kayisi Malatya Kg.             Price: 69,90 TL   Unit Price: 69,90 TL/kg
+
+Similar Products:
+ - Similar Product: Iğdır Kayısı                                       Price: 59,90 TL  
+ - Similar Product: Kayısı (kg)                                        Price: 29,75 TL  
+ - Similar Product: Kayısı Paket                                       Price: 199,00 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/malatya-kayisi-_1420314.jpg 
+
+
+50
+Product Name: Satsuma Mandalina
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 28,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Mandalina Satsuma Izmir        Price: 28,90 TL   Unit Price: 28,90 TL/kg
+
+Similar Products:
+ - Similar Product: Organik Mandalina                                  Price: 34,90 TL  
+ - Similar Product: Mandalina                                          Price: 15,75 TL  
+
+Features:
+ - Ürün Tipi: Mandalina
+Product Image URL:  
+
+
+51
+Product Name: Beyaz Dut
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 149,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Dut Kg.                        Price: 149,90 TL  Unit Price: 149,90 TL/kg
+
+Similar Products:
+ - Similar Product: Beyaz Nektarin                                     Price: 45,90 TL  
+ - Similar Product: Beyaz İncir                                        Price: 79,90 TL  
+ - Similar Product: Beyaz Üzüm                                         Price: 34,90 TL  
+
+Features:
+ - Ürün Tipi: Beyaz Dut
+Product Image URL:  
+
+
+52
+Product Name: Siyah Üzüm Adet
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 64,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Uzum Siyah Paket               Price: 64,90 TL   Unit Price: 64,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Siyah Üzüm                                         Price: 36,75 TL  
+ - Similar Product: Beyaz Üzüm                                         Price: 34,90 TL  
+ - Similar Product: Salihli Üzüm                                       Price: 200,00 TL 
+ - Similar Product: Çekirdeksiz Üzüm                                   Price: 27,75 TL  
+
+Features:
+Product Image URL:  
+
+
+53
+Product Name: Siyah Karpuz
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 17,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Karpuz Siyah                   Price: 17,90 TL   Unit Price: 17,90 TL/kg
+
+Similar Products:
+ - Similar Product: Mini Karpuz Kg                                     Price: 9,75 TL   
+ - Similar Product: Çekirdeksiz Karpuz                                 Price: 9,75 TL   
+ - Similar Product: Karpuz kg                                          Price: 7,50 TL   
+ - Similar Product: Siyah Üzüm Adet                                    Price: 64,90 TL  
+
+Features:
+ - Ürün Tipi: Karpuz
+Product Image URL:  
+
+
+54
+Product Name: Pink Lady Elma
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 24,95 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Elma Pink Lady Eko             Price: 24,95 TL   Unit Price: 24,95 TL/kg
+ - Market: Carrefour            Product: Elma Pink Lady Gurme           Price: 39,90 TL   Unit Price: 39,90 TL/kg
+ - Market: Hakmar Express       Product: Meyve Elma Pink Lady Kg Fiyati Price: 39,95 TL   Unit Price: 39,95 TL/kg
+ - Market: Şok                  Product: Pink Lady Elma Kg              Price: 59,90 TL   Unit Price: 59,90 TL/kg
+
+Similar Products:
+ - Similar Product: Arap Kızı Elma                                     Price: 59,90 TL  
+ - Similar Product: Yeşil Elma                                         Price: 24,95 TL  
+ - Similar Product: Fuji Elma                                          Price: 19,75 TL  
+ - Similar Product: Kırmızı Elma                                       Price: 16,90 TL  
+ - Similar Product: Sarı Golden Elma                                   Price: 19,75 TL  
+
+Features:
+ - Ürün Tipi: Pink Lady Elma
+Product Image URL:  
+
+
+55
+Product Name: Iğdır Kayısı
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 59,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Kayisi Igdir Kg.               Price: 59,90 TL   Unit Price: 59,90 TL/kg
+
+Similar Products:
+ - Similar Product: Kayısı (kg)                                        Price: 29,75 TL  
+ - Similar Product: Malatya Kayısı                                     Price: 69,90 TL  
+ - Similar Product: Kayısı Paket                                       Price: 199,00 TL 
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/igdir-kayisi-_1117638.jpg 
+
+
+56
+Product Name: Organik Muz
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 69,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Organik Muz 750 Gr Paket       Price: 69,90 TL   Unit Price: 93,20 TL/kg
+
+Similar Products:
+ - Similar Product: Yerli Muz                                          Price: 37,75 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/organik-muz-_1420335.jpg 
+
+
+57
+Product Name: Tatlı Kabak
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 29,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Kabak Tatli (butternut) Kg     Price: 29,90 TL   Unit Price: 29,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Tatlı Kabak
+Product Image URL:  
+
+
+58
+Product Name: Akça Armut
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 49,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Armut Akca 500 Gr              Price: 49,90 TL   Unit Price: 99,80 TL/kg
+ - Market: Migros               Product: Armut Akca Kg.                 Price: 59,90 TL   Unit Price: 59,90 TL/kg
+
+Similar Products:
+ - Similar Product: Demirci Armut                                      Price: 50,00 TL  
+ - Similar Product: Karyağdı Armut                                     Price: 52,95 TL  
+ - Similar Product: Margarit Armut                                     Price: 9,99 TL   
+ - Similar Product: Etruska Armut                                      Price: 39,90 TL  
+ - Similar Product: Santa Maria Armut                                  Price: 29,95 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/akca-armut-_1482925.jpg 
+
+
+59
+Product Name: Demirhindi
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 92,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Tamarind - Demirhindi 225 G    Price: 92,90 TL   Unit Price: 412,89 TL/kg
+ - Market: Şok                  Product: Demirhindi 225 Gr              Price: 99,90 TL   Unit Price: 444,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Demirhindi
+Product Image URL:  
+
+
+60
+Product Name: Ankara Armut
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 39,95 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Meyve Armut Ankara Kg Fiyati   Price: 39,95 TL   Unit Price: 39,95 TL/kg
+ - Market: Şok                  Product: Armut Ankara Kg.               Price: 59,90 TL   Unit Price: 59,90 TL/kg
+
+Similar Products:
+ - Similar Product: Demirci Armut                                      Price: 50,00 TL  
+ - Similar Product: Karyağdı Armut                                     Price: 52,95 TL  
+ - Similar Product: Margarit Armut                                     Price: 9,99 TL   
+ - Similar Product: Etruska Armut                                      Price: 39,90 TL  
+ - Similar Product: Santa Maria Armut                                  Price: 29,95 TL  
+
+Features:
+ - Ürün Tipi: Armut
+Product Image URL:  
+
+
+61
+Product Name: Etruska Armut
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 39,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Armut Etruska Kg.              Price: 39,90 TL   Unit Price: 39,90 TL/kg
+
+Similar Products:
+ - Similar Product: Demirci Armut                                      Price: 50,00 TL  
+ - Similar Product: Karyağdı Armut                                     Price: 52,95 TL  
+ - Similar Product: Margarit Armut                                     Price: 9,99 TL   
+ - Similar Product: Santa Maria Armut                                  Price: 29,95 TL  
+ - Similar Product: Deveci Armut                                       Price: 19,95 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/etruska-armut-_1701659.jpg 
+
+
+62
+Product Name: Kayısı Paket
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 199,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Kayisi Paket                   Price: 199,00 TL  Unit Price: 199,00 TL/Adet
+
+Similar Products:
+ - Similar Product: Malatya Kayısı                                     Price: 69,90 TL  
+ - Similar Product: Iğdır Kayısı                                       Price: 59,90 TL  
+ - Similar Product: Kayısı (kg)                                        Price: 29,75 TL  
+ - Similar Product: Yaban Mersini (Paket)                              Price: 69,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kayisi-paket-_1486975.jpg 
+
+
+63
+Product Name: Muskule Üzüm
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 49,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Üzum Muskule Kg                Price: 49,90 TL   Unit Price: 49,90 TL/kg
+
+Similar Products:
+ - Similar Product: Salihli Üzüm                                       Price: 200,00 TL 
+ - Similar Product: Çekirdeksiz Üzüm                                   Price: 27,75 TL  
+ - Similar Product: Siyah Üzüm Adet                                    Price: 64,90 TL  
+ - Similar Product: Beyaz Üzüm                                         Price: 34,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/muskule-uzum-_1701658.jpg 
+
+
+64
+Product Name: Alyanak Erik
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 22,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Erik Alyanak.kg.               Price: 22,90 TL   Unit Price: 22,90 TL/kg
+ - Market: Şok                  Product: Erik Alyanak 500 G             Price: 26,45 TL   Unit Price: 52,90 TL/kg
+
+Similar Products:
+ - Similar Product: Kırmızı Erik                                       Price: 36,90 TL  
+ - Similar Product: Malta Eriği                                        Price: 44,90 TL  
+ - Similar Product: Erik                                               Price: 14,90 TL  
+ - Similar Product: Mürdüm Erik Kg                                     Price: 29,90 TL  
+ - Similar Product: Anjelika Erik                                      Price: 39,95 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/alyanak-erik-_1120792.jpg 
+
+
+65
+Product Name: Kivi (Paket)
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 8,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Kivi Paket                     Price: 8,75 TL    Unit Price: 8,75 TL/Adet
+ - Market: Şok                  Product: Kivi Paket                     Price: 19,90 TL   Unit Price: 19,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Yaban Mersini (Paket)                              Price: 69,50 TL  
+
+Features:
+ - Ürün Tipi: Kivi
+Product Image URL: https://cdn.cimri.io/market/260x260/kivi-paket-_1432694.jpg 
+
+
+66
+Product Name: Lime Limon (Adet)
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 44,95 TL 
+
+Market Products:
+ - Market: A101                 Product: Limon Lime Paket               Price: 44,95 TL   Unit Price: 44,95 TL/Adet
+ - Market: Şok                  Product: Lime 3'lu Paket                Price: 69,90 TL   Unit Price: 23,30 TL/Adet
+
+Similar Products:
+
+Features:
+Product Image URL:  
+
+
+67
+Product Name: Pepino Adet
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 8,99 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Pepino Adet                    Price: 8,99 TL    Unit Price: 8,99 TL/Adet
+ - Market: Şok                  Product: Pepino Adet                    Price: 19,90 TL   Unit Price: 19,90 TL/Adet
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Pepino
+Product Image URL:  
+
+
+68
+Product Name: Nar
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 26,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Nar Dokme Kg                   Price: 26,75 TL   Unit Price: 26,75 TL/kg
+ - Market: Hakmar Express       Product: Meyve Nar Kg Fiyati            Price: 49,95 TL   Unit Price: 49,95 TL/kg
+ - Market: Şok                  Product: Nar Kg.                        Price: 59,90 TL   Unit Price: 59,90 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Nar
+Product Image URL:  
+
+
+69
+Product Name: Organik Limon
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 44,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Organik Limon 500 Gr Paket     Price: 44,90 TL   Unit Price: 89,80 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Limon
+ - Organik: Evet
+Product Image URL:  
+
+
+70
+Product Name: Siyah Üzüm
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 36,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Siyah Üzum Kg                  Price: 36,75 TL   Unit Price: 36,75 TL/kg
+ - Market: Carrefour            Product: Üzum Siyah                     Price: 49,90 TL   Unit Price: 49,90 TL/kg
+ - Market: Şok                  Product: Siyah Üzum Kg.                 Price: 99,90 TL   Unit Price: 99,90 TL/kg
+ - Market: Migros               Product: Siyah Üzum Kg                  Price: 249,95 TL  Unit Price: 249,95 TL/kg
+
+Similar Products:
+ - Similar Product: Siyah Üzüm Adet                                    Price: 64,90 TL  
+ - Similar Product: Beyaz Üzüm                                         Price: 34,90 TL  
+ - Similar Product: Salihli Üzüm                                       Price: 200,00 TL 
+ - Similar Product: Çekirdeksiz Üzüm                                   Price: 27,75 TL  
+
+Features:
+ - Ürün Tipi: Siyah Üzüm
+Product Image URL:  
+
+
+71
+Product Name: Siyah Kavun
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 14,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Siyah Kavun Kg                 Price: 14,75 TL   Unit Price: 14,75 TL/Adet
+
+Similar Products:
+ - Similar Product: Kavun                                              Price: 7,90 TL   
+ - Similar Product: Kırkağaç Kavun                                     Price: 49,90 TL  
+ - Similar Product: Kallavi Kavun                                      Price: 8,79 TL   
+ - Similar Product: Biga Kavun                                         Price: 37,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/siyah-kavun-_1414115.jpg 
+
+
+72
+Product Name: Mürdüm Erik Kg
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 29,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Erik Freze Kg.                 Price: 29,90 TL   Unit Price: 29,90 TL/kg
+ - Market: Şok                  Product: Murdum Erik 1 Kg               Price: 44,90 TL   Unit Price: 44,90 TL/kg
+ - Market: Şok                  Product: Erik Murdum Kg                 Price: 83,90 TL   Unit Price: 83,90 TL/kg
+ - Market: Migros               Product: Erik Murdum Kg.                Price: 200,00 TL  Unit Price: 200,00 TL/kg
+
+Similar Products:
+ - Similar Product: Anjelika Erik                                      Price: 39,95 TL  
+ - Similar Product: Papaz Erik                                         Price: 27,45 TL  
+ - Similar Product: Kırmızı Erik                                       Price: 36,90 TL  
+ - Similar Product: Malta Eriği                                        Price: 44,90 TL  
+
+Features:
+ - Ürün Tipi: Mürdüm Erik
+Product Image URL:  
+
+
+73
+Product Name: Pomelo (Adet)
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 149,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Pomelo                         Price: 149,90 TL  Unit Price: 149,90 TL/Adet
+
+Similar Products:
+ - Similar Product: Lime Limon (Adet)                                  Price: 44,95 TL  
+
+Features:
+ - Ürün Tipi: Pomelo
+Product Image URL:  
+
+
+74
+Product Name: Santa Maria Armut
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 29,95 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Meyve Armut Santa Maria Kg Fiyati Price: 29,95 TL   Unit Price: 29,95 TL/kg
+ - Market: Bim                  Product: Armut Santa Maria Kg           Price: 39,75 TL   Unit Price: 39,75 TL/kg
+ - Market: Carrefour            Product: Armut Santa Maria              Price: 58,90 TL   Unit Price: 58,90 TL/kg
+ - Market: A101                 Product: Armut Santa Maria              Price: 59,90 TL   Unit Price: 59,90 TL/kg
+ - Market: Şok                  Product: Armut Santa Maria Kg           Price: 59,90 TL   Unit Price: 59,90 TL/kg
+ - Market: Migros               Product: Armut San. Maria Bursa Kg.     Price: 69,95 TL   Unit Price: 69,95 TL/kg
+ - Market: Migros               Product: Armut Santa Maria Ekstra Kg.   Price: 77,95 TL   Unit Price: 77,95 TL/kg
+ - Market: Migros               Product: Armut San. Maria Bursa Pkt Kg  Price: 79,95 TL   Unit Price: 79,95 TL/kg
+ - Market: Migros               Product: Armut Santa Maria S Kg.        Price: 200,00 TL  Unit Price: 200,00 TL/kg
+
+Similar Products:
+ - Similar Product: Demirci Armut                                      Price: 50,00 TL  
+ - Similar Product: Karyağdı Armut                                     Price: 52,95 TL  
+ - Similar Product: Margarit Armut                                     Price: 9,99 TL   
+ - Similar Product: Etruska Armut                                      Price: 39,90 TL  
+ - Similar Product: Deveci Armut                                       Price: 19,95 TL  
+
+Features:
+ - Ürün Tipi: Armut
+Product Image URL:  
+
+
+75
+Product Name: Yaz Elması
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 39,95 TL 
+
+Market Products:
+ - Market: Şok                  Product: Elma Yaz 700 G                 Price: 39,95 TL   Unit Price: 57,07 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL:  
+
+
+76
+Product Name: Beyaz Nektarin
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 45,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Nektarin Beyaz                 Price: 45,90 TL   Unit Price: 45,90 TL/kg
+ - Market: Şok                  Product: Beyaz Nektarin Kg.             Price: 49,90 TL   Unit Price: 49,90 TL/kg
+
+Similar Products:
+ - Similar Product: Nektarin                                           Price: 34,75 TL  
+ - Similar Product: Beyaz İncir                                        Price: 79,90 TL  
+ - Similar Product: Beyaz Dut                                          Price: 149,90 TL 
+ - Similar Product: Beyaz Üzüm                                         Price: 34,90 TL  
+
+Features:
+ - Ürün Tipi: Nektarin
+Product Image URL:  
+
+
+77
+Product Name: Arap Kızı Elma
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 59,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Elma Arap Kizi Kg.             Price: 59,90 TL   Unit Price: 59,90 TL/kg
+
+Similar Products:
+ - Similar Product: Yeşil Elma                                         Price: 24,95 TL  
+ - Similar Product: Fuji Elma                                          Price: 19,75 TL  
+ - Similar Product: Kırmızı Elma                                       Price: 16,90 TL  
+ - Similar Product: Sarı Golden Elma                                   Price: 19,75 TL  
+ - Similar Product: Amasya Elma                                        Price: 52,95 TL  
+
+Features:
+ - Ürün Tipi: Elma
+Product Image URL: https://cdn.cimri.io/market/260x260/arap-kizi-elma-_223883.jpg 
+
+
+78
+Product Name: Salihli Üzüm
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 200,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Üzum Salihli Pembesi Kg        Price: 200,00 TL  Unit Price: 200,00 TL/kg
+
+Similar Products:
+ - Similar Product: Çekirdeksiz Üzüm                                   Price: 27,75 TL  
+ - Similar Product: Siyah Üzüm Adet                                    Price: 64,90 TL  
+ - Similar Product: Beyaz Üzüm                                         Price: 34,90 TL  
+ - Similar Product: Muskule Üzüm                                       Price: 49,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/salihli-uzum-_1701680.jpg 
+
+
+79
+Product Name: Kallavi Kavun
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 8,79 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Kavun Kallavi Kg               Price: 8,79 TL    Unit Price: 8,79 TL/kg
+
+Similar Products:
+ - Similar Product: Biga Kavun                                         Price: 37,90 TL  
+ - Similar Product: Kışlık Kavun                                       Price: 59,90 TL  
+ - Similar Product: Kavun                                              Price: 7,90 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kallavi-kavun-_1701685.jpg 
+
+
+80
+Product Name: Organik Mandalina
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 34,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Organik Mandalina 500 G        Price: 34,90 TL   Unit Price: 69,80 TL/kg
+
+Similar Products:
+ - Similar Product: Mandalina                                          Price: 15,75 TL  
+ - Similar Product: Satsuma Mandalina                                  Price: 28,90 TL  
+
+Features:
+ - Ürün Tipi: Mandalina
+ - Organik: Evet
+Product Image URL:  
+
+
+81
+Product Name: Demirci Armut
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 50,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Armut Demirci Kg.              Price: 50,00 TL   Unit Price: 50,00 TL/kg
+
+Similar Products:
+ - Similar Product: Karyağdı Armut                                     Price: 52,95 TL  
+ - Similar Product: Margarit Armut                                     Price: 9,99 TL   
+ - Similar Product: Etruska Armut                                      Price: 39,90 TL  
+ - Similar Product: Santa Maria Armut                                  Price: 29,95 TL  
+ - Similar Product: Deveci Armut                                       Price: 19,95 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/demirci-armut-_1579799.jpg 
+
+
+82
+Product Name: Karyağdı Armut
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 52,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Korkuteli Armut Karyagdi Ekstra Kg Price: 52,95 TL   Unit Price: 52,95 TL/kg
+
+Similar Products:
+ - Similar Product: Demirci Armut                                      Price: 50,00 TL  
+ - Similar Product: Margarit Armut                                     Price: 9,99 TL   
+ - Similar Product: Etruska Armut                                      Price: 39,90 TL  
+ - Similar Product: Santa Maria Armut                                  Price: 29,95 TL  
+ - Similar Product: Deveci Armut                                       Price: 19,95 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/karyagdi-armut-_1579803.jpg 
+
+
+83
+Product Name: Biga Kavun
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 37,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Kavun Biga Kg.                 Price: 37,90 TL   Unit Price: 37,90 TL/kg
+
+Similar Products:
+ - Similar Product: Kavun                                              Price: 7,90 TL   
+ - Similar Product: Siyah Kavun                                        Price: 14,75 TL  
+ - Similar Product: Kırkağaç Kavun                                     Price: 49,90 TL  
+ - Similar Product: Kallavi Kavun                                      Price: 8,79 TL   
+
+Features:
+ - Ürün Tipi: Kavun
+Product Image URL:  
+
+
+84
+Product Name: Aronya
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 9,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Aronya 100 Gr                  Price: 9,75 TL    Unit Price: 97,50 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Aronya
+Product Image URL:  
+
+
+85
+Product Name: Organik Portakal
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 39,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Organik Portakal 500 G         Price: 39,90 TL   Unit Price: 79,80 TL/kg
+
+Similar Products:
+ - Similar Product: Finike Portakal                                    Price: 19,95 TL  
+ - Similar Product: Sıkmalık Portakal                                  Price: 13,75 TL  
+
+Features:
+ - Ürün Tipi: Portakal
+ - Organik: Evet
+Product Image URL:  
+
+
+86
+Product Name: Kışlık Kavun
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 59,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Kavun Kislik Kg                Price: 59,90 TL   Unit Price: 59,90 TL/kg
+
+Similar Products:
+ - Similar Product: Kavun                                              Price: 7,90 TL   
+ - Similar Product: Siyah Kavun                                        Price: 14,75 TL  
+ - Similar Product: Kırkağaç Kavun                                     Price: 49,90 TL  
+ - Similar Product: Kallavi Kavun                                      Price: 8,79 TL   
+
+Features:
+ - Ürün Tipi: Kavun
+Product Image URL:  
+
+
+87
+Product Name: Papaya
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 69,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Papaya Yerli Kg                Price: 69,90 TL   Unit Price: 69,90 TL/kg
+ - Market: Migros               Product: Papaya Kurusu Kg (e)           Price: 399,95 TL  Unit Price: 399,95 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Papaya
+Product Image URL: https://cdn.cimri.io/market/260x260/papaya-_1414800.jpg 
+
+
+88
+Product Name: Margarit Armut
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 9,99 TL 
+
+Market Products:
+ - Market: Şok                  Product: Armut Margareth Kg             Price: 9,99 TL    Unit Price: 9,99 TL/kg
+ - Market: Hakmar Express       Product: Meyve Armut Margarit Kg Fiyati Price: 29,95 TL   Unit Price: 29,95 TL/kg
+ - Market: Migros               Product: Armut Margareth Kg.            Price: 38,95 TL   Unit Price: 38,95 TL/kg
+
+Similar Products:
+ - Similar Product: Demirci Armut                                      Price: 50,00 TL  
+ - Similar Product: Karyağdı Armut                                     Price: 52,95 TL  
+ - Similar Product: Etruska Armut                                      Price: 39,90 TL  
+ - Similar Product: Santa Maria Armut                                  Price: 29,95 TL  
+ - Similar Product: Deveci Armut                                       Price: 19,95 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/margarit-armut-_1579821.jpg 
+
+
+89
+Product Name: Fuji Elma
+Main Category: Meyve ve Sebze
+Sub-categories: Meyve, 
+Cheapest Price: 19,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Elma Fuji Dokme Kg             Price: 19,75 TL   Unit Price: 19,75 TL/kg
+ - Market: Şok                  Product: Fuji Elma Kg.                  Price: 34,90 TL   Unit Price: 34,90 TL/kg
+
+Similar Products:
+ - Similar Product: Arap Kızı Elma                                     Price: 59,90 TL  
+ - Similar Product: Yeşil Elma                                         Price: 24,95 TL  
+ - Similar Product: Kırmızı Elma                                       Price: 16,90 TL  
+ - Similar Product: Sarı Golden Elma                                   Price: 19,75 TL  
+ - Similar Product: Amasya Elma                                        Price: 52,95 TL  
+
+Features:
+ - Ürün Tipi: Elma
+Product Image URL:  
+
+
+{'erik': 6, 'yaban': 2, 'mersini': 2, 'karpuz': 4, 'kg': 3, 'yerli': 1, 'muz': 2, 'taze': 1, 'çağla': 1, 'papaz': 1, 'ejder': 1, 'meyvesi': 1, 'adet': 5, 'kiraz': 1, 'japon': 1, 'şeftali': 2, 'çekirdeksiz': 2, 'üzüm': 8, 'kestane': 1, 'limon': 3, 'çilek': 1, 'kumkuat': 1, 'sıkmalık': 1, 'portakal': 4, 'anjelika': 1, 'ananas': 1, 'kırkağaç': 1, 'kavun': 6, 'kırmızı': 3, 'malta': 1, 'eriği': 1, 'deveci': 1, 'armut': 8, 'mango': 1, '(adet)': 3, 'kızılcık': 1, 'beyaz': 4, 'i̇ncir': 2, 'mandalina': 3, 'muşmula': 1, 'elma': 7, '(paket)': 2, 'nektarin': 2, 'kan': 1, 'greyfurt': 1, 'avokado': 1, 'tane': 1, 'finike': 1, 'razaki': 1, 'vişne': 1, 'siyah': 5, 'sarı': 1, 'golden': 1, 'amasya': 1, 'kayısı': 4, '(kg)': 1, 'mini': 1, 'böğürtlen': 1, 'süt': 1, 'mısır': 1, 'yeşil': 1, 'malatya': 1, 'satsuma': 1, 'dut': 1, 'pink': 1, 'lady': 1, 'iğdır': 1, 'organik': 4, 'tatlı': 1, 'kabak': 1, 'akça': 1, 'demirhindi': 1, 'ankara': 1, 'etruska': 1, 'paket': 1, 'muskule': 1, 'alyanak': 1, 'kivi': 1, 'lime': 1, 'pepino': 1, 'nar': 1, 'mürdüm': 1, 'pomelo': 1, 'santa': 1, 'maria': 1, 'yaz': 1, 'elması': 1, 'arap': 1, 'kızı': 1, 'salihli': 1, 'kallavi': 1, 'demirci': 1, 'karyağdı': 1, 'biga': 1, 'aronya': 1, 'kışlık': 1, 'papaya': 1, 'margarit': 1, 'fuji': 1}
+['Ürün Tipi', 'Adet', 'Organik']
+
+Process finished with exit code 0
