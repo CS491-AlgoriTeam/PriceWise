@@ -5,7 +5,6 @@ class ProductSellers extends StatefulWidget {
 
   const ProductSellers({
     Key? key,
-    required this.product,
   }) : super(key: key);
 
   @override
