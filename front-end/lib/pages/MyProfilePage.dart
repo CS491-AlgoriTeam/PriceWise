@@ -246,34 +246,7 @@ void _fetchUserProfile() async {
       _deletedLists = result.docs;
     });
   }
-
-  /*Widget _buildDeletedListTile(DocumentSnapshot doc) {
-    Map<String, dynamic> data = doc.data() as Map<String, dynamic>;
-    return Container(
-      margin: EdgeInsets.symmetric(vertical: 4.0),
-      decoration: BoxDecoration(
-        color: Colors.white,
-        borderRadius: BorderRadius.circular(12.0),
-        boxShadow: [
-          BoxShadow(
-            color: Colors.grey.withOpacity(0.2),
-            spreadRadius: 2,
-            blurRadius: 4,
-            offset: Offset(0, 2), // changes position of shadow
-          ),
-        ],
-      ),
-      child: ListTile(
-        title: Text(data['listName'] ?? 'Unknown List', textAlign: TextAlign.center),
-        trailing: IconButton(
-          icon: Icon(Icons.restore_from_trash),
-          onPressed: () {
-            // Implement functionality to restore or permanently delete the list
-          },
-        ),
-      ),
-    );
-  }*/
+  
   Widget _buildDeletedListTile(DocumentSnapshot doc) {
     Map<String, dynamic> data = doc.data() as Map<String, dynamic>;
     

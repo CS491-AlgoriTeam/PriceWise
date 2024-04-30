@@ -1,0 +1,1012 @@
+1
+Product Name: Nescafe 250 ml Xpress Cafe Choco Soğuk Kahve
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 23,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Soguk Kahve 250 Ml Xpress Choco Nescafe Price: 23,50 TL   Unit Price: 94,00 TL/lt
+ - Market: Şok                  Product: Nescafe Xpress Cafe Choco 250 Ml Price: 23,50 TL   Unit Price: 94,00 TL/lt
+ - Market: Carrefour            Product: Nescafe Xpress Cikolata 250 Ml Price: 35,00 TL   Unit Price: 0
+ - Market: Migros               Product: Nescafe Xpress Çikolata 250 Ml Price: 35,00 TL   Unit Price: 140,00 TL/lt
+
+Similar Products:
+ - Similar Product: Nescafe Xpress Nedir Bu Tat 250 mll Soğuk Kahve    Price: 24,25 TL  
+ - Similar Product: Nescafe Xpress 250 ml Original Soğuk Kahve         Price: 23,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/nescafe-250-ml-xpress-cafe-choco-soguk-kahve-_1630906.jpg 
+
+
+2
+Product Name: Nescafe Xpress 250 ml Original Soğuk Kahve
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 23,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Soguk Kahve 250 Ml Xpress Nescafe Price: 23,50 TL   Unit Price: 94,00 TL/lt
+ - Market: Şok                  Product: Nescafe Xpress Original 250 Ml Price: 23,50 TL   Unit Price: 94,00 TL/lt
+ - Market: Bim                  Product: B. Kahv. Nescafe Xpres Org. 250ml Nestle Price: 24,25 TL   Unit Price: 97,00 TL/lt
+ - Market: Carrefour            Product: Nescafe Xpress Orijinal 250 Ml Price: 35,00 TL   Unit Price: 140,00 TL/lt
+
+Similar Products:
+ - Similar Product: Nescafe 250 ml Xpress Cafe Choco Soğuk Kahve       Price: 23,50 TL  
+ - Similar Product: Nescafe Xpress Nedir Bu Tat 250 mll Soğuk Kahve    Price: 24,25 TL  
+
+Features:
+ - Ambalaj Tipi: Hazır Kahve
+ - Toplam Ağırlık: 250 ml
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/nescafe-xpress-250-ml-original-soguk-kahve-_1433096.jpg 
+
+
+3
+Product Name: Obsesso 250 ml Coffee Latte
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 19,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Obsesso Latte 250ml            Price: 19,90 TL   Unit Price: 79,60 TL/lt
+ - Market: A101                 Product: Soguk Kahve Latte 250 Ml Obsesso Price: 27,50 TL   Unit Price: 110,00 TL/lt
+ - Market: Migros               Product: Obsesso Latte Soguk Kahve 250 Ml Price: 27,50 TL   Unit Price: 110,00 TL/lt
+ - Market: Şok                  Product: Obsesso Iced Coffee Latte 250 Ml Price: 27,50 TL   Unit Price: 110,00 TL/lt
+ - Market: Carrefour            Product: Obsesso Latte Iced Coffee 250 Ml Kutu Price: 32,00 TL   Unit Price: 128,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/obsesso-250-ml-coffee-latte-_863444.jpg 
+
+
+4
+Product Name: Obsesso 250 ml Frappe Çikolata Soğuk Kahve
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 26,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Sog.kahve 250 Ml Frappe Çikolata Obsesso Price: 26,00 TL   Unit Price: 104,00 TL/lt
+
+Similar Products:
+ - Similar Product: Obsesso 250 ml Frappe Vanilya Soğuk Kahve          Price: 17,75 TL  
+ - Similar Product: Obsesso 250 ml Frappe Vişneli Soğuk Kahve          Price: 19,50 TL  
+ - Similar Product: Obsesso 250 ml Frappe Çilek Soğuk Kahve            Price: 17,50 TL  
+ - Similar Product: Obsesso 250 ml Black Soğuk Kahve                   Price: 4,95 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/obsesso-250-ml-frappe-cikolata-soguk-kahve-_1607618.jpg 
+
+
+5
+Product Name: Obsesso 250 ml Frappe Çilek Soğuk Kahve
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 17,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Soguk Kahve 250 Ml Frappe Çilek Obsesso Price: 17,50 TL   Unit Price: 70,00 TL/lt
+
+Similar Products:
+ - Similar Product: Obsesso 250 ml Frappe Vanilya Soğuk Kahve          Price: 17,75 TL  
+ - Similar Product: Obsesso 250 ml Frappe Vişneli Soğuk Kahve          Price: 19,50 TL  
+ - Similar Product: Obsesso 250 ml Frappe Çikolata Soğuk Kahve         Price: 26,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/obsesso-250-ml-frappe-cilek-soguk-kahve-_1607619.jpg 
+
+
+6
+Product Name: Cafex 250 ml Latte Soğuk Kahve
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 18,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Soguk Kahve Latte 250 Ml Cafex Price: 18,00 TL   Unit Price: 72,00 TL/lt
+
+Similar Products:
+ - Similar Product: Vip 250 ml Latte Soğuk Kahve                       Price: 12,25 TL  
+ - Similar Product: Gustavo 250 ml Latte Soğuk Kahve                   Price: 12,45 TL  
+ - Similar Product: Cafekeyf Strigo Latte 250 ml Slim Kutu Soğuk Kahve Price: 14,90 TL  
+ - Similar Product: Jacobs 250 ml Icepresso Latte Soğuk Kahve          Price: 10,00 TL  
+
+Features:
+ - Ürün Tipi: Latte
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 ml
+Product Image URL:  
+
+
+7
+Product Name: Obsesso 250 ml Frappe Vişneli Soğuk Kahve
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 19,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Soguk Kahve 250 Ml Frappe Visne Obsesso Price: 19,50 TL   Unit Price: 78,00 TL/lt
+
+Similar Products:
+ - Similar Product: Obsesso 250 ml Frappe Vanilya Soğuk Kahve          Price: 17,75 TL  
+ - Similar Product: Obsesso 250 ml Frappe Çikolata Soğuk Kahve         Price: 26,00 TL  
+ - Similar Product: Obsesso 250 ml Frappe Çilek Soğuk Kahve            Price: 17,50 TL  
+ - Similar Product: Jacobs 250 ml Mocha Soğuk Kahve                    Price: 24,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/obsesso-250-ml-frappe-visneli-soguk-kahve-_1703462.jpg 
+
+
+8
+Product Name: Obsesso 250 ml Frappe Vanilya Soğuk Kahve
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 17,75 TL 
+
+Market Products:
+ - Market: A101                 Product: Sog.kahve 250 Ml Frappe Vanilya Obsesso Price: 17,75 TL   Unit Price: 71,00 TL/lt
+
+Similar Products:
+ - Similar Product: Obsesso 250 ml Frappe Vişneli Soğuk Kahve          Price: 19,50 TL  
+ - Similar Product: Obsesso 250 ml Frappe Çikolata Soğuk Kahve         Price: 26,00 TL  
+ - Similar Product: Obsesso 250 ml Frappe Çilek Soğuk Kahve            Price: 17,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/obsesso-250-ml-frappe-vanilya-soguk-kahve-_1649119.jpg 
+
+
+9
+Product Name: Obsesso 250 ml Coffee Macchiato Kutu
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 19,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Obsesso Caramel Macchiato 250ml Price: 19,90 TL   Unit Price: 79,60 TL/lt
+ - Market: Şok                  Product: Obsesso Caramel Macchiato 250 Ml Price: 21,40 TL   Unit Price: 85,60 TL/lt
+ - Market: Migros               Product: Obsesso Caramel Macchiato Soguk Kahve 250 Ml Price: 27,50 TL   Unit Price: 110,00 TL/lt
+ - Market: Carrefour            Product: Obsesso Caramel Macchiato 250 Ml Kutu Price: 32,00 TL   Unit Price: 128,00 TL/lt
+
+Similar Products:
+ - Similar Product: Obsesso 250 ml Iced Caramel Macchiato Soğuk Kahve  Price: 20,25 TL  
+ - Similar Product: Starbucks 750 ml Multiserve Caramel Macchiato      Price: 56,01 TL  
+ - Similar Product: Sek Caramel Macchiato 330 ml Sütlü İçecek          Price: 29,90 TL  
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/obsesso-250-ml-coffee-macchiato-kutu-_863455.jpg 
+
+
+10
+Product Name: Starbucks 750 ml Multiserve Caffe Latte
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 99,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Starbucks Multiserve Caffe Latte 750 Ml Price: 99,90 TL   Unit Price: 133,20 TL/lt
+
+Similar Products:
+ - Similar Product: Starbucks 750 ml Multiserve Caramel Macchiato      Price: 56,01 TL  
+
+Features:
+ - İçerik: Süt Aromalı
+ - Toplam Ağırlık: 750 ml
+ - Menşei: Almanya
+ - Ambalaj Tipi: Teneke
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/starbucks-750-ml-multiserve-caffe-latte-_1220855.jpg 
+
+
+11
+Product Name: Cafekeyf Strigo Latte 250 ml Slim Kutu Soğuk Kahve
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 14,90 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Soguk Kahve Latte 250ml Cafekeyf Price: 14,90 TL   Unit Price: 59,60 TL/lt
+
+Similar Products:
+ - Similar Product: Vip 250 ml Latte Soğuk Kahve                       Price: 12,25 TL  
+ - Similar Product: Gustavo 250 ml Latte Soğuk Kahve                   Price: 12,45 TL  
+ - Similar Product: Jacobs 250 ml Icepresso Latte Soğuk Kahve          Price: 10,00 TL  
+ - Similar Product: Cafex 250 ml Latte Soğuk Kahve                     Price: 18,00 TL  
+
+Features:
+ - Ürün Türü: Latte
+ - Çoklu Paket: Evet
+ - Toplam Ağırlık: 250 ml
+ - Menşei: Tükiye
+ - Ambalaj Tipi: Teneke
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/cafekeyf-strigo-latte-250-ml-slim-kutu-soguk-kahve-_285421.jpg 
+
+
+12
+Product Name: Starbucks 750 ml Multiserve Caramel Macchiato
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 56,01 TL 
+
+Market Products:
+ - Market: Migros               Product: Starbucks Multiserve Caramel Macchiato 750 Ml Price: 56,01 TL   Unit Price: 74,68 TL/lt
+
+Similar Products:
+ - Similar Product: Obsesso 250 ml Iced Caramel Macchiato Soğuk Kahve  Price: 20,25 TL  
+ - Similar Product: Sek Caramel Macchiato 330 ml Sütlü İçecek          Price: 29,90 TL  
+ - Similar Product: Starbucks 750 ml Multiserve Caffe Latte            Price: 99,90 TL  
+
+Features:
+ - Toplam Ağırlık: 750 ml
+ - Menşei: Almanya
+ - Ambalaj Tipi: Teneke
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/starbucks-750-ml-multiserve-caramel-macchiato-_1220854.jpg 
+
+
+13
+Product Name: Sek Caramel Macchiato 330 ml Sütlü İçecek
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 29,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Sek Caramel Macchiato 330 Ml   Price: 29,90 TL   Unit Price: 90,61 TL/lt
+ - Market: Carrefour            Product: Sek Caramel Macchiato 330 Ml   Price: 31,00 TL   Unit Price: 93,94 TL/lt
+
+Similar Products:
+ - Similar Product: Obsesso 250 ml Iced Caramel Macchiato Soğuk Kahve  Price: 20,25 TL  
+ - Similar Product: Starbucks 750 ml Multiserve Caramel Macchiato      Price: 56,01 TL  
+ - Similar Product: Obsesso 250 ml Coffee Macchiato Kutu               Price: 19,90 TL  
+ - Similar Product: Sek 330 ml Çikolata Mocha Sütlü İçecek             Price: 24,50 TL  
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: Aromalı Süt
+ - Toplam Ağırlık: 330 ml
+ - Menşei: Türkiye
+ - Saklama Koşulları: Serin ve Kuru ortamda muhafaza ediniz
+ - Yağ Oranı: Tam Yağlı
+ - Ürün Tipi: İnek Sütü
+ - Laktozsuz: Evet
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+14
+Product Name: Starbucks 220 ml White Chocolate Mocha
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 79,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Starbucks White Chocolate Mocha 220 Ml Price: 79,95 TL   Unit Price: 363,41 TL/lt
+
+Similar Products:
+
+Features:
+ - İçerik: Beyaz Çikolata
+ - Ürün Türü: Mocha
+ - İçim: Normal
+ - Toplam Ağırlık: 220 ml
+ - Menşei: Danimarka
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/starbucks-220-ml-white-chocolate-mocha-_91378.jpg 
+
+
+15
+Product Name: Obsesso 310 ml Beyaz Çikolatalı Frappe
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 17,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Soguk Kah.frappe Beyaz Çik.310ml Dimes Price: 17,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/obsesso-310-ml-beyaz-cikolatali-frappe-_1738252.jpg 
+
+
+16
+Product Name: Jacobs 250 ml Icepresso Latte Soğuk Kahve
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 10,00 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Soguk Kahve Latte 250ml Jacobs-150823 Price: 10,00 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Vip 250 ml Latte Soğuk Kahve                       Price: 12,25 TL  
+ - Similar Product: Gustavo 250 ml Latte Soğuk Kahve                   Price: 12,45 TL  
+ - Similar Product: Cafekeyf Strigo Latte 250 ml Slim Kutu Soğuk Kahve Price: 14,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/jacobs-250-ml-icepresso-latte-soguk-kahve-_1648054.jpg 
+
+
+17
+Product Name: Lezzcafe 250 ml Latte
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 18,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Lezzcafe Latte 250 Ml          Price: 18,00 TL   Unit Price: 72,00 TL/lt
+
+Similar Products:
+ - Similar Product: Obsesso 250 ml Coffee Latte                        Price: 19,90 TL  
+ - Similar Product: Cafekeyf Strigo Latte 250 ml Slim Kutu Soğuk Kahve Price: 14,90 TL  
+
+Features:
+ - Ürün Tipi: Latte
+ - Toplam Ağırlık: 250 ml
+ - Ambalaj Tipi: Hazır Kahve
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/lezzcafe-250-ml-latte-_1435918.jpg 
+
+
+18
+Product Name: Starbucks 1 Adet 250 ml Frappuccino Caramel
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 30,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Starbucks Frappuccino Caramel 250 Ml Price: 30,00 TL   Unit Price: 15,00 TL/lt
+ - Market: Migros               Product: Starbucks Frappuccino Caramel 250 Ml Price: 79,95 TL   Unit Price: 39,98 TL/lt
+
+Similar Products:
+ - Similar Product: Starbucks 250 ml Frappuccino Salted Caramel Brownie Price: 79,95 TL  
+ - Similar Product: Starbucks Frappuccino Mocha Şişe 250 Ml            Price: 30,00 TL  
+ - Similar Product: Starbucks Frappuccino Coffee 250 ml Soğuk Kahve    Price: 30,00 TL  
+ - Similar Product: Starbucks 250 ml Toffee Honeycomb Frappuccino      Price: 27,00 TL  
+
+Features:
+ - Adet: 8 Adet
+ - Toplam Ağırlık: 2 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/starbucks-1-adet-250-ml-frappuccino-caramel-_834217.jpg 
+
+
+19
+Product Name: Nescafe Xpress Nedir Bu Tat 250 mll Soğuk Kahve
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 24,25 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Soguk Kahve Xpress Latte 250ml Nescafe Price: 24,25 TL   Unit Price: 4.041,67 TL/lt
+
+Similar Products:
+ - Similar Product: Nescafe Xpress 250 ml Original Soğuk Kahve         Price: 23,50 TL  
+ - Similar Product: Nescafe 250 ml Xpress Cafe Choco Soğuk Kahve       Price: 23,50 TL  
+
+Features:
+ - Ambalaj Tipi: Hazır Kahve
+ - Toplam Ağırlık: 6 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/nescafe-xpress-nedir-bu-tat-250-mll-soguk-kahve-_1560840.jpg 
+
+
+20
+Product Name: Starbucks Frappuccino Mocha Şişe 250 Ml
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 30,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Starbucks Frappuccino Mocha 250 Ml Price: 30,00 TL   Unit Price: 120,00 TL/lt
+ - Market: Migros               Product: Starbucks Frappuccino Mocha 250 Ml Price: 79,95 TL   Unit Price: 319,80 TL/lt
+ - Market: Carrefour            Product: Starbucks Frap.coffee .250 Ml Şise Price: 89,90 TL   Unit Price: 359,60 TL/lt
+ - Market: Carrefour            Product: Starbucks Frap.mocha 250 Ml Şise Price: 89,90 TL   Unit Price: 359,60 TL/lt
+
+Similar Products:
+ - Similar Product: Starbucks 1 Adet 250 ml Frappuccino Caramel        Price: 30,00 TL  
+ - Similar Product: Starbucks 250 ml Toffee Honeycomb Frappuccino      Price: 27,00 TL  
+ - Similar Product: Starbucks 250 ml Karamel Frappuccino Soğuk Kahve   Price: 89,90 TL  
+ - Similar Product: Starbucks 250 ml Frappuccino Salted Caramel Brownie Price: 79,95 TL  
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/starbucks-frappuccino-mocha-sise-250-ml-_863469.jpg 
+
+
+21
+Product Name: Jacobs 250 ml Mocha Soğuk Kahve
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 24,90 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Soguk Kahve Mocha 250ml Jacobs-150823 Price: 24,90 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Obsesso 250 ml Mocha Soğuk Kahve                   Price: 19,90 TL  
+ - Similar Product: Cafex 250 ml Mocha Soğuk Kahve                     Price: 18,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/jacobs-250-ml-mocha-soguk-kahve-_1692811.jpg 
+
+
+22
+Product Name: Vip 250 ml Teneke Kutu Mocha
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 12,25 TL 
+
+Market Products:
+ - Market: Bim                  Product: Soguk Kahve Mocha 250 Ml Vip Teneke Kutu Price: 12,25 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Starbucks Frappuccino Mocha Şişe 250 Ml            Price: 30,00 TL  
+ - Similar Product: Jacobs 250 ml Mocha Soğuk Kahve                    Price: 24,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/vip-250-ml-teneke-kutu-mocha-_1451387.jpg 
+
+
+23
+Product Name: Tchibo Bio Kaffee Organik Çekirdek Kahve 250 G
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 179,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Tchibo Bio Kaffee Organik Çekirdek Kahve 250 G Price: 179,90 TL  Unit Price: 0
+ - Market: Carrefour            Product: Tchibo Bio Kaffee Org.cekirdek Kahv.250g Price: 187,00 TL  Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tchibo-bio-kaffee-organik-cekirdek-kahve-250-g-_864107.jpg 
+
+
+24
+Product Name: Sek 330 ml Çikolata Mocha Sütlü İçecek
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 24,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Sek Çikolata Mocha 330 Ml      Price: 24,50 TL   Unit Price: 74,24 TL/lt
+
+Similar Products:
+ - Similar Product: Sek Caramel Macchiato 330 ml Sütlü İçecek          Price: 29,90 TL  
+
+Features:
+ - İçerik: Çikolata
+ - Ürün Türü: İnek Sütü
+ - Laktozsuz: Evet
+ - Toplam Ağırlık: 330 ml
+ - Menşei: Tükiye
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/sek-330-ml-cikolata-mocha-sutlu-icecek-_96871.jpg 
+
+
+25
+Product Name: Black Bruin Kahve 250 ml Enerji İçeceği
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 32,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Enerji Icecegi Kahve 6x250ml Black Bruin Price: 32,50 TL   Unit Price: 21,67 TL/lt
+
+Similar Products:
+
+Features:
+Product Image URL:  
+
+
+26
+Product Name: Starbucks 250 ml Toffee Honeycomb Frappuccino
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 27,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Starbucks Frappuccino Toffee Honeycomb 250 Ml Price: 27,00 TL   Unit Price: 108,00 TL/lt
+
+Similar Products:
+ - Similar Product: Starbucks 1 Adet 250 ml Frappuccino Caramel        Price: 30,00 TL  
+ - Similar Product: Starbucks Frappuccino Mocha Şişe 250 Ml            Price: 30,00 TL  
+ - Similar Product: Starbucks 250 ml Karamel Frappuccino Soğuk Kahve   Price: 89,90 TL  
+ - Similar Product: Starbucks 250 ml Frappuccino Salted Caramel Brownie Price: 79,95 TL  
+
+Features:
+ - Ürün Türü: Soğuk Kahve
+ - Toplam Ağırlık: 250 ml
+ - Ambalaj Tipi: Cam
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/starbucks-250-ml-toffee-honeycomb-frappuccino-_1234454.jpg 
+
+
+27
+Product Name: Obsesso 250 ml Cappuccino Köpüklü
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 32,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Obsesso Cappuccino 250 Ml Kutu Price: 32,00 TL   Unit Price: 128,00 TL/lt
+
+Similar Products:
+ - Similar Product: Obsesso 240 ml Cappuccino Soğuk Kahve              Price: 27,50 TL  
+
+Features:
+ - Ürün Türü: Soğuk Kahve
+ - Toplam Ağırlık: 250 ml
+ - Ambalaj Tipi: Teneke
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/obsesso-250-ml-cappuccino-kopuklu-_1170309.jpg 
+
+
+28
+Product Name: Starbucks 250 ml Karamel Frappuccino Soğuk Kahve
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 89,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Starbucks Frap.caramel 250 Ml Şise Price: 89,90 TL   Unit Price: 359,60 TL/lt
+
+Similar Products:
+ - Similar Product: Starbucks Frappuccino Coffee 250 ml Soğuk Kahve    Price: 30,00 TL  
+ - Similar Product: Starbucks 1 Adet 250 ml Frappuccino Caramel        Price: 30,00 TL  
+ - Similar Product: Starbucks Frappuccino Mocha Şişe 250 Ml            Price: 30,00 TL  
+ - Similar Product: Starbucks 250 ml Toffee Honeycomb Frappuccino      Price: 27,00 TL  
+
+Features:
+ - Ambalaj Tipi: Hazır Kahve
+ - Toplam Ağırlık: 250 ml
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/starbucks-250-ml-karamel-frappuccino-soguk-kahve-_1441534.jpg 
+
+
+29
+Product Name: My Coffee Caramel 250 ml Soğuk Kahve
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 19,00 TL 
+
+Market Products:
+ - Market: Migros               Product: My Coffee Caramel Soguk Kahve 250 Ml Price: 19,00 TL   Unit Price: 76,00 TL/lt
+
+Similar Products:
+ - Similar Product: Obsesso 250 ml Iced Caramel Macchiato Soğuk Kahve  Price: 20,25 TL  
+ - Similar Product: Starbucks 250 ml Frappuccino Salted Caramel Brownie Price: 79,95 TL  
+ - Similar Product: Starbucks 1 Adet 250 ml Frappuccino Caramel        Price: 30,00 TL  
+ - Similar Product: Obsesso 250 ml Black Soğuk Kahve                   Price: 4,95 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/my-coffee-caramel-250-ml-soguk-kahve-_753474.jpg 
+
+
+30
+Product Name: Lezzcafe 250 ml Mocha Kahve
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 18,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Lezzcafe Mocha 250 Ml          Price: 18,00 TL   Unit Price: 72,00 TL/lt
+
+Similar Products:
+ - Similar Product: Jacobs 250 ml Mocha Soğuk Kahve                    Price: 24,90 TL  
+ - Similar Product: Obsesso 250 ml Mocha Soğuk Kahve                   Price: 19,90 TL  
+
+Features:
+ - Ürün Tipi: Mocha
+ - Toplam Ağırlık: 250 ml
+ - Ambalaj Tipi: Hazır Kahve
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/lezzcafe-250-ml-mocha-kahve-_1435218.jpg 
+
+
+31
+Product Name: Obsesso 250 ml Mocha Soğuk Kahve
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 19,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Obsesso Mocha 250ml            Price: 19,90 TL   Unit Price: 79,60 TL/lt
+ - Market: A101                 Product: Soguk Kahve Mocha 250 Ml Obsesso Price: 20,25 TL   Unit Price: 81,00 TL/lt
+ - Market: Migros               Product: Obsesso Mocha Soguk Kahve 250 Ml Price: 27,50 TL   Unit Price: 110,00 TL/lt
+ - Market: Şok                  Product: Obsesso Iced Coffee Mocha 250 Ml Price: 27,50 TL   Unit Price: 110,00 TL/lt
+
+Similar Products:
+ - Similar Product: Jacobs 250 ml Mocha Soğuk Kahve                    Price: 24,90 TL  
+ - Similar Product: Cafex 250 ml Mocha Soğuk Kahve                     Price: 18,00 TL  
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: Mocha
+ - Toplam Ağırlık: 250 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Teneke
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/obsesso-250-ml-mocha-soguk-kahve-_285316.jpg 
+
+
+32
+Product Name: Starbucks 250 ml Frappuccino Salted Caramel Brownie
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 79,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Starbucks Frappuccino Salted Caramel Brownie 250ml Price: 79,95 TL   Unit Price: 319,80 TL/lt
+
+Similar Products:
+ - Similar Product: Starbucks 1 Adet 250 ml Frappuccino Caramel        Price: 30,00 TL  
+ - Similar Product: Starbucks Frappuccino Mocha Şişe 250 Ml            Price: 30,00 TL  
+ - Similar Product: Starbucks 250 ml Toffee Honeycomb Frappuccino      Price: 27,00 TL  
+ - Similar Product: Starbucks 250 ml Karamel Frappuccino Soğuk Kahve   Price: 89,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/starbucks-250-ml-frappuccino-salted-caramel-brownie-_1539406.jpg 
+
+
+33
+Product Name: Nescafe 10'lu 13 gr 3'ü 1 Arada Ice Kahve
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 29,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Kahve Ins 3u1 Arada Orj Ice 10lu Nescafe Price: 29,50 TL   Unit Price: 0
+ - Market: A101                 Product: Kahve Ins 3u1 Arada Cho Ice 10lu Nescafe Price: 29,50 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/nescafe-10lu-13-gr-3u-1-arada-ice-kahve-_990445.jpg 
+
+
+34
+Product Name: Cafex 250 ml Mocha Soğuk Kahve
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 18,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Soguk Kahve Mocha 250 Ml Cafex Price: 18,00 TL   Unit Price: 72,00 TL/lt
+
+Similar Products:
+ - Similar Product: Jacobs 250 ml Mocha Soğuk Kahve                    Price: 24,90 TL  
+ - Similar Product: Obsesso 250 ml Mocha Soğuk Kahve                   Price: 19,90 TL  
+
+Features:
+ - Ürün Türü: Soğuk Kahve
+ - Ürün Tipi: Mocha
+ - Toplam Ağırlık: 250 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Teneke
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/cafex-250-ml-mocha-soguk-kahve-_865829.jpg 
+
+
+35
+Product Name: Dimes Milkshake Kahveli Sütlü 310 ml
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 21,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Dimes Milkshake Kahveli 310 Ml Price: 21,50 TL   Unit Price: 69,35 TL/lt
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 310 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/dimes-milkshake-kahveli-sutlu-310-ml-_561976.jpg 
+
+
+36
+Product Name: Obsesso 250 ml Black Soğuk Kahve
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 4,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Obsesso Black Soguk Kahve 250 Ml Price: 4,95 TL    Unit Price: 19,80 TL/lt
+ - Market: Migros               Product: Obsesso Iced Coffee Black Şkrsz.kahveli Icec.250ml Price: 27,50 TL   Unit Price: 110,00 TL/lt
+ - Market: Carrefour            Product: Obsesso Black Iced Coffee 250 Ml Kutu Price: 33,25 TL   Unit Price: 133,00 TL/lt
+
+Similar Products:
+ - Similar Product: Black Bruin Kahve 250 ml Enerji İçeceği            Price: 32,50 TL  
+ - Similar Product: Obsesso 250 ml Frappe Vanilya Soğuk Kahve          Price: 17,75 TL  
+ - Similar Product: Vip 250 ml Latte Soğuk Kahve                       Price: 12,25 TL  
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: Original
+ - Toplam Ağırlık: 250 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Teneke
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/obsesso-250-ml-black-soguk-kahve-_285312.jpg 
+
+
+37
+Product Name: Obsesso 240 ml Cappuccino Soğuk Kahve
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 27,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Obsesso Iced Coffee Cappuccino 240 Ml Price: 27,50 TL   Unit Price: 114,58 TL/lt
+
+Similar Products:
+ - Similar Product: Obsesso 250 ml Cappuccino Köpüklü                  Price: 32,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/obsesso-240-ml-cappuccino-soguk-kahve-_1440998.jpg 
+
+
+38
+Product Name: Obsesso 250 ml Iced Caramel Macchiato Soğuk Kahve
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 20,25 TL 
+
+Market Products:
+ - Market: A101                 Product: Soguk Kahve Car. Macchiato 250ml Obsesso Price: 20,25 TL   Unit Price: 81,00 TL/lt
+
+Similar Products:
+ - Similar Product: My Coffee Caramel 250 ml Soğuk Kahve               Price: 19,00 TL  
+ - Similar Product: Starbucks 750 ml Multiserve Caramel Macchiato      Price: 56,01 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/obsesso-250-ml-iced-caramel-macchiato-soguk-kahve-_1600434.jpg 
+
+
+39
+Product Name: Gustavo 250 ml Latte Soğuk Kahve
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 12,45 TL 
+
+Market Products:
+ - Market: A101                 Product: Soguk Kahve Latte 250 Ml Gustavo Price: 12,45 TL   Unit Price: 49,80 TL/lt
+
+Similar Products:
+ - Similar Product: Vip 250 ml Latte Soğuk Kahve                       Price: 12,25 TL  
+ - Similar Product: Cafekeyf Strigo Latte 250 ml Slim Kutu Soğuk Kahve Price: 14,90 TL  
+ - Similar Product: Jacobs 250 ml Icepresso Latte Soğuk Kahve          Price: 10,00 TL  
+ - Similar Product: Cafex 250 ml Latte Soğuk Kahve                     Price: 18,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/gustavo-250-ml-latte-soguk-kahve-_1849854.jpg 
+
+
+40
+Product Name: Obsesso 250 ml Coconut Latte
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 20,25 TL 
+
+Market Products:
+ - Market: A101                 Product: Soguk Kahve Coconut Latte 250 Ml Obsesso Price: 20,25 TL   Unit Price: 81,00 TL/lt
+
+Similar Products:
+ - Similar Product: Vip 250 ml Latte Soğuk Kahve                       Price: 12,25 TL  
+ - Similar Product: Gustavo 250 ml Latte Soğuk Kahve                   Price: 12,45 TL  
+
+Features:
+ - İçerik: Hindistan Cevizi
+ - Ürün Türü: Latte
+ - Toplam Ağırlık: 250 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Teneke
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/obsesso-250-ml-coconut-latte-_98958.jpg 
+
+
+41
+Product Name: Starbucks 250 ml Milk Vanilla Daily Brew Coffee
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 79,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Starbucks Daily Brew Coffee Milk Vanilla 250 Ml Price: 79,95 TL   Unit Price: 319,80 TL/lt
+ - Market: Carrefour            Product: Starbucks Daily Brew Milk & Vanilla 250 Price: 93,50 TL   Unit Price: 374,00 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Soğuk Kahve
+ - Toplam Ağırlık: 250 ml
+ - Ambalaj Tipi: Teneke
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/starbucks-250-ml-milk-vanilla-daily-brew-coffee-_1227474.jpg 
+
+
+42
+Product Name: Vip 250 ml Latte Soğuk Kahve
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 12,25 TL 
+
+Market Products:
+ - Market: Bim                  Product: Soguk Kahve Latte 250 Ml Vip Teneke Kutu Price: 12,25 TL   Unit Price: 49,00 TL/lt
+
+Similar Products:
+ - Similar Product: Gustavo 250 ml Latte Soğuk Kahve                   Price: 12,45 TL  
+ - Similar Product: Cafekeyf Strigo Latte 250 ml Slim Kutu Soğuk Kahve Price: 14,90 TL  
+ - Similar Product: Jacobs 250 ml Icepresso Latte Soğuk Kahve          Price: 10,00 TL  
+ - Similar Product: Cafex 250 ml Latte Soğuk Kahve                     Price: 18,00 TL  
+
+Features:
+ - Ürün Tipi: Latte
+ - Toplam Ağırlık: 250 ml
+ - Ambalaj Tipi: Hazır Kahve
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/vip-250-ml-latte-soguk-kahve-_1431914.jpg 
+
+
+43
+Product Name: Starbucks Frappuccino Coffee 250 ml Soğuk Kahve
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 30,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Starbucks Frappuccino Coffee 250 Ml Price: 30,00 TL   Unit Price: 120,00 TL/lt
+ - Market: Migros               Product: Starbucks Frappuccino Smores 250 Ml Price: 79,95 TL   Unit Price: 319,80 TL/lt
+ - Market: Migros               Product: Starbucks Frappuccino Coffee 250 Ml Price: 79,95 TL   Unit Price: 319,80 TL/lt
+
+Similar Products:
+ - Similar Product: Starbucks 250 ml Karamel Frappuccino Soğuk Kahve   Price: 89,90 TL  
+
+Features:
+ - Ürün Türü: Frappuccino
+ - İçim: Normal
+ - Toplam Ağırlık: 250 ml
+ - Menşei: Danimarka
+ - Ambalaj Tipi: Cam
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/starbucks-frappuccino-coffee-250-ml-soguk-kahve-_285102.jpg 
+
+
+44
+Product Name: Nescafe Ice Latte 10.5 gram Soğuk Kahve
+Main Category: İçecekler
+Sub-categories: Soğuk Kahve, 
+Cheapest Price: 4,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Nescafe 3u1 Arada Ice Orijinal 10.5 G Price: 4,00 TL    Unit Price: 0
+ - Market: Şok                  Product: Nescafe Ice Latte 10.5 Gr      Price: 4,00 TL    Unit Price: 0
+ - Market: Carrefour            Product: Nescafe Milky Ice Original 10,5 Gr Price: 6,20 TL    Unit Price: 0
+ - Market: Carrefour            Product: Nescafe Milky Ice Original Mp 10 Lu Price: 49,50 TL   Unit Price: 0
+ - Market: Migros               Product: Nescafe 3u1 Arada Ice Orijinal 10.5 G*10lu Paket Price: 49,50 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Vip 250 ml Latte Soğuk Kahve                       Price: 12,25 TL  
+ - Similar Product: Gustavo 250 ml Latte Soğuk Kahve                   Price: 12,45 TL  
+ - Similar Product: Cafekeyf Strigo Latte 250 ml Slim Kutu Soğuk Kahve Price: 14,90 TL  
+
+Features:
+Product Image URL:  
+
+
+Word Dictionary:
+nescafe: 5
+250: 34
+ml: 40
+xpress: 3
+cafe: 1
+choco: 1
+soğuk: 22
+kahve: 26
+original: 1
+obsesso: 13
+coffee: 5
+latte: 10
+frappe: 5
+çikolata: 2
+çilek: 1
+cafex: 2
+vişneli: 1
+vanilya: 1
+macchiato: 4
+kutu: 3
+starbucks: 10
+750: 2
+multiserve: 2
+caffe: 1
+cafekeyf: 1
+strigo: 1
+slim: 1
+caramel: 6
+sek: 2
+330: 2
+sütlü: 3
+i̇çecek: 2
+220: 1
+white: 1
+chocolate: 1
+mocha: 8
+310: 2
+beyaz: 1
+çikolatalı: 1
+jacobs: 2
+icepresso: 1
+lezzcafe: 2
+1: 2
+adet: 1
+frappuccino: 6
+nedir: 1
+bu: 1
+tat: 1
+mll: 1
+şişe: 1
+vip: 2
+teneke: 1
+tchibo: 1
+bio: 1
+kaffee: 1
+organik: 1
+çekirdek: 1
+g: 1
+black: 2
+bruin: 1
+enerji: 1
+i̇çeceği: 1
+toffee: 1
+honeycomb: 1
+cappuccino: 2
+köpüklü: 1
+karamel: 1
+my: 1
+salted: 1
+brownie: 1
+10'lu: 1
+13: 1
+gr: 1
+3'ü: 1
+arada: 1
+ice: 2
+dimes: 1
+milkshake: 1
+kahveli: 1
+240: 1
+iced: 1
+gustavo: 1
+coconut: 1
+milk: 1
+vanilla: 1
+daily: 1
+brew: 1
+10.5: 1
+gram: 1
+
+Feature List:
+Ambalaj Tipi
+Toplam Ağırlık
+Menşei
+Adet
+Ürün Tipi
+İçerik
+Ürün Türü
+Çoklu Paket
+Saklama Koşulları
+Yağ Oranı
+Laktozsuz
+İçim

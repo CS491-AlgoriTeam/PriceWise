@@ -1,0 +1,2722 @@
+1
+Product Name: Sırma 200ml Sade Soda
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 3,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Maden Suyu 200 Ml Sirma        Price: 3,75 TL    Unit Price: 0,78 TL/lt
+ - Market: Migros               Product: Sirma Soda 200 Ml              Price: 6,00 TL    Unit Price: 1,25 TL/lt
+ - Market: Carrefour            Product: Sirma Dog.mad.suyu 200 Ml      Price: 6,25 TL    Unit Price: 1,30 TL/lt
+
+Similar Products:
+ - Similar Product: Uludağ 200ml Doğal Maden Suyu                      Price: 1,87 TL   
+ - Similar Product: Sırma 200ml Şekersiz C Vitamini Limon Aromalı Gazlı İçecek Price: 7,25 TL   
+ - Similar Product: Sırma 200ml Doğal Maden Suyu                       Price: 26,50 TL  
+ - Similar Product: Sarıkız 200ml C Vitaminli Soda                     Price: 42,25 TL  
+
+Features:
+ - İçerik: Sade
+ - Ürün Tipi: Soda
+ - Adet: 24 Adet
+ - Toplam Ağırlık: 4.8 lt
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sirma-200ml-sade-soda-_360130.jpg 
+
+
+2
+Product Name: Kula 200 ml Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 4,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Kula Maden Suyu Sade 200 Ml    Price: 4,90 TL    Unit Price: 24,50 TL/lt
+ - Market: Şok                  Product: Kula Maden Suyu 200 Ml         Price: 5,50 TL    Unit Price: 27,50 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Kula Maden Suyu Sade 200 Ml 6 Li Price: 26,50 TL   Unit Price: 22,08 TL/lt
+ - Market: Migros               Product: Kula Dogal Maden Suyu 6x200 Ml Price: 29,00 TL   Unit Price: 24,17 TL/lt
+ - Market: Şok                  Product: Kula Maden Suyu 6*200 Ml       Price: 29,00 TL   Unit Price: 24,17 TL/lt
+
+Similar Products:
+ - Similar Product: Sarıkız 200 ml Karadut Maden Suyu                  Price: 5,00 TL   
+
+Features:
+ - Ürün Tipi: Maden Suyu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/kula-200-ml-maden-suyu-_1436114.jpg 
+
+
+3
+Product Name: Sırma 200ml Doğal Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 26,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Sirma Maden Suyu 6*200 Ml      Price: 26,50 TL   Unit Price: 0,92 TL/lt
+ - Market: Carrefour            Product: Sirma Dogal Maden Suyu 6x200 Ml Price: 34,90 TL   Unit Price: 1,21 TL/lt
+ - Market: Migros               Product: Sirma Maden Suyu 6x200 Ml      Price: 34,90 TL   Unit Price: 1,21 TL/lt
+
+Similar Products:
+ - Similar Product: Uludağ 200ml Doğal Maden Suyu                      Price: 1,87 TL   
+ - Similar Product: Avşar 200ml Mango Ananas Maden Suyu                Price: 7,00 TL   
+ - Similar Product: Sırma 200ml Şekersiz C Vitamini Limon Aromalı Gazlı İçecek Price: 7,25 TL   
+ - Similar Product: Sarıkız 200ml C Vitaminli Soda                     Price: 42,25 TL  
+
+Features:
+ - İçerik: Sade
+ - Ürün Tipi: Maden Suyu
+ - Adet: 24 Adet
+ - Toplam Ağırlık: 4.8 lt
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sirma-200ml-dogal-maden-suyu-_360354.jpg 
+
+
+4
+Product Name: San Pellegrino 750 ml Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 39,90 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Maden Suyu 750ml Sanpellegrino-190923 Price: 39,90 TL   Unit Price: 53,20 TL/lt
+ - Market: Carrefour            Product: S.pellegrino Soda 750ml        Price: 78,50 TL   Unit Price: 104,67 TL/lt
+ - Market: Şok                  Product: San Pellegrino 750 Ml          Price: 78,50 TL   Unit Price: 104,67 TL/lt
+ - Market: Migros               Product: San Pellegrino Dogal Mineralli Su 750 Ml Price: 78,95 TL   Unit Price: 105,27 TL/lt
+
+Similar Products:
+ - Similar Product: Perrier 750 ml Doğal Mineralli Maden Suyu          Price: 48,00 TL  
+
+Features:
+ - İçerik: Sade
+ - Ürün Tipi: Maden Suyu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 750 ml
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/san-pellegrino-750-ml-maden-suyu-_359828.jpg 
+
+
+5
+Product Name: Sırma B Vitaminli Karadut Frenk Üzümü Aromalı 200 ml Doğal Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 39,75 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sirma Karadut Frenk Üzumu Maden Suyu 6x2 Price: 39,75 TL   Unit Price: 0
+ - Market: Migros               Product: Sirma B+ Karadut Frenk Üzumu Maden Suyu 6x200 Ml Price: 39,75 TL   Unit Price: 33,13 TL/lt
+
+Similar Products:
+ - Similar Product: Kızılay Karadut ve Frenk Üzümü Aromalı 200 ml Maden Suyu Price: 39,75 TL  
+ - Similar Product: Sırma Karadut Frenk Üzümü Aromalı 1 lt Maden Suyu  Price: 14,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sirma-b-vitaminli-karadut-frenk-uzumu-aromali-200-ml-dogal-maden-suyu-_1213724.jpg 
+
+
+6
+Product Name: Sarıkız Sade 250 ml Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 4,75 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sarikiz Dogal Maden Suyu 250 Ml Cam Price: 4,75 TL    Unit Price: 0
+ - Market: Hakmar Express       Product: Maden Suyu Sade 250ml Sarikiz  Price: 5,00 TL    Unit Price: 0
+ - Market: A101                 Product: Maden Suyu Sade 250 Ml Sarikiz Price: 5,25 TL    Unit Price: 21,00 TL/lt
+ - Market: Şok                  Product: Sarikiz Dogal Maden Suyu 250 Ml Price: 5,50 TL    Unit Price: 22,00 TL/lt
+ - Market: A101                 Product: Maden Suyu Sade 6x250 Ml Sarikiz Price: 21,50 TL   Unit Price: 14,33 TL/lt
+ - Market: Şok                  Product: Sarikiz Dogal Maden Suyu 6*250 Ml Price: 29,00 TL   Unit Price: 19,33 TL/lt
+ - Market: Carrefour            Product: Sarikiz Dogal Maden Suyu 6x250 Ml Price: 31,00 TL   Unit Price: 0
+ - Market: Hakmar Express       Product: Maden Suyu Sade 20x250ml Sarikiz-270224 Price: 79,90 TL   Unit Price: 0
+ - Market: Carrefour            Product: Sarikiz Dogal Maden Suyu 250 Ml 20 Li Price: 103,90 TL  Unit Price: 0
+
+Similar Products:
+ - Similar Product: Damla Mineral 330 cl Sade Maden Suyu               Price: 23,75 TL  
+ - Similar Product: Damla Mineral 20 cl Sade Maden Suyu                Price: 4,99 TL   
+ - Similar Product: Kızılcahamam 200 ml Sade Maden Suyu                Price: 3,50 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sarikiz-sade-250-ml-maden-suyu-_1436637.jpg 
+
+
+7
+Product Name: Kızılay Açai ve Çilek Aromalı 200 ml Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 42,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Kizilay Plus Acai Çilek Aroma.gazli Icecek 6*200ml Price: 42,90 TL   Unit Price: 35,75 TL/lt
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kizilay-acai-ve-cilek-aromali-200-ml-maden-suyu-_1321527.jpg 
+
+
+8
+Product Name: Uludağ Frutti 200 ml Narlı Soda
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 63,25 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Uludag Frutti Nar 6x200 Ml     Price: 63,25 TL   Unit Price: 8,78 TL/lt
+
+Similar Products:
+ - Similar Product: Frutti Narlı Gazlı İçecek 200 ml Soda              Price: 10,55 TL  
+ - Similar Product: Frutti 6x200 ml Elma Aromalı Gazlı İçecek          Price: 49,50 TL  
+ - Similar Product: Frutti 200 ml Karpuz ve Çilek Aromalı Gazlı İçecek Price: 49,50 TL  
+ - Similar Product: Frutti 200 ml C Max Maden Suyu                     Price: 10,55 TL  
+
+Features:
+ - İçerik: Nar
+ - Ürün Tipi: Soda
+ - Adet: 6 Adet
+ - Toplam Ağırlık: 1.2 lt
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/uludag-frutti-200-ml-narli-soda-_359856.jpg 
+
+
+9
+Product Name: Kızılay Karpuz-Çilek 200 ml Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 7,20 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Kizilay Karpuz-cilek 200 Ml Cam Price: 7,20 TL    Unit Price: 1,50 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Kizilay Maden Suyu Karpuz Çilek 200 Ml Price: 7,50 TL    Unit Price: 1,56 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Kizilay Maden Suyu Karpuz Çilek 200 Ml 6 Li Price: 39,50 TL   Unit Price: 1,37 TL/lt
+ - Market: Carrefour            Product: Kizilay Karpuz Çilek Maden Suyu 6x200 Ml Price: 40,90 TL   Unit Price: 1,42 TL/lt
+
+Similar Products:
+ - Similar Product: Frutti Karpuz-Çilek Aromalı 200 ml Maden Suyu      Price: 9,15 TL   
+ - Similar Product: Damla Karpuz Çilek 200 ml Minera Maden Suyu        Price: 7,90 TL   
+
+Features:
+ - İçerik: Karpuz-Çilek
+ - Ürün Tipi: Maden Suyu
+ - Adet: 24 Adet
+ - Toplam Ağırlık: 4.8 lt
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/kizilay-karpuz-cilek-200-ml-maden-suyu-_361129.jpg 
+
+
+10
+Product Name: Sırma 1 lt Doğal Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 14,00 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Maden Suyu Sade 1lt Sirma      Price: 14,00 TL   Unit Price: 14,00 TL/lt
+ - Market: Carrefour            Product: Sirma Dogal Mad.suyu 1lt       Price: 19,50 TL   Unit Price: 19,50 TL/lt
+ - Market: Migros               Product: Sirma Maden Suyu 1l.           Price: 19,50 TL   Unit Price: 19,50 TL/lt
+
+Similar Products:
+ - Similar Product: Sarıkız 200 ml Doğal Maden Suyu                    Price: 18,75 TL  
+ - Similar Product: Akmina 250 ml Pet Doğal Maden Suyu                 Price: 7,50 TL   
+
+Features:
+ - İçerik: Sade
+ - Ürün Tipi: Maden Suyu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 lt
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sirma-1-lt-dogal-maden-suyu-_359814.jpg 
+
+
+11
+Product Name: Sırma Karadut Frenk Üzümü Aromalı 1 lt Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 14,90 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Maden Suyu Karadut 1lt Sirma-020424 Price: 14,90 TL   Unit Price: 0
+ - Market: Carrefour            Product: Sirma Karadutlu Maden Suyu 1 Lt Price: 23,50 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Sırma B Vitaminli Karadut Frenk Üzümü Aromalı 200 ml Doğal Maden Suyu Price: 39,75 TL  
+ - Similar Product: Kızılay Karadut ve Frenk Üzümü Aromalı 200 ml Maden Suyu Price: 39,75 TL  
+ - Similar Product: Akmina 1 lt Karadut-Frenk Üzümü Maden Suyu         Price: 21,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sirma-karadut-frenk-uzumu-aromali-1-lt-maden-suyu-_1498585.jpg 
+
+
+12
+Product Name: Sırma 200 ml Vitaminli C-Plus Elma Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 15,20 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sirma Teatoks Elma&karisik Bitki Özlu Ic Price: 15,20 TL   Unit Price: 3,17 TL/lt
+ - Market: Bim                  Product: Maden Suyu Cplus Vitamnli 6x200 Ml Sirma Price: 34,50 TL   Unit Price: 1,20 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma C-Plus Mandalina Aromalı 200 ml Maden Suyu   Price: 39,75 TL  
+ - Similar Product: Sırma C Vitaminli 200 ml Elma Aromalı İçecek       Price: 39,75 TL  
+
+Features:
+ - Ürün Tipi: Maden Suyu
+ - Adet: 24 Adet
+ - Toplam Ağırlık: 4.8 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/sirma-200-ml-vitaminli-c-plus-elma-maden-suyu-_429070.jpg 
+
+
+13
+Product Name: Akmina 1 lt Elma Tarçın Aromalı Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 12,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Maden Suyu Elma 1 L Akmina     Price: 12,00 TL   Unit Price: 12,00 TL/lt
+ - Market: Şok                  Product: Akmina Elmali Maden Suyu 1 Lt  Price: 19,95 TL   Unit Price: 19,95 TL/lt
+
+Similar Products:
+ - Similar Product: Sarıkız 200 ml Exstra Yeşil Elma Aromalı Maden Suyu Price: 42,25 TL  
+ - Similar Product: Saka 200 ml Elma Aromalı Mineral Maden Suyu        Price: 8,95 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/akmina-1-lt-elma-tarcin-aromali-maden-suyu-_1455693.jpg 
+
+
+14
+Product Name: Sırma C Vitaminli Mandalina Aromalı 1 lt Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 14,90 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Maden Suyu Mandalina 1l Sirma-020424 Price: 14,90 TL   Unit Price: 0
+ - Market: Carrefour            Product: Sirma Mandalinali Maden Suyu 1 Lt Price: 23,50 TL   Unit Price: 0
+ - Market: Migros               Product: Sirma Mandalina Aromali C Vitaminli Maden Suyu 1l Price: 23,50 TL   Unit Price: 23,50 TL/lt
+
+Similar Products:
+ - Similar Product: Akmina C Vitaminli Mandalina Aromalı 1 lt Maden Suyu Price: 18,00 TL  
+ - Similar Product: Sırma B Vitaminli Karadut Frenk Üzümü Aromalı 200 ml Doğal Maden Suyu Price: 39,75 TL  
+ - Similar Product: Sırma C Vitaminli Limon Aromalı 1 lt Maden Suyu    Price: 14,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sirma-c-vitaminli-mandalina-aromali-1-lt-maden-suyu-_1498565.jpg 
+
+
+15
+Product Name: Kızılay Afyonkarahisar 200 ml Doğal Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 29,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Kizilay Maden Suyu 6x200 Ml Afyon Price: 29,00 TL   Unit Price: 24,17 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma B Vitaminli Karadut Frenk Üzümü Aromalı 200 ml Doğal Maden Suyu Price: 39,75 TL  
+ - Similar Product: Sarıkız 200 ml Elmalı Doğal Maden Suyu             Price: 6,40 TL   
+
+Features:
+ - İçerik: Sade
+ - Ürün Tipi: Maden Suyu
+ - Toplam Ağırlık: 200 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Cam
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/kizilay-afyonkarahisar-200-ml-dogal-maden-suyu-_400722.jpg 
+
+
+16
+Product Name: Akmina C Vitaminli Mandalina Aromalı 1 lt Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 18,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Maden Suyu Mandalina 1 L Akmina Price: 18,00 TL   Unit Price: 18,00 TL/lt
+ - Market: Şok                  Product: Akmina Mandalinali Maden Suyu 1 Lt Price: 19,95 TL   Unit Price: 19,95 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma C Vitaminli Mandalina Aromalı 1 lt Maden Suyu Price: 14,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/akmina-c-vitaminli-mandalina-aromali-1-lt-maden-suyu-_1213699.jpg 
+
+
+17
+Product Name: Kızılay 200 ml Doğal Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 4,25 TL 
+
+Market Products:
+ - Market: Bim                  Product: Maden Suyu 200 Ml Kizilay      Price: 4,25 TL    Unit Price: 3,54 TL/lt
+ - Market: Hakmar Express       Product: Maden Suyu Sade 200ml Kizilay  Price: 5,00 TL    Unit Price: 4,17 TL/lt
+ - Market: Migros               Product: Kizilay Maden Suyu 200 Ml      Price: 5,00 TL    Unit Price: 4,17 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Kizilay Dogal Maden Suyu 200 Cl Price: 5,50 TL    Unit Price: 4,58 TL/lt
+ - Market: Şok                  Product: Kizilay Maden Suyu 200 Ml      Price: 5,50 TL    Unit Price: 4,58 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Kizilay Dogal Maden Suyu 200 Cl 6 Li Price: 27,50 TL   Unit Price: 3,82 TL/lt
+ - Market: A101                 Product: Maden Suyu Sade 6x200 Ml Kizilay Price: 29,00 TL   Unit Price: 4,03 TL/lt
+ - Market: Şok                  Product: Kizilay Sade Maden Suyu 6*200 Ml Price: 29,00 TL   Unit Price: 4,03 TL/lt
+ - Market: Carrefour            Product: Kizilay Dogal Maden Suyu 6x200 Ml Price: 29,50 TL   Unit Price: 24,58 TL/lt
+ - Market: A101                 Product: Maden Suyu Sade 12x200 Ml Kizilay Price: 35,00 TL   Unit Price: 2,43 TL/lt
+
+Similar Products:
+ - Similar Product: Sarıkız 200 ml Doğal Maden Suyu                    Price: 18,75 TL  
+ - Similar Product: Kınık 200 ml Doğal Maden Suyu                      Price: 4,65 TL   
+ - Similar Product: Sırma 200ml Doğal Maden Suyu                       Price: 26,50 TL  
+
+Features:
+ - İçerik: Sade
+ - Ürün Tipi: Maden Suyu
+ - Adet: 6 Adet
+ - Toplam Ağırlık: 1.2 lt
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/kizilay-200-ml-dogal-maden-suyu-_360403.jpg 
+
+
+18
+Product Name: Akmina 250 ml Pet Doğal Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 7,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Akmina Maden Suyu 250 Ml Pet   Price: 7,50 TL    Unit Price: 30,00 TL/lt
+ - Market: Migros               Product: Akmina Dogal Maden Suyu Pet 6x250 Ml Price: 36,50 TL   Unit Price: 24,33 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma Doğal 250 ml Pet Maden Suyu                  Price: 34,75 TL  
+
+Features:
+ - Ürün Tipi: Maden Suyu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/akmina-250-ml-pet-dogal-maden-suyu-_859459.jpg 
+
+
+19
+Product Name: Uludağ 200ml Doğal Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 1,87 TL 
+
+Market Products:
+ - Market: Migros               Product: Uludag Dogal Maden Suyu 4*200 Ml Price: 1,87 TL    Unit Price: 0,39 TL/lt
+ - Market: Carrefour            Product: Uludag M.suyu 200 Ml           Price: 5,85 TL    Unit Price: 4,88 TL/lt
+ - Market: Migros               Product: Uludag Dogal Maden Suyu 200 Ml Price: 6,50 TL    Unit Price: 5,42 TL/lt
+ - Market: Carrefour            Product: Uludag Dogal Maden Suyu 6x200 Ml Price: 34,90 TL   Unit Price: 1,82 TL/lt
+ - Market: Hakmar Express       Product: Maden Suyu Sade 12li 200ml Uludag-200623 Price: 34,90 TL   Unit Price: 2,42 TL/lt
+ - Market: Migros               Product: Uludag Dogal Maden Suyu 6*200 Ml Price: 34,90 TL   Unit Price: 4,85 TL/lt
+ - Market: Şok                  Product: Uludag Dogal Maden Suyu 6*200 Ml Price: 34,90 TL   Unit Price: 4,85 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma 200ml Doğal Maden Suyu                       Price: 26,50 TL  
+ - Similar Product: Avşar 200ml Mango Ananas Maden Suyu                Price: 7,00 TL   
+ - Similar Product: Sırma 200ml Şekersiz C Vitamini Limon Aromalı Gazlı İçecek Price: 7,25 TL   
+ - Similar Product: Sarıkız 200ml C Vitaminli Soda                     Price: 42,25 TL  
+
+Features:
+ - İçerik: Sade
+ - Ürün Tipi: Maden Suyu
+ - Adet: 6 Adet
+ - Toplam Ağırlık: 1.2 lt
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/uludag-200ml-dogal-maden-suyu-_360400.jpg 
+
+
+20
+Product Name: Kızılcahamam 200 ml Sade Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 3,50 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Kizilcahamam Maden Suyu Sade 200 Ml Price: 3,50 TL    Unit Price: 17,50 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Kizilcahamam Maden Suyu Sade 200 Ml 6 Li Price: 19,50 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Damla Mineral 330 cl Sade Maden Suyu               Price: 23,75 TL  
+ - Similar Product: Damla Mineral 20 cl Sade Maden Suyu                Price: 4,99 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kizilcahamam-200-ml-sade-maden-suyu-_1442086.jpg 
+
+
+21
+Product Name: Akmina Kırmızı Meyve Aromalı 200 ml Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 4,75 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Akmina B.vit Kir Meyve 200 Ml  Price: 4,75 TL    Unit Price: 23,75 TL/lt
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/akmina-kirmizi-meyve-aromali-200-ml-maden-suyu-_859458.jpg 
+
+
+22
+Product Name: Beyoğlu 250 ml Siyah Premium Şekersiz Gazoz
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 12,45 TL 
+
+Market Products:
+ - Market: Migros               Product: Beyoglu Siyah Premium Gazoz Şekersiz 250 Ml Price: 12,45 TL   Unit Price: 49,80 TL/lt
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/beyoglu-250-ml-siyah-premium-sekersiz-gazoz-_976762.jpg 
+
+
+23
+Product Name: Avşar Sirkeli 200 ml Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 6,00 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Maden Suyu Sirkeli 200ml Avsar-090124 Price: 6,00 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Sırma 200 ml Şekersiz Limon Aromalı Maden Suyu     Price: 7,25 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/avsar-sirkeli-200-ml-maden-suyu-_1885044.jpg 
+
+
+24
+Product Name: Saka Limon Aromalı Mineral Maden Suyu 24'lü
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 41,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Saka Limon Aro.dogal Zen.mineral.gazli Ice.6x200ml Price: 41,95 TL   Unit Price: 8,74 TL/lt
+
+Similar Products:
+ - Similar Product: Saka 200 ml Elma Aromalı Mineral Maden Suyu        Price: 8,95 TL   
+ - Similar Product: Damla Mineral 330 cl Sade Maden Suyu               Price: 23,75 TL  
+ - Similar Product: Kınık Limon Aromalı 200 ml Maden Suyu              Price: 41,95 TL  
+
+Features:
+ - Adet: 24 Adet
+ - Toplam Ağırlık: 4.8 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/saka-limon-aromali-mineral-maden-suyu-24lu-_987784.jpg 
+
+
+25
+Product Name: Perrier 330 ml Cam Şişe Soda
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 48,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Perrier Soda 33 Cl             Price: 48,00 TL   Unit Price: 1.454,55 TL/lt
+ - Market: Migros               Product: Perrier Maden Suyu 33 Cl.      Price: 49,95 TL   Unit Price: 1.513,64 TL/lt
+ - Market: Migros               Product: Perrier Maden Suyu 4*330 Ml    Price: 176,00 TL  Unit Price: 1.333,33 TL/lt
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Ürün Tipi: Soda
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 33 ml
+ - Menşei: Fransa
+Product Image URL: https://cdn.cimri.io/market/260x260/perrier-330-ml-cam-sise-soda-_359847.jpg 
+
+
+26
+Product Name: Pınar Frii Şekersiz Kırmızı Üzüm 250 ml İçecek
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 15,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Pinar Frii Kirmizi Uzum Sekersiz 250 Ml Price: 15,00 TL   Unit Price: 60,00 TL/lt
+ - Market: Migros               Product: Pinar Frii Şekersiz Kirmzi Üzum Gazli Icecek 250ml Price: 15,00 TL   Unit Price: 60,00 TL/lt
+
+Similar Products:
+
+Features:
+ - İçerik: Kırmızı Üzüm
+ - Toplam Ağırlık: 250 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Cam
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/pinar-frii-sekersiz-kirmizi-uzum-250-ml-icecek-_99185.jpg 
+
+
+27
+Product Name: Sırma Doğal 250 ml Pet Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 34,75 TL 
+
+Market Products:
+ - Market: Migros               Product: Sirma Maden Suyu 6x250 Ml      Price: 34,75 TL   Unit Price: 23,17 TL/lt
+
+Similar Products:
+ - Similar Product: Akmina 250 ml Pet Doğal Maden Suyu                 Price: 7,50 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sirma-dogal-250-ml-pet-maden-suyu-_1498577.jpg 
+
+
+28
+Product Name: Sarıkız 200ml C Vitaminli Soda
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 42,25 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sarikiz Ekstra C Vitaminli 6x200 Ml Price: 42,25 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Uludağ 200ml Doğal Maden Suyu                      Price: 1,87 TL   
+ - Similar Product: Sırma 200ml Doğal Maden Suyu                       Price: 26,50 TL  
+ - Similar Product: Sırma 200ml Şekersiz C Vitamini Limon Aromalı Gazlı İçecek Price: 7,25 TL   
+ - Similar Product: Sırma 200ml Sade Soda                              Price: 3,75 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sarikiz-200ml-c-vitaminli-soda-_1221735.jpg 
+
+
+29
+Product Name: Frutti 200 ml Kivili Cmax Soda
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 10,55 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Frutti Cmax Kivili 200 Ml Cam  Price: 10,55 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Sarıkız 200 ml Karadut Maden Suyu                  Price: 5,00 TL   
+
+Features:
+Product Image URL:  
+
+
+30
+Product Name: Frutti Elma Aromalı 200 ml Soda
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 9,15 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Frutti Elma 200 Ml             Price: 9,15 TL    Unit Price: 45,75 TL/lt
+
+Similar Products:
+
+Features:
+ - İçerik: Elma
+ - Ürün Tipi: Soda
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 ml
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/frutti-elma-aromali-200-ml-soda-_361968.jpg 
+
+
+31
+Product Name: Frutti 250 ml Extra Orman Meyveli
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 19,95 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Frutti Extra Orman Myv.250 Ml  Price: 19,95 TL   Unit Price: 0
+ - Market: Migros               Product: Frutti Extra Orman Meyveli 250 Ml Price: 19,95 TL   Unit Price: 79,80 TL/lt
+
+Similar Products:
+ - Similar Product: Uludağ Frutti Extra Orman Meyveli 1 lt Maden Suyu  Price: 23,50 TL  
+ - Similar Product: Freşa 250 ml Orman Meyveli Soda                    Price: 10,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/frutti-250-ml-extra-orman-meyveli-_1565016.jpg 
+
+
+32
+Product Name: Migros 200 ml Çilek Doğal Zengin Mineralli İçecek
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 5,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Migros Çilek Dogal Zengin Mineralli Icecek 200 Ml Price: 5,50 TL    Unit Price: 27,50 TL/lt
+ - Market: Migros               Product: Migros Çilek Dogal Zengin Mineralli Icecek 6*200ml Price: 29,75 TL   Unit Price: 24,79 TL/lt
+
+Similar Products:
+ - Similar Product: Migros 200 ml Limon Doğal Zengin Mineralli İçecek  Price: 5,50 TL   
+ - Similar Product: Migros 200 ml Limon Doğal Zengin Mineralli İçecek  Price: 5,50 TL   
+ - Similar Product: Borjomi 330 ml Doğal Zengin Mineralli Su           Price: 58,95 TL  
+ - Similar Product: Kızılay 200 ml Erzincan Zengin Mineralli Su        Price: 5,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-200-ml-cilek-dogal-zengin-mineralli-icecek-_1434043.jpg 
+
+
+33
+Product Name: Damla 200 ml Mineralli Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Damla Mineralli Maden Suyu 200 Ml Price: 5,00 TL    Unit Price: 25,00 TL/lt
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/damla-200-ml-mineralli-maden-suyu-_1443279.jpg 
+
+
+34
+Product Name: Frutti 6x200 ml Limon
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 9,15 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Frutti Limon 200 Ml            Price: 9,15 TL    Unit Price: 0
+ - Market: Migros               Product: Frutti Limon 6x200 Ml          Price: 49,50 TL   Unit Price: 41,25 TL/lt
+
+Similar Products:
+ - Similar Product: Frutti 6x200 ml Elma Aromalı Gazlı İçecek          Price: 49,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/frutti-6x200-ml-limon-_1585152.jpg 
+
+
+35
+Product Name: Borjomi 330 ml Doğal Zengin Mineralli Su
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 58,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Borjomi Dogal Zengin Mineralli Su 330 Ml Price: 58,95 TL   Unit Price: 178,64 TL/lt
+
+Similar Products:
+ - Similar Product: Kızılay 200 ml Erzincan Zengin Mineralli Su        Price: 5,00 TL   
+ - Similar Product: Migros 200 ml Limon Doğal Zengin Mineralli İçecek  Price: 5,50 TL   
+ - Similar Product: Migros 200 ml Limon Doğal Zengin Mineralli İçecek  Price: 5,50 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/borjomi-330-ml-dogal-zengin-mineralli-su-_1648966.jpg 
+
+
+36
+Product Name: Sarıkız C Limon 200 ml Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 6,40 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sarikiz C Vitaminli Limon 200 Ml Cam Price: 6,40 TL    Unit Price: 5,33 TL/lt
+ - Market: A101                 Product: Maden Suyu C+ Limon 6x200 Ml Sarikiz Price: 34,50 TL   Unit Price: 4,79 TL/lt
+
+Similar Products:
+ - Similar Product: Kınık Limon Aromalı 200 ml Maden Suyu              Price: 41,95 TL  
+ - Similar Product: Akmina 200 ml Limon Maden Suyu                     Price: 5,90 TL   
+ - Similar Product: Akmina 200 ml Limon Maden Suyu                     Price: 5,90 TL   
+ - Similar Product: Kızılay Yeşil Çaylı & Ginsengli Limon Aromalı 200 ml Maden Suyu Price: 42,90 TL  
+
+Features:
+ - Adet: 6 Adet
+ - Toplam Ağırlık: 1.2 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/sarikiz-c-limon-200-ml-maden-suyu-_954501.jpg 
+
+
+37
+Product Name: Akmina 1 lt Mango Ananas Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 18,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Maden Suyu Mango Ananas 1 L Akmina Price: 18,00 TL   Unit Price: 18,00 TL/lt
+ - Market: A101                 Product: Maden Suyu Şeftalili&mango 1l Akmina Price: 21,00 TL   Unit Price: 21,00 TL/lt
+
+Similar Products:
+ - Similar Product: Avşar Mango Ananas 6lı Maden Suyu                  Price: 5,00 TL   
+ - Similar Product: Kızılay Mango Ananas 200 ml Maden Suyu             Price: 39,75 TL  
+ - Similar Product: Kızılay Mango Ananas 200 ml Maden Suyu             Price: 39,75 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/akmina-1-lt-mango-ananas-maden-suyu-_1674247.jpg 
+
+
+38
+Product Name: Frutti Karpuz-Çilek Aromalı 200 ml Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 9,15 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Frutti Karpuz-cilek 200 Ml     Price: 9,15 TL    Unit Price: 45,75 TL/lt
+
+Similar Products:
+ - Similar Product: Kızılay Karpuz-Çilek 200 ml Maden Suyu             Price: 7,20 TL   
+ - Similar Product: Söğütlüçeşme 200 ml Karpuz & Çilek Aromalı Maden Suyu Price: 6,00 TL   
+ - Similar Product: Beypazarı Karpuz Çilek Aromalı 200 ml Maden Suyu   Price: 5,00 TL   
+
+Features:
+ - İçerik: Karpuz-Çilek
+ - Ürün Tipi: Maden Suyu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 ml
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/frutti-karpuz-cilek-aromali-200-ml-maden-suyu-_361987.jpg 
+
+
+39
+Product Name: Söğütlüçeşme 200 ml Mandalina Aromalı Soda
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 29,75 TL 
+
+Market Products:
+ - Market: Şok                  Product: Sogutlucesme Mandalina 6*200 Ml Price: 29,75 TL   Unit Price: 24,79 TL/lt
+
+Similar Products:
+ - Similar Product: Sarıkız 200 ml Mandalina Aromalı Maden Suyu        Price: 6,40 TL   
+ - Similar Product: Sırma C-Plus Mandalina Aromalı 200 ml Maden Suyu   Price: 39,75 TL  
+ - Similar Product: Sarıkız Ekstra 200 ml Mandalina Aromalı Gazlı İçecek Price: 42,25 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sogutlucesme-200-ml-mandalina-aromali-soda-_1434866.jpg 
+
+
+40
+Product Name: Uludağ Frutti C Max Vitaminli 200 ml Limonlu Soda
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 63,25 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Uludag Frutti Cmax Limon 6x200 Ml Price: 63,25 TL   Unit Price: 8,78 TL/lt
+ - Market: Şok                  Product: Uludag Frutti C Max Limon  6*200 Ml Price: 63,25 TL   Unit Price: 8,78 TL/lt
+
+Similar Products:
+ - Similar Product: Frutti 200 ml C Max Maden Suyu                     Price: 10,55 TL  
+ - Similar Product: Uludağ Frutti C Max Portakal 200 ml Meyveli Soda   Price: 10,55 TL  
+ - Similar Product: Uludağ Frutti 250 ml C max Kivi Soda               Price: 63,25 TL  
+ - Similar Product: Uludağ 1 lt Frutti Extra Sarı Limonlu Maden Suyu   Price: 21,00 TL  
+
+Features:
+ - İçerik: Limon
+ - Ürün Tipi: Soda
+ - Adet: 6 Adet
+ - Toplam Ağırlık: 1.2 lt
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/uludag-frutti-c-max-vitaminli-200-ml-limonlu-soda-_360494.jpg 
+
+
+41
+Product Name: Akmina Elma Aromalı 200 ml Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 5,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Akmina Elma Aromali 200 Ml     Price: 5,50 TL    Unit Price: 27,50 TL/lt
+ - Market: Migros               Product: Akminaelma Tekli 200 Ml        Price: 6,50 TL    Unit Price: 32,50 TL/lt
+ - Market: Şok                  Product: Akmina Elma 6*200 Ml           Price: 27,00 TL   Unit Price: 22,50 TL/lt
+ - Market: Migros               Product: Akmina Elma 6x200 Ml           Price: 40,50 TL   Unit Price: 33,75 TL/lt
+
+Similar Products:
+ - Similar Product: Sarıkız 200 ml Exstra Yeşil Elma Aromalı Maden Suyu Price: 42,25 TL  
+ - Similar Product: Saka 200 ml Elma Aromalı Mineral Maden Suyu        Price: 8,95 TL   
+
+Features:
+ - İçerik: Elma
+ - Ürün Tipi: Maden Suyu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 ml
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/akmina-elma-aromali-200-ml-maden-suyu-_362097.jpg 
+
+
+42
+Product Name: Eskipazar 200 ml Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 5,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Eskipazar Maden Suyu 200 Ml    Price: 5,50 TL    Unit Price: 27,50 TL/lt
+ - Market: Şok                  Product: Eskipazar Maden Suyu 6*200ml   Price: 22,50 TL   Unit Price: 18,75 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma 200 ml Şekersiz Limon Aromalı Maden Suyu     Price: 7,25 TL   
+ - Similar Product: Freşa 200 ml Extra Elmalı Maden Suyu               Price: 7,00 TL   
+
+Features:
+ - Ürün Tipi: Maden Suyu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/eskipazar-200-ml-maden-suyu-_1435131.jpg 
+
+
+43
+Product Name: Serinoba 200 ml Elma Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 29,75 TL 
+
+Market Products:
+ - Market: A101                 Product: Maden Suyu Elma 6x200 Ml Serinoba Price: 29,75 TL   Unit Price: 4,13 TL/lt
+
+Similar Products:
+ - Similar Product: Saka 200 ml Elma Aromalı Mineral Maden Suyu        Price: 8,95 TL   
+ - Similar Product: Sarıkız 200 ml Exstra Yeşil Elma Aromalı Maden Suyu Price: 42,25 TL  
+
+Features:
+ - Ürün Tipi: Maden Suyu
+ - Adet: 6 Adet
+ - Toplam Ağırlık: 1.2 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/serinoba-200-ml-elma-maden-suyu-_1433410.jpg 
+
+
+44
+Product Name: Uludağ Frutti C Max Portakal 200 ml Meyveli Soda
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 10,55 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Frutti Cmax Portakalli 200 Ml Cam Price: 10,55 TL   Unit Price: 2,20 TL/lt
+ - Market: Carrefour            Product: Uludag Frutti Cmax Portakal 6x200 Ml Price: 63,25 TL   Unit Price: 0,82 TL/lt
+ - Market: Şok                  Product: Uludag Frutti  C Max Portakal 6*200 Ml Price: 63,25 TL   Unit Price: 2,20 TL/lt
+
+Similar Products:
+ - Similar Product: Frutti 200 ml C Max Maden Suyu                     Price: 10,55 TL  
+ - Similar Product: Uludağ Frutti C Max Vitaminli 200 ml Limonlu Soda  Price: 63,25 TL  
+ - Similar Product: Uludağ Frutti 250 ml C max Kivi Soda               Price: 63,25 TL  
+
+Features:
+ - İçerik: Portakal
+ - Ürün Tipi: Soda
+ - Adet: 24 Adet
+ - Toplam Ağırlık: 4.8 lt
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/uludag-frutti-c-max-portakal-200-ml-meyveli-soda-_361405.jpg 
+
+
+45
+Product Name: Sırma B+ Plus Vişne 200 ml Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 24,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Maden Suyu Visne Aromali 6x200 Ml Sirma Price: 24,50 TL   Unit Price: 3,40 TL/lt
+
+Similar Products:
+ - Similar Product: Freşa 200 ml C Plus Maden Suyu                     Price: 7,00 TL   
+
+Features:
+ - İçerik: Vişne
+ - Ürün Tipi: Maden Suyu
+ - Adet: 6 Adet
+ - Toplam Ağırlık: 1.2 lt
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sirma-b-plus-visne-200-ml-maden-suyu-_359947.jpg 
+
+
+46
+Product Name: Sarıkız 200 ml Yaban Mersinli Soda
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 34,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Maden Suyu Yabanmersini 6x200 Ml Sarikiz Price: 34,50 TL   Unit Price: 28,75 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma 200 ml Şekersiz Limon Aromalı Maden Suyu     Price: 7,25 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sarikiz-200-ml-yaban-mersinli-soda-_1170393.jpg 
+
+
+47
+Product Name: Uludağ 330 ml Fruit Orman Meyveli Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 9,90 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Maden Suyu Frut.ormn.300ml Uludag-180423 Price: 9,90 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Uludağ Frutti Extra Orman Meyveli 1 lt Maden Suyu  Price: 23,50 TL  
+ - Similar Product: Freşa 250 ml Orman Meyveli Soda                    Price: 10,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/uludag-330-ml-fruit-orman-meyveli-maden-suyu-_1480242.jpg 
+
+
+48
+Product Name: Avşar 200 ml C Plus Limon Aromalı Maden suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Avsar C Plus Limon 200 Ml      Price: 5,00 TL    Unit Price: 0
+ - Market: Migros               Product: Avsar Limon Aromali C Plus Gazli Icecek 6*200 Ml Price: 39,75 TL   Unit Price: 33,13 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma C-Plus Mandalina Aromalı 200 ml Maden Suyu   Price: 39,75 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/avsar-200-ml-c-plus-limon-aromali-maden-suyu-_1443807.jpg 
+
+
+49
+Product Name: Avşar 200ml Mango Ananas Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 7,00 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Maden Suyu Mango&ananas 200ml Avsar Price: 7,00 TL    Unit Price: 5,83 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Avsar Mango -ananas Maden Suyu 200 Ml Price: 7,50 TL    Unit Price: 6,25 TL/lt
+ - Market: Carrefour            Product: Avsar C Plus Ananas Mango 6x200 Ml Cam Price: 29,95 TL   Unit Price: 4,16 TL/lt
+ - Market: Bim                  Product: Maden Suyu Mango/ananas Ar.6x200 Avsar Price: 34,50 TL   Unit Price: 4,79 TL/lt
+
+Similar Products:
+ - Similar Product: Kızılay Mango Ananas 200 ml Maden Suyu             Price: 39,75 TL  
+ - Similar Product: Kızılay Mango Ananas 200 ml Maden Suyu             Price: 39,75 TL  
+ - Similar Product: Uludağ 200ml Doğal Maden Suyu                      Price: 1,87 TL   
+ - Similar Product: Sırma 200ml Doğal Maden Suyu                       Price: 26,50 TL  
+
+Features:
+ - İçerik: Ananas
+ - Çoklu Paket: Evet
+ - Toplam Ağırlık: 1.2 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Cam
+ - Adet: 6 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/avsar-200ml-mango-ananas-maden-suyu-_642633.jpg 
+
+
+50
+Product Name: Sarıkız 200 ml Karadut Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Maden Suyu Karadut 200ml Sarikiz Price: 5,00 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Kızılay Karadut ve Frenk Üzümü Aromalı 200 ml Maden Suyu Price: 39,75 TL  
+ - Similar Product: Sırma B Vitaminli Karadut Frenk Üzümü Aromalı 200 ml Doğal Maden Suyu Price: 39,75 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sarikiz-200-ml-karadut-maden-suyu-_1443772.jpg 
+
+
+51
+Product Name: Sarıyer Portakal Meyveli 330 ml Gazlı İçecek
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 29,95 TL 
+
+Market Products:
+ - Market: A101                 Product: G.icece Meyveli Portakal 6x330ml Sariyer Price: 29,95 TL   Unit Price: 15,13 TL/lt
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sariyer-portakal-meyveli-330-ml-gazli-icecek-_1444477.jpg 
+
+
+52
+Product Name: Uludağ 250 ml Tropik Frutti Extra
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 14,95 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Frutti Extra Tropik 250 Ml Cam Price: 14,95 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Frutti 250 ml Extra Orman Meyveli                  Price: 19,95 TL  
+
+Features:
+Product Image URL:  
+
+
+53
+Product Name: Perrier Lime 250 ml Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 39,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Perrier Lime 250 Ml            Price: 39,50 TL   Unit Price: 158,00 TL/lt
+
+Similar Products:
+ - Similar Product: Avşar 200 ml Cool Lime Maden Suyu                  Price: 7,50 TL   
+ - Similar Product: Avşar 250 ml Mandalina Aromalı Maden Suyu          Price: 29,95 TL  
+ - Similar Product: Uludağ 250 ml Maden Suyu                           Price: 7,15 TL   
+
+Features:
+ - İçerik: Sade
+ - Ürün Tipi: Maden Suyu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 ml
+ - Menşei: Fransa
+Product Image URL: https://cdn.cimri.io/market/260x260/perrier-lime-250-ml-maden-suyu-_361869.jpg 
+
+
+54
+Product Name: Perrier Misket Limonu Aromalı 250 ml Doğal Mineralli İçecek
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 22,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Perrier Misket Limonlu Kutu 250 Ml Price: 22,00 TL   Unit Price: 88,00 TL/lt
+ - Market: Carrefour            Product: Perrier Misket Limonlu Dog.min.ic.250 Ml Price: 41,00 TL   Unit Price: 164,00 TL/lt
+
+Similar Products:
+ - Similar Product: Migros 200 ml Limon Doğal Zengin Mineralli İçecek  Price: 5,50 TL   
+ - Similar Product: Migros 200 ml Limon Doğal Zengin Mineralli İçecek  Price: 5,50 TL   
+
+Features:
+ - İçerik: Limon
+ - Toplam Ağırlık: 250 ml
+ - Menşei: Fransa
+ - Ambalaj Tipi: Teneke
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/perrier-misket-limonu-aromali-250-ml-dogal-mineralli-icecek-_360378.jpg 
+
+
+55
+Product Name: Freşa 200 ml C Plus Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 7,00 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Maden Suyu Limonlu C Plus 200ml Fresa Price: 7,00 TL    Unit Price: 35,00 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma C-Plus Mandalina Aromalı 200 ml Maden Suyu   Price: 39,75 TL  
+
+Features:
+ - İçerik: Sade
+ - Ürün Tipi: Maden Suyu
+ - Toplam Ağırlık: 200 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Cam
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/fresa-200-ml-c-plus-maden-suyu-_379603.jpg 
+
+
+56
+Product Name: Sarıkız 200 ml Doğal Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 18,75 TL 
+
+Market Products:
+ - Market: Şok                  Product: Sarikiz Dogal Maden Suyu 6*200 Ml Price: 18,75 TL   Unit Price: 15,63 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma B Vitaminli Karadut Frenk Üzümü Aromalı 200 ml Doğal Maden Suyu Price: 39,75 TL  
+ - Similar Product: Sarıkız 200 ml Elmalı Doğal Maden Suyu             Price: 6,40 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sarikiz-200-ml-dogal-maden-suyu-_1765229.jpg 
+
+
+57
+Product Name: Avşar 200 ml Cool Lime Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 7,50 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Avsar Cool Lime Maden Suyu 200 Ml Price: 7,50 TL    Unit Price: 37,50 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Avsar Cool Lime Maden Suyu 200 Ml 6'li Price: 39,50 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Perrier Lime 250 ml Maden Suyu                     Price: 39,50 TL  
+ - Similar Product: Sarıkız 200 ml Karadut Maden Suyu                  Price: 5,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/avsar-200-ml-cool-lime-maden-suyu-_1880347.jpg 
+
+
+58
+Product Name: Avşar 250 ml Mandalina Aromalı Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 29,95 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Avsar C Plus Mandalina 6x200 Ml Cam Price: 29,95 TL   Unit Price: 19,97 TL/lt
+ - Market: Migros               Product: Avsar Mandalina Aromali Gazli Icecek 6*200 Ml Price: 39,75 TL   Unit Price: 26,50 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma C-Plus Mandalina Aromalı 200 ml Maden Suyu   Price: 39,75 TL  
+ - Similar Product: Sarıkız 200 ml Mandalina Aromalı Maden Suyu        Price: 6,40 TL   
+ - Similar Product: Sırma C Vitaminli Mandalina Aromalı 1 lt Maden Suyu Price: 14,90 TL  
+ - Similar Product: Akmina C Vitaminli Mandalina Aromalı 1 lt Maden Suyu Price: 18,00 TL  
+
+Features:
+ - Ürün Tipi: Maden Suyu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 250 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/avsar-250-ml-mandalina-aromali-maden-suyu-_859350.jpg 
+
+
+59
+Product Name: Damla Karpuz Çilek 200 ml Minera Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 7,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Damla Min.karpuz-cilek 200 Ml  Price: 7,90 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Kızılay Karpuz-Çilek 200 ml Maden Suyu             Price: 7,20 TL   
+
+Features:
+Product Image URL:  
+
+
+60
+Product Name: Sırma Plus Limon 1 lt Meyveli Soda
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 23,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sirma Limonlu Maden Suyu 1 Lt  Price: 23,50 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Sırma Plus Limon 200 ml Meyveli Soda               Price: 7,00 TL   
+ - Similar Product: Avşar 200 ml C Plus Limon Aromalı Maden suyu       Price: 5,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sirma-plus-limon-1-lt-meyveli-soda-_1688079.jpg 
+
+
+61
+Product Name: Uludağ 250 ml Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 7,15 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Uludag Maden Suyu 250 Ml Vidali Kapak Price: 7,15 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Perrier Lime 250 ml Maden Suyu                     Price: 39,50 TL  
+ - Similar Product: Avşar 250 ml Mandalina Aromalı Maden Suyu          Price: 29,95 TL  
+ - Similar Product: Uludağ 250 ml Premium Maden Suyu                   Price: 19,95 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/uludag-250-ml-maden-suyu-_980407.jpg 
+
+
+62
+Product Name: Kızılay 200 ml Mandalinalı Soda
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 7,20 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Kizilay Mandalinali 200 Ml     Price: 7,20 TL    Unit Price: 0
+ - Market: Tarım Kredi Kooperatifi Product: Kizilay Maden Suyu Mandalina 200 Ml Price: 7,50 TL    Unit Price: 37,50 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Kizilay Maden Suyu Mandalina 200 Ml 6 Li Price: 39,50 TL   Unit Price: 0
+ - Market: Carrefour            Product: Kizilaymandalina Aromali 6x200 Ml Price: 40,90 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Uludağ Frutti Extra Mandalinalı 1 lt Maden Suyu    Price: 22,50 TL  
+ - Similar Product: Sırma 200 ml Şekersiz Limon Aromalı Maden Suyu     Price: 7,25 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kizilay-200-ml-mandalinali-soda-_1038930.jpg 
+
+
+63
+Product Name: Uludağ Frutti 250 ml C max Kivi Soda
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 63,25 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Uludag Frutti Cmax Kivi 6x200 Ml Price: 63,25 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Frutti 200 ml C Max Maden Suyu                     Price: 10,55 TL  
+ - Similar Product: Uludağ Frutti C Max Vitaminli 200 ml Limonlu Soda  Price: 63,25 TL  
+ - Similar Product: Uludağ Frutti C Max Portakal 200 ml Meyveli Soda   Price: 10,55 TL  
+ - Similar Product: Frutti 250 ml Extra Orman Meyveli                  Price: 19,95 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/uludag-frutti-250-ml-c-max-kivi-soda-_1561463.jpg 
+
+
+64
+Product Name: Sarıkız Ekstra 200 ml Mandalina Aromalı Gazlı İçecek
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 42,25 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sarikiz Ekstra Mandalina 6x200 Ml Price: 42,25 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Sarıkız 200 ml Mandalina Aromalı Maden Suyu        Price: 6,40 TL   
+ - Similar Product: Sırma C-Plus Mandalina Aromalı 200 ml Maden Suyu   Price: 39,75 TL  
+ - Similar Product: Söğütlüçeşme 200 ml Mandalina Aromalı Soda         Price: 29,75 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sarikiz-ekstra-200-ml-mandalina-aromali-gazli-icecek-_1247669.jpg 
+
+
+65
+Product Name: San Pellegrino 200 ml Aranciata Rossa
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 54,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Spellegrino Aranc.rossa(kan Port)200ml Price: 54,00 TL   Unit Price: 270,00 TL/lt
+
+Similar Products:
+ - Similar Product: Sarıkız 200 ml Karadut Maden Suyu                  Price: 5,00 TL   
+
+Features:
+ - İçerik: Sade
+ - Toplam Ağırlık: 200 ml
+ - Menşei: İtalya
+ - Ambalaj Tipi: Cam
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/san-pellegrino-200-ml-aranciata-rossa-_616137.jpg 
+
+
+66
+Product Name: Akmina 1 lt Limonlu Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 23,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Maden Suyu Limon +c 1 L Akmina Price: 23,50 TL   Unit Price: 23,50 TL/lt
+
+Similar Products:
+ - Similar Product: Kızılay 200 ml Yeşil Çaylı Ginsengli Limonlu Maden Suyu Price: 42,90 TL  
+ - Similar Product: Uludağ 1 lt Frutti Extra Sarı Limonlu Maden Suyu   Price: 21,00 TL  
+ - Similar Product: Uludağ Frutti Extra Yeşil Limonlu 1 lt Maden Suyu  Price: 22,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/akmina-1-lt-limonlu-maden-suyu-_1435049.jpg 
+
+
+67
+Product Name: Uludağ 250 ml Premium Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 19,95 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Uludag Prem.m.suyu 250 Ml      Price: 19,95 TL   Unit Price: 0
+ - Market: Migros               Product: Uludag Premium 250 Ml          Price: 21,90 TL   Unit Price: 87,60 TL/lt
+ - Market: Carrefour            Product: Uludag Maden Suyu 6*250 Ml Vidali Kapak Price: 42,95 TL   Unit Price: 0
+ - Market: Migros               Product: Uludag Premium 6*250 Ml        Price: 119,95 TL  Unit Price: 79,97 TL/lt
+ - Market: Şok                  Product: Uludag Premium Maden Suyu 6*250 Ml Price: 119,95 TL  Unit Price: 79,97 TL/lt
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/uludag-250-ml-premium-maden-suyu-_1153253.jpg 
+
+
+68
+Product Name: Migros 200 ml Limon Doğal Zengin Mineralli İçecek
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 5,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Migros Limon Dogal Zengin Mineralli Icecek 200 Ml Price: 5,50 TL    Unit Price: 27,50 TL/lt
+ - Market: Migros               Product: Migros Limon Dogal Zengin Mineralli Icecek 6*200ml Price: 29,75 TL   Unit Price: 24,79 TL/lt
+
+Similar Products:
+ - Similar Product: Migros 200 ml Çilek Doğal Zengin Mineralli İçecek  Price: 5,50 TL   
+ - Similar Product: Kızılay 200 ml Erzincan Zengin Mineralli Su        Price: 5,00 TL   
+ - Similar Product: Borjomi 330 ml Doğal Zengin Mineralli Su           Price: 58,95 TL  
+
+Features:
+ - İçerik: Limon
+ - Ürün Tipi: Maden Suyu
+ - Toplam Ağırlık: 200 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Cam
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-200-ml-limon-dogal-zengin-mineralli-icecek-_94887.jpg 
+
+
+69
+Product Name: Kınık Limon Aromalı 200 ml Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 41,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kinik Limon C Plus Maden Suyu 6x200 Ml Price: 41,95 TL   Unit Price: 34,96 TL/lt
+
+Similar Products:
+ - Similar Product: Kızılay Yeşil Çaylı & Ginsengli Limon Aromalı 200 ml Maden Suyu Price: 42,90 TL  
+
+Features:
+ - İçerik: Limon
+ - Ürün Tipi: Maden Suyu
+ - Toplam Ağırlık: 200 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Cam
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/kinik-limon-aromali-200-ml-maden-suyu-_615990.jpg 
+
+
+70
+Product Name: Kızılay Mango Ananas 200 ml Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 39,75 TL 
+
+Market Products:
+ - Market: A101                 Product: M.suyu Mang-ananas 6x200 Ml Kizilay Price: 39,75 TL   Unit Price: 33,13 TL/lt
+
+Similar Products:
+ - Similar Product: Avşar 200ml Mango Ananas Maden Suyu                Price: 7,00 TL   
+ - Similar Product: Akmina 1 lt Mango Ananas Maden Suyu                Price: 18,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kizilay-mango-ananas-200-ml-maden-suyu-_1213636.jpg 
+
+
+71
+Product Name: Saol C+Mix 500 ml Vitaminli Su
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 41,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Saol Vitamin Water C-mix 500 Ml Price: 41,95 TL   Unit Price: 83,90 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma B Vitaminli Karadut Frenk Üzümü Aromalı 200 ml Doğal Maden Suyu Price: 39,75 TL  
+ - Similar Product: Sırma C Vitaminli Limon Aromalı 1 lt Maden Suyu    Price: 14,90 TL  
+ - Similar Product: Sırma C Vitaminli 200 ml Elma Aromalı İçecek       Price: 39,75 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/saol-cmix-500-ml-vitaminli-su-_1339327.jpg 
+
+
+72
+Product Name: Akmina 200 ml Limon Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 5,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Akmina Limon Arom.icecek 200ml Price: 5,90 TL    Unit Price: 29,50 TL/lt
+ - Market: Migros               Product: Akmina Limon Tekli 200 Ml      Price: 6,50 TL    Unit Price: 32,50 TL/lt
+ - Market: A101                 Product: Maden Suyu Limonc Vitamn 6x200 Ml Akmina Price: 40,50 TL   Unit Price: 33,75 TL/lt
+ - Market: Carrefour            Product: Akmina Limon Aromali Maden Suyu 6x200ml Price: 40,50 TL   Unit Price: 202,50 TL/lt
+ - Market: Migros               Product: Akmina C Vitaminli Limon 6*200ml Price: 40,50 TL   Unit Price: 33,75 TL/lt
+ - Market: Migros               Product: Akmina Limon 6x200 Ml          Price: 40,50 TL   Unit Price: 33,75 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma 200 ml Şekersiz Limon Aromalı Maden Suyu     Price: 7,25 TL   
+ - Similar Product: Kızılay 200 ml Limon Aromalı Maden Suyu            Price: 6,50 TL   
+
+Features:
+ - İçerik: Limon
+ - Ürün Tipi: Maden Suyu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 ml
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/akmina-200-ml-limon-maden-suyu-_362096.jpg 
+
+
+73
+Product Name: Kızılay Mango Ananas 200 ml Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 39,75 TL 
+
+Market Products:
+ - Market: A101                 Product: M.suyu Mang-ananas 6x200 Ml Kizilay Price: 39,75 TL   Unit Price: 33,13 TL/lt
+
+Similar Products:
+ - Similar Product: Avşar 200ml Mango Ananas Maden Suyu                Price: 7,00 TL   
+ - Similar Product: Akmina 1 lt Mango Ananas Maden Suyu                Price: 18,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kizilay-mango-ananas-200-ml-maden-suyu-_1213636.jpg 
+
+
+74
+Product Name: Akmina 200 ml Limon Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 5,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Akmina Limon Arom.icecek 200ml Price: 5,90 TL    Unit Price: 29,50 TL/lt
+ - Market: Migros               Product: Akmina Limon Tekli 200 Ml      Price: 6,50 TL    Unit Price: 32,50 TL/lt
+ - Market: A101                 Product: Maden Suyu Limonc Vitamn 6x200 Ml Akmina Price: 40,50 TL   Unit Price: 33,75 TL/lt
+ - Market: Carrefour            Product: Akmina Limon Aromali Maden Suyu 6x200ml Price: 40,50 TL   Unit Price: 202,50 TL/lt
+ - Market: Migros               Product: Akmina C Vitaminli Limon 6*200ml Price: 40,50 TL   Unit Price: 33,75 TL/lt
+ - Market: Migros               Product: Akmina Limon 6x200 Ml          Price: 40,50 TL   Unit Price: 33,75 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma 200 ml Şekersiz Limon Aromalı Maden Suyu     Price: 7,25 TL   
+ - Similar Product: Kızılay 200 ml Limon Aromalı Maden Suyu            Price: 6,50 TL   
+
+Features:
+ - İçerik: Limon
+ - Ürün Tipi: Maden Suyu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 ml
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/akmina-200-ml-limon-maden-suyu-_362096.jpg 
+
+
+75
+Product Name: Kızılay 200 ml Yeşil Çaylı Ginsengli Limonlu Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 42,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Kizilay Plus Yesilcayli Ginsengli Limon 6*200 Ml Price: 42,90 TL   Unit Price: 35,75 TL/lt
+
+Similar Products:
+ - Similar Product: Kızılay Yeşil Çaylı & Ginsengli Limon Aromalı 200 ml Maden Suyu Price: 42,90 TL  
+ - Similar Product: Uludağ Frutti Extra Yeşil Limonlu 1 lt Maden Suyu  Price: 22,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kizilay-200-ml-yesil-cayli-ginsengli-limonlu-maden-suyu-_1688083.jpg 
+
+
+76
+Product Name: Maltana 250 ml Ananas Aromalı İçecek
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 23,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Maltana Zero Ananas Aromali 250 Ml Price: 23,00 TL   Unit Price: 92,00 TL/lt
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/maltana-250-ml-ananas-aromali-icecek-_1665353.jpg 
+
+
+77
+Product Name: Kınık 200 ml Karadut Frenk Üzümü Soda
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 41,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Kinik Karadut&frenk Üzumu Maden Suyu 6x200ml Price: 41,95 TL   Unit Price: 34,96 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma B Vitaminli Karadut Frenk Üzümü Aromalı 200 ml Doğal Maden Suyu Price: 39,75 TL  
+ - Similar Product: Kızılay Karadut ve Frenk Üzümü Aromalı 200 ml Maden Suyu Price: 39,75 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kinik-200-ml-karadut-frenk-uzumu-soda-_1204106.jpg 
+
+
+78
+Product Name: Migros 200 ml Limon Doğal Zengin Mineralli İçecek
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 5,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Migros Limon Dogal Zengin Mineralli Icecek 200 Ml Price: 5,50 TL    Unit Price: 27,50 TL/lt
+ - Market: Migros               Product: Migros Limon Dogal Zengin Mineralli Icecek 6*200ml Price: 29,75 TL   Unit Price: 24,79 TL/lt
+
+Similar Products:
+ - Similar Product: Migros 200 ml Çilek Doğal Zengin Mineralli İçecek  Price: 5,50 TL   
+ - Similar Product: Borjomi 330 ml Doğal Zengin Mineralli Su           Price: 58,95 TL  
+ - Similar Product: Kızılay 200 ml Erzincan Zengin Mineralli Su        Price: 5,00 TL   
+
+Features:
+ - İçerik: Limon
+ - Ürün Tipi: Maden Suyu
+ - Toplam Ağırlık: 200 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Cam
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-200-ml-limon-dogal-zengin-mineralli-icecek-_94887.jpg 
+
+
+79
+Product Name: San Pellengrino 250 ml Soda
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 43,70 TL 
+
+Market Products:
+ - Market: Carrefour            Product: S.pelegrino Soda 250 Ml        Price: 43,70 TL   Unit Price: 0
+ - Market: Migros               Product: San Pellegrino Dogal Mineralli Su 250 Ml Price: 45,00 TL   Unit Price: 180,00 TL/lt
+
+Similar Products:
+ - Similar Product: San Pellegrino 200 ml Aranciata Rossa              Price: 54,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/san-pellengrino-250-ml-soda-_1483542.jpg 
+
+
+80
+Product Name: Uludağ Frutti 200 ml Çilekli Soda
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 9,15 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Frutti Çilek 200 Ml            Price: 9,15 TL    Unit Price: 45,75 TL/lt
+
+Similar Products:
+ - Similar Product: Frutti Narlı Gazlı İçecek 200 ml Soda              Price: 10,55 TL  
+ - Similar Product: Frutti 6x200 ml Elma Aromalı Gazlı İçecek          Price: 49,50 TL  
+ - Similar Product: Frutti 200 ml Karpuz ve Çilek Aromalı Gazlı İçecek Price: 49,50 TL  
+ - Similar Product: Frutti 200 ml C Max Maden Suyu                     Price: 10,55 TL  
+
+Features:
+ - Ürün Tipi: Soda
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/uludag-frutti-200-ml-cilekli-soda-_1049420.jpg 
+
+
+81
+Product Name: Damla 200 ml Minera Elmalı Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 45,95 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Damla Minera Elma 6x200ml      Price: 45,95 TL   Unit Price: 0
+ - Market: Migros               Product: Damla Minera Elma Aromali 6*200 Ml Price: 45,95 TL   Unit Price: 38,29 TL/lt
+
+Similar Products:
+ - Similar Product: Damla Karpuz Çilek 200 ml Minera Maden Suyu        Price: 7,90 TL   
+ - Similar Product: Freşa 200 ml Extra Elmalı Maden Suyu               Price: 7,00 TL   
+ - Similar Product: Sarıkız 200 ml Elmalı Doğal Maden Suyu             Price: 6,40 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/damla-200-ml-minera-elmali-maden-suyu-_1044060.jpg 
+
+
+82
+Product Name: Sırma C Vitaminli Mandalina 200 ml Soda
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 7,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Sirma C Vit+mandalina Aromali Maden Suyu 200 Ml Price: 7,00 TL    Unit Price: 35,00 TL/lt
+ - Market: Carrefour            Product: Sirma C Vit.mandalina 200 Ml   Price: 7,25 TL    Unit Price: 36,25 TL/lt
+
+Similar Products:
+ - Similar Product: Akmina C Vitaminli Mandalina Aromalı 1 lt Maden Suyu Price: 18,00 TL  
+ - Similar Product: Sırma C Vitaminli Mandalina Aromalı 1 lt Maden Suyu Price: 14,90 TL  
+ - Similar Product: Sırma B Vitaminli Karadut Frenk Üzümü Aromalı 200 ml Doğal Maden Suyu Price: 39,75 TL  
+ - Similar Product: Sırma C Vitaminli 200 ml Elma Aromalı İçecek       Price: 39,75 TL  
+
+Features:
+ - İçerik: Mandalina
+ - Ürün Tipi: Soda
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 ml
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sirma-c-vitaminli-mandalina-200-ml-soda-_215324.jpg 
+
+
+83
+Product Name: San Pellegrino Portakal Aromalı 200 ml Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 54,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: S.pellegrino Aran.portakal 200ml Price: 54,00 TL   Unit Price: 270,00 TL/lt
+
+Similar Products:
+
+Features:
+ - İçerik: Portakal
+ - Ürün Tipi: Maden Suyu
+ - Toplam Ağırlık: 200 ml
+ - Menşei: İtalya
+ - Ambalaj Tipi: Cam
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/san-pellegrino-portakal-aromali-200-ml-maden-suyu-_616337.jpg 
+
+
+84
+Product Name: Kınık 200 ml Doğal Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 4,65 TL 
+
+Market Products:
+ - Market: Migros               Product: Kinik Maden Suyu Tekli 200 Ml  Price: 4,65 TL    Unit Price: 3,88 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Kinik Maden Suyu Sade 200 Ml   Price: 4,90 TL    Unit Price: 4,08 TL/lt
+ - Market: Şok                  Product: Kinik Dogal Maden Suyu 200 Ml  Price: 5,50 TL    Unit Price: 4,58 TL/lt
+ - Market: Şok                  Product: Kinik Dogal Maden Suyu 6*200 Ml Price: 19,50 TL   Unit Price: 2,71 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Kinik Maden Suyu Sade 200 Ml 6 Li Price: 26,50 TL   Unit Price: 3,68 TL/lt
+ - Market: Migros               Product: Kinik Maden Suyu 6x200 Ml      Price: 29,95 TL   Unit Price: 4,16 TL/lt
+
+Similar Products:
+ - Similar Product: Sarıkız 200 ml Doğal Maden Suyu                    Price: 18,75 TL  
+ - Similar Product: Sırma 200ml Doğal Maden Suyu                       Price: 26,50 TL  
+
+Features:
+ - İçerik: Sade
+ - Çoklu Paket: Evet
+ - Ürün Tipi: Maden Suyu
+ - Toplam Ağırlık: 1.2 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Cam
+ - Adet: 6 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/kinik-200-ml-dogal-maden-suyu-_616357.jpg 
+
+
+85
+Product Name: Uludağ 1 lt Frutti Extra Sarı Limonlu Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 21,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Uludag Frutti Extra Sari Limonlu Gazli Icecek 1lt Price: 21,00 TL   Unit Price: 21,00 TL/lt
+ - Market: Carrefour            Product: Uludag Frutti Extra Sari Limonlu 1lt Price: 24,25 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Uludağ Frutti Extra Yeşil Limonlu 1 lt Maden Suyu  Price: 22,50 TL  
+ - Similar Product: Uludağ Frutti Extra Mandalinalı 1 lt Maden Suyu    Price: 22,50 TL  
+ - Similar Product: Uludağ Frutti Extra Orman Meyveli 1 lt Maden Suyu  Price: 23,50 TL  
+ - Similar Product: Uludağ Frutti C Max Vitaminli 200 ml Limonlu Soda  Price: 63,25 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/uludag-1-lt-frutti-extra-sari-limonlu-maden-suyu-_1080569.jpg 
+
+
+86
+Product Name: Kızılay Karadut ve Frenk Üzümü Aromalı 200 ml Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 39,75 TL 
+
+Market Products:
+ - Market: A101                 Product: M.suyu Karadut-f.uzumu 6x200 Ml Kizilay Price: 39,75 TL   Unit Price: 33,13 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma B Vitaminli Karadut Frenk Üzümü Aromalı 200 ml Doğal Maden Suyu Price: 39,75 TL  
+ - Similar Product: Sırma Karadut Frenk Üzümü Aromalı 1 lt Maden Suyu  Price: 14,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kizilay-karadut-ve-frenk-uzumu-aromali-200-ml-maden-suyu-_1321531.jpg 
+
+
+87
+Product Name: Akmina 1 lt Karadut-Frenk Üzümü Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 21,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Maden Suyu Visneli&karadut 1l Akmina Price: 21,00 TL   Unit Price: 21,00 TL/lt
+ - Market: A101                 Product: Maden Suyu Karadut&frenk Üzumu 1l Akmina Price: 23,50 TL   Unit Price: 23,50 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma B Vitaminli Karadut Frenk Üzümü Aromalı 200 ml Doğal Maden Suyu Price: 39,75 TL  
+ - Similar Product: Sırma Karadut Frenk Üzümü Aromalı 1 lt Maden Suyu  Price: 14,90 TL  
+
+Features:
+Product Image URL:  
+
+
+88
+Product Name: Kızılay Yeşil Çaylı & Ginsengli Limon Aromalı 200 ml Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 42,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Kizilay Ysl Çayli-ginsn Limn Arm 6x200ml Price: 42,90 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Kızılay 200 ml Yeşil Çaylı Ginsengli Limonlu Maden Suyu Price: 42,90 TL  
+ - Similar Product: Kınık Limon Aromalı 200 ml Maden Suyu              Price: 41,95 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kizilay-yesil-cayli-ginsengli-limon-aromali-200-ml-maden-suyu-_1719942.jpg 
+
+
+89
+Product Name: Damla Mineral 330 cl Sade Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 23,75 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Damla Minera Sade Maden Suyu 330 Ml Cam Price: 23,75 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Damla Mineral 20 cl Sade Maden Suyu                Price: 4,99 TL   
+ - Similar Product: Saka Limon Aromalı Mineral Maden Suyu 24'lü        Price: 41,95 TL  
+ - Similar Product: Saka 200 ml Elma Aromalı Mineral Maden Suyu        Price: 8,95 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/damla-mineral-330-cl-sade-maden-suyu-_1826408.jpg 
+
+
+90
+Product Name: Sırma 200ml Şekersiz C Vitamini Limon Aromalı Gazlı İçecek
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 7,25 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sirma C-vit.limon 200 Ml       Price: 7,25 TL    Unit Price: 0
+ - Market: Şok                  Product: Sirma C-plus Limon 6*200 Ml    Price: 34,50 TL   Unit Price: 28,75 TL/lt
+ - Market: Carrefour            Product: Sirma C Vit.limon Şekersiz 6x200 Ml Price: 39,75 TL   Unit Price: 0
+ - Market: Migros               Product: Sirma Şekersiz C Vit.limon Arm.gazl Icecek 6x200ml Price: 39,75 TL   Unit Price: 33,13 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma 200 ml Şekersiz Limon Aromalı Maden Suyu     Price: 7,25 TL   
+ - Similar Product: Uludağ 200ml Doğal Maden Suyu                      Price: 1,87 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sirma-200ml-sekersiz-c-vitamini-limon-aromali-gazli-icecek-_1238270.jpg 
+
+
+91
+Product Name: Uludağ Frutti Extra Mandalinalı 1 lt Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 22,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Frutti Extra Mandalinali 1 Lt. Uludag Price: 22,50 TL   Unit Price: 22,50 TL/lt
+ - Market: Carrefour            Product: Uludag Frutti Extra Mandalinali 1 L Price: 28,50 TL   Unit Price: 28,50 TL/lt
+ - Market: Migros               Product: Frutti Extra Mandalinali Pet 1 L Price: 28,50 TL   Unit Price: 28,50 TL/lt
+
+Similar Products:
+ - Similar Product: Uludağ Frutti Extra Yeşil Limonlu 1 lt Maden Suyu  Price: 22,50 TL  
+ - Similar Product: Uludağ 1 lt Frutti Extra Sarı Limonlu Maden Suyu   Price: 21,00 TL  
+ - Similar Product: Uludağ Frutti Extra Orman Meyveli 1 lt Maden Suyu  Price: 23,50 TL  
+ - Similar Product: Frutti 250 ml Extra Orman Meyveli                  Price: 19,95 TL  
+
+Features:
+ - İçerik: Mandalina
+ - Ürün Tipi: Maden Suyu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 lt
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/uludag-frutti-extra-mandalinali-1-lt-maden-suyu-_361311.jpg 
+
+
+92
+Product Name: Damla 200 ml Minera Mango Ananas
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 7,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Damla Min.mango-ananas 200 Ml  Price: 7,90 TL    Unit Price: 39,50 TL/lt
+ - Market: Migros               Product: Damla Minera Mango Ananas Arm.gazli Icecek 6x200ml Price: 32,00 TL   Unit Price: 26,67 TL/lt
+ - Market: Carrefour            Product: Damla Minera Mango-ananas 6x200ml Price: 45,95 TL   Unit Price: 38,29 TL/lt
+
+Similar Products:
+ - Similar Product: Avşar 200ml Mango Ananas Maden Suyu                Price: 7,00 TL   
+ - Similar Product: Kızılay Mango Ananas 200 ml Maden Suyu             Price: 39,75 TL  
+ - Similar Product: Kızılay Mango Ananas 200 ml Maden Suyu             Price: 39,75 TL  
+
+Features:
+ - Ürün Tipi: Maden Suyu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 ml
+Product Image URL:  
+
+
+93
+Product Name: Uludağ Frutti Extra Orman Meyveli 1 lt Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 23,50 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Maden Suyu Frutti E. Orman M. 1lt Uludag Price: 23,50 TL   Unit Price: 23,50 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Uludag Frutti Extra Orman Meyv.1000ml Price: 27,90 TL   Unit Price: 27,90 TL/lt
+ - Market: Migros               Product: Frutti Extra Orman Meyveli Pet 1 L Price: 28,50 TL   Unit Price: 28,50 TL/lt
+ - Market: Şok                  Product: Uludag Frutti Extra Orman Meyveli 1 Lt Price: 28,50 TL   Unit Price: 28,50 TL/lt
+ - Market: Carrefour            Product: Uludag Frutti Extra Orman Meyveli 1 L Price: 29,50 TL   Unit Price: 29,50 TL/lt
+
+Similar Products:
+ - Similar Product: Frutti 250 ml Extra Orman Meyveli                  Price: 19,95 TL  
+ - Similar Product: Uludağ Frutti Extra Mandalinalı 1 lt Maden Suyu    Price: 22,50 TL  
+ - Similar Product: Uludağ 1 lt Frutti Extra Sarı Limonlu Maden Suyu   Price: 21,00 TL  
+ - Similar Product: Uludağ Frutti Extra Yeşil Limonlu 1 lt Maden Suyu  Price: 22,50 TL  
+
+Features:
+ - İçerik: Orman Meyve
+ - Ürün Tipi: Soda
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 lt
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/uludag-frutti-extra-orman-meyveli-1-lt-maden-suyu-_361809.jpg 
+
+
+94
+Product Name: Sırma 200 ml Şekersiz Limon Aromalı Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 7,25 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sirma C-vit.limon Şekersiz 200 Ml Price: 7,25 TL    Unit Price: 36,25 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma 200ml Şekersiz C Vitamini Limon Aromalı Gazlı İçecek Price: 7,25 TL   
+ - Similar Product: Kınık Limon Aromalı 200 ml Maden Suyu              Price: 41,95 TL  
+ - Similar Product: Kızılay Yeşil Çaylı & Ginsengli Limon Aromalı 200 ml Maden Suyu Price: 42,90 TL  
+
+Features:
+ - İçerik: Limon
+ - Ürün Tipi: Maden Suyu
+ - Toplam Ağırlık: 200 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Cam
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/sirma-200-ml-sekersiz-limon-aromali-maden-suyu-_616452.jpg 
+
+
+95
+Product Name: Freşa 250 ml Orman Meyveli Soda
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 10,00 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Maden Suyu Meyveli Premium 250ml Fresa Price: 10,00 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Frutti 250 ml Extra Orman Meyveli                  Price: 19,95 TL  
+ - Similar Product: Uludağ Frutti Extra Orman Meyveli 1 lt Maden Suyu  Price: 23,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/fresa-250-ml-orman-meyveli-soda-_1078973.jpg 
+
+
+96
+Product Name: Perrier 750 ml Soda
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 76,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Perrier Soda 75 Cl             Price: 76,50 TL   Unit Price: 1.020,00 TL/lt
+
+Similar Products:
+ - Similar Product: San Pellegrino 750 ml Maden Suyu                   Price: 39,90 TL  
+ - Similar Product: Perrier 750 ml Doğal Mineralli Maden Suyu          Price: 48,00 TL  
+
+Features:
+ - Ürün Tipi: Soda
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 75 ml
+ - Kategori: Maden Suyu ve Soda
+Product Image URL: https://cdn.cimri.io/market/260x260/perrier-750-ml-soda-_1433532.jpg 
+
+
+97
+Product Name: Terme Di Crodo 330 ml Lemon Soda
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 54,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Terme Di Crodo Lemon Soda 33 Cl Price: 54,50 TL   Unit Price: 165,15 TL/lt
+
+Similar Products:
+ - Similar Product: Sarıyer Portakal Meyveli 330 ml Gazlı İçecek       Price: 29,95 TL  
+ - Similar Product: Damla Mineral 330 cl Sade Maden Suyu               Price: 23,75 TL  
+
+Features:
+ - Ürün Tipi: Soda
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 330 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/terme-di-crodo-330-ml-lemon-soda-_969466.jpg 
+
+
+98
+Product Name: Freşa 200 ml Extra Elmalı Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 7,00 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Maden Suyu Extra Elmali 200ml Fresa Price: 7,00 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Damla 200 ml Minera Elmalı Maden Suyu              Price: 45,95 TL  
+ - Similar Product: Sarıkız 200 ml Elmalı Doğal Maden Suyu             Price: 6,40 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/fresa-200-ml-extra-elmali-maden-suyu-_1446883.jpg 
+
+
+99
+Product Name: Kızılay 200 ml Limon Aromalı Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 6,50 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Kizilay Maden Suyu Limon C 200 Ml Price: 6,50 TL    Unit Price: 32,50 TL/lt
+ - Market: Hakmar Express       Product: Maden Suyu Limonlu 200ml Kizilay Price: 6,75 TL    Unit Price: 33,75 TL/lt
+ - Market: Carrefour            Product: Kizilay Limon 200 Ml           Price: 7,40 TL    Unit Price: 37,00 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Kizilay Maden Suyu Limonlu 200 Ml Price: 7,50 TL    Unit Price: 37,50 TL/lt
+ - Market: Bim                  Product: Maden Suyu Lim. Aro Kizilay C 6x200 Ml Price: 34,50 TL   Unit Price: 28,75 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Kizilay Maden Suyu Limon C 200 Ml 6 Li Price: 39,50 TL   Unit Price: 32,92 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Kizilay Maden Suyu Limonlu 200 Ml 6 Li Price: 39,50 TL   Unit Price: 32,92 TL/lt
+ - Market: Carrefour            Product: Kizilay Limon Aromali 6x200 Ml Price: 40,90 TL   Unit Price: 204,50 TL/lt
+
+Similar Products:
+ - Similar Product: Kınık Limon Aromalı 200 ml Maden Suyu              Price: 41,95 TL  
+ - Similar Product: Kızılay Yeşil Çaylı & Ginsengli Limon Aromalı 200 ml Maden Suyu Price: 42,90 TL  
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/kizilay-200-ml-limon-aromali-maden-suyu-_859521.jpg 
+
+
+100
+Product Name: Frutti Narlı Gazlı İçecek 200 ml Soda
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 10,55 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Frutti Narli 200ml             Price: 10,55 TL   Unit Price: 52,75 TL/lt
+
+Similar Products:
+ - Similar Product: Uludağ Frutti 200 ml Narlı Soda                    Price: 63,25 TL  
+ - Similar Product: Sırma 200 ml Şekersiz Limon Aromalı Maden Suyu     Price: 7,25 TL   
+
+Features:
+ - İçerik: Nar
+ - Ürün Tipi: Soda
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 ml
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/frutti-narli-gazli-icecek-200-ml-soda-_361984.jpg 
+
+
+101
+Product Name: Sarıkız 200 ml Exstra Yeşil Elma Aromalı Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 42,25 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sarikiz Ekstra Elma 6x200 Ml   Price: 42,25 TL   Unit Price: 42,25 TL/Adet
+
+Similar Products:
+ - Similar Product: Saka 200 ml Elma Aromalı Mineral Maden Suyu        Price: 8,95 TL   
+
+Features:
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/sarikiz-200-ml-exstra-yesil-elma-aromali-maden-suyu-_859364.jpg 
+
+
+102
+Product Name: Damla Mineral 20 cl Sade Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 4,99 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Dam.min.sade Mdn.20cl          Price: 4,99 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Damla Mineral 330 cl Sade Maden Suyu               Price: 23,75 TL  
+ - Similar Product: Saka Limon Aromalı Mineral Maden Suyu 24'lü        Price: 41,95 TL  
+ - Similar Product: Saka 200 ml Elma Aromalı Mineral Maden Suyu        Price: 8,95 TL   
+ - Similar Product: Kızılcahamam 200 ml Sade Maden Suyu                Price: 3,50 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/damla-mineral-20-cl-sade-maden-suyu-_1441736.jpg 
+
+
+103
+Product Name: Sarıkız 200 ml Mandalina Aromalı Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 6,40 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sarikiz Mandalina 200 Ml Cam   Price: 6,40 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Sırma C-Plus Mandalina Aromalı 200 ml Maden Suyu   Price: 39,75 TL  
+ - Similar Product: Avşar 250 ml Mandalina Aromalı Maden Suyu          Price: 29,95 TL  
+ - Similar Product: Akmina C Vitaminli Mandalina Aromalı 1 lt Maden Suyu Price: 18,00 TL  
+ - Similar Product: Sırma C Vitaminli Mandalina Aromalı 1 lt Maden Suyu Price: 14,90 TL  
+
+Features:
+Product Image URL:  
+
+
+104
+Product Name: Sırma C Vitaminli Limon Aromalı 1 lt Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 14,90 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Maden Suyu Limon C+ 1l Sirma-020424 Price: 14,90 TL   Unit Price: 0
+ - Market: Migros               Product: Sirma Limon Aromali C Vitaminli Maden Suyu 1l Price: 23,50 TL   Unit Price: 23,50 TL/lt
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sirma-c-vitaminli-limon-aromali-1-lt-maden-suyu-_1498560.jpg 
+
+
+105
+Product Name: Sarıkız 200 ml Elmalı Doğal Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 6,40 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sarikiz Elma 200 Ml Cam        Price: 6,40 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Damla 200 ml Minera Elmalı Maden Suyu              Price: 45,95 TL  
+ - Similar Product: Freşa 200 ml Extra Elmalı Maden Suyu               Price: 7,00 TL   
+ - Similar Product: Sarıkız 200 ml Doğal Maden Suyu                    Price: 18,75 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sarikiz-200-ml-elmali-dogal-maden-suyu-_1170424.jpg 
+
+
+106
+Product Name: Kızılay 200 ml Erzincan Zengin Mineralli Su
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Kizilay Zengin Mineralli Su Erzincan 200 Ml Price: 5,00 TL    Unit Price: 25,00 TL/lt
+ - Market: Migros               Product: Kizilay Dogal Maden Suyu 6x200 Ml Erzincan Price: 29,00 TL   Unit Price: 24,17 TL/lt
+
+Similar Products:
+ - Similar Product: Borjomi 330 ml Doğal Zengin Mineralli Su           Price: 58,95 TL  
+ - Similar Product: Migros 200 ml Limon Doğal Zengin Mineralli İçecek  Price: 5,50 TL   
+ - Similar Product: Migros 200 ml Limon Doğal Zengin Mineralli İçecek  Price: 5,50 TL   
+ - Similar Product: Migros 200 ml Çilek Doğal Zengin Mineralli İçecek  Price: 5,50 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kizilay-200-ml-erzincan-zengin-mineralli-su-_1153285.jpg 
+
+
+107
+Product Name: Avşar Mango Ananas 6lı Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Avsar C Plus Ananas Mango 200 Ml Price: 5,00 TL    Unit Price: 0,83 TL/Adet
+ - Market: Tarım Kredi Kooperatifi Product: Avsar Mango -ananas Maden Suyu 6 Li Price: 39,50 TL   Unit Price: 1,10 TL/Adet
+
+Similar Products:
+ - Similar Product: Akmina 1 lt Mango Ananas Maden Suyu                Price: 18,00 TL  
+ - Similar Product: Avşar 200ml Mango Ananas Maden Suyu                Price: 7,00 TL   
+ - Similar Product: Kızılay Mango Ananas 200 ml Maden Suyu             Price: 39,75 TL  
+ - Similar Product: Kızılay Mango Ananas 200 ml Maden Suyu             Price: 39,75 TL  
+
+Features:
+ - Adet: 6 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/avsar-mango-ananas-6li-maden-suyu-_969523.jpg 
+
+
+108
+Product Name: Sırma C-Plus Mandalina Aromalı 200 ml Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 39,75 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sirma C Vit.mandalina 6x200 Ml Price: 39,75 TL   Unit Price: 0
+ - Market: Migros               Product: Sirma C+ Mandalinali 6*200 Ml  Price: 39,75 TL   Unit Price: 33,13 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma 200 ml Vitaminli C-Plus Elma Maden Suyu      Price: 15,20 TL  
+ - Similar Product: Sarıkız 200 ml Mandalina Aromalı Maden Suyu        Price: 6,40 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sirma-c-plus-mandalina-aromali-200-ml-maden-suyu-_1492268.jpg 
+
+
+109
+Product Name: Kızılay  C Plus 200 ml Karamurver Soda
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 7,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Kizilay Plus Karamurverli Gazli Icecek 200 Ml Price: 7,50 TL    Unit Price: 37,50 TL/lt
+
+Similar Products:
+ - Similar Product: Freşa 200 ml C Plus Maden Suyu                     Price: 7,00 TL   
+ - Similar Product: Sırma C-Plus Mandalina Aromalı 200 ml Maden Suyu   Price: 39,75 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kizilay-c-plus-200-ml-karamurver-soda-_1004133.jpg 
+
+
+110
+Product Name: Terme Di Crodo 33 cl Mojito Soda
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 54,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Terme Di Crodo Mojitosoda 33 Cl. Price: 54,50 TL   Unit Price: 165,15 TL/lt
+
+Similar Products:
+ - Similar Product: Terme Di Crodo 330 ml Lemon Soda                   Price: 54,50 TL  
+ - Similar Product: Damla Mineral 20 cl Sade Maden Suyu                Price: 4,99 TL   
+ - Similar Product: Damla Mineral 330 cl Sade Maden Suyu               Price: 23,75 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/terme-di-crodo-33-cl-mojito-soda-_1480622.jpg 
+
+
+111
+Product Name: Saka 200 ml Elma Aromalı Mineral Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 8,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Saka Elma Aromali Maden Suyu 200 Ml Price: 8,95 TL    Unit Price: 44,75 TL/lt
+ - Market: Migros               Product: Saka Elma Aro.dog.zengin Miner.gazli Ice. 6x200 Ml Price: 41,95 TL   Unit Price: 34,96 TL/lt
+
+Similar Products:
+ - Similar Product: Saka Limon Aromalı Mineral Maden Suyu 24'lü        Price: 41,95 TL  
+ - Similar Product: Sarıkız 200 ml Exstra Yeşil Elma Aromalı Maden Suyu Price: 42,25 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/saka-200-ml-elma-aromali-mineral-maden-suyu-_1694720.jpg 
+
+
+112
+Product Name: Frutti 6x200 ml Elma Aromalı Gazlı İçecek
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 49,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Frutti Elma 6x200 Ml           Price: 49,50 TL   Unit Price: 247,50 TL/lt
+
+Similar Products:
+
+Features:
+ - İçerik: Elma
+ - Çoklu Paket: Evet
+ - Toplam Ağırlık: 200 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Cam
+ - Adet: 6 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/frutti-6x200-ml-elma-aromali-gazli-icecek-_360229.jpg 
+
+
+113
+Product Name: Sarıkız 200 ml Karpuz Çilek Aromalı Soda
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 34,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Maden Suyu Karpuz&cilek 6x200 Ml Sarikiz Price: 34,50 TL   Unit Price: 28,75 TL/lt
+
+Similar Products:
+ - Similar Product: Söğütlüçeşme 200 ml Karpuz & Çilek Aromalı Maden Suyu Price: 6,00 TL   
+ - Similar Product: Frutti 200 ml Karpuz ve Çilek Aromalı Gazlı İçecek Price: 49,50 TL  
+ - Similar Product: Beypazarı Karpuz Çilek Aromalı 200 ml Maden Suyu   Price: 5,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sarikiz-200-ml-karpuz-cilek-aromali-soda-_1170785.jpg 
+
+
+114
+Product Name: Serinoba 200 ml Limon Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 22,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Maden Suyu Limon/elma 6x200 Ml Serinoba Price: 22,50 TL   Unit Price: 3,13 TL/lt
+ - Market: A101                 Product: Maden Suyu Limon 6x200 Ml Serinoba Price: 29,75 TL   Unit Price: 4,13 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma 200 ml Şekersiz Limon Aromalı Maden Suyu     Price: 7,25 TL   
+ - Similar Product: Kızılay 200 ml Limon Aromalı Maden Suyu            Price: 6,50 TL   
+
+Features:
+ - Çoklu Paket: Evet
+ - Ürün Tipi: Maden Suyu
+ - Adet: 6 Adet
+ - Toplam Ağırlık: 1.2 lt
+ - Kategori: Maden Suyu ve Soda
+Product Image URL: https://cdn.cimri.io/market/260x260/serinoba-200-ml-limon-maden-suyu-_1433554.jpg 
+
+
+115
+Product Name: Söğütlüçeşme 200 ml Karpuz & Çilek Aromalı Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 6,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Sogutlucesme Karpuz&cilek 200 Ml Price: 6,00 TL    Unit Price: 30,00 TL/lt
+ - Market: Şok                  Product: Sogutlucesme Karpuz&cilek 6*200 Ml Price: 29,75 TL   Unit Price: 24,79 TL/lt
+
+Similar Products:
+ - Similar Product: Beypazarı Karpuz Çilek Aromalı 200 ml Maden Suyu   Price: 5,00 TL   
+ - Similar Product: Frutti Karpuz-Çilek Aromalı 200 ml Maden Suyu      Price: 9,15 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sogutlucesme-200-ml-karpuz-cilek-aromali-maden-suyu-_1432950.jpg 
+
+
+116
+Product Name: Frutti 200 ml Karpuz ve Çilek Aromalı Gazlı İçecek
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 49,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Frutti Karpuz-cilek 6*200 Ml   Price: 49,50 TL   Unit Price: 41,25 TL/lt
+ - Market: Şok                  Product: Uludag Frutti Karpuz Çilek 6*200 Ml Price: 54,75 TL   Unit Price: 45,63 TL/lt
+
+Similar Products:
+ - Similar Product: Sarıkız 200 ml Karpuz Çilek Aromalı Soda           Price: 34,50 TL  
+ - Similar Product: Söğütlüçeşme 200 ml Karpuz & Çilek Aromalı Maden Suyu Price: 6,00 TL   
+ - Similar Product: Beypazarı Karpuz Çilek Aromalı 200 ml Maden Suyu   Price: 5,00 TL   
+
+Features:
+ - İçerik: Karpuz-Çilek
+ - Çoklu Paket: Evet
+ - Toplam Ağırlık: 200 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Cam
+ - Adet: 6 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/frutti-200-ml-karpuz-ve-cilek-aromali-gazli-icecek-_367727.jpg 
+
+
+117
+Product Name: Avşar 200 ml Düşes Armudu Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 7,00 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Maden Suyu Duses Armudu 200ml Avsar Price: 7,00 TL    Unit Price: 0
+ - Market: Tarım Kredi Kooperatifi Product: Avsar Duses Armudu-nektarin Maden Suyu 200 Ml Price: 7,50 TL    Unit Price: 37,50 TL/lt
+
+Similar Products:
+ - Similar Product: Avsar Düşeş Armudu Maden Suyu                      Price: 29,95 TL  
+ - Similar Product: Sırma 200 ml Şekersiz Limon Aromalı Maden Suyu     Price: 7,25 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/avsar-200-ml-duses-armudu-maden-suyu-_1764802.jpg 
+
+
+118
+Product Name: Sırma C Vitaminli 200 ml Elma Aromalı İçecek
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 39,75 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sirma C Vit.elma 6x200 Ml      Price: 39,75 TL   Unit Price: 0
+ - Market: Carrefour            Product: Sirma C Vit.elma Şekersiz 6x200 Ml Price: 39,75 TL   Unit Price: 0
+ - Market: Migros               Product: Sirma C+ Elmali 6*200 Ml       Price: 39,75 TL   Unit Price: 33,13 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma 200 ml Vitaminli C-Plus Elma Maden Suyu      Price: 15,20 TL  
+ - Similar Product: Sırma B Vitaminli Karadut Frenk Üzümü Aromalı 200 ml Doğal Maden Suyu Price: 39,75 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sirma-c-vitaminli-200-ml-elma-aromali-icecek-_1435899.jpg 
+
+
+119
+Product Name: Sırma Plus Limon 200 ml Meyveli Soda
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 7,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Sirma C-plus Limon Aro. Maden Suyu 200 Ml Price: 7,00 TL    Unit Price: 1,46 TL/lt
+ - Market: Carrefour            Product: Sirma Limon 200 Ml             Price: 7,25 TL    Unit Price: 1,51 TL/lt
+ - Market: Carrefour            Product: Sirma Limon 6x200 Ml           Price: 39,75 TL   Unit Price: 1,38 TL/lt
+ - Market: Carrefour            Product: Sirma C Vit.limon 6x200 Ml     Price: 39,75 TL   Unit Price: 1,38 TL/lt
+ - Market: Migros               Product: Sirma Limon 6*200 Ml.          Price: 39,75 TL   Unit Price: 1,38 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma Plus Limon 1 lt Meyveli Soda                 Price: 23,50 TL  
+ - Similar Product: Avşar 200 ml C Plus Limon Aromalı Maden suyu       Price: 5,00 TL   
+
+Features:
+ - İçerik: Limon
+ - Ürün Tipi: Soda
+ - Adet: 24 Adet
+ - Toplam Ağırlık: 4.8 lt
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sirma-plus-limon-200-ml-meyveli-soda-_360042.jpg 
+
+
+120
+Product Name: Uludağ Frutti Extra Yeşil Limonlu 1 lt Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 22,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Frutti Extra Yesil Limonlu 1 Lt. Uludag Price: 22,50 TL   Unit Price: 22,50 TL/lt
+ - Market: Hakmar Express       Product: Maden Suyu Frutti E. Y. Limon 1lt Uludag Price: 23,50 TL   Unit Price: 23,50 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Uludag Frutti Extra Yesil Limon 1000ml Price: 27,90 TL   Unit Price: 27,90 TL/lt
+ - Market: Migros               Product: Frutti Extra Yesil Limon Pet 1 L Price: 28,50 TL   Unit Price: 28,50 TL/lt
+
+Similar Products:
+ - Similar Product: Uludağ 1 lt Frutti Extra Sarı Limonlu Maden Suyu   Price: 21,00 TL  
+ - Similar Product: Uludağ Frutti Extra Mandalinalı 1 lt Maden Suyu    Price: 22,50 TL  
+ - Similar Product: Uludağ Frutti Extra Orman Meyveli 1 lt Maden Suyu  Price: 23,50 TL  
+ - Similar Product: Kızılay 200 ml Yeşil Çaylı Ginsengli Limonlu Maden Suyu Price: 42,90 TL  
+
+Features:
+ - İçerik: Yeşil Limon
+ - Ürün Tipi: Maden Suyu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 lt
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/uludag-frutti-extra-yesil-limonlu-1-lt-maden-suyu-_361327.jpg 
+
+
+121
+Product Name: Beypazarı Karpuz Çilek Aromalı 200 ml Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Maden Suyu Karpuz-cilek 200ml Beypazari Price: 5,00 TL    Unit Price: 25,00 TL/lt
+
+Similar Products:
+ - Similar Product: Söğütlüçeşme 200 ml Karpuz & Çilek Aromalı Maden Suyu Price: 6,00 TL   
+ - Similar Product: Frutti Karpuz-Çilek Aromalı 200 ml Maden Suyu      Price: 9,15 TL   
+
+Features:
+ - İçerik: Karpuz-Çilek
+ - Ürün Tipi: Maden Suyu
+ - Toplam Ağırlık: 200 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Cam
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/beypazari-karpuz-cilek-aromali-200-ml-maden-suyu-_368411.jpg 
+
+
+122
+Product Name: Karlıtepe 200 ml Limon Aromalı Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 26,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Maden Suyu Limon Ar.6x200 Ml Karlitepe Price: 26,50 TL   Unit Price: 3,68 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma 200 ml Şekersiz Limon Aromalı Maden Suyu     Price: 7,25 TL   
+ - Similar Product: Kızılay 200 ml Limon Aromalı Maden Suyu            Price: 6,50 TL   
+
+Features:
+ - Çoklu Paket: Evet
+ - Ürün Tipi: Maden Suyu
+ - Adet: 6 Adet
+ - Toplam Ağırlık: 1.2 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/karlitepe-200-ml-limon-aromali-maden-suyu-_1432247.jpg 
+
+
+123
+Product Name: Perrier 750 ml Doğal Mineralli Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 48,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Perrier 75 Cl Ithal Maden Suyu Price: 48,00 TL   Unit Price: 64,00 TL/lt
+ - Market: Şok                  Product: Perrier 750 Ml                 Price: 76,50 TL   Unit Price: 102,00 TL/lt
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Ürün Tipi: Maden Suyu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 750 ml
+ - Menşei: Fransa
+Product Image URL: https://cdn.cimri.io/market/260x260/perrier-750-ml-dogal-mineralli-maden-suyu-_359980.jpg 
+
+
+124
+Product Name: Frutti 200 ml C Max Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 10,55 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Frutti Cmax 200ml              Price: 10,55 TL   Unit Price: 52,75 TL/lt
+ - Market: Migros               Product: Frutti C Max Vitaminli 6*200 Ml Price: 63,25 TL   Unit Price: 316,25 TL/lt
+
+Similar Products:
+ - Similar Product: Uludağ Frutti C Max Vitaminli 200 ml Limonlu Soda  Price: 63,25 TL  
+ - Similar Product: Uludağ Frutti C Max Portakal 200 ml Meyveli Soda   Price: 10,55 TL  
+ - Similar Product: Sırma 200 ml Şekersiz Limon Aromalı Maden Suyu     Price: 7,25 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/frutti-200-ml-c-max-maden-suyu-_987748.jpg 
+
+
+125
+Product Name: Avşar 200 ml Doğal Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 3,50 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Avsar Dogal Maden Suyu Sade 200 Ml Price: 3,50 TL    Unit Price: 17,50 TL/lt
+ - Market: Hakmar Express       Product: Maden Suyu Sade 200ml Avsar-090124 Price: 4,00 TL    Unit Price: 20,00 TL/lt
+ - Market: Migros               Product: Avsar Dogal Maden Suyu 200 Ml  Price: 5,50 TL    Unit Price: 27,50 TL/lt
+ - Market: Carrefour            Product: Avsar Dogal Maden Suyu 6x200 Ml Cam Price: 20,45 TL   Unit Price: 17,04 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Avsar Dogal Maden Suyu Sade 6'li Price: 20,90 TL   Unit Price: 17,42 TL/lt
+
+Similar Products:
+ - Similar Product: Sarıkız 200 ml Doğal Maden Suyu                    Price: 18,75 TL  
+ - Similar Product: Kınık 200 ml Doğal Maden Suyu                      Price: 4,65 TL   
+ - Similar Product: Sırma 200ml Doğal Maden Suyu                       Price: 26,50 TL  
+
+Features:
+ - Ürün Tipi: Maden Suyu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/avsar-200-ml-dogal-maden-suyu-_1436589.jpg 
+
+
+126
+Product Name: Avsar Düşeş Armudu Maden Suyu
+Main Category: İçecekler
+Sub-categories: Maden Suyu, 
+Cheapest Price: 29,95 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Avsar Armut 6nekt.maden Suyu 6x200ml Price: 29,95 TL   Unit Price: 0
+ - Market: Tarım Kredi Kooperatifi Product: Avsar Duses Armudu-nektarin Maden Suyu 6 Li Price: 39,50 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Avşar 200 ml Düşes Armudu Maden Suyu               Price: 7,00 TL   
+ - Similar Product: Avşar 250 ml Mandalina Aromalı Maden Suyu          Price: 29,95 TL  
+ - Similar Product: Avşar 200 ml Cool Lime Maden Suyu                  Price: 7,50 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/avsar-duses-armudu-maden-suyu-_1480798.jpg 
+
+
+Word Dictionary:
+sırma: 17
+200ml: 6
+sade: 5
+soda: 25
+kula: 1
+200: 73
+ml: 100
+maden: 80
+suyu: 80
+doğal: 18
+san: 4
+pellegrino: 3
+750: 3
+b: 1
+vitaminli: 10
+karadut: 5
+frenk: 4
+üzümü: 5
+aromalı: 36
+sarıkız: 11
+250: 16
+kızılay: 13
+açai: 1
+ve: 3
+çilek: 7
+uludağ: 14
+frutti: 19
+narlı: 2
+karpuz-çilek: 2
+1: 14
+lt: 14
+c-plus: 2
+elma: 9
+akmina: 10
+tarçın: 1
+c: 15
+mandalina: 8
+afyonkarahisar: 1
+pet: 2
+kızılcahamam: 1
+kırmızı: 2
+meyve: 1
+beyoğlu: 1
+siyah: 1
+premium: 2
+şekersiz: 4
+gazoz: 1
+avşar: 8
+sirkeli: 1
+saka: 2
+limon: 18
+mineral: 4
+24'lü: 1
+perrier: 5
+330: 6
+cam: 1
+şişe: 1
+pınar: 1
+frii: 1
+üzüm: 1
+i̇çecek: 13
+kivili: 1
+cmax: 1
+extra: 7
+orman: 4
+meyveli: 8
+migros: 3
+zengin: 5
+mineralli: 8
+damla: 6
+6x200: 2
+borjomi: 1
+su: 3
+mango: 6
+ananas: 7
+söğütlüçeşme: 2
+max: 4
+limonlu: 5
+eskipazar: 1
+serinoba: 2
+portakal: 3
+b+: 1
+plus: 6
+vişne: 1
+yaban: 1
+mersinli: 1
+fruit: 1
+sarıyer: 1
+gazlı: 6
+tropik: 1
+lime: 2
+misket: 1
+limonu: 1
+freşa: 3
+cool: 1
+karpuz: 5
+minera: 3
+mandalinalı: 2
+kivi: 1
+ekstra: 1
+aranciata: 1
+rossa: 1
+kınık: 3
+saol: 1
+c+mix: 1
+500: 1
+yeşil: 4
+çaylı: 2
+ginsengli: 2
+maltana: 1
+pellengrino: 1
+çilekli: 1
+elmalı: 3
+sarı: 1
+karadut-frenk: 1
+&: 2
+cl: 3
+vitamini: 1
+terme: 2
+di: 2
+crodo: 2
+lemon: 1
+exstra: 1
+20: 1
+erzincan: 1
+6lı: 1
+karamurver: 1
+33: 1
+mojito: 1
+düşes: 1
+armudu: 2
+beypazarı: 1
+karlıtepe: 1
+avsar: 1
+düşeş: 1
+
+Feature List:
+İçerik
+Ürün Tipi
+Adet
+Toplam Ağırlık
+Menşei
+Ambalaj Tipi
+Çoklu Paket
+Kategori

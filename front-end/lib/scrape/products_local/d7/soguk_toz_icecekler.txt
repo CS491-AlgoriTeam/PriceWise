@@ -1,0 +1,878 @@
+1
+Product Name: Nari Ice Tea Şeftali 85 gr Toz İçecek
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 4,95 TL 
+
+Market Products:
+ - Market: A101                 Product: Toz Icecek 85 G Ice Tea Şeftali Nari Price: 4,95 TL    Unit Price: 58,24 TL/kg
+
+Similar Products:
+ - Similar Product: Nari Ice Tea Limon Aromalı 85 gr Toz İçecek        Price: 4,95 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 85 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/nari-ice-tea-seftali-85-gr-toz-icecek-_1304526.jpg 
+
+
+2
+Product Name: Dr. Oetker 24 gr Çilek Toz Milkshake
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 3,45 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Toz Milkshake Çilek.24g Dr.oetker-101023 Price: 3,45 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Dr. Oetker 24 gr Çikolata Toz Milkshake            Price: 3,45 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-24-gr-cilek-toz-milkshake-_1743545.jpg 
+
+
+3
+Product Name: Alpro 1 lt Profesyonel Soya İçeceği
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 61,06 TL 
+
+Market Products:
+ - Market: Migros               Product: Alpro Profesyonel Soya Icecegi 1l Price: 61,06 TL   Unit Price: 61,06 TL/kg
+
+Similar Products:
+ - Similar Product: Alpro Profesyonel 1 lt Soyalı Hindistan Cevizi İçeceği Price: 65,13 TL  
+ - Similar Product: Joya 1 lt Kalsiyum ve Vitamin İlaveli Soya İçeceği Price: 40,69 TL  
+ - Similar Product: Alpro 250 ml Soya Sütü Sade                        Price: 27,44 TL  
+
+Features:
+ - İçerik: Soya
+ - Ürün Türü: Vegan
+ - Ağırlık: 1 lt
+ - Glutensiz: Evet
+ - Menşei: Belçika
+ - Yağ Oranı: Yarım Yağlı
+ - Ürün Tipi: Soya İçeceği
+ - Laktozsuz: Evet
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/alpro-1-lt-profesyonel-soya-icecegi-_1442373.jpg 
+
+
+4
+Product Name: Dr. Oetker 19 gr Çikolatalı Toz Milkshake
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Toz Milkshake Çiko.19g Dr.oetker-041022 Price: 2,50 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Dr Oetker 19 gr Bitter Çikolatalı Yüksek Protein Milkshake Price: 18,90 TL  
+ - Similar Product: Dr. Oetker 24 gr Çikolatalı Çilekli Milkshake      Price: 4,25 TL   
+ - Similar Product: Dr. Oetker 24 gr Çikolatalı Milkshake              Price: 4,25 TL   
+ - Similar Product: Dr. Oetker 24 gr Çikolatalı Çilekli Milkshake      Price: 4,25 TL   
+ - Similar Product: Dr. Oetker 24 gr Çikolatalı Milkshake              Price: 4,25 TL   
+ - Similar Product: Dr. Oetker 20 gr Muzlu Milkshake Toz Karışımı      Price: 7,90 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-19-gr-cikolatali-toz-milkshake-_1441717.jpg 
+
+
+5
+Product Name: Joya 1 lt Kalsiyum ve Vitamin İlaveli Soya İçeceği
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 40,69 TL 
+
+Market Products:
+ - Market: Migros               Product: Joya Bitkisel Bazli Kalsiyumlu Soya Icecegi 1 L Price: 40,69 TL   Unit Price: 40,69 TL/Adet
+
+Similar Products:
+ - Similar Product: Alpro 1 lt Profesyonel Soya İçeceği                Price: 61,06 TL  
+ - Similar Product: Alpro 250 ml Soya Sütü Sade                        Price: 27,44 TL  
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: İnek Sütü
+ - Yağ Oranı: Tam Yağlı
+ - Ürün Tipi: Soya Sütü
+ - Laktozsuz: Evet
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/joya-1-lt-kalsiyum-ve-vitamin-ilaveli-soya-icecegi-_338950.jpg 
+
+
+6
+Product Name: Nilky Glutensiz 1 lt Oat Yulaflı İçecek
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 74,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Nilky Yulafli Icecek 1 Lt      Price: 74,90 TL   Unit Price: 74,90 TL/Adet
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Yulaf Sütü
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/nilky-glutensiz-1-lt-oat-yulafli-icecek-_438940.jpg 
+
+
+7
+Product Name: Baltalı %100 250 ml Keçi Kefir
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 43,75 TL 
+
+Market Products:
+ - Market: Migros               Product: Baltali % 100 Keci Kefir 250 Ml Price: 43,75 TL   Unit Price: 175,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Keçi Kefir
+ - Toplam Ağırlık: 250 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/baltali-100-250-ml-keci-kefir-_1317904.jpg 
+
+
+8
+Product Name: Dr. Oetker 24 gr Çikolatalı Çilekli Milkshake
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 4,25 TL 
+
+Market Products:
+ - Market: Şok                  Product: Dr. Oetker Milkshake Çikolatali Çilekli 24 Gr Price: 4,25 TL    Unit Price: 177,08 TL/kg
+ - Market: Carrefour            Product: Dr Oetker Milkshake Çik. Çilekli 24g Price: 8,20 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Dimes 310 ml Çilekli Beyaz Çikolatalı Milkshake    Price: 30,00 TL  
+ - Similar Product: Dr. Oetker 24 gr Çikolatalı Çilekli Milkshake      Price: 4,25 TL   
+ - Similar Product: Dr. Oetker 24 gr Çikolatalı Milkshake              Price: 4,25 TL   
+ - Similar Product: Dost 330 ml Muzlu ve Çilekli Milkshake             Price: 18,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-24-gr-cikolatali-cilekli-milkshake-_1554595.jpg 
+
+
+9
+Product Name: Fellas 150gr Çikolata Aromalı Protein Tozu
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 169,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Fellas Protein Tozu 150 Gr     Price: 169,90 TL  Unit Price: 1.132,67 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/fellas-150gr-cikolata-aromali-protein-tozu-_1304564.jpg 
+
+
+10
+Product Name: Dr Oetker 19 gr Bitter Çikolatalı Yüksek Protein Milkshake
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 18,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Dr.oetker Bitter Çik.yuksek Proten.milkshake 19 G Price: 18,90 TL   Unit Price: 994,74 TL/kg
+ - Market: Carrefour            Product: Dr Oetker Milkshake Bit.cik.yuk.proteinl Price: 19,65 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Dr. Oetker 19 gr Çikolatalı Toz Milkshake          Price: 2,50 TL   
+ - Similar Product: Dr Oetker 15 gr Orman Meyveli Yüksek Proteinli Milkshake Price: 2,50 TL   
+ - Similar Product: Dr. Oetker 24 gr Çikolatalı Çilekli Milkshake      Price: 4,25 TL   
+ - Similar Product: Dr. Oetker 24 gr Çikolatalı Milkshake              Price: 4,25 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-19-gr-bitter-cikolatali-yuksek-protein-milkshake-_1332431.jpg 
+
+
+11
+Product Name: Dr.Oetker 26 gr Çilekli Milkshake
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 3,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Dr.oetker Milkshake Çilekli 26 G Price: 3,00 TL    Unit Price: 115,38 TL/kg
+
+Similar Products:
+ - Similar Product: Dr.Oetker 30 gr Çikolatalı Milkshake               Price: 3,00 TL   
+
+Features:
+ - İçerik: Çilek
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 26 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-26-gr-cilekli-milkshake-_284215.jpg 
+
+
+12
+Product Name: Dr. Oetker 30 Gr Milkshake Çikolata Çilekli
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 3,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Dr.oetker Milkshake Çikolatali Çilekli 30 G Price: 3,00 TL    Unit Price: 100,00 TL/kg
+ - Market: Carrefour            Product: Dr.oetker Milkshake Çikolata Çilek 30 Gr Price: 4,45 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Dost 330 ml Muzlu ve Çilekli Milkshake             Price: 18,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-30-gr-milkshake-cikolata-cilekli-_1304676.jpg 
+
+
+13
+Product Name: Activia 80 Ml Shot Elma Yulaf
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 16,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Activia Shot Elma Yulaf 80ml   Price: 16,50 TL   Unit Price: 0
+ - Market: Carrefour            Product: Activia Shot Elma Yulaf 80ml   Price: 18,20 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Probiyotik Smoothie
+Product Image URL: https://cdn.cimri.io/market/260x260/activia-80-ml-shot-elma-yulaf-_1170546.jpg 
+
+
+14
+Product Name: Activia 200 ml Probiyotik Smoothie Yeşil
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 38,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Activia Probiyotik Smoothie Yesil 200 Ml Price: 38,95 TL   Unit Price: 194,75 TL/kg
+
+Similar Products:
+ - Similar Product: Activia 200 ml Probiyotik Smoothie Yeşil           Price: 38,95 TL  
+ - Similar Product: Activia 200 ml Probiyotik Smoothie Yeşil           Price: 38,95 TL  
+
+Features:
+ - Ürün Tipi: Kefir
+ - Toplam Ağırlık: 200 ml
+Product Image URL:  
+
+
+15
+Product Name: Dimes 310 ml Milkshake Karamel
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 9,90 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Milkshake Frappe Krml.310mldimes-051223 Price: 9,90 TL    Unit Price: 31,94 TL/kg
+ - Market: Carrefour            Product: Dimes Milkshake Karamelli 310 Ml Price: 30,00 TL   Unit Price: 96,77 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Karamel
+ - Ürün Türü: Milkshake
+ - Ağırlık: 310 ml
+ - Glutensiz: Evet
+ - Menşei: Türkiye
+ - Yağ Oranı: Tam Yağlı
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/dimes-310-ml-milkshake-karamel-_1172396.jpg 
+
+
+16
+Product Name: Alpro 250 ml Soya Sütü Sade
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 27,44 TL 
+
+Market Products:
+ - Market: Migros               Product: Alpro Soya Icecegi Sade 250 Ml Price: 27,44 TL   Unit Price: 109,76 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: Vegan
+ - Ağırlık: 250 ml
+ - Glutensiz: Evet
+ - Toplam Ağırlık: 250 ml
+ - Menşei: Belçika
+ - Yağ Oranı: Yarım Yağlı
+ - Ürün Tipi: Soya İçeceği
+ - Laktozsuz: Evet
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+17
+Product Name: Nescafe 10.6 gr Çikolatalı Ice Latte
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 4,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Nescafe Ice Latte Çikolatali 10.6 Gr Price: 4,00 TL    Unit Price: 363,64 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/nescafe-10-6-gr-cikolatali-ice-latte-_1649115.jpg 
+
+
+18
+Product Name: Dr. Oetker 24 gr Çikolatalı Milkshake
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 4,25 TL 
+
+Market Products:
+ - Market: Şok                  Product: Dr. Oetker Milkshake Çikolatali 24 Gr Price: 4,25 TL    Unit Price: 177,08 TL/kg
+ - Market: Migros               Product: Dr.oetker Milkshake Çikolatali 24 G Price: 7,90 TL    Unit Price: 329,17 TL/kg
+ - Market: Carrefour            Product: Dr Oetker Milkshake Çikolatali 24 G Price: 8,20 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Dr. Oetker 24 gr Çikolatalı Çilekli Milkshake      Price: 4,25 TL   
+ - Similar Product: Dr. Oetker 24 gr Çikolatalı Milkshake              Price: 4,25 TL   
+ - Similar Product: Dr. Oetker 24 gr Çilek Toz Milkshake               Price: 3,45 TL   
+ - Similar Product: Dr. Oetker 24 gr Çikolata Toz Milkshake            Price: 3,45 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-24-gr-cikolatali-milkshake-_1554592.jpg 
+
+
+19
+Product Name: Dost 330 ml Muzlu ve Çilekli Milkshake
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 18,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Dost 330ml Muzlu&cilekli Milkshake(karma Price: 18,50 TL   Unit Price: 56,06 TL/kg
+
+Similar Products:
+ - Similar Product: Dr. Oetker 20 gr Muzlu Milkshake Toz Karışımı      Price: 7,90 TL   
+
+Features:
+ - İçerik: Muz-Çilek
+ - Ürün Türü: Milkshake
+ - Ağırlık: 330 ml
+ - Glutensiz: Evet
+ - Toplam Ağırlık: 330 ml
+ - Menşei: Türkiye
+ - Yağ Oranı: Tam Yağlı
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+20
+Product Name: Dr Oetker 15 gr Orman Meyveli Yüksek Proteinli Milkshake
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Toz Milkshake O.mey.15g Dr.oetker-041022 Price: 2,50 TL    Unit Price: 0
+ - Market: Migros               Product: Dr.oetker Orm Meyv Yuksek Proteinli Milkshake 15 G Price: 18,90 TL   Unit Price: 126,00 TL/kg
+
+Similar Products:
+ - Similar Product: Dr Oetker 19 gr Bitter Çikolatalı Yüksek Protein Milkshake Price: 18,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-15-gr-orman-meyveli-yuksek-proteinli-milkshake-_1309023.jpg 
+
+
+21
+Product Name: Dr. Oetker 20 gr Muzlu Milkshake Toz Karışımı
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 7,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Dr.oetker Milkshake Toz Karisimi Muzlu 20 G Price: 7,90 TL    Unit Price: 395,00 TL/kg
+ - Market: Carrefour            Product: Dr Oetker Milkshake Muzlu 20 G Price: 8,20 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Dost 330 ml Muzlu ve Çilekli Milkshake             Price: 18,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-20-gr-muzlu-milkshake-toz-karisimi-_1623954.jpg 
+
+
+22
+Product Name: Danone 200 ml Kolajenli Fermente Ananaslı İçecek
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 15,95 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Danone Kolajenli Fermente Ananasli Icece Price: 15,95 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/danone-200-ml-kolajenli-fermente-ananasli-icecek-_970830.jpg 
+
+
+23
+Product Name: Alpro Profesyonel 1 lt Soyalı Hindistan Cevizi İçeceği
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 65,13 TL 
+
+Market Products:
+ - Market: Migros               Product: Alpro Profesyonel Soyali Hind.cevizi Icecegi 1l Price: 65,13 TL   Unit Price: 65,13 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Hindistan Cevizi
+ - Ürün Türü: Vegan
+ - Ağırlık: 1 lt
+ - Glutensiz: Evet
+ - Menşei: Belçika
+ - Yağ Oranı: Yarım Yağlı
+ - Ürün Tipi: Hindistan Cevizi Sütü
+ - Laktozsuz: Evet
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/alpro-profesyonel-1-lt-soyali-hindistan-cevizi-icecegi-_1445044.jpg 
+
+
+24
+Product Name: Dr. Oetker 24 gr Çikolata Toz Milkshake
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 3,45 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Toz Milkshake Çiko.24g Dr.oetker-101023 Price: 3,45 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Dr. Oetker 24 gr Çilek Toz Milkshake               Price: 3,45 TL   
+ - Similar Product: Dr. Oetker 24 gr Çikolatalı Çilekli Milkshake      Price: 4,25 TL   
+ - Similar Product: Dr. Oetker 24 gr Çikolatalı Milkshake              Price: 4,25 TL   
+ - Similar Product: Dr. Oetker 24 gr Çikolatalı Çilekli Milkshake      Price: 4,25 TL   
+ - Similar Product: Dr. Oetker 24 gr Çikolatalı Milkshake              Price: 4,25 TL   
+ - Similar Product: Dr. Oetker 19 gr Çikolatalı Toz Milkshake          Price: 2,50 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-24-gr-cikolata-toz-milkshake-_1743562.jpg 
+
+
+25
+Product Name: Dimes 310 ml Çilek Vanila Milkshake
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 30,00 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Milkshake Çilek 310ml Dimes    Price: 30,00 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Dimes 310 ml Milkshake Karamel                     Price: 9,90 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/dimes-310-ml-cilek-vanila-milkshake-_1304353.jpg 
+
+
+26
+Product Name: Alpro 250 ml Pirinçli Hindistan Cevizi İçeceği
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 26,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Alpro Pirincli Hindistan Cevizi Icecegi 250ml Price: 26,95 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/alpro-250-ml-pirincli-hindistan-cevizi-icecegi-_1571279.jpg 
+
+
+27
+Product Name: Agah Boza 1 lt Boza
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 39,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Boza 1 Lt Agah                 Price: 39,50 TL   Unit Price: 39,50 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/agah-boza-1-lt-boza-_1431680.jpg 
+
+
+28
+Product Name: Danone 183 gr Activia Mix Go Sade Doğal Probiyotik Yoğurt
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 38,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Danone Activia Mix&go Sade 183g Price: 38,95 TL   Unit Price: 212,84 TL/kg
+
+Similar Products:
+ - Similar Product: Danone 183 gr Activia Mix Go Sade Doğal Probiyotik Yoğurt Price: 38,95 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/danone-183-gr-activia-mix-go-sade-dogal-probiyotik-yogurt-_1632295.jpg 
+
+
+29
+Product Name: Fresher's 300 gr Kivi-Karadut Toz İçecek
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 42,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Toz Icecek 300 G Kivi Karadut Fresher's Price: 42,50 TL   Unit Price: 141,67 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/freshers-300-gr-kivi-karadut-toz-icecek-_1443308.jpg 
+
+
+30
+Product Name: Alpro 250 ml Pirinçli Hindistan Cevizi İçeceği
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 26,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Alpro Pirincli Hindistan Cevizi Icecegi 250ml Price: 26,95 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/alpro-250-ml-pirincli-hindistan-cevizi-icecegi-_1571279.jpg 
+
+
+31
+Product Name: Agah Boza 1 lt Boza
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 39,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Boza 1 Lt Agah                 Price: 39,50 TL   Unit Price: 39,50 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/agah-boza-1-lt-boza-_1431680.jpg 
+
+
+32
+Product Name: Danone Disney 70 gr Çilekli Kefirhüp
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 11,95 TL 
+
+Market Products:
+ - Market: Şok                  Product: Danone Kefirhup Çilekli 70 G   Price: 11,95 TL   Unit Price: 170,71 TL/kg
+ - Market: Carrefour            Product: Danone Kefirhup Çilekli 70g    Price: 17,00 TL   Unit Price: 242,86 TL/kg
+ - Market: Migros               Product: Danone Disney Kefirhup Çilekli 70g Price: 17,00 TL   Unit Price: 242,86 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Kefir
+ - Toplam Ağırlık: 70 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/danone-disney-70-gr-cilekli-kefirhup-_1242259.jpg 
+
+
+33
+Product Name: Nari Ice Tea Limon Aromalı 85 gr Toz İçecek
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 4,95 TL 
+
+Market Products:
+ - Market: A101                 Product: Toz Icecek 85 G Ice Tea Limon Nari Price: 4,95 TL    Unit Price: 58,24 TL/kg
+
+Similar Products:
+ - Similar Product: Nari Ice Tea Şeftali 85 gr Toz İçecek              Price: 4,95 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 85 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/nari-ice-tea-limon-aromali-85-gr-toz-icecek-_1304525.jpg 
+
+
+34
+Product Name: Dimes 310 ml Çilekli Beyaz Çikolatalı Milkshake
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 30,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Dimes Çilekli & Çikolatali Milkshake 310 Price: 30,00 TL   Unit Price: 96,77 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Beyaz Çikolata
+ - Ürün Türü: Milkshake
+ - Ürün Tipi: Meyveli Süt
+ - Toplam Ağırlık: 310 ml
+ - Menşei: Türkiye
+ - Yağ Oranı: Tam Yağlı
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/dimes-310-ml-cilekli-beyaz-cikolatali-milkshake-_329406.jpg 
+
+
+35
+Product Name: Dr.Oetker 30 gr Çikolatalı Milkshake
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 3,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Dr.oetker Milkshake Çikolatali 30 G Price: 3,00 TL    Unit Price: 100,00 TL/kg
+ - Market: Carrefour            Product: Dr.oetker Milkshake Çikolatali 30 Gr Price: 4,45 TL    Unit Price: 148,33 TL/kg
+ - Market: Şok                  Product: Dr.oetker Milkshake Çikolatali 30 Gr. Price: 4,45 TL    Unit Price: 148,33 TL/kg
+
+Similar Products:
+ - Similar Product: Dr.Oetker 26 gr Çilekli Milkshake                  Price: 3,00 TL   
+
+Features:
+ - İçerik: Çikolata
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 30 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-30-gr-cikolatali-milkshake-_284209.jpg 
+
+
+36
+Product Name: Danone Disney Bisküvili 188 ml Milkshake
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 24,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Danone Disney Biskuvili Milkshake 188 Ml Price: 24,00 TL   Unit Price: 127,66 TL/kg
+ - Market: Migros               Product: Danone Disney Biskuvili Milkshake 188 Ml Price: 24,00 TL   Unit Price: 127,66 TL/kg
+
+Similar Products:
+ - Similar Product: Danone 188 gr Çilek-Vanilya Milkshake              Price: 24,00 TL  
+
+Features:
+ - İçerik: Bisküvili
+ - Ürün Türü: İnek Sütü
+ - Ürün Tipi: Meyveli Süt
+ - Toplam Ağırlık: 188 ml
+ - Menşei: Türkiye
+ - Saklama Koşulları: 0-4 °C muhafaza ediniz
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/danone-disney-biskuvili-188-ml-milkshake-_329414.jpg 
+
+
+37
+Product Name: Dimes 310 ml Muzlu Kurabiyeli Milkshake
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 17,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Dimes Milkshake Muz Kurabiye 310 Ml Price: 17,50 TL   Unit Price: 56,45 TL/kg
+ - Market: Carrefour            Product: Dimes Muzlu & Kurabiyeli Milkshake 310 M Price: 30,00 TL   Unit Price: 96,77 TL/kg
+ - Market: Migros               Product: Dimes Milkshake Çik.ve Kurabiye Arm.muzlu 310 Ml Price: 30,00 TL   Unit Price: 96,77 TL/kg
+
+Similar Products:
+ - Similar Product: Dimes 310 ml Milkshake Karamel                     Price: 9,90 TL   
+
+Features:
+ - İçerik: Muz
+ - Ürün Türü: Milkshake
+ - Ürün Tipi: Meyveli Süt
+ - Toplam Ağırlık: 310 ml
+ - Menşei: Türkiye
+ - Yağ Oranı: Tam Yağlı
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/dimes-310-ml-muzlu-kurabiyeli-milkshake-_329403.jpg 
+
+
+38
+Product Name: Danone 100 ml Proxy Çilek Milkshake
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 14,75 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Milkshake Çilek 100ml Danone   Price: 14,75 TL   Unit Price: 147,50 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Çilek
+ - Ürün Türü: Milkshake
+ - Ağırlık: 100 ml
+ - Ürün Tipi: İnek Sütü
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Yağ Oranı: Tam Yağlı
+ - Ambalaj Tipi: Kağıt/Karton
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/danone-100-ml-proxy-cilek-milkshake-_1172472.jpg 
+
+
+39
+Product Name: Danone 188 gr Çilek-Vanilya Milkshake
+Main Category: İçecekler
+Sub-categories: SoĞuk Toz İçecekler, 
+Cheapest Price: 24,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Yogurtlu Iceck Çlk-vnl 188 Ml Milkshake Price: 24,00 TL   Unit Price: 0
+ - Market: Migros               Product: Danone Disney Çilek&vanilya Milkshake 188 Ml Price: 24,00 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Danone Disney Bisküvili 188 ml Milkshake           Price: 24,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/danone-188-gr-cilek-vanilya-milkshake-_1632151.jpg 
+
+
+Word Dictionary:
+nari: 2
+ice: 3
+tea: 2
+şeftali: 1
+85: 2
+gr: 18
+toz: 7
+i̇çecek: 5
+dr.: 7
+oetker: 9
+24: 4
+çilek: 3
+milkshake: 19
+alpro: 5
+1: 6
+lt: 6
+profesyonel: 2
+soya: 3
+i̇çeceği: 5
+19: 2
+çikolatalı: 7
+joya: 1
+kalsiyum: 1
+ve: 2
+vitamin: 1
+i̇laveli: 1
+nilky: 1
+glutensiz: 1
+oat: 1
+yulaflı: 1
+baltalı: 1
+%100: 1
+250: 4
+ml: 14
+keçi: 1
+kefir: 1
+çilekli: 6
+fellas: 1
+150gr: 1
+çikolata: 3
+aromalı: 2
+protein: 2
+tozu: 1
+dr: 2
+bitter: 1
+yüksek: 2
+dr.oetker: 2
+26: 1
+30: 2
+activia: 3
+80: 1
+shot: 1
+elma: 1
+yulaf: 1
+200: 2
+probiyotik: 2
+smoothie: 1
+yeşil: 1
+dimes: 4
+310: 4
+karamel: 1
+sütü: 1
+sade: 2
+nescafe: 1
+10.6: 1
+latte: 1
+dost: 1
+330: 1
+muzlu: 3
+15: 1
+orman: 1
+meyveli: 1
+proteinli: 1
+20: 1
+karışımı: 1
+danone: 6
+kolajenli: 1
+fermente: 1
+ananaslı: 1
+soyalı: 1
+hindistan: 3
+cevizi: 3
+vanila: 1
+pirinçli: 2
+agah: 2
+boza: 4
+183: 1
+mix: 1
+go: 1
+doğal: 1
+yoğurt: 1
+fresher's: 1
+300: 1
+kivi-karadut: 1
+disney: 2
+70: 1
+kefirhüp: 1
+limon: 1
+beyaz: 1
+bisküvili: 1
+188: 2
+kurabiyeli: 1
+100: 1
+proxy: 1
+çilek-vanilya: 1
+
+Feature List:
+Adet
+Toplam Ağırlık
+İçerik
+Ürün Türü
+Ağırlık
+Glutensiz
+Menşei
+Yağ Oranı
+Ürün Tipi
+Laktozsuz
+Ambalaj Tipi
+Saklama Koşulları
