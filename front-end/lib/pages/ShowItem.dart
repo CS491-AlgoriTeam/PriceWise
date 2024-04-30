@@ -1,35 +1,32 @@
 import 'package:flutter/material.dart';
 import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
 
+//class ItemDetailsPage extends StatelessWidget {
+//  final Map<String, String> item;
 class ItemDetailsPage extends StatelessWidget {
-  final Map<String, String> item;
+  final DocumentSnapshot productData;
 
-  ItemDetailsPage({Key? key, required this.item}) : super(key: key);
-  
-  final Map<String, dynamic> itemData = {
-    'name': 'Gala Apples',
-    'photoUrl': 'assets/apples.png', // Add your local or network image path
-    'cheapestPrice': 30.90,
-    'detail': '1 lb bag of fresh Gala apples'
-  };
-
-  final List<Map<String, String>> otherSellers = [
-    {'name': 'Sellers 1', 'price': '31.50'},
-    {'name': 'Sellers 2', 'price': '32.00'},
-    // Add more sellers if needed
-  ];
-
-  final List<String> similarProductImages = [
-    'assets/product1.png', // Add your local or network image paths
-    'assets/product2.png',
-    'assets/product3.png',
-    // Add more product images if needed
-  ];
-
-  // Same local data as before...
+  ItemDetailsPage({Key? key, required this.productData}) : super(key: key);
 
    @override
   Widget build(BuildContext context) {
+    Map<String, dynamic>? features = productData['features'] as Map<String, dynamic>?;
+
+    String totalWeight = features?['Toplam Ağırlık'] as String? ?? '';
+    String productType = features?['Ürün Tipi'] as String? ?? '';
+
+    String displayText = '';
+    if (totalWeight.isNotEmpty && productType.isNotEmpty) {
+      displayText = 'Toplam Ağırlık: $totalWeight, Ürün Tipi: $productType';
+    } else if (totalWeight.isNotEmpty) {
+      displayText = 'Toplam Ağırlık: $totalWeight';
+    } else if (productType.isNotEmpty) {
+      displayText = 'Ürün Tipi: $productType';
+    }
+    else{
+      displayText = '   ';
+    }
     return Scaffold(
       appBar: AppBar(
         title: Text('PriceWise'),
@@ -54,15 +51,14 @@ class ItemDetailsPage extends StatelessWidget {
                       height: 120.0,
                       width: double.infinity,
                       decoration: BoxDecoration(
-                        color: Colors.grey[300], // Placeholder color
+                        color: Colors.grey[300],
                         borderRadius: BorderRadius.circular(12.0),
                       ),
                       child: ClipRRect(
                         borderRadius: BorderRadius.circular(12.0),
-                        child: Image.asset(
-                          item['photoUrl'] ?? 'assets/default.png', // Fallback to a default asset if necessary
-                          fit: BoxFit.cover,
-                        ),
+                        child: productData['product_image_url'] != null && productData['product_image_url'].isNotEmpty
+                          ? Image.network(productData['product_image_url'], fit: BoxFit.cover)
+                          : Image.asset('assets/default.png', fit: BoxFit.cover),
                       ),
                     ),
                   ),
@@ -72,18 +68,21 @@ class ItemDetailsPage extends StatelessWidget {
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text(item['name'] ?? 'Item Name', style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold)),
-                        Text('\$${item['cheapestPrice']}',
-                            style: TextStyle(fontSize: 16, fontWeight: FontWeight.w500)),
-                        Text(item['detail'] ?? 'Item Details', style: TextStyle(fontSize: 16)),
+                        Text(productData['product_name'] ?? 'Item Name', style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold)),
+                        Text('${productData['product_cheapest_price'].toStringAsFixed(2)}\₺',
+                            style: TextStyle(fontSize: 30)),
+                        //Text(productData['features']?.toString() ?? 'Item Details', style: TextStyle(fontSize: 16)),
+                        Text(displayText, style: TextStyle(fontSize: 16)),
+
                       ],
                     ),
                   ),
                 ],
               ),
             ),
-            buildSectionContainer(context, 'Other Sellers', buildSellersList(otherSellers)),
-            buildSectionContainer(context, 'Similar Products', buildSimilarProductsGrid(similarProductImages)),
+            buildSectionContainer(context, 'Other Sellers', buildSellersList(productData)),
+            buildSectionContainer(context, 'Similar Products', buildSimilarProductsGrid(productData)),
+
             SizedBox(height: 20),
             Padding(
               padding: EdgeInsets.symmetric(horizontal: 16.0),
@@ -129,39 +128,31 @@ class ItemDetailsPage extends StatelessWidget {
     );
   }
 
-  Widget buildSellersList(List<Map<String, String>> sellers) {
-    return Column(
-      crossAxisAlignment: CrossAxisAlignment.start,
-      children: [
-        Padding(
-          padding: EdgeInsets.all(16),
-          child: Text('Other Sellers', style: TextStyle(fontWeight: FontWeight.bold)),
-        ),
-        ...sellers.map((seller) => ListTile(
-          title: Text(seller['name']!),
-          trailing: Text(seller['price']!),
-        )).toList(),
-      ],
-    );
-  }
+Widget buildSellersList(DocumentSnapshot product) {
+  List<dynamic> sellers = product['market_product_array'] ?? [];
+  return Column(
+    crossAxisAlignment: CrossAxisAlignment.start,
+    children: sellers.map<Widget>((seller) {
+      return ListTile(
+        title: Text(seller['market']),
+        trailing: Text('${seller['price'].toString()}\₺'),
+      );
+    }).toList(),
+  );
+}
 
-  Widget buildSimilarProductsGrid(List<String> productImages) {
-    return Column(
-      crossAxisAlignment: CrossAxisAlignment.start,
-      children: [
-        Padding(
-          padding: EdgeInsets.all(16),
-          child: Text('Similar Products', style: TextStyle(fontWeight: FontWeight.bold)),
-        ),
-        GridView.count(
-          shrinkWrap: true,
-          physics: NeverScrollableScrollPhysics(), // to disable GridView's scrolling
-          crossAxisCount: 3,
-          children: productImages.map((imageUrl) => Card(
-            child: Image.asset(imageUrl, fit: BoxFit.cover),
-          )).toList(),
-        ),
-      ],
-    );
-  }
+Widget buildSimilarProductsGrid(DocumentSnapshot product) {
+  List<dynamic> similarProducts = product['similar_product_array'] ?? [];
+  return GridView.count(
+    shrinkWrap: true,
+    physics: NeverScrollableScrollPhysics(),
+    crossAxisCount: 3,
+    children: similarProducts.map<Widget>((imageUrl) {
+      return Card(
+        child: Image.network(imageUrl, fit: BoxFit.cover),
+      );
+    }).toList(),
+  );
+}
+
 }
