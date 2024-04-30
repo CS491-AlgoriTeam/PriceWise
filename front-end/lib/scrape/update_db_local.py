@@ -172,7 +172,7 @@ def process_file(file_path):
         items_processed += 1
     print(f"{items_processed} items pushed to the database.")
 
-dir_path = os.path.abspath('/Users/tugberkdikmen/Desktop/Fall-23/CS491/PriceWise Frontend/PriceWise/front-end/lib/scrape/products_local/d6')
+dir_path = os.path.abspath('/Users/tugberkdikmen/Desktop/Fall-23/CS491/PriceWise Frontend/PriceWise/front-end/lib/scrape/products_local/d7')
 file_path = os.path.abspath('/Users/tugberkdikmen/Desktop/Fall-23/CS491/PriceWise Frontend/PriceWise/front-end/lib/scrape/products_local/pisirme_kagidi.txt')
 
 #process_file(file_path)

@@ -1,0 +1,948 @@
+1
+Product Name: Nestle Coffee Mate Ekonomik Paketi 500 gr
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 76,90 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Nescafe Coffee Mate 500 Gr     Price: 76,90 TL   Unit Price: 153,80 TL/kg
+ - Market: Carrefour            Product: Coffee-mate 500 Gr             Price: 124,90 TL  Unit Price: 249,80 TL/kg
+ - Market: Carrefour            Product: Coffee Mate 500 Gr Kupa Hediyeli Price: 124,90 TL  Unit Price: 249,80 TL/kg
+ - Market: Migros               Product: Coffee Mate 500 G Cam Bardak Hediyeli Price: 129,90 TL  Unit Price: 259,80 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/nestle-coffee-mate-ekonomik-paketi-500-gr-_498668.jpg 
+
+
+2
+Product Name: Dr. Oetker 14 gr Salep
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 4,75 TL 
+
+Market Products:
+ - Market: Migros               Product: Dr. Oetker Ekspres Salep 14 G  Price: 4,75 TL    Unit Price: 339,29 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-14-gr-salep-_1815530.jpg 
+
+
+3
+Product Name: Dr.Oetker 20 gr Salep
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 2,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Dr.oetker Ekspres Sahlep 20 G  Price: 2,00 TL    Unit Price: 100,00 TL/kg
+ - Market: Carrefour            Product: Dr.oetker Salep 20 Gr          Price: 3,95 TL    Unit Price: 197,50 TL/kg
+ - Market: Carrefour            Product: Dr.oetker Salep Expres 3+1 4*20 Gr Price: 8,40 TL    Unit Price: 105,00 TL/kg
+ - Market: Migros               Product: Dr.oetker Ekspres Salep 20 G 4 Lu Price: 9,00 TL    Unit Price: 112,50 TL/kg
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 20 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-20-gr-salep-_284212.jpg 
+
+
+4
+Product Name: Sütaş 1 lt Salep
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 35,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Salep 1 L Sutas                Price: 35,00 TL   Unit Price: 35,00 TL/Adet
+ - Market: Tarım Kredi Kooperatifi Product: Sutas Salep 1 Lt               Price: 43,50 TL   Unit Price: 43,50 TL/Adet
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/sutas-1-lt-salep-_284354.jpg 
+
+
+5
+Product Name: Nestle 400 gr Nesquik Kakaolu Toz İçecek
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 49,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Tahil Gevregi Kakaolu Maxi 400 G Nesquik Price: 49,90 TL   Unit Price: 124,75 TL/kg
+
+Similar Products:
+ - Similar Product: Nestle Nesquik 13.5 Kakaolu Toz                    Price: 5,50 TL   
+ - Similar Product: Nestle Nesquık Kakaolu 180 gr                      Price: 47,95 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/nestle-400-gr-nesquik-kakaolu-toz-icecek-_1584979.jpg 
+
+
+6
+Product Name: Dr. Oetker 100 gram Sıcak Çikolata
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 8,40 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Dr.oetker Sicak Çikolata 4 Lu 100 Gr Price: 8,40 TL    Unit Price: 21,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Çikolata
+ - Ürün Tipi: Sıcak Çikolata
+ - Toplam Ağırlık: 100 gr
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-100-gram-sicak-cikolata-_318185.jpg 
+
+
+7
+Product Name: Dr. Oetker 18 gr Sıcak Çikolata
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 3,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Toz Icecek Sicak Çikolata 18g Dr. Oetker Price: 3,50 TL    Unit Price: 194,44 TL/kg
+ - Market: Şok                  Product: Dr. Oetker Sicak Çikolata 18 Gr Price: 4,00 TL    Unit Price: 222,22 TL/kg
+
+Similar Products:
+ - Similar Product: Vip 18.5 gr Sıcak Çikolata                         Price: 2,50 TL   
+ - Similar Product: Minnettar 18 gr Tek İçimlik Sıcak Çikolata         Price: 3,00 TL   
+ - Similar Product: Ülker 18,5 gr Cafe Crown Sıcak Çikolata            Price: 2,50 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-18-gr-sicak-cikolata-_1255606.jpg 
+
+
+8
+Product Name: Dr. Oetker 25 gr Sıcak Çikolata
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 2,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Dr.oetker Sicak Çikolata 25 G  Price: 2,00 TL    Unit Price: 80,00 TL/kg
+
+Similar Products:
+ - Similar Product: Dr. Oetker 25 gr Sıcak Çikolata Tadında Double     Price: 4,10 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-25-gr-sicak-cikolata-_1364233.jpg 
+
+
+9
+Product Name: Dr. Oetker 13,5 gr Toz Salep
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 3,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Toz Icecek Salep 13,5 G Dr. Oetker Price: 3,50 TL    Unit Price: 250,00 TL/kg
+ - Market: Şok                  Product: Dr. Oetker Salep 13.5 Gr       Price: 4,00 TL    Unit Price: 30,77 TL/kg
+
+Similar Products:
+ - Similar Product: Nestle Nesquik 13.5 Kakaolu Toz                    Price: 5,50 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-135-gr-toz-salep-_1251491.jpg 
+
+
+10
+Product Name: Saf 120 gr Kakao Maca Latte Mix
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 149,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Saf Kakao & Maca Latte Mix 120 Gr Price: 149,00 TL  Unit Price: 1.241,67 TL/kg
+
+Similar Products:
+ - Similar Product: Saf 120 gr Zerdeçal Latte Mix                      Price: 149,00 TL 
+
+Features:
+ - Ağırlık: 120 gr
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 120 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/saf-120-gr-kakao-maca-latte-mix-_698357.jpg 
+
+
+11
+Product Name: Saf 120 gr Zerdeçal Latte Mix
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 149,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Saf Zerdecal Latte Mix 120 Gr  Price: 149,00 TL  Unit Price: 1.241,67 TL/kg
+
+Similar Products:
+ - Similar Product: Saf 120 gr Kakao Maca Latte Mix                    Price: 149,00 TL 
+
+Features:
+ - Ağırlık: 120 gr
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 120 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/saf-120-gr-zerdecal-latte-mix-_698360.jpg 
+
+
+12
+Product Name: Nescafe 200gr Coffee Mate Kahve Kreması
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 49,90 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Kahve Kremasi Coffee Mate 200g Nescafe Price: 49,90 TL   Unit Price: 10,40 TL/kg
+
+Similar Products:
+
+Features:
+ - Adet: 24 Adet
+ - Toplam Ağırlık: 4.8 kg
+Product Image URL: https://cdn.cimri.io/market/260x260/nescafe-200gr-coffee-mate-kahve-kremasi-_730823.jpg 
+
+
+13
+Product Name: Nestle Nesquik 375 gr Çikolatalı İçecek Tozu
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 33,50 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Nesquik Çikolatali Toz Icecek 375gr Price: 33,50 TL   Unit Price: 89,33 TL/kg
+ - Market: Carrefour            Product: Nes Uik Kakaolu Toz 375 Gr     Price: 72,50 TL   Unit Price: 0
+ - Market: Migros               Product: Nesquik Ekonomik Paket 375 G   Price: 90,95 TL   Unit Price: 242,53 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/nestle-nesquik-375-gr-cikolatali-icecek-tozu-_1653810.jpg 
+
+
+14
+Product Name: Migros 22 gr Sıcak Çikolata
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 4,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Migros Sicak Çikolata 22 G     Price: 4,00 TL    Unit Price: 181,82 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Çikolata
+ - Ürün Tipi: Sıcak Çikolata
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 22 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-22-gr-sicak-cikolata-_1429451.jpg 
+
+
+15
+Product Name: Lezzcafe 17 gr Sütlü Köpüklü Latte
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 3,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Lezzcafe Latte Sutlu Kopuklu 17 Gr Price: 3,50 TL    Unit Price: 205,88 TL/kg
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 17 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/lezzcafe-17-gr-sutlu-kopuklu-latte-_1432912.jpg 
+
+
+16
+Product Name: Vip 17 gr Salep
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Salep 17 Gr Vip                Price: 2,50 TL    Unit Price: 147,06 TL/kg
+
+Similar Products:
+ - Similar Product: Minnettar 17 gr Tek İçimlik Sıcak Salep            Price: 3,00 TL   
+
+Features:
+ - Ürün Tipi: Salep
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 17 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/vip-17-gr-salep-_1434010.jpg 
+
+
+17
+Product Name: Nesguik 375 gr Toz İçecek
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 54,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Toz Icecek Kakaolu 375 G Nesquik Price: 54,90 TL   Unit Price: 146,40 TL/kg
+ - Market: Şok                  Product: Nesquik Ekonomik Paket 375 Gr  Price: 88,90 TL   Unit Price: 237,07 TL/kg
+
+Similar Products:
+ - Similar Product: Nestle Nesquik 375 gr Çikolatalı İçecek Tozu       Price: 33,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/nesguik-375-gr-toz-icecek-_1213435.jpg 
+
+
+18
+Product Name: Vip 18.5 gr Sıcak Çikolata
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Sicak Çikolata 18,5 Gr Vip     Price: 2,50 TL    Unit Price: 135,14 TL/kg
+
+Similar Products:
+ - Similar Product: Cafex 18.5 gr Sıcak Çikolata Toz İçecek            Price: 3,50 TL   
+ - Similar Product: Lezzcafe 18.5 gr Sicak Çikolata                    Price: 3,50 TL   
+
+Features:
+ - Ürün Tipi: Sıcak Çikolata
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 18.5 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/vip-18-5-gr-sicak-cikolata-_1431878.jpg 
+
+
+19
+Product Name: Minnettar 18 gr Tek İçimlik Sıcak Çikolata
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 3,00 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Minnettar Tek Icimlik Sicak Çikolata 18 G Price: 3,00 TL    Unit Price: 166,67 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/minnettar-18-gr-tek-icimlik-sicak-cikolata-_1847558.jpg 
+
+
+20
+Product Name: Minnettar 17 gr Tek İçimlik Sıcak Salep
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 3,00 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Minnettar Tek Icimlik Sicak Salep 17 G Price: 3,00 TL    Unit Price: 176,47 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/minnettar-17-gr-tek-icimlik-sicak-salep-_1847556.jpg 
+
+
+21
+Product Name: Ülker 18,5 gr Cafe Crown Sıcak Çikolata
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Cafe Crown Sicak Çikolata 18.5 Gr Price: 2,50 TL    Unit Price: 131,58 TL/kg
+
+Similar Products:
+ - Similar Product: Vip 18.5 gr Sıcak Çikolata                         Price: 2,50 TL   
+ - Similar Product: Lezzcafe 18.5 gr Sicak Çikolata                    Price: 3,50 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/ulker-185-gr-cafe-crown-sicak-cikolata-_1231804.jpg 
+
+
+22
+Product Name: Lezzcafe 14 gr Cappuccino
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 4,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Lezzcafe Cappuccino 14 Gr      Price: 4,50 TL    Unit Price: 321,43 TL/kg
+
+Similar Products:
+ - Similar Product: Dr. Oetker 14 gr Salep                             Price: 4,75 TL   
+ - Similar Product: Let's Choco 14.5 gr Toz İçecek                     Price: 2,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/lezzcafe-14-gr-cappuccino-_1435798.jpg 
+
+
+23
+Product Name: Nestle 16 gr Chokella Sıcak Çikolata
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 2,95 TL 
+
+Market Products:
+ - Market: A101                 Product: Toz Icecek Chokella Sicak Çik 16g Nestle Price: 2,95 TL    Unit Price: 184,38 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/nestle-16-gr-chokella-sicak-cikolata-_980636.jpg 
+
+
+24
+Product Name: Let's Choco 14.5 gr Toz İçecek
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 2,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Toz Icecek Kakaolu 14,5 G Let's Choco Price: 2,00 TL    Unit Price: 137,93 TL/kg
+
+Similar Products:
+ - Similar Product: Lezzcafe 14 gr Cappuccino                          Price: 4,50 TL   
+ - Similar Product: Dr. Oetker 14 gr Salep                             Price: 4,75 TL   
+
+Features:
+ - İçerik: Kakao
+ - Ürün Tipi: Aromalı İçecek Tozu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 14.5 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/lets-choco-14-5-gr-toz-icecek-_357671.jpg 
+
+
+25
+Product Name: Cafex 18.5 gr Sıcak Çikolata Toz İçecek
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 3,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Toz Icecek Sicak Çikolata 18,5 G Cafex Price: 3,50 TL    Unit Price: 189,19 TL/kg
+
+Similar Products:
+ - Similar Product: Vip 18.5 gr Sıcak Çikolata                         Price: 2,50 TL   
+ - Similar Product: Lezzcafe 18.5 gr Sicak Çikolata                    Price: 3,50 TL   
+
+Features:
+ - Ürün Tipi: Sıcak Çikolata
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 18.5 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/cafex-18-5-gr-sicak-cikolata-toz-icecek-_1267580.jpg 
+
+
+26
+Product Name: Nestle 210 gr Salep
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 39,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Toz Icecek Salep Eko Pkt 210g Nestle Price: 39,90 TL   Unit Price: 190,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/nestle-210-gr-salep-_976200.jpg 
+
+
+27
+Product Name: Lezzcafe 18.5 gr Sicak Çikolata
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 3,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Lezzcafe Sicak Çikolata 18.5 Gr Price: 3,50 TL    Unit Price: 189,19 TL/kg
+
+Similar Products:
+ - Similar Product: Vip 18.5 gr Sıcak Çikolata                         Price: 2,50 TL   
+ - Similar Product: Cafex 18.5 gr Sıcak Çikolata Toz İçecek            Price: 3,50 TL   
+
+Features:
+ - Ürün Tipi: Sıcak Çikolata
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 18.5 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/lezzcafe-18-5-gr-sicak-cikolata-_1435878.jpg 
+
+
+28
+Product Name: Vip 200 gr Kahve Beyazlatıcısı
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 21,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Kahve Beyazlaticisi 200 Gr Ekopaket Vip Price: 21,50 TL   Unit Price: 107,50 TL/kg
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/vip-200-gr-kahve-beyazlaticisi-_968228.jpg 
+
+
+29
+Product Name: Nestle 17 gr Toz Salep
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 3,75 TL 
+
+Market Products:
+ - Market: Şok                  Product: (t) Nestle 17gr. Toz Salep (24 Ad X 18 Pk) Price: 3,75 TL    Unit Price: 0
+ - Market: Hakmar Express       Product: Salep Toz 17g Nestle           Price: 5,75 TL    Unit Price: 0
+ - Market: Carrefour            Product: Nestle Salep 17 Gr             Price: 6,00 TL    Unit Price: 0
+ - Market: Migros               Product: Nestle Salep 17g               Price: 6,00 TL    Unit Price: 352,94 TL/kg
+
+Similar Products:
+ - Similar Product: Cafex 17 gr Salep Toz İçecek                       Price: 3,50 TL   
+ - Similar Product: Vip 17 gr Salep                                    Price: 2,50 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/nestle-17-gr-toz-salep-_1276638.jpg 
+
+
+30
+Product Name: Lezzcafe 17 gr Salep
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 3,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Lezzcafe Salep 17 Gr           Price: 3,50 TL    Unit Price: 205,88 TL/kg
+
+Similar Products:
+ - Similar Product: Vip 17 gr Salep                                    Price: 2,50 TL   
+
+Features:
+ - Ürün Tipi: Salep
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 17 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/lezzcafe-17-gr-salep-_1432724.jpg 
+
+
+31
+Product Name: Fresher's 300 gr Karma Koli Toz İçecek
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 42,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Toz Icecek 300 G Karma Koli Fresher's Price: 42,50 TL   Unit Price: 141,67 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/freshers-300-gr-karma-koli-toz-icecek-_1480805.jpg 
+
+
+32
+Product Name: Nestle 625 gr Coffee Mate
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 93,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Kahve Beyazlatici 625 G Coffee-mate Price: 93,50 TL   Unit Price: 149,60 TL/kg
+ - Market: Carrefour            Product: Coffee-mate 625g%25 Bedavali Paket Price: 124,90 TL  Unit Price: 199,84 TL/kg
+ - Market: Migros               Product: Coffee Mate 625 G              Price: 129,90 TL  Unit Price: 207,84 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 625 gr
+ - Menşei: İsviçre
+Product Image URL: https://cdn.cimri.io/market/260x260/nestle-625-gr-coffee-mate-_40582.jpg 
+
+
+33
+Product Name: Dr. Oetker 86 gr Mousse Çikolatalı Toz Karışım
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 7,50 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Toz Mousse Çikotali 86g Dr.oetker-041022 Price: 7,50 TL    Unit Price: 0
+ - Market: A101                 Product: Mousse Çikolatali Toz Krsm 86 G Dr.oetkr Price: 18,50 TL   Unit Price: 215,12 TL/kg
+ - Market: Migros               Product: Dr.oetker Mousse Çikolatali Toz Karisim 86g Price: 29,90 TL   Unit Price: 347,67 TL/kg
+ - Market: Carrefour            Product: Dr.oetker Mousse Çikolatali    Price: 31,00 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-86-gr-mousse-cikolatali-toz-karisim-_1447902.jpg 
+
+
+34
+Product Name: Dr. Oetker 25 gr Sıcak Çikolata Tadında Double
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 4,10 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Dr.oetker Sicak Çikolata 25 Gr Price: 4,10 TL    Unit Price: 164,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Çikolata
+ - Ürün Tipi: Sıcak Çikolata
+ - Toplam Ağırlık: 25 gr
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/dr-oetker-25-gr-sicak-cikolata-tadinda-double-_318213.jpg 
+
+
+35
+Product Name: Tugba 310 gr Sıcak Çikolata
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 74,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Tugba Sicak Çikolata 310 G     Price: 74,00 TL   Unit Price: 238,71 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tugba-310-gr-sicak-cikolata-_1833759.jpg 
+
+
+36
+Product Name: Bağdat 100 g Pratik Salep
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 35,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Bagdat Salep 100 Gr            Price: 35,50 TL   Unit Price: 355,00 TL/kg
+
+Similar Products:
+
+Features:
+ - Toplam Ağırlık: 100 gr
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Poşet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/bagdat-100-g-pratik-salep-_318264.jpg 
+
+
+37
+Product Name: Nazo Portakal 9 gr Soğuk Toz İçecek
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 4,95 TL 
+
+Market Products:
+ - Market: Şok                  Product: Nazo Soguk Portakal Toz Icecek 9 Gr Price: 4,95 TL    Unit Price: 550,00 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/nazo-portakal-9-gr-soguk-toz-icecek-_1560791.jpg 
+
+
+38
+Product Name: Cafex 17 gr Salep Toz İçecek
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 3,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Toz Icecek Salep 17 G Cafex    Price: 3,50 TL    Unit Price: 205,88 TL/kg
+
+Similar Products:
+ - Similar Product: Nestle 17 gr Toz Salep                             Price: 3,75 TL   
+ - Similar Product: Minnettar 17 gr Tek İçimlik Sıcak Salep            Price: 3,00 TL   
+ - Similar Product: Lezzcafe 17 gr Salep                               Price: 3,50 TL   
+
+Features:
+ - Ürün Tipi: Salep
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 17 gr
+Product Image URL: https://cdn.cimri.io/market/260x260/cafex-17-gr-salep-toz-icecek-_1267575.jpg 
+
+
+39
+Product Name: Kocatepe 200 g Salep
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 24,95 TL 
+
+Market Products:
+ - Market: A101                 Product: Toz Icecek Salep Sicakcik 200 G Kocatepe Price: 24,95 TL   Unit Price: 124,75 TL/kg
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/kocatepe-200-g-salep-_356235.jpg 
+
+
+40
+Product Name: Kahve Dünyası Çokoliko 100 gr Kakaolu Toz İçecek
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 9,95 TL 
+
+Market Products:
+ - Market: A101                 Product: Toz Icecek 100 G Çokoliko Kahve Dunyasi Price: 9,95 TL    Unit Price: 99,50 TL/kg
+
+Similar Products:
+ - Similar Product: Nestle 400 gr Nesquik Kakaolu Toz İçecek           Price: 49,90 TL  
+
+Features:
+Product Image URL:  
+
+
+41
+Product Name: Cafe Crown 15 gr Salep
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 2,95 TL 
+
+Market Products:
+ - Market: Şok                  Product: Cafe Crown Toz Salep 15 Gr     Price: 2,95 TL    Unit Price: 196,67 TL/kg
+
+Similar Products:
+ - Similar Product: Nestle Salepella 15 gr Salep                       Price: 2,95 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/cafe-crown-15-gr-salep-_1074018.jpg 
+
+
+42
+Product Name: Nestle Salepella 15 gr Salep
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 2,95 TL 
+
+Market Products:
+ - Market: A101                 Product: Toz Icecek Salepella Salep 15 G Nestle Price: 2,95 TL    Unit Price: 196,67 TL/kg
+ - Market: Şok                  Product: Nestle Salepella Toz Salep 15 Gr Price: 2,95 TL    Unit Price: 196,67 TL/kg
+
+Similar Products:
+ - Similar Product: Cafe Crown 15 gr Salep                             Price: 2,95 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/nestle-salepella-15-gr-salep-_948429.jpg 
+
+
+43
+Product Name: Nestle Nesquik 13.5 Kakaolu Toz
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 5,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Nes Uik Kakaolu Toz 13,5 Gr    Price: 5,50 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Dr. Oetker 13,5 gr Toz Salep                       Price: 3,50 TL   
+ - Similar Product: Nestle 400 gr Nesquik Kakaolu Toz İçecek           Price: 49,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/nestle-nesquik-13-5-kakaolu-toz-_1443548.jpg 
+
+
+44
+Product Name: The Lifeco 100 gr Organik Hindistan Cevizi Sütü Tozu
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 218,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: The Lifeco Org.h.cevizi Sutu Tozu 100 Gr Price: 218,00 TL  Unit Price: 2.180,00 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Hindistan Cevizi
+ - Ürün Tipi: Aromalı İçecek Tozu
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 100 gr
+ - Menşei: Brezilya
+Product Image URL: https://cdn.cimri.io/market/260x260/the-lifeco-100-gr-organik-hindistan-cevizi-sutu-tozu-_284458.jpg 
+
+
+45
+Product Name: Nestle Nesquık Kakaolu 180 gr
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 47,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Nesquik Ekonomik Paket 180 G   Price: 47,95 TL   Unit Price: 266,39 TL/kg
+
+Similar Products:
+
+Features:
+ - Ürün Türü: Yapım Malzemeleri
+ - Ürün Tipi: Kakao
+ - Toplam Ağırlık: 180 gr
+ - Menşei: Türkiye
+ - Saklama Koşulları: Kuru ve Serin Ortam
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/nestle-nesquik-kakaolu-180-gr-_593774.jpg 
+
+
+46
+Product Name: Carrefour 200 gr Kahve Kreması
+Main Category: İçecekler
+Sub-categories: Sıcak Toz İçecek, 
+Cheapest Price: 32,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Kahve Beyazlaticisi 200 G Price: 32,50 TL   Unit Price: 162,50 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Adet: 1 Adet
+ - İçim: Yumuşak
+ - Toplam Ağırlık: 200 gr
+ - Menşei: Türkiye
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-200-gr-kahve-kremasi-_362542.jpg 
+
+
+Word Dictionary:
+nestle: 10
+coffee: 3
+mate: 3
+ekonomik: 1
+paketi: 1
+500: 1
+gr: 40
+dr.: 7
+oetker: 7
+14: 2
+salep: 14
+dr.oetker: 1
+20: 1
+sütaş: 1
+1: 1
+lt: 1
+400: 1
+nesquik: 3
+kakaolu: 4
+toz: 12
+i̇çecek: 9
+100: 4
+gram: 1
+sıcak: 12
+çikolata: 12
+18: 2
+25: 2
+13,5: 1
+saf: 2
+120: 2
+kakao: 1
+maca: 1
+latte: 3
+mix: 2
+zerdeçal: 1
+nescafe: 1
+200gr: 1
+kahve: 4
+kreması: 2
+375: 2
+çikolatalı: 2
+tozu: 2
+migros: 1
+22: 1
+lezzcafe: 4
+17: 6
+sütlü: 1
+köpüklü: 1
+vip: 3
+nesguik: 1
+18.5: 3
+minnettar: 2
+tek: 2
+i̇çimlik: 2
+ülker: 1
+18,5: 1
+cafe: 2
+crown: 2
+cappuccino: 1
+16: 1
+chokella: 1
+let's: 1
+choco: 1
+14.5: 1
+cafex: 2
+210: 1
+sicak: 1
+200: 3
+beyazlatıcısı: 1
+fresher's: 1
+300: 1
+karma: 1
+koli: 1
+625: 1
+86: 1
+mousse: 1
+karışım: 1
+tadında: 1
+double: 1
+tugba: 1
+310: 1
+bağdat: 1
+g: 2
+pratik: 1
+nazo: 1
+portakal: 1
+9: 1
+soğuk: 1
+kocatepe: 1
+dünyası: 1
+çokoliko: 1
+15: 2
+salepella: 1
+13.5: 1
+the: 1
+lifeco: 1
+organik: 1
+hindistan: 1
+cevizi: 1
+sütü: 1
+nesquık: 1
+180: 1
+carrefour: 1
+
+Feature List:
+Adet
+Toplam Ağırlık
+Menşei
+İçerik
+Ürün Tipi
+Saklama Koşulları
+Ambalaj Tipi
+Ağırlık
+Ürün Türü
+İçim

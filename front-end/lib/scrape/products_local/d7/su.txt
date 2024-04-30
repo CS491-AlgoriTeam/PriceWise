@@ -1,0 +1,3447 @@
+1
+Product Name: Kipa 19 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 34,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Kipa Su 19 L                   Price: 34,00 TL   Unit Price: 1,79 TL/lt
+
+Similar Products:
+ - Similar Product: Sarıkız 19 lt Su                                   Price: 55,00 TL  
+ - Similar Product: Sarıkız 19 lt Su                                   Price: 55,00 TL  
+ - Similar Product: Kardelen 19 lt Su                                  Price: 55,00 TL  
+ - Similar Product: Doyum 19 lt Su                                     Price: 51,90 TL  
+ - Similar Product: İdeal 19 lt Su                                     Price: 55,50 TL  
+ - Similar Product: Desni 19 lt Doğal Kaynak Suyu                      Price: 53,75 TL  
+
+Features:
+ - Ph Değeri: 7.8 Ph
+ - Toplam Ağırlık: 19 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Pet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/kipa-19-lt-su-_616502.jpg 
+
+
+2
+Product Name: Kardelen 19 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 55,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Kardelen Su 19 Lt              Price: 55,00 TL   Unit Price: 2,89 TL/lt
+
+Similar Products:
+ - Similar Product: Kipa 19 lt Su                                      Price: 34,00 TL  
+ - Similar Product: Sarıkız 19 lt Su                                   Price: 55,00 TL  
+ - Similar Product: Sarıkız 19 lt Su                                   Price: 55,00 TL  
+ - Similar Product: Doyum 19 lt Su                                     Price: 51,90 TL  
+ - Similar Product: İdeal 19 lt Su                                     Price: 55,50 TL  
+ - Similar Product: Desni 19 lt Doğal Kaynak Suyu                      Price: 53,75 TL  
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 19 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/kardelen-19-lt-su-_1434655.jpg 
+
+
+3
+Product Name: Kipa 5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 10,75 TL 
+
+Market Products:
+ - Market: Migros               Product: Kipa Su 5 L                    Price: 10,75 TL   Unit Price: 2,15 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+
+Features:
+ - Ph Değeri: 7.8 Ph
+ - Toplam Ağırlık: 5 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/kipa-5-lt-su-_285283.jpg 
+
+
+4
+Product Name: Carrefour Discount 1.5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Discount Su 1,5 Lt   Price: 5,00 TL    Unit Price: 3,33 TL/lt
+
+Similar Products:
+ - Similar Product: Sersu 1.5 lt Su                                    Price: 5,00 TL   
+ - Similar Product: Mila 1.5 lt Doğal Kaynak Su                        Price: 7,75 TL   
+ - Similar Product: Kardelen 1.5 lt Su                                 Price: 5,00 TL   
+ - Similar Product: Kardelen 1.5 lt Su                                 Price: 5,00 TL   
+ - Similar Product: Pınar 1.5 lt Pet Su                                Price: 15,90 TL  
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1.5 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-discount-1-5-lt-su-_763143.jpg 
+
+
+5
+Product Name: Saka 5 lt Doğal Mineralli Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 19,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Saka Su 5 Lt                   Price: 19,00 TL   Unit Price: 3,80 TL/lt
+ - Market: Carrefour            Product: Saka Su 5 Lt                   Price: 27,50 TL   Unit Price: 5,50 TL/lt
+ - Market: Migros               Product: Saka Dogal Mineralli Su 5 L    Price: 27,50 TL   Unit Price: 5,50 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+
+Features:
+ - Ph Değeri: 8.22 Ph
+ - Toplam Ağırlık: 5 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/saka-5-lt-dogal-mineralli-su-_480866.jpg 
+
+
+6
+Product Name: Erikli 15 lt Cam Damacana Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 41,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Erikli 1.5lt 6al5ode           Price: 41,50 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Nazli 1,5 lt Su                                    Price: 5,00 TL   
+ - Similar Product: Elmacık 1,5 lt Su                                  Price: 5,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/erikli-15-lt-cam-damacana-su-_1778471.jpg 
+
+
+7
+Product Name: Elmacık Su 5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 15,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Elmacik Su 5 Lt                Price: 15,00 TL   Unit Price: 3,00 TL/lt
+
+Similar Products:
+ - Similar Product: Elmacık 1,5 lt Su                                  Price: 5,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/elmacik-su-5-lt-su-_1006534.jpg 
+
+
+8
+Product Name: Erikli 10 lt  Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 39,90 TL 
+
+Market Products:
+ - Market: Şok                  Product: Erikli Su 10 Lt                Price: 39,90 TL   Unit Price: 3,99 TL/lt
+ - Market: A101                 Product: Su 10 L Erikli                 Price: 55,50 TL   Unit Price: 5,55 TL/lt
+ - Market: Migros               Product: Erikli Su 10 Lt                Price: 55,50 TL   Unit Price: 5,55 TL/lt
+
+Similar Products:
+ - Similar Product: Carrefour Discount 10 lt Su                        Price: 26,50 TL  
+ - Similar Product: Nestle Pure Life 10 lt Su                          Price: 53,95 TL  
+ - Similar Product: Mila 10 lt Pet Su                                  Price: 33,00 TL  
+ - Similar Product: Desni 10 lt Su                                     Price: 28,50 TL  
+
+Features:
+ - Ph Değeri: 7.8 Ph
+ - Toplam Ağırlık: 10 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/erikli-10-lt-su-_284862.jpg 
+
+
+9
+Product Name: Assu 250 ml Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 21,00 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Su 12x250ml Assu               Price: 21,00 TL   Unit Price: 6,73 TL/lt
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 260 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/assu-250-ml-su-_988131.jpg 
+
+
+10
+Product Name: Buzdağı Su 1.5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 11,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Buzdagi Dogal Mineralli Su 1,5 L Price: 11,95 TL   Unit Price: 7,97 TL/lt
+
+Similar Products:
+ - Similar Product: Sersu 1.5 lt Su                                    Price: 5,00 TL   
+ - Similar Product: Mila 1.5 lt Doğal Kaynak Su                        Price: 7,75 TL   
+ - Similar Product: Kardelen 1.5 lt Su                                 Price: 5,00 TL   
+ - Similar Product: Kardelen 1.5 lt Su                                 Price: 5,00 TL   
+ - Similar Product: Pınar 1.5 lt Pet Su                                Price: 15,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/buzdagi-su-1-5-lt-su-_1006574.jpg 
+
+
+11
+Product Name: Hamidiye 0.50 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 1,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Hamidiye Kaynak Suyu 500 Ml    Price: 1,50 TL    Unit Price: 0,25 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+
+Features:
+ - Çoklu Paket: Evet
+ - Ph Değeri: 6.61 Ph
+ - Toplam Ağırlık: 6 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 12 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/hamidiye-0-50-lt-su-_285098.jpg 
+
+
+12
+Product Name: Sırma 5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 6,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Sirma Dogal Kaynak Suyu 5 Lt   Price: 6,00 TL    Unit Price: 1,20 TL/lt
+ - Market: Şok                  Product: Sirma Su 5 Lt                  Price: 13,50 TL   Unit Price: 2,70 TL/lt
+
+Similar Products:
+
+Features:
+ - Ph Değeri: 7.1 Ph
+ - Toplam Ağırlık: 5 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/sirma-5-lt-su-_323454.jpg 
+
+
+13
+Product Name: Kayın 0.5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Kayin Su 0.5 Lt                Price: 2,50 TL    Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: Carrefour Discount 0.5 lt Su                       Price: 2,50 TL   
+ - Similar Product: Akyudum 0.5 lt Su                                  Price: 2,50 TL   
+ - Similar Product: Kardağ 0.5 lt Doğal Kaynak Su                      Price: 2,50 TL   
+ - Similar Product: Bahçepınar 0.5 L Su                                Price: 2,50 TL   
+ - Similar Product: Sarıkız 0.5 lt Su                                  Price: 2,50 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 0.5 lt
+ - Kategori: Su
+Product Image URL: https://cdn.cimri.io/market/260x260/kayin-0-5-lt-su-_1433755.jpg 
+
+
+14
+Product Name: Nestle Pure Life 10 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 53,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Nestle Pure Life Su 10 Lt      Price: 53,95 TL   Unit Price: 5,39 TL/lt
+
+Similar Products:
+ - Similar Product: Nestle Pure Life 1 lt Su                           Price: 13,95 TL  
+
+Features:
+ - Ph Değeri: 8.22 Ph
+ - Toplam Ağırlık: 10 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/nestle-pure-life-10-lt-su-_284663.jpg 
+
+
+15
+Product Name: Sırma 330 ml Ecofriendly Doğal Cam Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 4,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Sirma Ecofriendly Dogal Kaynak Suyu Cam 330ml Price: 4,00 TL    Unit Price: 12,12 TL/lt
+ - Market: Migros               Product: Sirma Dogal Kaynak Suyu Cam 330 Ml Price: 12,95 TL   Unit Price: 39,24 TL/lt
+ - Market: Carrefour            Product: Sirma Ecofriendly Ulw 330 Ml Cam Price: 18,75 TL   Unit Price: 56,82 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma 750 ml Ecofriendly Doğal Kaynak Suyu Cam     Price: 8,00 TL   
+ - Similar Product: Damla Doğal Kaynak Cam 330 ml Suyu                 Price: 25,50 TL  
+ - Similar Product: Pürsu Elite 330 ml Cam Şişe Doğal Kaynak Suyu      Price: 9,50 TL   
+ - Similar Product: Uludağ 330 ml Cam Premium Kaynak Suyu              Price: 17,90 TL  
+ - Similar Product: Uludağ 330 ml Cam Premium Kaynak Suyu              Price: 17,90 TL  
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 330 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/sirma-330-ml-ecofriendly-dogal-cam-kaynak-suyu-_859372.jpg 
+
+
+16
+Product Name: Erikli 0,5lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 45,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Su 12x0,5 L Erikli             Price: 45,00 TL   Unit Price: 0,63 TL/lt
+ - Market: Carrefour            Product: Erikli 12x0,5 Lt               Price: 89,90 TL   Unit Price: 2,50 TL/lt
+ - Market: Migros               Product: Erikli Su 12x500 Ml            Price: 90,00 TL   Unit Price: 1,25 TL/lt
+ - Market: Migros               Product: Erikli 0.5 L* 24lu             Price: 165,00 TL  Unit Price: 1,15 TL/lt
+
+Similar Products:
+ - Similar Product: Akyudum 0.5 lt Su                                  Price: 2,50 TL   
+ - Similar Product: Carrefour Discount 0.5 lt Su                       Price: 2,50 TL   
+ - Similar Product: Bahçepınar 0.5 L Su                                Price: 2,50 TL   
+ - Similar Product: Kardağ 0.5 lt Doğal Kaynak Su                      Price: 2,50 TL   
+ - Similar Product: Sarıkız 0.5 lt Su                                  Price: 2,50 TL   
+
+Features:
+ - Ağırlık: 6 lt
+ - Adet: 12 Adet
+ - Toplam Ağırlık: 6 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/erikli-05lt-su-_864788.jpg 
+
+
+17
+Product Name: Erikli 1lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 14,45 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Erikli Su 1 Lt                 Price: 14,45 TL   Unit Price: 2,41 TL/lt
+ - Market: Migros               Product: Erikli Su 1 Lt                 Price: 14,50 TL   Unit Price: 2,42 TL/lt
+ - Market: Carrefour            Product: Erikli Su 6x1 Lt               Price: 69,50 TL   Unit Price: 1,93 TL/lt
+ - Market: Migros               Product: Erikli Su 6*1 L                Price: 70,00 TL   Unit Price: 1,94 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+
+Features:
+ - Çoklu Paket: Evet
+ - Ph Değeri: 7.8 Ph
+ - Toplam Ağırlık: 6 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 6 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/erikli-1lt-su-_285114.jpg 
+
+
+18
+Product Name: Kayın 5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 13,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Kayin Dogal Mineralli Pet Su 5 L Price: 13,50 TL   Unit Price: 2,70 TL/lt
+ - Market: Şok                  Product: Kayin Su 5 Lt                  Price: 15,00 TL   Unit Price: 3,00 TL/lt
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kayin-5-lt-su-_1383496.jpg 
+
+
+19
+Product Name: Buzdağı 500 ml Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Buzdagi Dogal Mineralli Su 0,5 L Price: 5,95 TL    Unit Price: 11,90 TL/lt
+
+Similar Products:
+ - Similar Product: Kipa 500 ml Su                                     Price: 2,50 TL   
+
+Features:
+ - Ph Değeri: 7 Ph
+ - Toplam Ağırlık: 500 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/buzdagi-500-ml-su-_481132.jpg 
+
+
+20
+Product Name: Bahçepınar 1,5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Bahcepinar Su 1.5 Lt           Price: 5,00 TL    Unit Price: 3,33 TL/lt
+ - Market: Şok                  Product: Bahcepinar Su 1.5 Lt           Price: 5,00 TL    Unit Price: 3,33 TL/lt
+
+Similar Products:
+ - Similar Product: Bahçepınar 0.5 L Su                                Price: 2,50 TL   
+ - Similar Product: Bahçepınar 5 L Su                                  Price: 15,00 TL  
+ - Similar Product: Nazli 1,5 lt Su                                    Price: 5,00 TL   
+ - Similar Product: Elmacık 1,5 lt Su                                  Price: 5,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/bahcepinar-15-lt-su-_1091490.jpg 
+
+
+21
+Product Name: Desni 5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 15,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Desni Kaynak Suyu 5 L          Price: 15,00 TL   Unit Price: 3,00 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Desni Su 5 Lt                  Price: 15,00 TL   Unit Price: 3,00 TL/lt
+ - Market: Şok                  Product: Desni Su 5 Lt                  Price: 15,00 TL   Unit Price: 3,00 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 5 lt
+ - Kategori: Su
+Product Image URL: https://cdn.cimri.io/market/260x260/desni-5-lt-su-_1435413.jpg 
+
+
+22
+Product Name: İdeal 19 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 55,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Ideal Su 19 Lt                 Price: 55,50 TL   Unit Price: 2,92 TL/lt
+
+Similar Products:
+ - Similar Product: İdeal 0,5 lt Su                                    Price: 2,50 TL   
+ - Similar Product: Kipa 19 lt Su                                      Price: 34,00 TL  
+ - Similar Product: Sarıkız 19 lt Su                                   Price: 55,00 TL  
+ - Similar Product: Sarıkız 19 lt Su                                   Price: 55,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/ideal-19-lt-su-_1446999.jpg 
+
+
+23
+Product Name: Güzelpınar Pet Şişe 5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 15,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Guzelpinar Su 5 Lt             Price: 15,00 TL   Unit Price: 3,00 TL/lt
+
+Similar Products:
+ - Similar Product: Bursa Su 500 ml Pet Şişe Su                        Price: 2,50 TL   
+
+Features:
+Product Image URL:  
+
+
+24
+Product Name: Carrefour Discount 10 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 26,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Discount Su 10 Lt    Price: 26,50 TL   Unit Price: 2,65 TL/lt
+
+Similar Products:
+ - Similar Product: Carrefour Discount 1 lt Su                         Price: 4,85 TL   
+ - Similar Product: Carrefour Discount 0.75 lt Su                      Price: 22,25 TL  
+ - Similar Product: Carrefour Discount 1.5 lt Su                       Price: 5,00 TL   
+ - Similar Product: Carrefour Discount 0.5 lt Su                       Price: 2,50 TL   
+ - Similar Product: Carrefour Discount 5 lt Su                         Price: 15,00 TL  
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 10 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-discount-10-lt-su-_763139.jpg 
+
+
+25
+Product Name: Dalga 5 lt Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 15,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Dalga Dogal Kaynak Suyu 5 Lt   Price: 15,00 TL   Unit Price: 3,00 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma 750 ml Ecofriendly Doğal Kaynak Suyu Cam     Price: 8,00 TL   
+ - Similar Product: Ceysu 1.5 lt Doğal Kaynak Suyu                     Price: 5,00 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 5 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/dalga-5-lt-dogal-kaynak-suyu-_1435088.jpg 
+
+
+26
+Product Name: Erikli 1500 ml Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 8,50 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Erikli Su 1.5 Lt               Price: 8,50 TL    Unit Price: 0,94 TL/lt
+ - Market: Carrefour            Product: Erikli Su 1,5 Lt               Price: 16,45 TL   Unit Price: 1,83 TL/lt
+ - Market: Migros               Product: Erikli Su 1.5 Lt               Price: 16,50 TL   Unit Price: 1,83 TL/lt
+ - Market: Şok                  Product: Erikli Su 1.5 Lt               Price: 16,50 TL   Unit Price: 1,83 TL/lt
+ - Market: Carrefour            Product: Erikli 1,5 Lt 6 Al 5 Öde       Price: 75,50 TL   Unit Price: 1,40 TL/lt
+ - Market: Migros               Product: Erikli 6x1.5 L Avantajli Paket Price: 78,50 TL   Unit Price: 1,45 TL/lt
+
+Similar Products:
+ - Similar Product: Assu 1500 ml Pet Şişe Su                           Price: 5,00 TL   
+ - Similar Product: Sırma 1500 ml Su                                   Price: 3,50 TL   
+
+Features:
+ - Çoklu Paket: Evet
+ - Ph Değeri: 7.8 Ph
+ - Toplam Ağırlık: 9 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 6 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/erikli-1500-ml-su-_284888.jpg 
+
+
+27
+Product Name: Abant 1.5 lt Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Abant Dogal Kaynak Suyu 1,5 Lt. Price: 5,00 TL    Unit Price: 3,33 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Abant Su 1.5 Lt                Price: 5,00 TL    Unit Price: 3,33 TL/lt
+ - Market: Şok                  Product: Abant Su 1.5 Lt                Price: 5,00 TL    Unit Price: 3,33 TL/lt
+
+Similar Products:
+ - Similar Product: Ceysu 1.5 lt Doğal Kaynak Suyu                     Price: 5,00 TL   
+ - Similar Product: Kardağ 1.5 lt Doğal Kaynak Suyu                    Price: 5,00 TL   
+
+Features:
+ - Ph Değeri: 7.47 Ph
+ - Toplam Ağırlık: 1.5 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/abant-1-5-lt-dogal-kaynak-suyu-_285167.jpg 
+
+
+28
+Product Name: Niksar 500 ml Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Niksar Su 0.5 Lt               Price: 2,50 TL    Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: Buzdağı 500 ml Su                                  Price: 5,95 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/niksar-500-ml-su-_1703628.jpg 
+
+
+29
+Product Name: Sırma 1500 ml Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 3,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Sirma Su 1.5 Lt                Price: 3,50 TL    Unit Price: 2,33 TL/lt
+
+Similar Products:
+ - Similar Product: Erikli 1500 ml Su                                  Price: 8,50 TL   
+ - Similar Product: Assu 1500 ml Pet Şişe Su                           Price: 5,00 TL   
+
+Features:
+ - Toplam Ağırlık: 1.5 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/sirma-1500-ml-su-_97048.jpg 
+
+
+30
+Product Name: Abant 0.75 lt Cam Şişe Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 10,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Abant Su Cam 750 Ml            Price: 10,00 TL   Unit Price: 13,33 TL/lt
+ - Market: Migros               Product: Abant Dogal Kaynak Suyu Cam Şise 0.75 L Price: 26,50 TL   Unit Price: 35,33 TL/lt
+
+Similar Products:
+ - Similar Product: Carrefour Discount 0.75 lt Su                      Price: 22,25 TL  
+ - Similar Product: Hayat Su 0,75 Lt Su                                Price: 16,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/abant-0-75-lt-cam-sise-su-_1631802.jpg 
+
+
+31
+Product Name: Pürsu Elite 750 ml Cam Şişe Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 16,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Pursu 750 Ml Cam               Price: 16,50 TL   Unit Price: 22,00 TL/lt
+ - Market: Migros               Product: Pursu Elite Dogal Kaynak Suyu Cam Şise 750 Ml Price: 30,00 TL   Unit Price: 40,00 TL/lt
+
+Similar Products:
+ - Similar Product: Pürsu Elite 330 ml Cam Şişe Doğal Kaynak Suyu      Price: 9,50 TL   
+ - Similar Product: Sırma 750 ml Ecofriendly Doğal Kaynak Suyu Cam     Price: 8,00 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 750 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/pursu-elite-750-ml-cam-sise-dogal-kaynak-suyu-_415924.jpg 
+
+
+32
+Product Name: Abant Cam 330 ml Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Abant Su Cam 330 Ml            Price: 5,00 TL    Unit Price: 15,15 TL/lt
+ - Market: Migros               Product: Abant Dogal Kaynak Suyu Cam Şise 0.33 L Price: 15,95 TL   Unit Price: 48,33 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+
+Features:
+ - Ph Değeri: 7.47 Ph
+ - Toplam Ağırlık: 330 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Cam
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/abant-cam-330-ml-su-_285317.jpg 
+
+
+33
+Product Name: Buzdağı 5 lt Doğal Mineralli Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 21,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Buzdagi Dogal Mineralli Su 5 L Price: 21,95 TL   Unit Price: 4,39 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+34
+Product Name: Kayın 1.5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Kayin Su 1.5 Lt                Price: 5,00 TL    Unit Price: 3,33 TL/lt
+
+Similar Products:
+ - Similar Product: Sersu 1.5 lt Su                                    Price: 5,00 TL   
+ - Similar Product: Mila 1.5 lt Doğal Kaynak Su                        Price: 7,75 TL   
+ - Similar Product: Kardelen 1.5 lt Su                                 Price: 5,00 TL   
+ - Similar Product: Kardelen 1.5 lt Su                                 Price: 5,00 TL   
+ - Similar Product: Pınar 1.5 lt Pet Su                                Price: 15,90 TL  
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1.5 lt
+ - Kategori: Su
+Product Image URL: https://cdn.cimri.io/market/260x260/kayin-1-5-lt-su-_1434015.jpg 
+
+
+35
+Product Name: Güzelpınar 1.5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Guzelpinar Su 1.5 Lt           Price: 5,00 TL    Unit Price: 3,33 TL/lt
+
+Similar Products:
+ - Similar Product: Sersu 1.5 lt Su                                    Price: 5,00 TL   
+ - Similar Product: Mila 1.5 lt Doğal Kaynak Su                        Price: 7,75 TL   
+ - Similar Product: Kardelen 1.5 lt Su                                 Price: 5,00 TL   
+ - Similar Product: Kardelen 1.5 lt Su                                 Price: 5,00 TL   
+ - Similar Product: Pınar 1.5 lt Pet Su                                Price: 15,90 TL  
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1.5 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/guzelpinar-1-5-lt-su-_940502.jpg 
+
+
+36
+Product Name: Elmacık 500 ml Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Elmacik Su 0.5 Lt              Price: 2,50 TL    Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: Elmacık 1,5 lt Su                                  Price: 5,00 TL   
+
+Features:
+Product Image URL:  
+
+
+37
+Product Name: Sırma 1,5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Sirma Dogal Kaynak Suyu 1.5 Lt Price: 2,00 TL    Unit Price: 1,33 TL/lt
+ - Market: A101                 Product: Su 1.5 L Sirma                 Price: 8,00 TL    Unit Price: 5,33 TL/lt
+
+Similar Products:
+ - Similar Product: Nazli 1,5 lt Su                                    Price: 5,00 TL   
+ - Similar Product: Elmacık 1,5 lt Su                                  Price: 5,00 TL   
+ - Similar Product: Kipa 1,5 lt Su                                     Price: 4,90 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1.5 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/sirma-15-lt-su-_872185.jpg 
+
+
+38
+Product Name: Saka 10 lt Doğal Mineralli Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 35,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Saka Su 10 Lt                  Price: 35,00 TL   Unit Price: 3,50 TL/lt
+ - Market: Migros               Product: Saka Dogal Mineralli Su 10 L   Price: 49,95 TL   Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+
+Features:
+ - Ph Değeri: 8.22 Ph
+ - Toplam Ağırlık: 10 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/saka-10-lt-dogal-mineralli-su-_480869.jpg 
+
+
+39
+Product Name: Desni 19 lt Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 53,75 TL 
+
+Market Products:
+ - Market: Migros               Product: Desni Dogal Kaynak Suyu 19 Lt  Price: 53,75 TL   Unit Price: 2,83 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma 750 ml Ecofriendly Doğal Kaynak Suyu Cam     Price: 8,00 TL   
+ - Similar Product: Dalga 5 lt Doğal Kaynak Suyu                       Price: 15,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/desni-19-lt-dogal-kaynak-suyu-_1440883.jpg 
+
+
+40
+Product Name: Aqua 750 ml Panna
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 64,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Aqua Panna 750 Ml              Price: 64,50 TL   Unit Price: 86,00 TL/lt
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/aqua-750-ml-panna-_1171970.jpg 
+
+
+41
+Product Name: Kipa 500 ml Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Kipa Su 500 Ml                 Price: 2,50 TL    Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: Buzdağı 500 ml Su                                  Price: 5,95 TL   
+
+Features:
+ - Ph Değeri: 7.8 Ph
+ - Toplam Ağırlık: 500 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/kipa-500-ml-su-_285281.jpg 
+
+
+42
+Product Name: Erikli 8 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 26,75 TL 
+
+Market Products:
+ - Market: A101                 Product: Su 8 L Erikli                  Price: 26,75 TL   Unit Price: 3,34 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 8 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/erikli-8-lt-su-_988139.jpg 
+
+
+43
+Product Name: Carrefour Discount 1 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 4,85 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Discount Su 1l       Price: 4,85 TL    Unit Price: 4,85 TL/lt
+
+Similar Products:
+ - Similar Product: Carrefour Discount 5 lt Su                         Price: 15,00 TL  
+ - Similar Product: Carrefour Discount 0.33 lt Pet Su                  Price: 2,40 TL   
+ - Similar Product: Carrefour Discount 10 lt Su                        Price: 26,50 TL  
+ - Similar Product: Carrefour Discount 0.5 lt Su                       Price: 2,50 TL   
+ - Similar Product: Carrefour Discount 0.75 lt Su                      Price: 22,25 TL  
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-discount-1-lt-su-_763147.jpg 
+
+
+44
+Product Name: Carrefour Discount 0.75 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 22,25 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Discount Su 750 Ml Cam Price: 22,25 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Abant 0.75 lt Cam Şişe Su                          Price: 10,00 TL  
+ - Similar Product: Hayat Su 0,75 Lt Su                                Price: 16,00 TL  
+ - Similar Product: Carrefour Discount 5 lt Su                         Price: 15,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-discount-0-75-lt-su-_1861862.jpg 
+
+
+45
+Product Name: Beysu 1.5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Beysu 1.5 Lt                   Price: 5,00 TL    Unit Price: 3,33 TL/lt
+
+Similar Products:
+ - Similar Product: Sersu 1.5 lt Su                                    Price: 5,00 TL   
+ - Similar Product: Mila 1.5 lt Doğal Kaynak Su                        Price: 7,75 TL   
+ - Similar Product: Kardelen 1.5 lt Su                                 Price: 5,00 TL   
+ - Similar Product: Kardelen 1.5 lt Su                                 Price: 5,00 TL   
+ - Similar Product: Pınar 1.5 lt Pet Su                                Price: 15,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/beysu-1-5-lt-su-_1434871.jpg 
+
+
+46
+Product Name: Güzelpınar 330 ml Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 22,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Guzelpinar Su 12'li 12*0.33 Ml Price: 22,00 TL   Unit Price: 5,56 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+ - Similar Product: Nestle 330 ml Hotwheels Kids Su                    Price: 5,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/guzelpinar-330-ml-su-_1685808.jpg 
+
+
+47
+Product Name: Sarıkız 19 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 55,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Sarikiz Su 19 Lt               Price: 55,00 TL   Unit Price: 2,89 TL/lt
+
+Similar Products:
+ - Similar Product: Doyum 19 lt Su                                     Price: 51,90 TL  
+ - Similar Product: İdeal 19 lt Su                                     Price: 55,50 TL  
+ - Similar Product: Kardelen 19 lt Su                                  Price: 55,00 TL  
+ - Similar Product: Kipa 19 lt Su                                      Price: 34,00 TL  
+ - Similar Product: Desni 19 lt Doğal Kaynak Suyu                      Price: 53,75 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+48
+Product Name: Aysu 500 ml Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Aysu Dogal Kaynak Suyu 0,5 L   Price: 2,50 TL    Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: Buzdağı 500 ml Su                                  Price: 5,95 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/aysu-500-ml-su-_1193094.jpg 
+
+
+49
+Product Name: Aysu 1.5 lt Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Aysu Dogal Kaynak Suyu 1,5 L   Price: 5,00 TL    Unit Price: 3,33 TL/lt
+
+Similar Products:
+ - Similar Product: Ceysu 1.5 lt Doğal Kaynak Suyu                     Price: 5,00 TL   
+ - Similar Product: Kardağ 1.5 lt Doğal Kaynak Suyu                    Price: 5,00 TL   
+ - Similar Product: Abant 1.5 lt Doğal Kaynak Suyu                     Price: 5,00 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1.5 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/aysu-1-5-lt-dogal-kaynak-suyu-_428153.jpg 
+
+
+50
+Product Name: Mila 5 lt Pet Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 15,25 TL 
+
+Market Products:
+ - Market: Bim                  Product: Su 5 Lt Mila                   Price: 15,25 TL   Unit Price: 0
+ - Market: Carrefour            Product: Mila Pet Su 5 Lt               Price: 21,00 TL   Unit Price: 0
+ - Market: Migros               Product: Mila Dogal Kaynak Suyu 5 L     Price: 21,50 TL   Unit Price: 4,30 TL/lt
+
+Similar Products:
+ - Similar Product: Akyudum Pet 5 lt Su                                Price: 15,00 TL  
+ - Similar Product: Carrefour Discount 0.33 lt Pet Su                  Price: 2,40 TL   
+ - Similar Product: Tekir  5 lt Su Pet                                 Price: 19,75 TL  
+
+Features:
+Product Image URL:  
+
+
+51
+Product Name: Doyum 1,5 lt Pet Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Doyum Dogal Kaynak Suyu 1,5 L Pet Price: 5,00 TL    Unit Price: 3,33 TL/lt
+ - Market: Carrefour            Product: Doyum Su 1,5 Lt                Price: 6,75 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Tekir 1,5 lt Doğal Kaynak Suyu                     Price: 6,75 TL   
+ - Similar Product: Sırmakeş 1,5 lt Doğal Kaynak Suyu                  Price: 10,95 TL  
+ - Similar Product: Pınar 0,5 lt Yaşam Pınarım Pet Doğal Kaynak Suyu   Price: 8,50 TL   
+ - Similar Product: Doyum 5 lt Pet Doğal Kaynak Suyu                   Price: 15,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/doyum-15-lt-pet-dogal-kaynak-suyu-_1443855.jpg 
+
+
+52
+Product Name: Aysu 500 ml Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Aysu Dogal Kaynak Suyu 0,5 L   Price: 2,50 TL    Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: Buzdağı 500 ml Su                                  Price: 5,95 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/aysu-500-ml-su-_1193094.jpg 
+
+
+53
+Product Name: Aysu 1.5 lt Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Aysu Dogal Kaynak Suyu 1,5 L   Price: 5,00 TL    Unit Price: 3,33 TL/lt
+
+Similar Products:
+ - Similar Product: Ceysu 1.5 lt Doğal Kaynak Suyu                     Price: 5,00 TL   
+ - Similar Product: Kardağ 1.5 lt Doğal Kaynak Suyu                    Price: 5,00 TL   
+ - Similar Product: Abant 1.5 lt Doğal Kaynak Suyu                     Price: 5,00 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1.5 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/aysu-1-5-lt-dogal-kaynak-suyu-_428153.jpg 
+
+
+54
+Product Name: Mila 5 lt Pet Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 15,25 TL 
+
+Market Products:
+ - Market: Bim                  Product: Su 5 Lt Mila                   Price: 15,25 TL   Unit Price: 0
+ - Market: Carrefour            Product: Mila Pet Su 5 Lt               Price: 21,00 TL   Unit Price: 0
+ - Market: Migros               Product: Mila Dogal Kaynak Suyu 5 L     Price: 21,50 TL   Unit Price: 4,30 TL/lt
+
+Similar Products:
+ - Similar Product: Akyudum Pet 5 lt Su                                Price: 15,00 TL  
+ - Similar Product: Carrefour Discount 0.33 lt Pet Su                  Price: 2,40 TL   
+ - Similar Product: Tekir  5 lt Su Pet                                 Price: 19,75 TL  
+
+Features:
+Product Image URL:  
+
+
+55
+Product Name: Erikli 8 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 26,75 TL 
+
+Market Products:
+ - Market: A101                 Product: Su 8 L Erikli                  Price: 26,75 TL   Unit Price: 3,34 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 8 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/erikli-8-lt-su-_988139.jpg 
+
+
+56
+Product Name: Tekir 500 ml Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 3,40 TL 
+
+Market Products:
+ - Market: Migros               Product: Tekir Dogal Kaynak Suyu 0.5 L  Price: 3,40 TL    Unit Price: 6,80 TL/lt
+
+Similar Products:
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/tekir-500-ml-dogal-kaynak-suyu-_864768.jpg 
+
+
+57
+Product Name: Doyum 5 lt Pet Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 15,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Doyum Dogal Kaynak Suyu 5 L Pet Price: 15,00 TL   Unit Price: 3,00 TL/lt
+ - Market: Carrefour            Product: Doyum Su 5 Lt                  Price: 17,50 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Pınar 0,5 lt Yaşam Pınarım Pet Doğal Kaynak Suyu   Price: 8,50 TL   
+ - Similar Product: Doyum 1,5 lt Pet Doğal Kaynak Suyu                 Price: 5,00 TL   
+ - Similar Product: Hamidiye 5 lt Pet Kaynak Suyu                      Price: 15,00 TL  
+ - Similar Product: Sırma 750 ml Ecofriendly Doğal Kaynak Suyu Cam     Price: 8,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/doyum-5-lt-pet-dogal-kaynak-suyu-_1446783.jpg 
+
+
+58
+Product Name: Erek 1,5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Erek Dogal Kaynak Suyu 1,5 Lt. Price: 5,00 TL    Unit Price: 3,33 TL/lt
+ - Market: Şok                  Product: Erek Su 1.5 Lt                 Price: 5,00 TL    Unit Price: 3,33 TL/lt
+
+Similar Products:
+ - Similar Product: Nazli 1,5 lt Su                                    Price: 5,00 TL   
+ - Similar Product: Elmacık 1,5 lt Su                                  Price: 5,00 TL   
+ - Similar Product: Kipa 1,5 lt Su                                     Price: 4,90 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1.5 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/erek-15-lt-su-_1432890.jpg 
+
+
+59
+Product Name: Nestlé Pure  330 ml Life Kids Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 9,75 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Nestl Pure Life Hot Wheels Kids 330 Ml Price: 9,75 TL    Unit Price: 0
+ - Market: Migros               Product: Nestle Pure Life Kids Su 330 Ml Price: 9,95 TL    Unit Price: 30,15 TL/lt
+
+Similar Products:
+ - Similar Product: Nestle Pure Life Barbie Doğal Kaynak Suyu 330Ml    Price: 5,00 TL   
+ - Similar Product: Damla Doğal Kaynak Cam 330 ml Suyu                 Price: 25,50 TL  
+ - Similar Product: Pürsu Elite 330 ml Cam Şişe Doğal Kaynak Suyu      Price: 9,50 TL   
+ - Similar Product: Sırma 330 ml Ecofriendly Doğal Cam Kaynak Suyu     Price: 4,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/nestl-pure-330-ml-life-kids-dogal-kaynak-suyu-_1193089.jpg 
+
+
+60
+Product Name: Desni 1,5 lt su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Desni Kaynak Suyu 1,5 L        Price: 5,00 TL    Unit Price: 3,33 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Desni Su 1.5 Lt                Price: 5,00 TL    Unit Price: 3,33 TL/lt
+ - Market: Şok                  Product: Desni Su 1.5 Lt                Price: 5,00 TL    Unit Price: 3,33 TL/lt
+
+Similar Products:
+ - Similar Product: Nazli 1,5 lt Su                                    Price: 5,00 TL   
+ - Similar Product: Elmacık 1,5 lt Su                                  Price: 5,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/desni-15-lt-su-_1433817.jpg 
+
+
+61
+Product Name: Gappınar 0.5 lt Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Gappinar Dogal Kaynak Suyu 0.5 Lt Price: 2,50 TL    Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: Dalga 0.5 lt Doğal Kaynak Suyu                     Price: 2,50 TL   
+ - Similar Product: Ceysu 0.5 lt Doğal Kaynak Suyu                     Price: 2,50 TL   
+ - Similar Product: Desni 0.5 lt Kaynak Suyu                           Price: 2,50 TL   
+ - Similar Product: Kardağ 0.5 lt Doğal Kaynak Su                      Price: 2,50 TL   
+ - Similar Product: Pınar 0,5 lt Yaşam Pınarım Pet Doğal Kaynak Suyu   Price: 8,50 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 0.5 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/gappinar-0-5-lt-dogal-kaynak-suyu-_1435158.jpg 
+
+
+62
+Product Name: Beysu 1.5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Beysu 1.5 Lt                   Price: 5,00 TL    Unit Price: 3,33 TL/lt
+
+Similar Products:
+ - Similar Product: Sersu 1.5 lt Su                                    Price: 5,00 TL   
+ - Similar Product: Mila 1.5 lt Doğal Kaynak Su                        Price: 7,75 TL   
+ - Similar Product: Kardelen 1.5 lt Su                                 Price: 5,00 TL   
+ - Similar Product: Kardelen 1.5 lt Su                                 Price: 5,00 TL   
+ - Similar Product: Pınar 1.5 lt Pet Su                                Price: 15,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/beysu-1-5-lt-su-_1434871.jpg 
+
+
+63
+Product Name: Güzelpınar 330 ml Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 22,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Guzelpinar Su 12'li 12*0.33 Ml Price: 22,00 TL   Unit Price: 5,56 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+ - Similar Product: Nestle 330 ml Hotwheels Kids Su                    Price: 5,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/guzelpinar-330-ml-su-_1685808.jpg 
+
+
+64
+Product Name: Sarıkız 19 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 55,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Sarikiz Su 19 Lt               Price: 55,00 TL   Unit Price: 2,89 TL/lt
+
+Similar Products:
+ - Similar Product: Kipa 19 lt Su                                      Price: 34,00 TL  
+ - Similar Product: Kardelen 19 lt Su                                  Price: 55,00 TL  
+ - Similar Product: Doyum 19 lt Su                                     Price: 51,90 TL  
+ - Similar Product: İdeal 19 lt Su                                     Price: 55,50 TL  
+ - Similar Product: Desni 19 lt Doğal Kaynak Suyu                      Price: 53,75 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+65
+Product Name: Gappınar 1.5 lt Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Gappinar Dogal Kaynak Suyu 1.5 Lt Price: 5,00 TL    Unit Price: 3,33 TL/lt
+
+Similar Products:
+ - Similar Product: Ceysu 1.5 lt Doğal Kaynak Suyu                     Price: 5,00 TL   
+ - Similar Product: Kardağ 1.5 lt Doğal Kaynak Suyu                    Price: 5,00 TL   
+ - Similar Product: Abant 1.5 lt Doğal Kaynak Suyu                     Price: 5,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/gappinar-1-5-lt-dogal-kaynak-suyu-_1438428.jpg 
+
+
+66
+Product Name: Erikli 330 ml Premium Şişe Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 9,45 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Erikli Pr.0,33 L Pet           Price: 9,45 TL    Unit Price: 0
+ - Market: Şok                  Product: Erikli Su 12'li 12*330 Ml      Price: 65,00 TL   Unit Price: 16,41 TL/lt
+
+Similar Products:
+ - Similar Product: Damla Minera 330 ml Şişe Su                        Price: 23,75 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/erikli-330-ml-premium-sise-su-_1199363.jpg 
+
+
+67
+Product Name: Kardağ 5 lt Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 15,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Erimez Kardag Dogal Kaynak Suyu 5 L Price: 15,00 TL   Unit Price: 3,00 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Erimez Kardag Su 5 Lt          Price: 15,00 TL   Unit Price: 3,00 TL/lt
+ - Market: Şok                  Product: Kardag Dogal Kaynak Suyu 5 Lt  Price: 15,00 TL   Unit Price: 3,00 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma 750 ml Ecofriendly Doğal Kaynak Suyu Cam     Price: 8,00 TL   
+ - Similar Product: Dalga 5 lt Doğal Kaynak Suyu                       Price: 15,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kardag-5-lt-dogal-kaynak-suyu-_1434009.jpg 
+
+
+68
+Product Name: Niksar Su 1,5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Niksar Su 1.5 Lt               Price: 5,00 TL    Unit Price: 3,33 TL/lt
+
+Similar Products:
+ - Similar Product: Nazli 1,5 lt Su                                    Price: 5,00 TL   
+ - Similar Product: Elmacık 1,5 lt Su                                  Price: 5,00 TL   
+ - Similar Product: Kipa 1,5 lt Su                                     Price: 4,90 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/niksar-su-15-lt-su-_1091406.jpg 
+
+
+69
+Product Name: Assu 1500 ml Pet Şişe Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Su 1,5lt Assu                  Price: 5,00 TL    Unit Price: 0
+ - Market: Migros               Product: Assu Mineralli Su 1.5lt        Price: 5,00 TL    Unit Price: 3,33 TL/lt
+
+Similar Products:
+
+Features:
+Product Image URL:  
+
+
+70
+Product Name: Doyum 19 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 51,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Doyum Su 19 Lt                 Price: 51,90 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Sarıkız 19 lt Su                                   Price: 55,00 TL  
+ - Similar Product: Sarıkız 19 lt Su                                   Price: 55,00 TL  
+ - Similar Product: İdeal 19 lt Su                                     Price: 55,50 TL  
+ - Similar Product: Kardelen 19 lt Su                                  Price: 55,00 TL  
+ - Similar Product: Kipa 19 lt Su                                      Price: 34,00 TL  
+ - Similar Product: Desni 19 lt Doğal Kaynak Suyu                      Price: 53,75 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+71
+Product Name: Erikli 750ml Premium Pet Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 17,95 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Erikli Pr.0,75 L Pet           Price: 17,95 TL   Unit Price: 3,99 TL/lt
+ - Market: Migros               Product: Erikli Premium Pet Su 750 Ml   Price: 18,00 TL   Unit Price: 4,00 TL/lt
+
+Similar Products:
+ - Similar Product: Hayat 750 ml Sporcu Pet Su                         Price: 12,75 TL  
+
+Features:
+ - Adet: 6 Adet
+ - Toplam Ağırlık: 4.5 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/erikli-750ml-premium-pet-su-_783719.jpg 
+
+
+72
+Product Name: Hayat 500 ml Pet Şişe Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 6,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Hayat Su 0.5 Lt                Price: 6,50 TL    Unit Price: 13,00 TL/lt
+ - Market: Carrefour            Product: Hayat Su 0,5 Lt                Price: 8,75 TL    Unit Price: 0
+ - Market: A101                 Product: Su 0.5 L Hayat                 Price: 9,00 TL    Unit Price: 18,00 TL/lt
+
+Similar Products:
+ - Similar Product: Bursa Su 500 ml Pet Şişe Su                        Price: 2,50 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/hayat-500-ml-pet-sise-su-_1091248.jpg 
+
+
+73
+Product Name: Ceysu 5 lt Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 15,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Ceysu Dogal Kaynak Suyu 5 L    Price: 15,00 TL   Unit Price: 3,00 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Ceysu Su 5 Lt                  Price: 15,00 TL   Unit Price: 3,00 TL/lt
+ - Market: Şok                  Product: Ceysu 5 Lt                     Price: 15,00 TL   Unit Price: 3,00 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma 750 ml Ecofriendly Doğal Kaynak Suyu Cam     Price: 8,00 TL   
+ - Similar Product: Dalga 5 lt Doğal Kaynak Suyu                       Price: 15,00 TL  
+
+Features:
+ - Toplam Ağırlık: 5 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/ceysu-5-lt-dogal-kaynak-suyu-_481402.jpg 
+
+
+74
+Product Name: Assu 0,5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Su 0,5lt Assu                  Price: 2,50 TL    Unit Price: 5,00 TL/lt
+ - Market: Migros               Product: Assu Mineralli Su 0.5lt        Price: 2,50 TL    Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: İdeal 0,5 lt Su                                    Price: 2,50 TL   
+ - Similar Product: Güzelpınar 0,5 lt Su                               Price: 2,50 TL   
+ - Similar Product: Saka 0,5 lt Doğal Mineralli Su                     Price: 2,25 TL   
+ - Similar Product: Pınar 0,5 lt Yaşam Pınarım Pet Doğal Kaynak Suyu   Price: 8,50 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/assu-05-lt-su-_942990.jpg 
+
+
+75
+Product Name: Sarıkız 5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 15,00 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Su 5lt Sarikiz                 Price: 15,00 TL   Unit Price: 0
+ - Market: Migros               Product: Sarikiz Pet Su 5 L             Price: 15,00 TL   Unit Price: 3,00 TL/lt
+ - Market: Şok                  Product: Sarikiz Su 5 Lt                Price: 15,00 TL   Unit Price: 3,00 TL/lt
+ - Market: Carrefour            Product: Sarikiz Dogal Kaynak Su 5 Lt   Price: 20,90 TL   Unit Price: 0
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sarikiz-5-lt-su-_1434097.jpg 
+
+
+76
+Product Name: Hayat 750 ml Sporcu Pet Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 12,75 TL 
+
+Market Products:
+ - Market: Şok                  Product: Hayat Su 0.75 Spor.k           Price: 12,75 TL   Unit Price: 17,00 TL/lt
+ - Market: Carrefour            Product: Hayat Su 75 Cl Spor Kapak      Price: 17,95 TL   Unit Price: 23,93 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar Yaşam Pınarım Sporcu Kapak 750 ml Su         Price: 8,50 TL   
+ - Similar Product: Erikli 750ml Premium Pet Su                        Price: 17,95 TL  
+ - Similar Product: Akyudum Pet 5 lt Su                                Price: 15,00 TL  
+
+Features:
+ - Ph Değeri: 7.55 Ph
+ - Toplam Ağırlık: 750 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Pet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/hayat-750-ml-sporcu-pet-su-_616490.jpg 
+
+
+77
+Product Name: Uludağ 750 ml Premium Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 32,35 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Uludag Premium Su 750 Ml Cam   Price: 32,35 TL   Unit Price: 0
+ - Market: Migros               Product: Uludag Premium 750 Ml          Price: 49,95 TL   Unit Price: 66,60 TL/lt
+ - Market: Şok                  Product: Uludag Premium Maden Suyu 750 Ml Price: 49,95 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Erikli 750ml Premium Pet Su                        Price: 17,95 TL  
+
+Features:
+Product Image URL:  
+
+
+78
+Product Name: Damla 1,5 Lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 6,70 TL 
+
+Market Products:
+ - Market: Şok                  Product: Damla Su 1.5 Lt                Price: 6,70 TL    Unit Price: 4,47 TL/lt
+ - Market: A101                 Product: Su 1,5 L Damla                 Price: 12,50 TL   Unit Price: 8,33 TL/lt
+ - Market: Carrefour            Product: Damla Su 1.5 Lt.               Price: 16,25 TL   Unit Price: 10,83 TL/lt
+ - Market: Migros               Product: Damla Dogal Kaynak Suyu 1,5 L. Price: 16,25 TL   Unit Price: 10,83 TL/lt
+
+Similar Products:
+ - Similar Product: Nazli 1,5 lt Su                                    Price: 5,00 TL   
+ - Similar Product: Elmacık 1,5 lt Su                                  Price: 5,00 TL   
+
+Features:
+ - Ph Değeri: 7.57 Ph
+ - Toplam Ağırlık: 1.5 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Pet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/damla-15-lt-su-_481202.jpg 
+
+
+79
+Product Name: Hayat 1 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 13,45 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Hayat Su 1 Lt                  Price: 13,45 TL   Unit Price: 2,24 TL/lt
+ - Market: A101                 Product: Su 6x1 L Hayat                 Price: 34,75 TL   Unit Price: 0,97 TL/lt
+
+Similar Products:
+
+Features:
+ - Çoklu Paket: Evet
+ - Toplam Ağırlık: 6 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Pet
+ - Adet: 6 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/hayat-1-lt-su-_51674.jpg 
+
+
+80
+Product Name: Erikli Premium 330 ml Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 6,45 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Erikli Su 33cl                 Price: 6,45 TL    Unit Price: 19,55 TL/lt
+ - Market: Migros               Product: Erikli Premium Pet Su 330 Ml   Price: 9,50 TL    Unit Price: 28,79 TL/lt
+ - Market: Carrefour            Product: Erikli Su 0,33 Cl Cam          Price: 24,95 TL   Unit Price: 75,61 TL/lt
+ - Market: Migros               Product: Erikli 12li Paket 0.33l        Price: 65,00 TL   Unit Price: 16,41 TL/lt
+
+Similar Products:
+ - Similar Product: Erikli 330 ml Premium Şişe Su                      Price: 9,45 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 330 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/erikli-premium-330-ml-su-_988140.jpg 
+
+
+81
+Product Name: Pınar Madran Doğal Mineralli 330 ml Cam Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 3,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Pinar Madran Cam 33 Cl         Price: 3,00 TL    Unit Price: 9,09 TL/lt
+
+Similar Products:
+
+Features:
+ - Toplam Ağırlık: 330 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Cam
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/pinar-madran-dogal-mineralli-330-ml-cam-su-_481244.jpg 
+
+
+82
+Product Name: Sırma 750 ml Ecofriendly Doğal Kaynak Suyu Cam
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 8,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Sirma Ecofriendly Dogal Kaynak Suyu Cam 750ml Price: 8,00 TL    Unit Price: 10,67 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma 330 ml Ecofriendly Doğal Cam Kaynak Suyu     Price: 4,00 TL   
+ - Similar Product: Erikli Cam 750 ml Doğal Kaynak Suyu                Price: 42,95 TL  
+ - Similar Product: Pürsu Elite 750 ml Cam Şişe Doğal Kaynak Suyu      Price: 16,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sirma-750-ml-ecofriendly-dogal-kaynak-suyu-cam-_1622666.jpg 
+
+
+83
+Product Name: Akyudum 0.5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Akyudum Su 0.5 Lt              Price: 2,50 TL    Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: Carrefour Discount 0.5 lt Su                       Price: 2,50 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/akyudum-0-5-lt-su-_1441437.jpg 
+
+
+84
+Product Name: Akyudum Pet 5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 15,00 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Akyudum Su 5 Lt                Price: 15,00 TL   Unit Price: 3,00 TL/lt
+
+Similar Products:
+ - Similar Product: Carrefour Discount 0.33 lt Pet Su                  Price: 2,40 TL   
+ - Similar Product: Tekir  5 lt Su Pet                                 Price: 19,75 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/akyudum-pet-5-lt-su-_1441878.jpg 
+
+
+85
+Product Name: Yıldız 5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 13,50 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Yildiz Su 5 Lt                 Price: 13,50 TL   Unit Price: 2,70 TL/lt
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+86
+Product Name: Carrefour Discount 5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 15,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Discount Su 5 Lt     Price: 15,00 TL   Unit Price: 3,00 TL/lt
+
+Similar Products:
+ - Similar Product: Carrefour Discount 1 lt Su                         Price: 4,85 TL   
+ - Similar Product: Carrefour Discount 0.75 lt Su                      Price: 22,25 TL  
+ - Similar Product: Carrefour Discount 1.5 lt Su                       Price: 5,00 TL   
+ - Similar Product: Carrefour Discount 0.5 lt Su                       Price: 2,50 TL   
+ - Similar Product: Carrefour Discount 0.33 lt Pet Su                  Price: 2,40 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 5 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-discount-5-lt-su-_763134.jpg 
+
+
+87
+Product Name: Carrefour Discount 0.33 lt Pet Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,40 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Discount Su 0,33l    Price: 2,40 TL    Unit Price: 7,27 TL/lt
+
+Similar Products:
+ - Similar Product: Hayat Mascot 0,33 lt Pet Su                        Price: 7,95 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 330 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-discount-0-33-lt-pet-su-_763153.jpg 
+
+
+88
+Product Name: Carrefour Discount 0.5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Discount Su 0,5 Lt   Price: 2,50 TL    Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: Akyudum 0.5 lt Su                                  Price: 2,50 TL   
+ - Similar Product: Bahçepınar 0.5 L Su                                Price: 2,50 TL   
+ - Similar Product: Kardağ 0.5 lt Doğal Kaynak Su                      Price: 2,50 TL   
+ - Similar Product: Sarıkız 0.5 lt Su                                  Price: 2,50 TL   
+ - Similar Product: Erek 0.5 lt Su                                     Price: 2,50 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-discount-0-5-lt-su-_763150.jpg 
+
+
+89
+Product Name: Bahçepınar 0.5 L Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Bahcepinar Su 0.5 Lt           Price: 2,50 TL    Unit Price: 5,00 TL/lt
+ - Market: Şok                  Product: Bahcepinar Su 0.5 Lt           Price: 2,50 TL    Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: Akyudum 0.5 lt Su                                  Price: 2,50 TL   
+
+Features:
+Product Image URL:  
+
+
+90
+Product Name: Nazli 1,5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Nazli Su 1.5 Lt                Price: 5,00 TL    Unit Price: 3,33 TL/lt
+
+Similar Products:
+ - Similar Product: Elmacık 1,5 lt Su                                  Price: 5,00 TL   
+ - Similar Product: Kipa 1,5 lt Su                                     Price: 4,90 TL   
+ - Similar Product: Akyudum 1,5 lt Su                                  Price: 5,00 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1.5 lt
+ - Kategori: Su
+Product Image URL: https://cdn.cimri.io/market/260x260/nazli-15-lt-su-_1433810.jpg 
+
+
+91
+Product Name: Kardağ 0.5 lt Doğal Kaynak Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Erimez Kardag Dogal Kaynak Suyu 0.5 L Price: 2,50 TL    Unit Price: 5,00 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Erimez Kardag Su 0.5 Lt        Price: 2,50 TL    Unit Price: 5,00 TL/lt
+ - Market: Şok                  Product: Kardag Dogal Kaynak Suyu 0.5 Lt Price: 2,50 TL    Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: Gappınar 0.5 lt Doğal Kaynak Suyu                  Price: 2,50 TL   
+ - Similar Product: Dalga 0.5 lt Doğal Kaynak Suyu                     Price: 2,50 TL   
+ - Similar Product: Ceysu 0.5 lt Doğal Kaynak Suyu                     Price: 2,50 TL   
+ - Similar Product: Hmd 0.5 lt Doğal Mineralli Su                      Price: 2,50 TL   
+ - Similar Product: Desni 0.5 lt Kaynak Suyu                           Price: 2,50 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kardag-0-5-lt-dogal-kaynak-su-_1446086.jpg 
+
+
+92
+Product Name: Bahçepınar 5 L Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 15,00 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Bahcepinar Su 5 Lt             Price: 15,00 TL   Unit Price: 3,00 TL/lt
+ - Market: Şok                  Product: Bahcepinar Su 5 Lt             Price: 15,00 TL   Unit Price: 3,00 TL/lt
+
+Similar Products:
+ - Similar Product: Bahçepınar 1,5 lt Su                               Price: 5,00 TL   
+ - Similar Product: Bahçepınar 0.5 L Su                                Price: 2,50 TL   
+
+Features:
+Product Image URL:  
+
+
+93
+Product Name: Sarıkız 0.5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Su 0,5lt Sarikiz               Price: 2,50 TL    Unit Price: 5,00 TL/lt
+ - Market: Migros               Product: Sarikiz Pet Su 0,5 L           Price: 2,50 TL    Unit Price: 5,00 TL/lt
+ - Market: Şok                  Product: Sarikiz Su 0.5 Lt              Price: 2,50 TL    Unit Price: 5,00 TL/lt
+ - Market: Carrefour            Product: Sarikiz Dogal Kaynak Su 0,5 Lt Price: 3,60 TL    Unit Price: 7,20 TL/lt
+
+Similar Products:
+ - Similar Product: Carrefour Discount 0.5 lt Su                       Price: 2,50 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/sarikiz-0-5-lt-su-_1432850.jpg 
+
+
+94
+Product Name: Elmacık 1,5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Elmacik Su 1.5 Lt              Price: 5,00 TL    Unit Price: 3,33 TL/lt
+
+Similar Products:
+ - Similar Product: Nazli 1,5 lt Su                                    Price: 5,00 TL   
+ - Similar Product: Kipa 1,5 lt Su                                     Price: 4,90 TL   
+ - Similar Product: Akyudum 1,5 lt Su                                  Price: 5,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/elmacik-15-lt-su-_1091324.jpg 
+
+
+95
+Product Name: Ceysu 1.5 lt Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Ceysu Dogal Kaynak Suyu 1.5 L  Price: 5,00 TL    Unit Price: 3,33 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Ceysu Su 1.5 Lt                Price: 5,00 TL    Unit Price: 3,33 TL/lt
+ - Market: Şok                  Product: Ceysu 1.5 Lt                   Price: 5,00 TL    Unit Price: 3,33 TL/lt
+
+Similar Products:
+ - Similar Product: Kardağ 1.5 lt Doğal Kaynak Suyu                    Price: 5,00 TL   
+ - Similar Product: Abant 1.5 lt Doğal Kaynak Suyu                     Price: 5,00 TL   
+
+Features:
+ - Toplam Ağırlık: 1.5 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/ceysu-1-5-lt-dogal-kaynak-suyu-_481580.jpg 
+
+
+96
+Product Name: Sersu 1.5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Sersu 1.5 Lt                   Price: 5,00 TL    Unit Price: 3,33 TL/lt
+
+Similar Products:
+ - Similar Product: Mila 1.5 lt Doğal Kaynak Su                        Price: 7,75 TL   
+ - Similar Product: Kardelen 1.5 lt Su                                 Price: 5,00 TL   
+ - Similar Product: Kardelen 1.5 lt Su                                 Price: 5,00 TL   
+ - Similar Product: Pınar 1.5 lt Pet Su                                Price: 15,90 TL  
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1.5 lt
+ - Kategori: Su
+Product Image URL: https://cdn.cimri.io/market/260x260/sersu-1-5-lt-su-_1434589.jpg 
+
+
+97
+Product Name: Sersu 5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 15,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Sersu 5 Lt                     Price: 15,00 TL   Unit Price: 3,00 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sersu-5-lt-su-_1432973.jpg 
+
+
+98
+Product Name: Pınar 0,5 lt Yaşam Pınarım Pet Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 8,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Pinar Yasam Pinarim 0.5 Lt     Price: 8,50 TL    Unit Price: 17,00 TL/lt
+
+Similar Products:
+ - Similar Product: Sırmakeş 0,5 lt Doğal Kaynak Suyu                  Price: 5,90 TL   
+ - Similar Product: Gappınar 0.5 lt Doğal Kaynak Suyu                  Price: 2,50 TL   
+ - Similar Product: Dalga 0.5 lt Doğal Kaynak Suyu                     Price: 2,50 TL   
+ - Similar Product: Ceysu 0.5 lt Doğal Kaynak Suyu                     Price: 2,50 TL   
+ - Similar Product: Doyum 1,5 lt Pet Doğal Kaynak Suyu                 Price: 5,00 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/pinar-05-lt-yasam-pinarim-pet-dogal-kaynak-suyu-_971036.jpg 
+
+
+99
+Product Name: Mila 1.5 lt Doğal Kaynak Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 7,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Su 1,5 Lt Mila                 Price: 7,75 TL    Unit Price: 0
+ - Market: Carrefour            Product: Mila Pet Su 1,5 Lt             Price: 10,90 TL   Unit Price: 0
+ - Market: Migros               Product: Mila Dogal Kaynak Suyu 1.5 L   Price: 11,00 TL   Unit Price: 7,33 TL/lt
+
+Similar Products:
+ - Similar Product: Ceysu 1.5 lt Doğal Kaynak Suyu                     Price: 5,00 TL   
+ - Similar Product: Kardağ 1.5 lt Doğal Kaynak Suyu                    Price: 5,00 TL   
+ - Similar Product: Abant 1.5 lt Doğal Kaynak Suyu                     Price: 5,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/mila-1-5-lt-dogal-kaynak-su-_1206425.jpg 
+
+
+100
+Product Name: Erek 0.5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Erek Dogal Kaynak Suyu 0.5 Lt. Price: 2,50 TL    Unit Price: 5,00 TL/lt
+ - Market: Şok                  Product: Erek Su 0.5 Lt                 Price: 2,50 TL    Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: Akyudum 0.5 lt Su                                  Price: 2,50 TL   
+ - Similar Product: Carrefour Discount 0.5 lt Su                       Price: 2,50 TL   
+ - Similar Product: Bahçepınar 0.5 L Su                                Price: 2,50 TL   
+ - Similar Product: Kardağ 0.5 lt Doğal Kaynak Su                      Price: 2,50 TL   
+ - Similar Product: Sarıkız 0.5 lt Su                                  Price: 2,50 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+101
+Product Name: Hayat Baby 0,33 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 43,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Hayat Su Baby 6*330m           Price: 43,50 TL   Unit Price: 3,66 TL/lt
+ - Market: Carrefour            Product: Hayat Baby 6x0,33 Lt           Price: 54,50 TL   Unit Price: 4,59 TL/lt
+ - Market: Migros               Product: Hayat Su Bebek 6*330 Ml        Price: 54,95 TL   Unit Price: 4,63 TL/lt
+
+Similar Products:
+ - Similar Product: Hayat Mascot 0,33 lt Pet Su                        Price: 7,95 TL   
+ - Similar Product: Carrefour Discount 0.33 lt Pet Su                  Price: 2,40 TL   
+
+Features:
+ - Çoklu Paket: Evet
+ - Ph Değeri: 8 Ph
+ - Toplam Ağırlık: 1.98 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 6 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/hayat-baby-033-lt-su-_285345.jpg 
+
+
+102
+Product Name: Tekir  5 lt Su Pet
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 19,75 TL 
+
+Market Products:
+ - Market: Migros               Product: Tekir Dogal Kaynak Suyu 5 L    Price: 19,75 TL   Unit Price: 3,95 TL/lt
+
+Similar Products:
+ - Similar Product: Akyudum Pet 5 lt Su                                Price: 15,00 TL  
+ - Similar Product: Carrefour Discount 0.33 lt Pet Su                  Price: 2,40 TL   
+
+Features:
+Product Image URL:  
+
+
+103
+Product Name: Tekir 1,5 lt Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 6,75 TL 
+
+Market Products:
+ - Market: Migros               Product: Tekir Dogal Kaynak Suyu 1.5 L  Price: 6,75 TL    Unit Price: 4,50 TL/lt
+
+Similar Products:
+ - Similar Product: Sırmakeş 1,5 lt Doğal Kaynak Suyu                  Price: 10,95 TL  
+ - Similar Product: Doyum 1,5 lt Pet Doğal Kaynak Suyu                 Price: 5,00 TL   
+ - Similar Product: Ceysu 1.5 lt Doğal Kaynak Suyu                     Price: 5,00 TL   
+ - Similar Product: Kardağ 1.5 lt Doğal Kaynak Suyu                    Price: 5,00 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1.5 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/tekir-15-lt-dogal-kaynak-suyu-_864769.jpg 
+
+
+104
+Product Name: Pınar Yaşam Pınarım Sporcu Kapak 750 ml Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 8,50 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Su Sporcu Kapak 750ml Pinar-010823 Price: 8,50 TL    Unit Price: 11,33 TL/lt
+ - Market: Carrefour            Product: Pinar Sporcu 0.75 Lt           Price: 17,95 TL   Unit Price: 23,93 TL/lt
+ - Market: Migros               Product: Pinar Yasam Pinarim Sporcu Kapak 750 Ml Price: 17,95 TL   Unit Price: 23,93 TL/lt
+
+Similar Products:
+ - Similar Product: Hayat 750 ml Sporcu Pet Su                         Price: 12,75 TL  
+
+Features:
+ - Ph Değeri: 8.2 Ph
+ - Toplam Ağırlık: 750 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/pinar-yasam-pinarim-sporcu-kapak-750-ml-su-_285163.jpg 
+
+
+105
+Product Name: Kardelen 1.5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Kardelen Su 1.5 Lt             Price: 5,00 TL    Unit Price: 3,33 TL/lt
+
+Similar Products:
+ - Similar Product: Sersu 1.5 lt Su                                    Price: 5,00 TL   
+ - Similar Product: Mila 1.5 lt Doğal Kaynak Su                        Price: 7,75 TL   
+ - Similar Product: Pınar 1.5 lt Pet Su                                Price: 15,90 TL  
+
+Features:
+Product Image URL:  
+
+
+106
+Product Name: Sırmakeş 0,5 lt Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sirmakes Dogal Kaynak Suyu 0,5 Lt Price: 5,90 TL    Unit Price: 11,80 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar 0,5 lt Yaşam Pınarım Pet Doğal Kaynak Suyu   Price: 8,50 TL   
+ - Similar Product: Gappınar 0.5 lt Doğal Kaynak Suyu                  Price: 2,50 TL   
+ - Similar Product: Dalga 0.5 lt Doğal Kaynak Suyu                     Price: 2,50 TL   
+ - Similar Product: Ceysu 0.5 lt Doğal Kaynak Suyu                     Price: 2,50 TL   
+ - Similar Product: Saka 0,5 lt Doğal Mineralli Su                     Price: 2,25 TL   
+
+Features:
+ - Ph Değeri: 7.15 Ph
+ - Toplam Ağırlık: 500 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Pet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/sirmakes-05-lt-dogal-kaynak-suyu-_616506.jpg 
+
+
+107
+Product Name: Hipp 0.3 lt Doğal Mineralli Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 3,74 TL 
+
+Market Products:
+ - Market: Migros               Product: Hipp Dogal Mineralli Su 0.30 L Price: 3,74 TL    Unit Price: 12,47 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+
+Features:
+ - Toplam Ağırlık: 300 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/hipp-0-3-lt-dogal-mineralli-su-_480987.jpg 
+
+
+108
+Product Name: Erikli 0.5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 4,50 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Erikli Su 0.5 Lt               Price: 4,50 TL    Unit Price: 9,00 TL/lt
+ - Market: Şok                  Product: Erikli Su 0.5 L.               Price: 6,50 TL    Unit Price: 13,00 TL/lt
+ - Market: Hakmar Express       Product: Su 0,5lt Erikli                Price: 7,25 TL    Unit Price: 14,50 TL/lt
+ - Market: A101                 Product: Su 0.5 L Erikli                Price: 7,45 TL    Unit Price: 14,90 TL/lt
+ - Market: Carrefour            Product: Erikli 0,5 Lt                  Price: 8,95 TL    Unit Price: 17,90 TL/lt
+ - Market: Migros               Product: Erikli Su 0.5 L.               Price: 9,00 TL    Unit Price: 18,00 TL/lt
+
+Similar Products:
+ - Similar Product: Carrefour Discount 0.5 lt Su                       Price: 2,50 TL   
+
+Features:
+ - Ph Değeri: 7.8 Ph
+ - Toplam Ağırlık: 500 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/erikli-0-5-lt-su-_284646.jpg 
+
+
+109
+Product Name: Kardelen 1.5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Kardelen Su 1.5 Lt             Price: 5,00 TL    Unit Price: 3,33 TL/lt
+
+Similar Products:
+ - Similar Product: Sersu 1.5 lt Su                                    Price: 5,00 TL   
+ - Similar Product: Mila 1.5 lt Doğal Kaynak Su                        Price: 7,75 TL   
+ - Similar Product: Pınar 1.5 lt Pet Su                                Price: 15,90 TL  
+
+Features:
+Product Image URL:  
+
+
+110
+Product Name: Kardelen 5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 15,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Kardelen Su 5 Lt               Price: 15,00 TL   Unit Price: 3,00 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+
+Features:
+Product Image URL:  
+
+
+111
+Product Name: Seğmenler 0.5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Segmenler Dogal Mineralli Su 0,5 L Price: 2,50 TL    Unit Price: 5,00 TL/lt
+ - Market: Şok                  Product: Segmenler Su 0.5 Lt            Price: 2,50 TL    Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: Akyudum 0.5 lt Su                                  Price: 2,50 TL   
+ - Similar Product: Carrefour Discount 0.5 lt Su                       Price: 2,50 TL   
+ - Similar Product: Bahçepınar 0.5 L Su                                Price: 2,50 TL   
+ - Similar Product: Kardağ 0.5 lt Doğal Kaynak Su                      Price: 2,50 TL   
+ - Similar Product: Sarıkız 0.5 lt Su                                  Price: 2,50 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 0.5 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/segmenler-0-5-lt-su-_1436697.jpg 
+
+
+112
+Product Name: Kardağ 1.5 lt Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Erimez Kardag Dogal Kaynak Suyu 1.5 L Price: 5,00 TL    Unit Price: 3,33 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Erimez Kardag Su 1.5 Lt        Price: 5,00 TL    Unit Price: 3,33 TL/lt
+ - Market: Şok                  Product: Kardag Dogal Kaynak Suyu 1.5 Lt Price: 5,00 TL    Unit Price: 3,33 TL/lt
+
+Similar Products:
+ - Similar Product: Ceysu 1.5 lt Doğal Kaynak Suyu                     Price: 5,00 TL   
+ - Similar Product: Abant 1.5 lt Doğal Kaynak Suyu                     Price: 5,00 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1.5 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/kardag-1-5-lt-dogal-kaynak-suyu-_1435982.jpg 
+
+
+113
+Product Name: Hmd 0.5 lt Doğal Mineralli Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Hmd Dogal Mineralli Su 0.5l    Price: 2,50 TL    Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: Hmd 1.5 lt Doğal Mineralli Su                      Price: 5,00 TL   
+ - Similar Product: Kardağ 0.5 lt Doğal Kaynak Su                      Price: 2,50 TL   
+ - Similar Product: Saka 0,5 lt Doğal Mineralli Su                     Price: 2,25 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/hmd-0-5-lt-dogal-mineralli-su-_1670293.jpg 
+
+
+114
+Product Name: Niksar 5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 15,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Niksar Su 5 Lt                 Price: 15,00 TL   Unit Price: 3,00 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+115
+Product Name: Hamidiye 1,5lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 3,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Hamidiye Kaynak Suyu Pet 1.5 L Price: 3,00 TL    Unit Price: 2,00 TL/lt
+
+Similar Products:
+ - Similar Product: Nazli 1,5 lt Su                                    Price: 5,00 TL   
+ - Similar Product: Elmacık 1,5 lt Su                                  Price: 5,00 TL   
+
+Features:
+ - Toplam Ağırlık: 1.5 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/hamidiye-15lt-su-_481617.jpg 
+
+
+116
+Product Name: İdeal 0,5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Ideal Su 0.5 L                 Price: 2,50 TL    Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: Assu 0,5 lt Su                                     Price: 2,50 TL   
+ - Similar Product: Saka 0,5 lt Doğal Mineralli Su                     Price: 2,25 TL   
+ - Similar Product: Güzelpınar 0,5 lt Su                               Price: 2,50 TL   
+ - Similar Product: Pınar 0,5 lt Yaşam Pınarım Pet Doğal Kaynak Suyu   Price: 8,50 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/ideal-05-lt-su-_1040701.jpg 
+
+
+117
+Product Name: Damla 5 lt Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 30,75 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Damla Su 5lt.                  Price: 30,75 TL   Unit Price: 6,15 TL/lt
+ - Market: Migros               Product: Damla Dogal Kaynak Suyu 5lt.   Price: 30,95 TL   Unit Price: 6,19 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma 750 ml Ecofriendly Doğal Kaynak Suyu Cam     Price: 8,00 TL   
+ - Similar Product: Dalga 5 lt Doğal Kaynak Suyu                       Price: 15,00 TL  
+
+Features:
+ - Ph Değeri: 7.57 Ph
+ - Toplam Ağırlık: 5 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/damla-5-lt-dogal-kaynak-suyu-_285158.jpg 
+
+
+118
+Product Name: Uludağ Premium 400 ml Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 7,25 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Uludag Premium Su 400 Ml Pet   Price: 7,25 TL    Unit Price: 18,13 TL/lt
+ - Market: Migros               Product: Uludag Premium Dogal Kaynak Suyu Pet 400 Ml Price: 7,25 TL    Unit Price: 18,13 TL/lt
+
+Similar Products:
+ - Similar Product: Uludağ 330 ml Cam Premium Kaynak Suyu              Price: 17,90 TL  
+ - Similar Product: Uludağ 330 ml Cam Premium Kaynak Suyu              Price: 17,90 TL  
+ - Similar Product: Sırma 750 ml Ecofriendly Doğal Kaynak Suyu Cam     Price: 8,00 TL   
+
+Features:
+ - Ph Değeri: 7.18 Ph
+ - Toplam Ağırlık: 400 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/uludag-premium-400-ml-dogal-kaynak-suyu-_480738.jpg 
+
+
+119
+Product Name: Pınar 1.5 lt Pet Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 15,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Pinar Su 1,5 Lt                Price: 15,90 TL   Unit Price: 10,60 TL/lt
+ - Market: Migros               Product: Pinar Yasam Pinarim 1.5 L.     Price: 15,90 TL   Unit Price: 10,60 TL/lt
+ - Market: Migros               Product: Pinar Y.pnrm 6x1,5 Lt          Price: 77,50 TL   Unit Price: 8,61 TL/lt
+ - Market: Carrefour            Product: Pinar Su 6x1,5 Lt              Price: 80,00 TL   Unit Price: 8,89 TL/lt
+
+Similar Products:
+ - Similar Product: Sersu 1.5 lt Su                                    Price: 5,00 TL   
+ - Similar Product: Mila 1.5 lt Doğal Kaynak Su                        Price: 7,75 TL   
+
+Features:
+ - Ph Değeri: 8.2 Ph
+ - Toplam Ağırlık: 1.5 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/pinar-1-5-lt-pet-su-_284791.jpg 
+
+
+120
+Product Name: Nestle Pure Life Barbie Doğal Kaynak Suyu 330Ml
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Su Barbie Kids 330ml Nestle    Price: 5,00 TL    Unit Price: 15,15 TL/lt
+ - Market: Carrefour            Product: Nestl Pure Life Barbie Kids 330 Ml Price: 9,75 TL    Unit Price: 29,55 TL/lt
+ - Market: Migros               Product: Nestle Pure Life Barbie Dogal Kaynak Suyu 330ml Price: 9,95 TL    Unit Price: 30,15 TL/lt
+
+Similar Products:
+ - Similar Product: Nestlé Pure  330 ml Life Kids Doğal Kaynak Suyu    Price: 9,75 TL   
+ - Similar Product: Damla Doğal Kaynak Cam 330 ml Suyu                 Price: 25,50 TL  
+ - Similar Product: Pürsu Elite 330 ml Cam Şişe Doğal Kaynak Suyu      Price: 9,50 TL   
+ - Similar Product: Sırma 330 ml Ecofriendly Doğal Cam Kaynak Suyu     Price: 4,00 TL   
+
+Features:
+ - Ph Değeri: 8.22 Ph
+ - Toplam Ağırlık: 330 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/nestle-pure-life-barbie-dogal-kaynak-suyu-330ml-_285403.jpg 
+
+
+121
+Product Name: Erikli Cam 750 ml Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 42,95 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Erikli Su 0,75 Cl Cam          Price: 42,95 TL   Unit Price: 57,27 TL/lt
+ - Market: Migros               Product: Erikli Dogal Kaynak Suyu Cam 750 Ml Price: 44,00 TL   Unit Price: 58,67 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma 750 ml Ecofriendly Doğal Kaynak Suyu Cam     Price: 8,00 TL   
+ - Similar Product: Pürsu Elite 750 ml Cam Şişe Doğal Kaynak Suyu      Price: 16,50 TL  
+
+Features:
+ - Ph Değeri: 7.8 Ph
+ - Toplam Ağırlık: 750 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Cam
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/erikli-cam-750-ml-dogal-kaynak-suyu-_480761.jpg 
+
+
+122
+Product Name: Mila 10 lt Pet Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 33,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Mila Pet Su 10 Lt              Price: 33,00 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Carrefour Discount 0.33 lt Pet Su                  Price: 2,40 TL   
+ - Similar Product: Akyudum Pet 5 lt Su                                Price: 15,00 TL  
+ - Similar Product: Tekir  5 lt Su Pet                                 Price: 19,75 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+123
+Product Name: Nestle 330 ml Hotwheels Kids Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Su Hotwheels Kids 330ml Nestle-260923 Price: 5,00 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Nestlé Pure  330 ml Life Kids Doğal Kaynak Suyu    Price: 9,75 TL   
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/nestle-330-ml-hotwheels-kids-su-_1684895.jpg 
+
+
+124
+Product Name: Beysu 0.5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Beysu 0.5 Lt                   Price: 2,50 TL    Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: Akyudum 0.5 lt Su                                  Price: 2,50 TL   
+ - Similar Product: Carrefour Discount 0.5 lt Su                       Price: 2,50 TL   
+ - Similar Product: Bahçepınar 0.5 L Su                                Price: 2,50 TL   
+ - Similar Product: Kardağ 0.5 lt Doğal Kaynak Su                      Price: 2,50 TL   
+ - Similar Product: Sarıkız 0.5 lt Su                                  Price: 2,50 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/beysu-0-5-lt-su-_1434799.jpg 
+
+
+125
+Product Name: Sırmakeş 1,5 lt Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 10,95 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Sirmakes Dogal Kaynak Suyu 1,5 Lt Price: 10,95 TL   Unit Price: 7,30 TL/lt
+
+Similar Products:
+ - Similar Product: Tekir 1,5 lt Doğal Kaynak Suyu                     Price: 6,75 TL   
+ - Similar Product: Doyum 1,5 lt Pet Doğal Kaynak Suyu                 Price: 5,00 TL   
+ - Similar Product: Ceysu 1.5 lt Doğal Kaynak Suyu                     Price: 5,00 TL   
+ - Similar Product: Kardağ 1.5 lt Doğal Kaynak Suyu                    Price: 5,00 TL   
+
+Features:
+ - Ph Değeri: 7.15 Ph
+ - Toplam Ağırlık: 1.5 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Pet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/sirmakes-15-lt-dogal-kaynak-suyu-_349272.jpg 
+
+
+126
+Product Name: Sersu 0.5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Sersu 0.5 Lt                   Price: 2,50 TL    Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: Akyudum 0.5 lt Su                                  Price: 2,50 TL   
+ - Similar Product: Carrefour Discount 0.5 lt Su                       Price: 2,50 TL   
+ - Similar Product: Bahçepınar 0.5 L Su                                Price: 2,50 TL   
+ - Similar Product: Kardağ 0.5 lt Doğal Kaynak Su                      Price: 2,50 TL   
+ - Similar Product: Sarıkız 0.5 lt Su                                  Price: 2,50 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 0.5 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/sersu-0-5-lt-su-_1435136.jpg 
+
+
+127
+Product Name: Kipa 1,5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 4,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Kipa Su 1.5 L                  Price: 4,90 TL    Unit Price: 3,27 TL/lt
+
+Similar Products:
+ - Similar Product: Nazli 1,5 lt Su                                    Price: 5,00 TL   
+ - Similar Product: Elmacık 1,5 lt Su                                  Price: 5,00 TL   
+ - Similar Product: Akyudum 1,5 lt Su                                  Price: 5,00 TL   
+
+Features:
+ - Ph Değeri: 7.8 Ph
+ - Toplam Ağırlık: 1.5 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/kipa-15-lt-su-_285279.jpg 
+
+
+128
+Product Name: Akyudum 1,5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Akyudum Su 1.5 Lt              Price: 5,00 TL    Unit Price: 3,33 TL/lt
+
+Similar Products:
+ - Similar Product: Nazli 1,5 lt Su                                    Price: 5,00 TL   
+ - Similar Product: Elmacık 1,5 lt Su                                  Price: 5,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/akyudum-15-lt-su-_1444259.jpg 
+
+
+129
+Product Name: Desni 10 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 28,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Desni Su 10 Lt                 Price: 28,50 TL   Unit Price: 2,85 TL/lt
+
+Similar Products:
+ - Similar Product: Carrefour Discount 10 lt Su                        Price: 26,50 TL  
+ - Similar Product: Nestle Pure Life 10 lt Su                          Price: 53,95 TL  
+ - Similar Product: Mila 10 lt Pet Su                                  Price: 33,00 TL  
+ - Similar Product: Saka 10 lt Doğal Mineralli Su                      Price: 35,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/desni-10-lt-su-_1435058.jpg 
+
+
+130
+Product Name: Hayat Su 0,75 Lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 16,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Hayat Su 0,75 L                Price: 16,00 TL   Unit Price: 21,33 TL/lt
+
+Similar Products:
+ - Similar Product: Abant 0.75 lt Cam Şişe Su                          Price: 10,00 TL  
+ - Similar Product: Carrefour Discount 0.75 lt Su                      Price: 22,25 TL  
+
+Features:
+ - Ph Değeri: 8 Ph
+ - Toplam Ağırlık: 750 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/hayat-su-075-lt-su-_285124.jpg 
+
+
+131
+Product Name: Aysu 5 lt Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 15,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Aysu Dogal Kaynak Suyu 5,0 L   Price: 15,00 TL   Unit Price: 3,00 TL/lt
+
+Similar Products:
+ - Similar Product: Sırma 750 ml Ecofriendly Doğal Kaynak Suyu Cam     Price: 8,00 TL   
+ - Similar Product: Dalga 5 lt Doğal Kaynak Suyu                       Price: 15,00 TL  
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 5 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/aysu-5-lt-dogal-kaynak-suyu-_428159.jpg 
+
+
+132
+Product Name: Mila 1 lt Pet Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 9,60 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Mila Pet Su 1 Lt               Price: 9,60 TL    Unit Price: 0
+ - Market: Migros               Product: Mila Dogal Kaynak Suyu 1l      Price: 9,75 TL    Unit Price: 9,75 TL/lt
+
+Similar Products:
+ - Similar Product: Carrefour Discount 0.33 lt Pet Su                  Price: 2,40 TL   
+ - Similar Product: Akyudum Pet 5 lt Su                                Price: 15,00 TL  
+ - Similar Product: Tekir  5 lt Su Pet                                 Price: 19,75 TL  
+
+Features:
+Product Image URL:  
+
+
+133
+Product Name: Mila 500 ml Doğal Kaynak Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 4,25 TL 
+
+Market Products:
+ - Market: Bim                  Product: Su 0.5 Lt Mila                 Price: 4,25 TL    Unit Price: 0
+ - Market: Carrefour            Product: Mila Pet Su 0,5 Lt             Price: 5,90 TL    Unit Price: 0
+ - Market: Migros               Product: Mila Dogal Kaynak Suyu 0.5 L   Price: 6,00 TL    Unit Price: 12,00 TL/lt
+
+Similar Products:
+ - Similar Product: Kardağ 0.5 lt Doğal Kaynak Su                      Price: 2,50 TL   
+ - Similar Product: Mila 1.5 lt Doğal Kaynak Su                        Price: 7,75 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/mila-500-ml-dogal-kaynak-su-_1193091.jpg 
+
+
+134
+Product Name: Carrefour 330 ml Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 11,75 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Discount Su 330 Ml Cam Price: 11,75 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-330-ml-su-_1873912.jpg 
+
+
+135
+Product Name: Hmd 1.5 lt Doğal Mineralli Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Hmd Dogal Mineralli Su 1.5l    Price: 5,00 TL    Unit Price: 3,33 TL/lt
+
+Similar Products:
+ - Similar Product: Hmd 0.5 lt Doğal Mineralli Su                      Price: 2,50 TL   
+ - Similar Product: Mila 1.5 lt Doğal Kaynak Su                        Price: 7,75 TL   
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/hmd-1-5-lt-dogal-mineralli-su-_1678250.jpg 
+
+
+136
+Product Name: Uludağ 330 ml Cam Premium Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 17,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Uludag Premium Kaynak Suyu 330 Ml Cam Price: 17,90 TL   Unit Price: 0
+ - Market: Migros               Product: Uludag Dogal Kaynak Suyu Cam 330 Ml Price: 18,95 TL   Unit Price: 57,42 TL/lt
+
+Similar Products:
+ - Similar Product: Damla Doğal Kaynak Cam 330 ml Suyu                 Price: 25,50 TL  
+ - Similar Product: Pürsu Elite 330 ml Cam Şişe Doğal Kaynak Suyu      Price: 9,50 TL   
+ - Similar Product: Sırma 330 ml Ecofriendly Doğal Cam Kaynak Suyu     Price: 4,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/uludag-330-ml-cam-premium-kaynak-suyu-_1441300.jpg 
+
+
+137
+Product Name: Nazli 5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 15,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Nazli Su 5 Lt                  Price: 15,00 TL   Unit Price: 3,00 TL/lt
+
+Similar Products:
+ - Similar Product: Nazli 1,5 lt Su                                    Price: 5,00 TL   
+ - Similar Product: Nazli 0.5 lt Su                                    Price: 2,50 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 5 lt
+ - Kategori: Su
+Product Image URL: https://cdn.cimri.io/market/260x260/nazli-5-lt-su-_1433823.jpg 
+
+
+138
+Product Name: Beysu 5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 15,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Beysu 5 Lt                     Price: 15,00 TL   Unit Price: 3,00 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+
+Features:
+Product Image URL:  
+
+
+139
+Product Name: Dalga 0.5 lt Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Dalga Dogal Kaynak Suyu 0.50 Lt Price: 2,50 TL    Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: Gappınar 0.5 lt Doğal Kaynak Suyu                  Price: 2,50 TL   
+ - Similar Product: Ceysu 0.5 lt Doğal Kaynak Suyu                     Price: 2,50 TL   
+ - Similar Product: Desni 0.5 lt Kaynak Suyu                           Price: 2,50 TL   
+ - Similar Product: Kardağ 0.5 lt Doğal Kaynak Su                      Price: 2,50 TL   
+ - Similar Product: Pınar 0,5 lt Yaşam Pınarım Pet Doğal Kaynak Suyu   Price: 8,50 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/dalga-0-5-lt-dogal-kaynak-suyu-_1433109.jpg 
+
+
+140
+Product Name: Ceysu 0.5 lt Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Ceysu Dogal Kaynak Suyu 0.5 L  Price: 2,50 TL    Unit Price: 5,00 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Ceysu Su 0.5 Lt                Price: 2,50 TL    Unit Price: 5,00 TL/lt
+ - Market: Şok                  Product: Ceysu 0.5 Lt                   Price: 2,50 TL    Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: Gappınar 0.5 lt Doğal Kaynak Suyu                  Price: 2,50 TL   
+ - Similar Product: Dalga 0.5 lt Doğal Kaynak Suyu                     Price: 2,50 TL   
+ - Similar Product: Desni 0.5 lt Kaynak Suyu                           Price: 2,50 TL   
+ - Similar Product: Kardağ 0.5 lt Doğal Kaynak Su                      Price: 2,50 TL   
+ - Similar Product: Pınar 0,5 lt Yaşam Pınarım Pet Doğal Kaynak Suyu   Price: 8,50 TL   
+
+Features:
+ - Ph Değeri: 8.13 Ph
+ - Toplam Ağırlık: 500 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/ceysu-0-5-lt-dogal-kaynak-suyu-_481401.jpg 
+
+
+141
+Product Name: Seğmenler 1.5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Segmenler Dogal Mineralli Su 1,5 L Price: 5,00 TL    Unit Price: 3,33 TL/lt
+ - Market: Şok                  Product: Segmenler Su 1.5 Lt            Price: 5,00 TL    Unit Price: 3,33 TL/lt
+
+Similar Products:
+ - Similar Product: Sersu 1.5 lt Su                                    Price: 5,00 TL   
+ - Similar Product: Mila 1.5 lt Doğal Kaynak Su                        Price: 7,75 TL   
+ - Similar Product: Kardelen 1.5 lt Su                                 Price: 5,00 TL   
+ - Similar Product: Kardelen 1.5 lt Su                                 Price: 5,00 TL   
+ - Similar Product: Pınar 1.5 lt Pet Su                                Price: 15,90 TL  
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1.5 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/segmenler-1-5-lt-su-_1434212.jpg 
+
+
+142
+Product Name: Kardelen 0.5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Kardelen Su 0.5 Lt             Price: 2,50 TL    Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: Akyudum 0.5 lt Su                                  Price: 2,50 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 500 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/kardelen-0-5-lt-su-_1432877.jpg 
+
+
+143
+Product Name: Carrefour 330 ml Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 11,75 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Discount Su 330 Ml Cam Price: 11,75 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+ - Similar Product: Nestle 330 ml Hotwheels Kids Su                    Price: 5,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-330-ml-su-_1873912.jpg 
+
+
+144
+Product Name: Uludağ 330 ml Cam Premium Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 17,90 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Uludag Premium Kaynak Suyu 330 Ml Cam Price: 17,90 TL   Unit Price: 0
+ - Market: Migros               Product: Uludag Dogal Kaynak Suyu Cam 330 Ml Price: 18,95 TL   Unit Price: 57,42 TL/lt
+
+Similar Products:
+ - Similar Product: Damla Doğal Kaynak Cam 330 ml Suyu                 Price: 25,50 TL  
+ - Similar Product: Pürsu Elite 330 ml Cam Şişe Doğal Kaynak Suyu      Price: 9,50 TL   
+ - Similar Product: Sırma 330 ml Ecofriendly Doğal Cam Kaynak Suyu     Price: 4,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/uludag-330-ml-cam-premium-kaynak-suyu-_1441300.jpg 
+
+
+145
+Product Name: Damla Minera 330 ml Şişe Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 23,75 TL 
+
+Market Products:
+ - Market: Migros               Product: Damla Minera 330 Ml Şise       Price: 23,75 TL   Unit Price: 71,97 TL/lt
+
+Similar Products:
+
+Features:
+ - Ph Değeri: 7.57 Ph
+ - Toplam Ağırlık: 330 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/damla-minera-330-ml-sise-su-_480800.jpg 
+
+
+146
+Product Name: Damla Doğal Kaynak Cam 330 ml Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 25,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Damla Dogal Kaynak Suyu 330 Ml Price: 25,50 TL   Unit Price: 77,27 TL/lt
+
+Similar Products:
+ - Similar Product: Pürsu Elite 330 ml Cam Şişe Doğal Kaynak Suyu      Price: 9,50 TL   
+ - Similar Product: Sırma 330 ml Ecofriendly Doğal Cam Kaynak Suyu     Price: 4,00 TL   
+ - Similar Product: Uludağ 330 ml Cam Premium Kaynak Suyu              Price: 17,90 TL  
+ - Similar Product: Uludağ 330 ml Cam Premium Kaynak Suyu              Price: 17,90 TL  
+ - Similar Product: Nestle Pure Life Barbie Doğal Kaynak Suyu 330Ml    Price: 5,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/damla-dogal-kaynak-cam-330-ml-suyu-_1289627.jpg 
+
+
+147
+Product Name: Hayat Mascot 0,33 lt Pet Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 7,95 TL 
+
+Market Products:
+ - Market: Şok                  Product: Hayat Su Maskot 330 Ml         Price: 7,95 TL    Unit Price: 24,09 TL/lt
+ - Market: Carrefour            Product: Hayat Su 0,33 L Pet Mascot     Price: 8,95 TL    Unit Price: 27,12 TL/lt
+
+Similar Products:
+ - Similar Product: Hayat Baby 0,33 lt Su                              Price: 43,50 TL  
+ - Similar Product: Carrefour Discount 0.33 lt Pet Su                  Price: 2,40 TL   
+
+Features:
+ - Toplam Ağırlık: 330 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/hayat-mascot-033-lt-pet-su-_481327.jpg 
+
+
+148
+Product Name: Sırma 500 ml Pet Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 1,75 TL 
+
+Market Products:
+ - Market: Şok                  Product: Sirma Su 0.5 Lt                Price: 1,75 TL    Unit Price: 3,50 TL/lt
+ - Market: A101                 Product: Su 0.5 L                       Price: 2,50 TL    Unit Price: 5,00 TL/lt
+ - Market: A101                 Product: Su 0.5 L Sirma                 Price: 3,95 TL    Unit Price: 7,90 TL/lt
+
+Similar Products:
+ - Similar Product: Hayat 500 ml Pet Şişe Su                           Price: 6,50 TL   
+
+Features:
+ - Ph Değeri: 7.1 Ph
+ - Toplam Ağırlık: 500 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/sirma-500-ml-pet-su-_94356.jpg 
+
+
+149
+Product Name: Kardelen 330 ml Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 22,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Kardelen Su 12'li 12*0.33 Ml   Price: 22,00 TL   Unit Price: 5,56 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/kardelen-330-ml-su-_1685807.jpg 
+
+
+150
+Product Name: Nazli 0.5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Nazli Su 0.5 Lt                Price: 2,50 TL    Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: Carrefour Discount 0.5 lt Su                       Price: 2,50 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/nazli-0-5-lt-su-_1434919.jpg 
+
+
+151
+Product Name: Damla 1 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 3,45 TL 
+
+Market Products:
+ - Market: A101                 Product: Su 1 L                         Price: 3,45 TL    Unit Price: 3,45 TL/lt
+ - Market: Carrefour            Product: Damla Pet 1 Lt                 Price: 14,25 TL   Unit Price: 14,25 TL/lt
+ - Market: Migros               Product: Damla Su Pet 1 L               Price: 14,25 TL   Unit Price: 14,25 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+
+Features:
+ - Ph Değeri: 7.57 Ph
+ - Toplam Ağırlık: 1 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/damla-1-lt-su-_284831.jpg 
+
+
+152
+Product Name: Saka 0,5 lt Doğal Mineralli Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,25 TL 
+
+Market Products:
+ - Market: Bim                  Product: Su 0.5 Lt                      Price: 2,25 TL    Unit Price: 4,50 TL/lt
+ - Market: Bim                  Product: Su 0,5 Lt.                     Price: 2,50 TL    Unit Price: 5,00 TL/lt
+ - Market: Bim                  Product: Su 0.5 Lt                      Price: 2,50 TL    Unit Price: 5,00 TL/lt
+ - Market: Carrefour            Product: Saka Su 0.5 Lt                 Price: 7,95 TL    Unit Price: 15,90 TL/lt
+ - Market: Migros               Product: Saka Dogal Mineralli Su 0,5 Lt Price: 7,95 TL    Unit Price: 15,90 TL/lt
+ - Market: Şok                  Product: Saka Su 0.5 Lt                 Price: 7,95 TL    Unit Price: 15,90 TL/lt
+ - Market: Carrefour            Product: Saka Su 6x500 Ml               Price: 40,45 TL   Unit Price: 13,48 TL/lt
+ - Market: Migros               Product: Saka Dogal Mineralli Su 6x500 Ml Price: 42,50 TL   Unit Price: 14,17 TL/lt
+
+Similar Products:
+ - Similar Product: Hmd 0.5 lt Doğal Mineralli Su                      Price: 2,50 TL   
+ - Similar Product: İdeal 0,5 lt Su                                    Price: 2,50 TL   
+ - Similar Product: Assu 0,5 lt Su                                     Price: 2,50 TL   
+ - Similar Product: Güzelpınar 0,5 lt Su                               Price: 2,50 TL   
+
+Features:
+ - Ph Değeri: 8.22 Ph
+ - Toplam Ağırlık: 500 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/saka-05-lt-dogal-mineralli-su-_285308.jpg 
+
+
+153
+Product Name: Hayat 5lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 22,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Hayat Su 5 Lt                  Price: 22,50 TL   Unit Price: 2,25 TL/lt
+ - Market: Carrefour            Product: Hayat Su 5lt                   Price: 29,95 TL   Unit Price: 3,00 TL/lt
+ - Market: A101                 Product: Su 5 L Hayat                   Price: 31,00 TL   Unit Price: 3,10 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+
+Features:
+ - Ağırlık: 10 lt
+ - Ph Değeri: 7.55 Ph
+ - Toplam Ağırlık: 10 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Pet
+ - Adet: 2 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/hayat-5lt-su-_349059.jpg 
+
+
+154
+Product Name: Abant 0.5 ml Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Abant Dogal Kaynak Suyu 0.5 Lt. Price: 2,50 TL    Unit Price: 5,00 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Abant Su 0.5 Lt                Price: 2,50 TL    Unit Price: 5,00 TL/lt
+ - Market: Şok                  Product: Abant Su 0.5 Lt                Price: 2,50 TL    Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: Carrefour Discount 0.5 lt Su                       Price: 2,50 TL   
+ - Similar Product: Akyudum 0.5 lt Su                                  Price: 2,50 TL   
+ - Similar Product: Kardağ 0.5 lt Doğal Kaynak Su                      Price: 2,50 TL   
+ - Similar Product: Bahçepınar 0.5 L Su                                Price: 2,50 TL   
+ - Similar Product: Sarıkız 0.5 lt Su                                  Price: 2,50 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/abant-0-5-ml-su-_1096989.jpg 
+
+
+155
+Product Name: Hamidiye 5 lt Pet Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 15,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Hamidiye Kaynak Suyu 5l Pet    Price: 15,00 TL   Unit Price: 3,00 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar 0,5 lt Yaşam Pınarım Pet Doğal Kaynak Suyu   Price: 8,50 TL   
+ - Similar Product: Doyum 1,5 lt Pet Doğal Kaynak Suyu                 Price: 5,00 TL   
+ - Similar Product: Doyum 5 lt Pet Doğal Kaynak Suyu                   Price: 15,00 TL  
+
+Features:
+ - Ph Değeri: 6.61 Ph
+ - Toplam Ağırlık: 5 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/hamidiye-5-lt-pet-kaynak-suyu-_481135.jpg 
+
+
+156
+Product Name: Nestle Pure Life 1 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 13,95 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Nestle Pure Life 1 Lt          Price: 13,95 TL   Unit Price: 13,95 TL/lt
+ - Market: Carrefour            Product: Nestle Pure Life 6x1 Lt        Price: 51,95 TL   Unit Price: 8,66 TL/lt
+
+Similar Products:
+ - Similar Product: Nestle Pure Life 10 lt Su                          Price: 53,95 TL  
+
+Features:
+ - Ph Değeri: 8.22 Ph
+ - Toplam Ağırlık: 1 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/nestle-pure-life-1-lt-su-_480971.jpg 
+
+
+157
+Product Name: Pürsu Elite 330 ml Cam Şişe Doğal Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 9,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Pursu 330 Ml Cam               Price: 9,50 TL    Unit Price: 28,79 TL/lt
+ - Market: Migros               Product: Pursu Elite Dogal Kaynak Suyu Cam Şise 330 Ml Price: 17,75 TL   Unit Price: 53,79 TL/lt
+
+Similar Products:
+ - Similar Product: Pürsu Elite 750 ml Cam Şişe Doğal Kaynak Suyu      Price: 16,50 TL  
+ - Similar Product: Damla Doğal Kaynak Cam 330 ml Suyu                 Price: 25,50 TL  
+ - Similar Product: Sırma 330 ml Ecofriendly Doğal Cam Kaynak Suyu     Price: 4,00 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 330 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/pursu-elite-330-ml-cam-sise-dogal-kaynak-suyu-_428145.jpg 
+
+
+158
+Product Name: Bursa Su 500 ml Pet Şişe Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Bursa Su 0.5 Lt                Price: 2,50 TL    Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: Hayat 500 ml Pet Şişe Su                           Price: 6,50 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/bursa-su-500-ml-pet-sise-su-_1091391.jpg 
+
+
+159
+Product Name: Bursa Su 5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 15,00 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Bursa Su 5 Lt                  Price: 15,00 TL   Unit Price: 3,00 TL/lt
+ - Market: Şok                  Product: Bursa Su 5 Lt                  Price: 15,00 TL   Unit Price: 3,00 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/bursa-su-5-lt-su-_1006579.jpg 
+
+
+160
+Product Name: Güzelpınar 0,5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Guzelpinar Su 0.5 Lt           Price: 2,50 TL    Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: İdeal 0,5 lt Su                                    Price: 2,50 TL   
+ - Similar Product: Assu 0,5 lt Su                                     Price: 2,50 TL   
+ - Similar Product: Saka 0,5 lt Doğal Mineralli Su                     Price: 2,25 TL   
+ - Similar Product: Pınar 0,5 lt Yaşam Pınarım Pet Doğal Kaynak Suyu   Price: 8,50 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/guzelpinar-05-lt-su-_1091094.jpg 
+
+
+161
+Product Name: Erek 5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 15,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Erek Su 5 Lt                   Price: 15,00 TL   Unit Price: 3,00 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+
+Features:
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 5 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/erek-5-lt-su-_1435827.jpg 
+
+
+162
+Product Name: Seğmenler 5 lt İnci Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 15,00 TL 
+
+Market Products:
+ - Market: Şok                  Product: Segmenler Inci Su 5 Lt         Price: 15,00 TL   Unit Price: 3,00 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar Madran Doğal Mineralli 330 ml Cam Su         Price: 3,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+163
+Product Name: Desni 0.5 lt Kaynak Suyu
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 2,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Desni Kaynak Suyu 0,5 L        Price: 2,50 TL    Unit Price: 5,00 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Desni Su 0.5 Lt                Price: 2,50 TL    Unit Price: 5,00 TL/lt
+ - Market: Şok                  Product: Desni Su 0.5 Lt                Price: 2,50 TL    Unit Price: 5,00 TL/lt
+
+Similar Products:
+ - Similar Product: Gappınar 0.5 lt Doğal Kaynak Suyu                  Price: 2,50 TL   
+ - Similar Product: Dalga 0.5 lt Doğal Kaynak Suyu                     Price: 2,50 TL   
+ - Similar Product: Ceysu 0.5 lt Doğal Kaynak Suyu                     Price: 2,50 TL   
+ - Similar Product: Kardağ 0.5 lt Doğal Kaynak Su                      Price: 2,50 TL   
+ - Similar Product: Pınar 0,5 lt Yaşam Pınarım Pet Doğal Kaynak Suyu   Price: 8,50 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/desni-0-5-lt-kaynak-suyu-_1443741.jpg 
+
+
+164
+Product Name: Sarıkız 1.5 lt Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Su 1,5lt Sarikiz               Price: 5,00 TL    Unit Price: 0
+ - Market: Migros               Product: Sarikiz Pet Su 1,5 L           Price: 5,00 TL    Unit Price: 3,33 TL/lt
+ - Market: Şok                  Product: Sarikiz Su 1.5 Lt              Price: 5,00 TL    Unit Price: 3,33 TL/lt
+ - Market: Carrefour            Product: Sarikiz Dogal Kaynak Su 1,5 Lt Price: 6,95 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Sersu 1.5 lt Su                                    Price: 5,00 TL   
+ - Similar Product: Mila 1.5 lt Doğal Kaynak Su                        Price: 7,75 TL   
+ - Similar Product: Kardelen 1.5 lt Su                                 Price: 5,00 TL   
+ - Similar Product: Kardelen 1.5 lt Su                                 Price: 5,00 TL   
+ - Similar Product: Pınar 1.5 lt Pet Su                                Price: 15,90 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sarikiz-1-5-lt-su-_1443659.jpg 
+
+
+165
+Product Name: Damla Mineral 750 ml Şişe Su
+Main Category: İçecekler
+Sub-categories: Su, 
+Cheapest Price: 41,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Damla Premium Su Cam 750 Ml    Price: 41,50 TL   Unit Price: 55,33 TL/lt
+ - Market: Migros               Product: Damla Minera 750 Ml Şise       Price: 44,95 TL   Unit Price: 59,93 TL/lt
+
+Similar Products:
+
+Features:
+ - Ph Değeri: 7.57 Ph
+ - Toplam Ağırlık: 750 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/damla-mineral-750-ml-sise-su-_480784.jpg 
+
+
+Word Dictionary:
+kipa: 4
+19: 7
+lt: 115
+su: 135
+kardelen: 6
+5: 31
+carrefour: 9
+discount: 7
+1.5: 20
+saka: 3
+doğal: 42
+mineralli: 8
+erikli: 12
+15: 1
+cam: 12
+damacana: 1
+elmacık: 3
+10: 6
+assu: 3
+250: 1
+ml: 42
+buzdağı: 3
+hamidiye: 3
+0.50: 1
+sırma: 6
+kayın: 3
+0.5: 19
+nestle: 4
+pure: 4
+life: 4
+330: 17
+ecofriendly: 2
+kaynak: 38
+suyu: 35
+0,5lt: 1
+1lt: 1
+500: 11
+bahçepınar: 3
+1,5: 13
+desni: 5
+i̇deal: 2
+güzelpınar: 5
+pet: 20
+şişe: 10
+dalga: 2
+1500: 3
+abant: 4
+niksar: 3
+0.75: 2
+pürsu: 2
+elite: 2
+750: 8
+aqua: 1
+panna: 1
+8: 2
+1: 5
+beysu: 4
+sarıkız: 5
+aysu: 5
+mila: 6
+doyum: 3
+tekir: 3
+erek: 3
+nestlé: 1
+kids: 2
+gappınar: 2
+premium: 7
+kardağ: 3
+750ml: 1
+hayat: 7
+ceysu: 3
+0,5: 6
+sporcu: 2
+uludağ: 4
+damla: 6
+pınar: 4
+madran: 1
+akyudum: 3
+yıldız: 1
+0.33: 1
+l: 2
+nazli: 3
+sersu: 3
+yaşam: 2
+pınarım: 2
+baby: 1
+0,33: 2
+kapak: 1
+sırmakeş: 2
+hipp: 1
+0.3: 1
+seğmenler: 3
+hmd: 2
+1,5lt: 1
+400: 1
+barbie: 1
+330ml: 1
+hotwheels: 1
+0,75: 1
+minera: 1
+mascot: 1
+5lt: 1
+bursa: 2
+i̇nci: 1
+mineral: 1
+
+Feature List:
+Ph Değeri
+Toplam Ağırlık
+Menşei
+Ambalaj Tipi
+Adet
+Çoklu Paket
+Kategori
+Ağırlık

@@ -1,0 +1,1498 @@
+1
+Product Name: Özerhisar 1 lt Cam Şişe Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 47,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Ayran Cam Şise 1 L Özer Hisar  Price: 47,50 TL   Unit Price: 47,50 TL/lt
+ - Market: Migros               Product: Özerhisar Ayran Cam Şise 1 L   Price: 73,50 TL   Unit Price: 73,50 TL/lt
+
+Similar Products:
+ - Similar Product: Tire Süt Kooperatifi 1 lt Cam Şişe Ayran           Price: 38,25 TL  
+ - Similar Product: Torku 2 lt Şişe Ayran                              Price: 37,50 TL  
+ - Similar Product: Dost 1.5 lt Şise Ayran                             Price: 28,50 TL  
+
+Features:
+ - Toplam Ağırlık: 1 lt
+ - Menşei: Türkiye
+ - Saklama Koşulları: 0-4 Derece
+ - Ambalaj Tipi: Cam
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/ozerhisar-1-lt-cam-sise-ayran-_415930.jpg 
+
+
+2
+Product Name: ÖzerHisar 245 ml Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 14,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Özerhisar Ayrani 245 Ml        Price: 14,90 TL   Unit Price: 3,04 TL/lt
+ - Market: Migros               Product: Özerhisar Ayran Cam Şise 245 Ml Price: 26,50 TL   Unit Price: 5,41 TL/lt
+
+Similar Products:
+ - Similar Product: Özerhisar 1 lt Cam Şişe Ayran                      Price: 47,50 TL  
+ - Similar Product: Özerhisar 300 ml Ayran                             Price: 12,50 TL  
+
+Features:
+ - Adet: 20 Adet
+ - Toplam Ağırlık: 4.9 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/ozerhisar-245-ml-ayran-_976986.jpg 
+
+
+3
+Product Name: Mis 330 ml Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 8,45 TL 
+
+Market Products:
+ - Market: Şok                  Product: Mis Ayran Tam Yagli 330 Ml     Price: 8,45 TL    Unit Price: 25,61 TL/lt
+
+Similar Products:
+ - Similar Product: Aynes 330 ml Kolajen Naneli Ayran                  Price: 16,95 TL  
+ - Similar Product: Aynes 1 lt Ayran                                   Price: 16,50 TL  
+ - Similar Product: Eker 300 ml Bardak Ayran                           Price: 17,50 TL  
+
+Features:
+ - Ürün Tipi: Ayran
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 330 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/mis-330-ml-ayran-_1170286.jpg 
+
+
+4
+Product Name: Pınar 200 ml Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 9,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Ayran 200 Ml Pinar             Price: 9,90 TL    Unit Price: 49,50 TL/lt
+
+Similar Products:
+ - Similar Product: Göynük Tam Yağlı 200 ml Ayran                      Price: 5,50 TL   
+ - Similar Product: Ateşoğlu 200 ml Ayran                              Price: 6,00 TL   
+ - Similar Product: Dost 200 ml Bardak Ayran                           Price: 4,75 TL   
+ - Similar Product: Tire Süt Kooperatifi 200 ml Ayran                  Price: 8,45 TL   
+ - Similar Product: Yörükoğlu 200 ml Ayran                             Price: 8,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/pinar-200-ml-ayran-_976983.jpg 
+
+
+5
+Product Name: Dost 1.5 lt Şise Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 28,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Ayran Şise 1500 Ml. Dost       Price: 28,50 TL   Unit Price: 19,00 TL/lt
+
+Similar Products:
+ - Similar Product: Bademli Kooperatifi 1.5 lt Tam Yağlı Ayran         Price: 48,95 TL  
+ - Similar Product: Mis 1.5 lt Tam Yağlı Ayran                         Price: 28,50 TL  
+ - Similar Product: Mis 1.5 lt Tam Yağlı Ayran                         Price: 28,50 TL  
+ - Similar Product: Birşah 1.5 lt Ayran                                Price: 32,50 TL  
+ - Similar Product: Ateşoğlu 1.5 lt Naturel Ayran                      Price: 39,00 TL  
+
+Features:
+ - Ürün Tipi: Ayran
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1.5 lt
+Product Image URL:  
+
+
+6
+Product Name: Dost 200 ml Bardak Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 4,75 TL 
+
+Market Products:
+ - Market: Bim                  Product: Ayran Bardak 200ml Dost        Price: 4,75 TL    Unit Price: 23,75 TL/lt
+
+Similar Products:
+ - Similar Product: İçim 200 ml Bardak Ayran                           Price: 7,25 TL   
+ - Similar Product: Mis 200 ml Bardak Ayran                            Price: 5,50 TL   
+ - Similar Product: Eker 300 ml Bardak Ayran                           Price: 17,50 TL  
+ - Similar Product: Mis Tam Yağlı 285 ml Bardak Ayran                  Price: 7,25 TL   
+ - Similar Product: Mis Tam Yağlı 285 ml Bardak Ayran                  Price: 7,25 TL   
+
+Features:
+ - Ürün Tipi: Ayran
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/dost-200-ml-bardak-ayran-_1430955.jpg 
+
+
+7
+Product Name: Aynes 1 lt Naneli Kolajenli Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 44,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Aynes Naneli Kolajenli Ayran 1l Price: 44,95 TL   Unit Price: 44,95 TL/lt
+
+Similar Products:
+ - Similar Product: Aynes 330 ml Kolajen Naneli Ayran                  Price: 16,95 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/aynes-1-lt-naneli-kolajenli-ayran-_864831.jpg 
+
+
+8
+Product Name: Tikveşli 280 ml Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 10,95 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Tikvesli Ayran 280 Ml          Price: 10,95 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Aynes 1 lt Ayran                                   Price: 16,50 TL  
+ - Similar Product: Aynes 330 ml Kolajen Naneli Ayran                  Price: 16,95 TL  
+ - Similar Product: Eker 300 ml Bardak Ayran                           Price: 17,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tikvesli-280-ml-ayran-_1416243.jpg 
+
+
+9
+Product Name: Türkiye Tarım Kredi Kooperatifleri 1,5 lt Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 28,50 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tks Şise Ayran 1500 Ml         Price: 28,50 TL   Unit Price: 19,00 TL/lt
+
+Similar Products:
+ - Similar Product: Aynes 1,5 lt Ayran                                 Price: 30,00 TL  
+ - Similar Product: Pınar 1,5 lt Ayran                                 Price: 37,50 TL  
+ - Similar Product: Göynük 1,5 lt Tam Yağlı Ayran                      Price: 32,50 TL  
+ - Similar Product: Sütaş 1,5 lt Ayran                                 Price: 37,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/turkiye-tarim-kredi-kooperatifleri-15-lt-ayran-_1441262.jpg 
+
+
+10
+Product Name: Carrefour 200 ml Tam Yağlı Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 5,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Carrefour Tam Yagli Ayran 200 Ml Price: 5,50 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Göynük Tam Yağlı 200 ml Ayran                      Price: 5,50 TL   
+ - Similar Product: Eker 150 ml Tam Yağlı Ayran                        Price: 5,75 TL   
+ - Similar Product: Göynük 1,5 lt Tam Yağlı Ayran                      Price: 32,50 TL  
+ - Similar Product: Mis Tam Yağlı 285 ml Bardak Ayran                  Price: 7,25 TL   
+ - Similar Product: Mis Tam Yağlı 285 ml Bardak Ayran                  Price: 7,25 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/carrefour-200-ml-tam-yagli-ayran-_1804333.jpg 
+
+
+11
+Product Name: Sakıpağa 1 lt Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 20,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Sakipaga Ayran 1 L             Price: 20,90 TL   Unit Price: 20,90 TL/lt
+ - Market: Carrefour            Product: Sakipaga Ayran 1 Lt            Price: 37,95 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Aynes 1 lt Ayran                                   Price: 16,50 TL  
+ - Similar Product: Aynes 330 ml Kolajen Naneli Ayran                  Price: 16,95 TL  
+ - Similar Product: Eker 300 ml Bardak Ayran                           Price: 17,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sakipaga-1-lt-ayran-_342192.jpg 
+
+
+12
+Product Name: Sek Tam Yağlı 1 lt Doğal Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 32,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Sek Ayran 1 L                  Price: 32,90 TL   Unit Price: 32,90 TL/lt
+
+Similar Products:
+ - Similar Product: Göynük Tam Yağlı 200 ml Ayran                      Price: 5,50 TL   
+ - Similar Product: Eker 150 ml Tam Yağlı Ayran                        Price: 5,75 TL   
+ - Similar Product: Bademli Kooperatifi 1.5 lt Tam Yağlı Ayran         Price: 48,95 TL  
+ - Similar Product: Göynük 1,5 lt Tam Yağlı Ayran                      Price: 32,50 TL  
+ - Similar Product: Mis Tam Yağlı 285 ml Bardak Ayran                  Price: 7,25 TL   
+ - Similar Product: Mis Tam Yağlı 285 ml Bardak Ayran                  Price: 7,25 TL   
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: Ayran
+ - Ürün Tipi: Ayran
+ - Toplam Ağırlık: 1 lt
+ - Menşei: Türkiye
+ - Yağ Oranı: Tam Yağlı
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+13
+Product Name: Olba 1 lt %1,7 Yağlı Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 31,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Olba %1,7 Yagli Ayran 1 Lt     Price: 31,00 TL   Unit Price: 31,00 TL/lt
+
+Similar Products:
+ - Similar Product: Eker Probiyotik 1 lt Tam Yağlı Ayran               Price: 30,95 TL  
+ - Similar Product: Göynük Tam Yağlı 200 ml Ayran                      Price: 5,50 TL   
+ - Similar Product: Eker 150 ml Tam Yağlı Ayran                        Price: 5,75 TL   
+ - Similar Product: Bademli Kooperatifi 1.5 lt Tam Yağlı Ayran         Price: 48,95 TL  
+ - Similar Product: Göynük 1,5 lt Tam Yağlı Ayran                      Price: 32,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+14
+Product Name: İçim 200 ml Bardak Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 7,25 TL 
+
+Market Products:
+ - Market: Migros               Product: Icim Bardak Ayran 200 Ml       Price: 7,25 TL    Unit Price: 36,25 TL/lt
+ - Market: Carrefour            Product: Icim Bardak Ayran 200 Ml       Price: 7,50 TL    Unit Price: 37,50 TL/lt
+
+Similar Products:
+ - Similar Product: Dost 200 ml Bardak Ayran                           Price: 4,75 TL   
+ - Similar Product: Mis 200 ml Bardak Ayran                            Price: 5,50 TL   
+ - Similar Product: Eker 300 ml Bardak Ayran                           Price: 17,50 TL  
+ - Similar Product: Mis Tam Yağlı 285 ml Bardak Ayran                  Price: 7,25 TL   
+ - Similar Product: Mis Tam Yağlı 285 ml Bardak Ayran                  Price: 7,25 TL   
+
+Features:
+ - Toplam Ağırlık: 200 ml
+ - Menşei: Türkiye
+ - Saklama Koşulları: 0-4 Derece
+Product Image URL: https://cdn.cimri.io/market/260x260/icim-200-ml-bardak-ayran-_284969.jpg 
+
+
+15
+Product Name: Sütaş Ayran 2,5 l
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 64,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Ayran 2,5 L Sutas              Price: 64,00 TL   Unit Price: 25,60 TL/lt
+
+Similar Products:
+ - Similar Product: Torku 2,5 lt Ayran                                 Price: 67,00 TL  
+ - Similar Product: Aynes 1 lt Ayran                                   Price: 16,50 TL  
+ - Similar Product: Aynes 330 ml Kolajen Naneli Ayran                  Price: 16,95 TL  
+ - Similar Product: Eker 300 ml Bardak Ayran                           Price: 17,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sutas-ayran-25-l-_960972.jpg 
+
+
+16
+Product Name: Torku 1 lt Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 21,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Ayran Şise 1 L Torku           Price: 21,00 TL   Unit Price: 21,00 TL/lt
+ - Market: Migros               Product: Torku Şise Ayran 1 L           Price: 24,90 TL   Unit Price: 24,90 TL/lt
+ - Market: Carrefour            Product: Torku Ayran 1 L                Price: 27,50 TL   Unit Price: 27,50 TL/lt
+
+Similar Products:
+ - Similar Product: Gürler 170 ml Ayran                                Price: 6,95 TL   
+ - Similar Product: Göynük Tam Yağlı 200 ml Ayran                      Price: 5,50 TL   
+ - Similar Product: Ateşoğlu 1500 ml Şişe Ayran                        Price: 42,95 TL  
+
+Features:
+ - Ürün Tipi: Ayran
+ - Toplam Ağırlık: 1 lt
+ - Menşei: Türkiye
+ - Saklama Koşulları: 0-4 Derece
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/torku-1-lt-ayran-_1256761.jpg 
+
+
+17
+Product Name: Torku 200 ml Nefis Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Torku Ayran 200 Ml             Price: 5,00 TL    Unit Price: 25,00 TL/lt
+ - Market: Migros               Product: Torku Tam Yagli Ayran 200 Ml   Price: 7,95 TL    Unit Price: 39,75 TL/lt
+
+Similar Products:
+ - Similar Product: Yörükoğlu 200 ml Ayran                             Price: 8,00 TL   
+ - Similar Product: Sütaş 200 ml Ayran                                 Price: 6,75 TL   
+ - Similar Product: Pınar 200 ml Ayran                                 Price: 9,90 TL   
+ - Similar Product: Türkiye Tarım Kredi Kooperatifleri 200 ml Ayran    Price: 5,00 TL   
+ - Similar Product: Göynük Tam Yağlı 200 ml Ayran                      Price: 5,50 TL   
+
+Features:
+ - Ürün Tipi: Ayran
+ - Toplam Ağırlık: 200 ml
+ - Menşei: Türkiye
+ - Saklama Koşulları: 0-4 Derece
+ - Yağ Oranı: Tam Yağlı
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/torku-200-ml-nefis-ayran-_1257025.jpg 
+
+
+18
+Product Name: Birşah 200 ml Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 5,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Ayran 200 Ml Birsah            Price: 5,50 TL    Unit Price: 27,50 TL/lt
+
+Similar Products:
+ - Similar Product: Yörükoğlu 200 ml Ayran                             Price: 8,00 TL   
+ - Similar Product: Sütaş 200 ml Ayran                                 Price: 6,75 TL   
+ - Similar Product: Pınar 200 ml Ayran                                 Price: 9,90 TL   
+ - Similar Product: Türkiye Tarım Kredi Kooperatifleri 200 ml Ayran    Price: 5,00 TL   
+ - Similar Product: Göynük Tam Yağlı 200 ml Ayran                      Price: 5,50 TL   
+
+Features:
+ - Ürün Tipi: Ayran
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/birsah-200-ml-ayran-_977011.jpg 
+
+
+19
+Product Name: Yörükoğlu 285 gr Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 8,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Ayran 285 G Yorukoglu          Price: 8,00 TL    Unit Price: 28,07 TL/lt
+
+Similar Products:
+ - Similar Product: Mis Tam Yağlı 285 ml Bardak Ayran                  Price: 7,25 TL   
+ - Similar Product: Mis Tam Yağlı 285 ml Bardak Ayran                  Price: 7,25 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/yorukoglu-285-gr-ayran-_1444356.jpg 
+
+
+20
+Product Name: Birşah 200 ml Manda Sütlü Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 6,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Ayran Manda Sutlu 200 Ml Birsah Price: 6,90 TL    Unit Price: 34,50 TL/lt
+
+Similar Products:
+ - Similar Product: Göynük Tam Yağlı 200 ml Ayran                      Price: 5,50 TL   
+ - Similar Product: Ateşoğlu 200 ml Ayran                              Price: 6,00 TL   
+ - Similar Product: Dost 200 ml Bardak Ayran                           Price: 4,75 TL   
+ - Similar Product: Tire Süt Kooperatifi 200 ml Ayran                  Price: 8,45 TL   
+ - Similar Product: Yörükoğlu 200 ml Ayran                             Price: 8,00 TL   
+
+Features:
+ - Ürün Tipi: Ayran
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 200 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/birsah-200-ml-manda-sutlu-ayran-_976984.jpg 
+
+
+21
+Product Name: Yörükoğlu 2 lt Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 42,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Ayran 2 L Yorukoglu            Price: 42,50 TL   Unit Price: 21,25 TL/lt
+ - Market: Carrefour            Product: Yorukoglu Ayran 2 Lt           Price: 65,00 TL   Unit Price: 32,50 TL/lt
+
+Similar Products:
+ - Similar Product: Aynes 1 lt Ayran                                   Price: 16,50 TL  
+ - Similar Product: Aynes 330 ml Kolajen Naneli Ayran                  Price: 16,95 TL  
+ - Similar Product: Eker 300 ml Bardak Ayran                           Price: 17,50 TL  
+
+Features:
+ - Ürün Tipi: Ayran
+ - Toplam Ağırlık: 2 lt
+ - Menşei: Türkiye
+ - Yağ Oranı: Tam Yağlı
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/yorukoglu-2-lt-ayran-_200254.jpg 
+
+
+22
+Product Name: Mis 200 ml Bardak Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 5,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Mis Bardak Ayran Tam Yagli 200 Ml Price: 5,50 TL    Unit Price: 27,50 TL/lt
+
+Similar Products:
+ - Similar Product: Dost 200 ml Bardak Ayran                           Price: 4,75 TL   
+ - Similar Product: İçim 200 ml Bardak Ayran                           Price: 7,25 TL   
+ - Similar Product: Eker 300 ml Bardak Ayran                           Price: 17,50 TL  
+ - Similar Product: Mis Tam Yağlı 285 ml Bardak Ayran                  Price: 7,25 TL   
+ - Similar Product: Mis Tam Yağlı 285 ml Bardak Ayran                  Price: 7,25 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/mis-200-ml-bardak-ayran-_1170258.jpg 
+
+
+23
+Product Name: Sütaş 2 lt Pratik Şişe Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 44,50 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Sutas Ayran 2 L.               Price: 44,50 TL   Unit Price: 22,25 TL/lt
+ - Market: Hakmar Express       Product: Ayran Tam Yagli 2lt Sutas      Price: 49,50 TL   Unit Price: 24,75 TL/lt
+ - Market: Migros               Product: Sutas Pratik Şise Ayran 2 L    Price: 51,75 TL   Unit Price: 25,88 TL/lt
+
+Similar Products:
+ - Similar Product: Torku 2 lt Şişe Ayran                              Price: 37,50 TL  
+ - Similar Product: Dost 1.5 lt Şise Ayran                             Price: 28,50 TL  
+ - Similar Product: Ateşoğlu 1500 ml Şişe Ayran                        Price: 42,95 TL  
+ - Similar Product: Özerhisar 1 lt Cam Şişe Ayran                      Price: 47,50 TL  
+
+Features:
+ - Ürün Tipi: Ayran
+ - Toplam Ağırlık: 2 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/sutas-2-lt-pratik-sise-ayran-_71067.jpg 
+
+
+24
+Product Name: İçim 2 lt Şişe Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 49,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Ayran Şise 2 L Icim            Price: 49,00 TL   Unit Price: 24,50 TL/lt
+ - Market: Migros               Product: Icim Ayran 2l                  Price: 49,00 TL   Unit Price: 24,50 TL/lt
+ - Market: Carrefour            Product: Icim Ayran 2 Lt                Price: 66,45 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Torku 2 lt Şişe Ayran                              Price: 37,50 TL  
+ - Similar Product: Dost 1.5 lt Şise Ayran                             Price: 28,50 TL  
+ - Similar Product: Ateşoğlu 1500 ml Şişe Ayran                        Price: 42,95 TL  
+ - Similar Product: Özerhisar 1 lt Cam Şişe Ayran                      Price: 47,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/icim-2-lt-sise-ayran-_1703995.jpg 
+
+
+25
+Product Name: Aynes 1 lt Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 16,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Aynes Ayran 1 Lt               Price: 16,50 TL   Unit Price: 16,50 TL/lt
+
+Similar Products:
+ - Similar Product: Aynes 330 ml Kolajen Naneli Ayran                  Price: 16,95 TL  
+ - Similar Product: Eker 300 ml Bardak Ayran                           Price: 17,50 TL  
+ - Similar Product: Tikveşli 170 ml Ayran                              Price: 6,45 TL   
+
+Features:
+ - Ürün Tipi: Ayran
+ - Ambalaj Tipi: Plastik
+ - Toplam Ağırlık: 1 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/aynes-1-lt-ayran-_284686.jpg 
+
+
+26
+Product Name: Eker 300 ml Bardak Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 17,50 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Eker Ty Bardak Ayran 300 Ml    Price: 17,50 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Dost 200 ml Bardak Ayran                           Price: 4,75 TL   
+ - Similar Product: Mis Tam Yağlı 285 ml Bardak Ayran                  Price: 7,25 TL   
+ - Similar Product: Mis Tam Yağlı 285 ml Bardak Ayran                  Price: 7,25 TL   
+ - Similar Product: İçim 200 ml Bardak Ayran                           Price: 7,25 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/eker-300-ml-bardak-ayran-_1694529.jpg 
+
+
+27
+Product Name: Aynes 330 ml Kolajen Naneli Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 16,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Aynes Naneli Kolajenli Ayran 330ml Price: 16,95 TL   Unit Price: 51,36 TL/lt
+
+Similar Products:
+ - Similar Product: Aynes 1 lt Naneli Kolajenli Ayran                  Price: 44,95 TL  
+ - Similar Product: Mis 330 ml Ayran                                   Price: 8,45 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/aynes-330-ml-kolajen-naneli-ayran-_703122.jpg 
+
+
+28
+Product Name: Tikveşli 170 ml Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 6,45 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Tikvesli Ayran 170 Ml          Price: 6,45 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Gürler 170 ml Ayran                                Price: 6,95 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+29
+Product Name: Eker Probiyotik 1 lt Tam Yağlı Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 30,95 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Eker Probiyotik Ayran 1000 Ml  Price: 30,95 TL   Unit Price: 30,95 TL/lt
+ - Market: Migros               Product: Eker Probiyotik Tam Yagli Ayran 1l Price: 34,95 TL   Unit Price: 34,95 TL/lt
+
+Similar Products:
+ - Similar Product: Göynük Tam Yağlı 200 ml Ayran                      Price: 5,50 TL   
+ - Similar Product: Eker 150 ml Tam Yağlı Ayran                        Price: 5,75 TL   
+ - Similar Product: Göynük 1,5 lt Tam Yağlı Ayran                      Price: 32,50 TL  
+ - Similar Product: Mis Tam Yağlı 285 ml Bardak Ayran                  Price: 7,25 TL   
+ - Similar Product: Mis Tam Yağlı 285 ml Bardak Ayran                  Price: 7,25 TL   
+
+Features:
+ - Ürün Tipi: Ayran
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1 lt
+ - Menşei: Türkiye
+ - Saklama Koşulları: 0-4 Derece
+ - Yağ Oranı: Tam Yağlı
+Product Image URL: https://cdn.cimri.io/market/260x260/eker-probiyotik-1-lt-tam-yagli-ayran-_285348.jpg 
+
+
+30
+Product Name: Aynes 1,5 lt Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 30,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Ayran 1500 Ml Aynes            Price: 30,00 TL   Unit Price: 20,00 TL/lt
+
+Similar Products:
+ - Similar Product: Pınar 1,5 lt Ayran                                 Price: 37,50 TL  
+ - Similar Product: Sütaş 1,5 lt Ayran                                 Price: 37,50 TL  
+ - Similar Product: Göynük 1,5 lt Tam Yağlı Ayran                      Price: 32,50 TL  
+ - Similar Product: Migros 1,5 lt Ayran                                Price: 29,50 TL  
+
+Features:
+ - Toplam Ağırlık: 1.5 lt
+ - Menşei: Türkiye
+ - Saklama Koşulları: 0-4 Derece
+ - Ambalaj Tipi: Pet
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/aynes-15-lt-ayran-_349987.jpg 
+
+
+31
+Product Name: Özerhisar 300 ml Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 12,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Ayran 300 Ml Özer Hisar        Price: 12,50 TL   Unit Price: 41,67 TL/lt
+
+Similar Products:
+ - Similar Product: Sütaş 300 ml Ayran                                 Price: 10,50 TL  
+ - Similar Product: Eker 300 ml Bardak Ayran                           Price: 17,50 TL  
+
+Features:
+ - Ürün Tipi: Ayran
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 300 ml
+ - Kategori: Ayran
+Product Image URL: https://cdn.cimri.io/market/260x260/ozerhisar-300-ml-ayran-_1434294.jpg 
+
+
+32
+Product Name: Pınar 1,5 lt Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 37,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Ayran 1500 Ml Pinar            Price: 37,50 TL   Unit Price: 25,00 TL/lt
+
+Similar Products:
+ - Similar Product: Sütaş 1,5 lt Ayran                                 Price: 37,50 TL  
+ - Similar Product: Göynük 1,5 lt Tam Yağlı Ayran                      Price: 32,50 TL  
+ - Similar Product: Migros 1,5 lt Ayran                                Price: 29,50 TL  
+ - Similar Product: Aynes 1,5 lt Ayran                                 Price: 30,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/pinar-15-lt-ayran-_977007.jpg 
+
+
+33
+Product Name: Yörükoğlu 1 lt Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 21,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Ayran 1 L Yorukoglu            Price: 21,00 TL   Unit Price: 21,00 TL/lt
+ - Market: Carrefour            Product: Yorukoglu Ayran 1 Lt           Price: 33,50 TL   Unit Price: 33,50 TL/lt
+ - Market: Migros               Product: Yorukoglu Ayran 1 L            Price: 33,50 TL   Unit Price: 33,50 TL/lt
+
+Similar Products:
+ - Similar Product: Aynes 1 lt Ayran                                   Price: 16,50 TL  
+ - Similar Product: Aynes 330 ml Kolajen Naneli Ayran                  Price: 16,95 TL  
+ - Similar Product: Eker 300 ml Bardak Ayran                           Price: 17,50 TL  
+
+Features:
+ - Ürün Tipi: Ayran
+ - Toplam Ağırlık: 1 lt
+ - Menşei: Türkiye
+ - Yağ Oranı: Tam Yağlı
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/yorukoglu-1-lt-ayran-_96822.jpg 
+
+
+34
+Product Name: Torku 2,5 lt Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 67,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Ayran 2,5 L Torku              Price: 67,00 TL   Unit Price: 26,80 TL/lt
+
+Similar Products:
+ - Similar Product: Sütaş Ayran 2,5 l                                  Price: 64,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/torku-25-lt-ayran-_1257362.jpg 
+
+
+35
+Product Name: Yörükoğlu 200 ml Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 8,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Yorukoglu Ayran 200 Gr.        Price: 8,00 TL    Unit Price: 40,00 TL/lt
+ - Market: Migros               Product: Yorukoglu Ayran 200 Ml         Price: 8,00 TL    Unit Price: 40,00 TL/lt
+
+Similar Products:
+ - Similar Product: Göynük Tam Yağlı 200 ml Ayran                      Price: 5,50 TL   
+ - Similar Product: Ateşoğlu 200 ml Ayran                              Price: 6,00 TL   
+ - Similar Product: Dost 200 ml Bardak Ayran                           Price: 4,75 TL   
+ - Similar Product: Tire Süt Kooperatifi 200 ml Ayran                  Price: 8,45 TL   
+
+Features:
+ - Ürün Tipi: Ayran
+ - Toplam Ağırlık: 200 ml
+ - Menşei: Türkiye
+ - Saklama Koşulları: 3-8 Derece
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/yorukoglu-200-ml-ayran-_306855.jpg 
+
+
+36
+Product Name: Sütaş 200 ml Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 6,75 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Ayran Tam Yagli 200ml Sutas    Price: 6,75 TL    Unit Price: 33,75 TL/lt
+ - Market: Migros               Product: Sutas 200 Ml Ayran             Price: 7,35 TL    Unit Price: 36,75 TL/lt
+ - Market: A101                 Product: Ayran 200 Ml Sutas             Price: 7,50 TL    Unit Price: 37,50 TL/lt
+
+Similar Products:
+ - Similar Product: Yörükoğlu 200 ml Ayran                             Price: 8,00 TL   
+ - Similar Product: Pınar 200 ml Ayran                                 Price: 9,90 TL   
+ - Similar Product: Türkiye Tarım Kredi Kooperatifleri 200 ml Ayran    Price: 5,00 TL   
+ - Similar Product: Göynük Tam Yağlı 200 ml Ayran                      Price: 5,50 TL   
+ - Similar Product: Ateşoğlu 200 ml Ayran                              Price: 6,00 TL   
+
+Features:
+ - Ürün Tipi: Ayran
+ - Toplam Ağırlık: 200 ml
+ - Menşei: Türkiye
+ - Yağ Oranı: Tam Yağlı
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+37
+Product Name: Birşah 1.5 lt Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 32,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Ayran 1500 Ml Birsah           Price: 32,50 TL   Unit Price: 21,67 TL/lt
+
+Similar Products:
+ - Similar Product: Dost 1.5 lt Şise Ayran                             Price: 28,50 TL  
+ - Similar Product: Ateşoğlu 1.5 lt Naturel Ayran                      Price: 39,00 TL  
+ - Similar Product: Bademli Kooperatifi 1.5 lt Tam Yağlı Ayran         Price: 48,95 TL  
+ - Similar Product: Mis 1.5 lt Tam Yağlı Ayran                         Price: 28,50 TL  
+ - Similar Product: Mis 1.5 lt Tam Yağlı Ayran                         Price: 28,50 TL  
+
+Features:
+ - Ürün Tipi: Ayran
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1.5 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/birsah-1-5-lt-ayran-_976982.jpg 
+
+
+38
+Product Name: Türkiye Tarım Kredi Kooperatifleri 200 ml Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 5,00 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Tks Ayran 200 Ml               Price: 5,00 TL    Unit Price: 25,00 TL/lt
+
+Similar Products:
+ - Similar Product: Göynük Tam Yağlı 200 ml Ayran                      Price: 5,50 TL   
+ - Similar Product: Ateşoğlu 200 ml Ayran                              Price: 6,00 TL   
+ - Similar Product: Dost 200 ml Bardak Ayran                           Price: 4,75 TL   
+ - Similar Product: Tire Süt Kooperatifi 200 ml Ayran                  Price: 8,45 TL   
+ - Similar Product: Yörükoğlu 200 ml Ayran                             Price: 8,00 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+39
+Product Name: Torku 2 lt Şişe Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 37,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Torku 2 Lt Ayran               Price: 37,50 TL   Unit Price: 18,75 TL/lt
+ - Market: Migros               Product: Torku Şise Ayran 2 L           Price: 46,25 TL   Unit Price: 23,13 TL/lt
+ - Market: Migros               Product: Torku Ayran 2l                 Price: 56,95 TL   Unit Price: 28,48 TL/lt
+ - Market: Carrefour            Product: Torku Ayran 2 Lt               Price: 66,50 TL   Unit Price: 33,25 TL/lt
+
+Similar Products:
+ - Similar Product: Dost 1.5 lt Şise Ayran                             Price: 28,50 TL  
+ - Similar Product: Ateşoğlu 1500 ml Şişe Ayran                        Price: 42,95 TL  
+ - Similar Product: Özerhisar 1 lt Cam Şişe Ayran                      Price: 47,50 TL  
+ - Similar Product: Tire Süt Kooperatifi 1 lt Cam Şişe Ayran           Price: 38,25 TL  
+
+Features:
+ - Ürün Tipi: Ayran
+ - Toplam Ağırlık: 2 lt
+ - Menşei: Türkiye
+ - Saklama Koşulları: 0-4 Derece
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/torku-2-lt-sise-ayran-_1416240.jpg 
+
+
+40
+Product Name: Ateşoğlu 1.5 lt Naturel Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 39,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Atesoglu Ayran 1.5 L           Price: 39,00 TL   Unit Price: 26,00 TL/lt
+
+Similar Products:
+ - Similar Product: Birşah 1.5 lt Ayran                                Price: 32,50 TL  
+ - Similar Product: Dost 1.5 lt Şise Ayran                             Price: 28,50 TL  
+ - Similar Product: Mis 1.5 lt Tam Yağlı Ayran                         Price: 28,50 TL  
+ - Similar Product: Mis 1.5 lt Tam Yağlı Ayran                         Price: 28,50 TL  
+ - Similar Product: Bademli Kooperatifi 1.5 lt Tam Yağlı Ayran         Price: 48,95 TL  
+
+Features:
+ - Toplam Ağırlık: 1.5 lt
+ - Menşei: Türkiye
+ - Saklama Koşulları: 0-4 Derece
+ - Ambalaj Tipi: Pet
+ - Adet: 1 Adet
+Product Image URL:  
+
+
+41
+Product Name: Eker Ayran 1 lt
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 29,50 TL 
+
+Market Products:
+ - Market: Tarım Kredi Kooperatifi Product: Eker Ayran 1000 Ml             Price: 29,50 TL   Unit Price: 29,50 TL/lt
+ - Market: Migros               Product: Eker Ayran 1 L                 Price: 34,50 TL   Unit Price: 34,50 TL/lt
+ - Market: Carrefour            Product: Eker Yayik Ayrani 1 Lt         Price: 35,45 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Gürler 170 ml Ayran                                Price: 6,95 TL   
+ - Similar Product: Göynük Tam Yağlı 200 ml Ayran                      Price: 5,50 TL   
+ - Similar Product: Ateşoğlu 1500 ml Şişe Ayran                        Price: 42,95 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/eker-ayran-1-lt-_96524.jpg 
+
+
+42
+Product Name: Eker 195 ml Tombul Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 9,90 TL 
+
+Market Products:
+ - Market: A101                 Product: Ayran 195 Ml Eker              Price: 9,90 TL    Unit Price: 50,77 TL/lt
+ - Market: Carrefour            Product: Eker Tombul Ayran 195 Ml       Price: 10,95 TL   Unit Price: 56,15 TL/lt
+ - Market: Migros               Product: Eker Tombul Ayran195 Ml        Price: 10,95 TL   Unit Price: 56,15 TL/lt
+ - Market: A101                 Product: Ayran 6x195 Ml Eker            Price: 32,00 TL   Unit Price: 27,35 TL/lt
+ - Market: Migros               Product: Eker Tombul Ayran 6*195 Ml     Price: 53,50 TL   Unit Price: 45,73 TL/lt
+ - Market: Şok                  Product: Eker Tombul Ayran 6x195 Ml     Price: 53,50 TL   Unit Price: 45,73 TL/lt
+ - Market: Carrefour            Product: Eker Tombul Ayran 6*195 Ml     Price: 57,10 TL   Unit Price: 48,80 TL/lt
+
+Similar Products:
+ - Similar Product: Gürler 170 ml Ayran                                Price: 6,95 TL   
+
+Features:
+ - Ürün Tipi: Ayran
+ - Toplam Ağırlık: 195 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/eker-195-ml-tombul-ayran-_323076.jpg 
+
+
+43
+Product Name: Gürler 170 ml Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 6,95 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Gurler Ayran 170 Ml            Price: 6,95 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Tikveşli 170 ml Ayran                              Price: 6,45 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/gurler-170-ml-ayran-_1723005.jpg 
+
+
+44
+Product Name: Göynük Tam Yağlı 200 ml Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 5,50 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Ayran Tam Yagli 200ml Goynuk   Price: 5,50 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Carrefour 200 ml Tam Yağlı Ayran                   Price: 5,50 TL   
+ - Similar Product: Eker Probiyotik 1 lt Tam Yağlı Ayran               Price: 30,95 TL  
+ - Similar Product: Sek Tam Yağlı 1 lt Doğal Ayran                     Price: 32,90 TL  
+ - Similar Product: Eker 150 ml Tam Yağlı Ayran                        Price: 5,75 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+45
+Product Name: Ateşoğlu 1500 ml Şişe Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 42,95 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Atesoglu Şise Ayran 1500 Ml    Price: 42,95 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: İçim 1500 ml Şişe Ayran                            Price: 27,50 TL  
+ - Similar Product: Eker 1500 ml Yayık Ayran                           Price: 29,50 TL  
+ - Similar Product: Torku 2 lt Şişe Ayran                              Price: 37,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/atesoglu-1500-ml-sise-ayran-_1436695.jpg 
+
+
+46
+Product Name: Eker 150 ml Tam Yağlı Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 5,75 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Ayran Tam Yagli 150ml Eker     Price: 5,75 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Eker Probiyotik 1 lt Tam Yağlı Ayran               Price: 30,95 TL  
+ - Similar Product: Carrefour 200 ml Tam Yağlı Ayran                   Price: 5,50 TL   
+ - Similar Product: Sek Tam Yağlı 1 lt Doğal Ayran                     Price: 32,90 TL  
+ - Similar Product: Göynük Tam Yağlı 200 ml Ayran                      Price: 5,50 TL   
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/eker-150-ml-tam-yagli-ayran-_1542219.jpg 
+
+
+47
+Product Name: Tire 1 lt Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 10,25 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Tire Ayran 1000 Ml             Price: 10,25 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Gürler 170 ml Ayran                                Price: 6,95 TL   
+ - Similar Product: Göynük Tam Yağlı 200 ml Ayran                      Price: 5,50 TL   
+ - Similar Product: Ateşoğlu 1500 ml Şişe Ayran                        Price: 42,95 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tire-1-lt-ayran-_864829.jpg 
+
+
+48
+Product Name: Ateşoğlu 200 ml Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 6,00 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Atesoglu Ayran 200 Ml          Price: 6,00 TL    Unit Price: 30,00 TL/lt
+
+Similar Products:
+ - Similar Product: Göynük Tam Yağlı 200 ml Ayran                      Price: 5,50 TL   
+ - Similar Product: Dost 200 ml Bardak Ayran                           Price: 4,75 TL   
+ - Similar Product: Tire Süt Kooperatifi 200 ml Ayran                  Price: 8,45 TL   
+ - Similar Product: Yörükoğlu 200 ml Ayran                             Price: 8,00 TL   
+ - Similar Product: Sütaş 200 ml Ayran                                 Price: 6,75 TL   
+
+Features:
+ - Toplam Ağırlık: 200 ml
+ - Menşei: Türkiye
+ - Saklama Koşulları: 0-4 Derece
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/atesoglu-200-ml-ayran-_349984.jpg 
+
+
+49
+Product Name: Bademli Kooperatifi 1.5 lt Tam Yağlı Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 48,95 TL 
+
+Market Products:
+ - Market: Migros               Product: Bademli Kooperatifi Tam Yagli Ayran 1,5 L Price: 48,95 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Mis 1.5 lt Tam Yağlı Ayran                         Price: 28,50 TL  
+ - Similar Product: Mis 1.5 lt Tam Yağlı Ayran                         Price: 28,50 TL  
+ - Similar Product: Göynük 1,5 lt Tam Yağlı Ayran                      Price: 32,50 TL  
+ - Similar Product: Birşah 1.5 lt Ayran                                Price: 32,50 TL  
+ - Similar Product: Dost 1.5 lt Şise Ayran                             Price: 28,50 TL  
+ - Similar Product: Ateşoğlu 1.5 lt Naturel Ayran                      Price: 39,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/bademli-kooperatifi-1-5-lt-tam-yagli-ayran-_1818702.jpg 
+
+
+50
+Product Name: Tire Süt Kooperatifi 200 ml Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 8,45 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Tire Sut Kooperatifi Bardak Ayran 200 Ml Price: 8,45 TL    Unit Price: 0
+ - Market: Migros               Product: Tire Sut Kooperatifi Ayran 200ml Price: 9,00 TL    Unit Price: 0
+
+Similar Products:
+ - Similar Product: Tire Süt Kooperatifi 1 lt Cam Şişe Ayran           Price: 38,25 TL  
+ - Similar Product: Türkiye Tarım Kredi Kooperatifleri 200 ml Ayran    Price: 5,00 TL   
+ - Similar Product: Türkiye Tarım Kredi Kooperatifleri 1,5 lt Ayran    Price: 28,50 TL  
+ - Similar Product: Bademli Kooperatifi 1.5 lt Tam Yağlı Ayran         Price: 48,95 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/tire-sut-kooperatifi-200-ml-ayran-_1580822.jpg 
+
+
+51
+Product Name: Sütaş 300 ml Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 10,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Sutas Ayran 300ml              Price: 10,50 TL   Unit Price: 35,00 TL/lt
+
+Similar Products:
+ - Similar Product: Eker 300 ml Bardak Ayran                           Price: 17,50 TL  
+ - Similar Product: Özerhisar 300 ml Ayran                             Price: 12,50 TL  
+
+Features:
+ - Ürün Tipi: Ayran
+ - Toplam Ağırlık: 300 ml
+ - Menşei: Türkiye
+ - Saklama Koşulları: 0-4 Derece
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/sutas-300-ml-ayran-_284737.jpg 
+
+
+52
+Product Name: Gürler 1 lt Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 38,00 TL 
+
+Market Products:
+ - Market: Migros               Product: Gurler Sut Ayran 1lt           Price: 38,00 TL   Unit Price: 38,00 TL/lt
+ - Market: Carrefour            Product: Gurler Ayran 1 Lt              Price: 41,85 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Gürler 170 ml Ayran                                Price: 6,95 TL   
+ - Similar Product: Göynük Tam Yağlı 200 ml Ayran                      Price: 5,50 TL   
+ - Similar Product: Ateşoğlu 1500 ml Şişe Ayran                        Price: 42,95 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/urun-gorseli-hazirlaniyor.jpg 
+
+
+53
+Product Name: Sütaş 1,5 lt Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 37,50 TL 
+
+Market Products:
+ - Market: A101                 Product: Ayran 1500 Ml Sutas            Price: 37,50 TL   Unit Price: 25,00 TL/lt
+
+Similar Products:
+ - Similar Product: Göynük 1,5 lt Tam Yağlı Ayran                      Price: 32,50 TL  
+ - Similar Product: Migros 1,5 lt Ayran                                Price: 29,50 TL  
+ - Similar Product: Türkiye Tarım Kredi Kooperatifleri 1,5 lt Ayran    Price: 28,50 TL  
+ - Similar Product: Aynes 1,5 lt Ayran                                 Price: 30,00 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/sutas-15-lt-ayran-_342184.jpg 
+
+
+54
+Product Name: Göynük 1,5 lt Tam Yağlı Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 32,50 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Ayran Tam Yagli 1500ml Goynuk  Price: 32,50 TL   Unit Price: 0
+
+Similar Products:
+ - Similar Product: Bademli Kooperatifi 1.5 lt Tam Yağlı Ayran         Price: 48,95 TL  
+ - Similar Product: Mis 1.5 lt Tam Yağlı Ayran                         Price: 28,50 TL  
+ - Similar Product: Mis 1.5 lt Tam Yağlı Ayran                         Price: 28,50 TL  
+ - Similar Product: Sütaş 1,5 lt Ayran                                 Price: 37,50 TL  
+ - Similar Product: Migros 1,5 lt Ayran                                Price: 29,50 TL  
+ - Similar Product: Türkiye Tarım Kredi Kooperatifleri 1,5 lt Ayran    Price: 28,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/goynuk-15-lt-tam-yagli-ayran-_1441808.jpg 
+
+
+55
+Product Name: Mis Tam Yağlı 285 ml Bardak Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 7,25 TL 
+
+Market Products:
+ - Market: Şok                  Product: Mis Bardak Ayran Tam Yagli 285 Ml Price: 7,25 TL    Unit Price: 25,44 TL/lt
+
+Similar Products:
+ - Similar Product: Eker Probiyotik 1 lt Tam Yağlı Ayran               Price: 30,95 TL  
+ - Similar Product: Carrefour 200 ml Tam Yağlı Ayran                   Price: 5,50 TL   
+
+Features:
+ - Ürün Tipi: Ayran
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 285 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/mis-tam-yagli-285-ml-bardak-ayran-_1434129.jpg 
+
+
+56
+Product Name: Mis 1.5 lt Tam Yağlı Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 28,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Mis Ayran Tam Yagli 1.5 Lt     Price: 28,50 TL   Unit Price: 19,00 TL/lt
+
+Similar Products:
+ - Similar Product: Bademli Kooperatifi 1.5 lt Tam Yağlı Ayran         Price: 48,95 TL  
+ - Similar Product: Göynük 1,5 lt Tam Yağlı Ayran                      Price: 32,50 TL  
+ - Similar Product: Birşah 1.5 lt Ayran                                Price: 32,50 TL  
+ - Similar Product: Dost 1.5 lt Şise Ayran                             Price: 28,50 TL  
+ - Similar Product: Ateşoğlu 1.5 lt Naturel Ayran                      Price: 39,00 TL  
+
+Features:
+ - Ürün Tipi: Ayran
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1.5 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/mis-1-5-lt-tam-yagli-ayran-_1101753.jpg 
+
+
+57
+Product Name: Mis Tam Yağlı 285 ml Bardak Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 7,25 TL 
+
+Market Products:
+ - Market: Şok                  Product: Mis Bardak Ayran Tam Yagli 285 Ml Price: 7,25 TL    Unit Price: 25,44 TL/lt
+
+Similar Products:
+ - Similar Product: Eker Probiyotik 1 lt Tam Yağlı Ayran               Price: 30,95 TL  
+ - Similar Product: Göynük Tam Yağlı 200 ml Ayran                      Price: 5,50 TL   
+
+Features:
+ - Ürün Tipi: Ayran
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 285 ml
+Product Image URL: https://cdn.cimri.io/market/260x260/mis-tam-yagli-285-ml-bardak-ayran-_1434129.jpg 
+
+
+58
+Product Name: Mis 1.5 lt Tam Yağlı Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 28,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Mis Ayran Tam Yagli 1.5 Lt     Price: 28,50 TL   Unit Price: 19,00 TL/lt
+
+Similar Products:
+ - Similar Product: Bademli Kooperatifi 1.5 lt Tam Yağlı Ayran         Price: 48,95 TL  
+ - Similar Product: Göynük 1,5 lt Tam Yağlı Ayran                      Price: 32,50 TL  
+ - Similar Product: Birşah 1.5 lt Ayran                                Price: 32,50 TL  
+ - Similar Product: Dost 1.5 lt Şise Ayran                             Price: 28,50 TL  
+ - Similar Product: Ateşoğlu 1.5 lt Naturel Ayran                      Price: 39,00 TL  
+
+Features:
+ - Ürün Tipi: Ayran
+ - Adet: 1 Adet
+ - Toplam Ağırlık: 1.5 lt
+Product Image URL: https://cdn.cimri.io/market/260x260/mis-1-5-lt-tam-yagli-ayran-_1101753.jpg 
+
+
+59
+Product Name: Migros 1,5 lt Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 29,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Migros Ayran 1.5 L             Price: 29,50 TL   Unit Price: 19,67 TL/lt
+
+Similar Products:
+ - Similar Product: Göynük 1,5 lt Tam Yağlı Ayran                      Price: 32,50 TL  
+ - Similar Product: Sütaş 1,5 lt Ayran                                 Price: 37,50 TL  
+ - Similar Product: Aynes 1,5 lt Ayran                                 Price: 30,00 TL  
+ - Similar Product: Pınar 1,5 lt Ayran                                 Price: 37,50 TL  
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/migros-15-lt-ayran-_342190.jpg 
+
+
+60
+Product Name: Eker 293 ml Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 14,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Eker Ayran 293 Ml              Price: 14,50 TL   Unit Price: 49,49 TL/lt
+ - Market: Carrefour            Product: Eker Tombul Ayran 293 Ml       Price: 14,95 TL   Unit Price: 51,02 TL/lt
+
+Similar Products:
+ - Similar Product: Aynes 1 lt Ayran                                   Price: 16,50 TL  
+ - Similar Product: Aynes 330 ml Kolajen Naneli Ayran                  Price: 16,95 TL  
+ - Similar Product: Eker 300 ml Bardak Ayran                           Price: 17,50 TL  
+
+Features:
+ - Ürün Tipi: Ayran
+ - Toplam Ağırlık: 293 ml
+ - Menşei: Türkiye
+ - Saklama Koşulları: 0-4 Derece
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/eker-293-ml-ayran-_285342.jpg 
+
+
+61
+Product Name: Tire Süt Kooperatifi 1 lt Cam Şişe Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 38,25 TL 
+
+Market Products:
+ - Market: Carrefour            Product: Tire Sut Kooperatifi Ayran 1000 Ml Price: 38,25 TL   Unit Price: 0
+ - Market: Migros               Product: Tire Cam Şise Ayran 1 L        Price: 43,25 TL   Unit Price: 43,25 TL/lt
+
+Similar Products:
+ - Similar Product: Tire Süt Kooperatifi 200 ml Ayran                  Price: 8,45 TL   
+ - Similar Product: Özerhisar 1 lt Cam Şişe Ayran                      Price: 47,50 TL  
+ - Similar Product: Türkiye Tarım Kredi Kooperatifleri 1,5 lt Ayran    Price: 28,50 TL  
+
+Features:
+Product Image URL:  
+
+
+62
+Product Name: İçim 1500 ml Şişe Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 27,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Icim 1,5 Lt Şise Ayran         Price: 27,50 TL   Unit Price: 18,33 TL/lt
+ - Market: Migros               Product: Icim Ayran 1.5 L               Price: 39,90 TL   Unit Price: 26,60 TL/lt
+ - Market: Carrefour            Product: Icim Ayran 1,5 L               Price: 47,50 TL   Unit Price: 31,67 TL/lt
+
+Similar Products:
+ - Similar Product: Ateşoğlu 1500 ml Şişe Ayran                        Price: 42,95 TL  
+ - Similar Product: Eker 1500 ml Yayık Ayran                           Price: 29,50 TL  
+ - Similar Product: Dost 1.5 lt Şise Ayran                             Price: 28,50 TL  
+
+Features:
+ - Ürün Tipi: Ayran
+ - Toplam Ağırlık: 1.5 lt
+ - Menşei: Türkiye
+ - Saklama Koşulları: 0-4 Derece
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/icim-1500-ml-sise-ayran-_284754.jpg 
+
+
+63
+Product Name: Sütaş 1 lt Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 26,50 TL 
+
+Market Products:
+ - Market: Migros               Product: Sutas Pratik Şise Ayran 1 L    Price: 26,50 TL   Unit Price: 26,50 TL/lt
+ - Market: Şok                  Product: Sutas Pratik Şise Ayran 1 Lt   Price: 28,50 TL   Unit Price: 28,50 TL/lt
+
+Similar Products:
+ - Similar Product: Gürler 170 ml Ayran                                Price: 6,95 TL   
+ - Similar Product: Göynük Tam Yağlı 200 ml Ayran                      Price: 5,50 TL   
+ - Similar Product: Ateşoğlu 1500 ml Şişe Ayran                        Price: 42,95 TL  
+
+Features:
+ - Ürün Tipi: Ayran
+ - Toplam Ağırlık: 1 lt
+ - Menşei: Türkiye
+ - Saklama Koşulları: 3-8 Derece
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/sutas-1-lt-ayran-_284732.jpg 
+
+
+64
+Product Name: İçim Şişe 1 lt Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 27,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Icim Şise Ayran 1 L            Price: 27,90 TL   Unit Price: 27,90 TL/lt
+ - Market: Carrefour            Product: Icim Ayran 1 Lt                Price: 34,45 TL   Unit Price: 34,45 TL/lt
+
+Similar Products:
+ - Similar Product: Torku 2 lt Şişe Ayran                              Price: 37,50 TL  
+ - Similar Product: Dost 1.5 lt Şise Ayran                             Price: 28,50 TL  
+ - Similar Product: Ateşoğlu 1500 ml Şişe Ayran                        Price: 42,95 TL  
+ - Similar Product: Özerhisar 1 lt Cam Şişe Ayran                      Price: 47,50 TL  
+
+Features:
+ - Toplam Ağırlık: 1 lt
+ - Menşei: Türkiye
+ - Saklama Koşulları: 0-4 Derece
+Product Image URL: https://cdn.cimri.io/market/260x260/icim-sise-1-lt-ayran-_1416242.jpg 
+
+
+65
+Product Name: Eker 1500 ml Yayık Ayran
+Main Category: İçecekler
+Sub-categories: Ayran, 
+Cheapest Price: 29,50 TL 
+
+Market Products:
+ - Market: Bim                  Product: Eker 1500 Ml Ayran             Price: 29,50 TL   Unit Price: 19,67 TL/lt
+ - Market: Hakmar Express       Product: Ayran 1500ml Eker              Price: 39,50 TL   Unit Price: 26,33 TL/lt
+ - Market: Tarım Kredi Kooperatifi Product: Eker Pet Şise Ayran 1500 Ml    Price: 46,90 TL   Unit Price: 31,27 TL/lt
+ - Market: Migros               Product: Eker Ayran 1,5l                Price: 49,50 TL   Unit Price: 33,00 TL/lt
+ - Market: Carrefour            Product: Eker Yayik Ayran 1500 Ml       Price: 49,95 TL   Unit Price: 33,30 TL/lt
+
+Similar Products:
+ - Similar Product: Ateşoğlu 1500 ml Şişe Ayran                        Price: 42,95 TL  
+ - Similar Product: İçim 1500 ml Şişe Ayran                            Price: 27,50 TL  
+ - Similar Product: Aynes 1 lt Ayran                                   Price: 16,50 TL  
+ - Similar Product: Aynes 330 ml Kolajen Naneli Ayran                  Price: 16,95 TL  
+
+Features:
+ - Ürün Tipi: Ayran
+ - Toplam Ağırlık: 1.5 lt
+ - Menşei: Türkiye
+ - Saklama Koşulları: 0-4 Derece
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/eker-1500-ml-yayik-ayran-_284753.jpg 
+
+
+Word Dictionary:
+özerhisar: 3
+1: 15
+lt: 32
+cam: 2
+şişe: 8
+ayran: 65
+245: 1
+ml: 31
+mis: 6
+330: 2
+pınar: 2
+200: 14
+dost: 2
+1.5: 6
+şise: 1
+bardak: 6
+aynes: 4
+naneli: 2
+kolajenli: 1
+tikveşli: 2
+280: 1
+türkiye: 2
+tarım: 2
+kredi: 2
+kooperatifleri: 2
+1,5: 6
+carrefour: 1
+tam: 11
+yağlı: 12
+sakıpağa: 1
+sek: 1
+doğal: 1
+olba: 1
+%1,7: 1
+i̇çim: 4
+sütaş: 6
+2,5: 2
+l: 1
+torku: 4
+nefis: 1
+birşah: 3
+yörükoğlu: 4
+285: 3
+gr: 1
+manda: 1
+sütlü: 1
+2: 4
+pratik: 1
+eker: 7
+300: 3
+kolajen: 1
+170: 2
+probiyotik: 1
+ateşoğlu: 3
+naturel: 1
+195: 1
+tombul: 1
+gürler: 2
+göynük: 2
+1500: 3
+150: 1
+tire: 3
+bademli: 1
+kooperatifi: 3
+süt: 2
+migros: 1
+293: 1
+yayık: 1
+
+Feature List:
+Toplam Ağırlık
+Menşei
+Saklama Koşulları
+Ambalaj Tipi
+Adet
+Ürün Tipi
+İçerik
+Ürün Türü
+Yağ Oranı
+Kategori
