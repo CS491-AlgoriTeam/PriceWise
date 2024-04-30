@@ -282,13 +282,13 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
   }*/
   Widget buildItemCardSales(Map<String, String> item) {
     return GestureDetector(
-      onTap: () {
+      /*onTap: () {
         // Navigate to the ItemDetailsPage
         Navigator.push(
           context,
           MaterialPageRoute(builder: (context) => ItemDetailsPage(item: item)),
         );
-      },
+      },*/
       child: Container(
         width: MediaQuery.of(context).size.width * 0.60, // This is 80% of screen width
         height: 200, // Example height, adjust as necessary
