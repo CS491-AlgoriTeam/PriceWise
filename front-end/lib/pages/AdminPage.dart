@@ -40,7 +40,8 @@ class _AdminPageState extends State<AdminPage> {
              SizedBox(height: 20),
             ElevatedButton(
               onPressed: () {
-                _updateDatabase();
+                
+                //_updateDatabase();
               },
               child: Text('Update Database'),
             ),
