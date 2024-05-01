@@ -51,7 +51,7 @@ class _AdminPageState extends State<AdminPage> {
     );
   }
   int createUniqueId(){
-    return DateTime.now().millisecondsSinceEpoch.remainder(10);
+    return DateTime.now().millisecondsSinceEpoch.remainder(100);
   }
   void _triggerNotification() {
     AwesomeNotifications().createNotification(
