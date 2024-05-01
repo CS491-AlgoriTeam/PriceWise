@@ -49,7 +49,7 @@ Widget buildSubcategory2Grid(BuildContext context, DocumentSnapshot subcategory2
 
   // Assuming subcategory2Name is a collection that contains the products
   return StreamBuilder<QuerySnapshot>(
-    stream: subcategory2Document.reference.collection('Products').snapshots(),
+    stream: subcategory2Document.reference.collection('Products').limit(12).snapshots(),
     builder: (context, snapshot) {
       if (snapshot.hasError) {
         return Text('Error: ${snapshot.error}');
