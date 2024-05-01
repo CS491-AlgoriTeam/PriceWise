@@ -128,12 +128,13 @@ def add_product_to_firestore(product_data):
             continue
 
         try:
-            doc_ref = db.collection('allProducts') \
-                        .document(product['main_category']) \
-                        .collection(product['sub_category']) \
-                        .document(product['sub_category2']) \
-                        .collection('Products') \
+            doc_ref = db.collection('searchProducts') \
                         .document(sanitized_product_name)
+                        #.document(product['main_category']) \
+                        #.collection(product['sub_category']) \
+                        #.document(product['sub_category2']) \
+                        #.collection('Products') \
+                        
             product_to_set = {
                 'product_name': sanitized_product_name,
                 'main_category': product['main_category'],

@@ -81,7 +81,7 @@ class ItemDetailsPage extends StatelessWidget {
               ),
             ),
             buildSectionContainer(context, 'Other Sellers', buildSellersList(productData)),
-            buildSectionContainer(context, 'Similar Products', buildSimilarProductsGrid(productData)),
+            buildSectionContainer(context, 'Similar Products', buildSimilarProductsGrid(context, productData)),
 
             SizedBox(height: 20),
             Padding(
@@ -141,18 +141,49 @@ Widget buildSellersList(DocumentSnapshot product) {
   );
 }
 
-Widget buildSimilarProductsGrid(DocumentSnapshot product) {
+Widget buildSimilarProductsGrid(BuildContext context, DocumentSnapshot product) {
   List<dynamic> similarProducts = product['similar_product_array'] ?? [];
   return GridView.count(
     shrinkWrap: true,
-    physics: NeverScrollableScrollPhysics(),
+    physics: NeverScrollableScrollPhysics(), // To disable GridView's scrolling
     crossAxisCount: 3,
-    children: similarProducts.map<Widget>((imageUrl) {
-      return Card(
-        child: Image.network(imageUrl, fit: BoxFit.cover),
+    children: similarProducts.map<Widget>((productDetail) {
+      String productName = productDetail['product_name'].replaceAll("Similar Product: ", "");
+      String productImageUrl = productDetail['product_image_url']; // Ensure this field exists
+
+      return InkWell(
+        onTap: () {
+          // Fetch the entire DocumentSnapshot for the tapped product if needed
+          // For now, let's assume 'productDetail' includes necessary DocumentSnapshot data
+          Navigator.push(
+            context,
+            MaterialPageRoute(
+              builder: (context) => ItemDetailsPage(productData: productDetail), // Ensure this constructor and data type are correctly set up in ItemDetailsPage
+            ),
+          );
+        },
+        child: Card(
+          child: Column(
+            children: [
+              Expanded(
+                child: productImageUrl.isNotEmpty
+                  ? Image.network(productImageUrl, fit: BoxFit.cover)
+                  : Image.asset('assets/default.png', fit: BoxFit.cover),  // Default image if URL is empty
+              ),
+              Padding(
+                padding: EdgeInsets.all(8),
+                child: Text(
+                  productName,
+                  textAlign: TextAlign.center,
+                  style: TextStyle(fontSize: 14),
+                  overflow: TextOverflow.ellipsis,
+                ),
+              ),
+            ],
+          ),
+        ),
       );
     }).toList(),
   );
 }
-
 }
