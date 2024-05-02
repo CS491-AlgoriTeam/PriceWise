@@ -1,13 +1,17 @@
 import 'package:flutter/material.dart';
 import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:pwfe/pages/SubCategoryPage.dart';
 
 //class ItemDetailsPage extends StatelessWidget {
 //  final Map<String, String> item;
 class ItemDetailsPage extends StatelessWidget {
   final DocumentSnapshot productData;
+  final String mainCategory;
+  final String subCategory;
+  final String subcategory2Name;
 
-  ItemDetailsPage({Key? key, required this.productData}) : super(key: key);
+  ItemDetailsPage({Key? key, required this.productData, required this.mainCategory, required this.subCategory, required this.subcategory2Name}) : super(key: key);
 
    @override
   Widget build(BuildContext context) {
@@ -81,6 +85,7 @@ class ItemDetailsPage extends StatelessWidget {
               ),
             ),
             buildSectionContainer(context, 'Other Sellers', buildSellersList(productData)),
+            //buildSectionContainer(context, 'Similar Products', buildSimilarProductsGrid(context, productData)),
             buildSectionContainer(context, 'Similar Products', buildSimilarProductsGrid(context, productData)),
 
             SizedBox(height: 20),
@@ -141,49 +146,131 @@ Widget buildSellersList(DocumentSnapshot product) {
   );
 }
 
-Widget buildSimilarProductsGrid(BuildContext context, DocumentSnapshot product) {
-  List<dynamic> similarProducts = product['similar_product_array'] ?? [];
-  return GridView.count(
+Widget buildSimilarProductsGrid(BuildContext context, DocumentSnapshot productData) {
+  List<dynamic> similarProducts = productData['similar_product_array'] ?? [];
+  
+  return GridView.builder(
     shrinkWrap: true,
-    physics: NeverScrollableScrollPhysics(), // To disable GridView's scrolling
-    crossAxisCount: 3,
-    children: similarProducts.map<Widget>((productDetail) {
-      String productName = productDetail['product_name'].replaceAll("Similar Product: ", "");
-      String productImageUrl = productDetail['product_image_url']; // Ensure this field exists
+    physics: NeverScrollableScrollPhysics(),
+    gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+      crossAxisCount: 4,
+      childAspectRatio: 5 / 6,
+      crossAxisSpacing: 1,
+      mainAxisSpacing: 1,
+    ),
+    itemCount: similarProducts.length,
+    itemBuilder: (context, index) {
+      String productName = similarProducts[index]['product_name'].replaceAll("Similar Product: ", "");
+      productName = productName.replaceAll(",","");
+      productName = productName.replaceAll("'","");
 
-      return InkWell(
-        onTap: () {
-          // Fetch the entire DocumentSnapshot for the tapped product if needed
-          // For now, let's assume 'productDetail' includes necessary DocumentSnapshot data
-          Navigator.push(
-            context,
-            MaterialPageRoute(
-              builder: (context) => ItemDetailsPage(productData: productDetail), // Ensure this constructor and data type are correctly set up in ItemDetailsPage
-            ),
-          );
+      print(productName);
+      return FutureBuilder<DocumentSnapshot?>(
+        future: fetchProductDetails(productName),
+        builder: (context, snapshot) {
+          if (snapshot.connectionState == ConnectionState.waiting) {
+            return Center(child: CircularProgressIndicator());
+          }
+          if (!snapshot.hasData) {
+            return Center(child: Text('No data available'));
+          }
+          if (snapshot.error != null) {
+            return Center(child: Text('Error loading data'));
+          }
+          DocumentSnapshot? productDetails = snapshot.data;
+          if (productDetails != null) {
+            return buildProductItem(context, productDetails);
+          } else {
+            return Center(child: Text('Product not found'));
+          }
         },
-        child: Card(
-          child: Column(
-            children: [
-              Expanded(
-                child: productImageUrl.isNotEmpty
-                  ? Image.network(productImageUrl, fit: BoxFit.cover)
-                  : Image.asset('assets/default.png', fit: BoxFit.cover),  // Default image if URL is empty
-              ),
-              Padding(
-                padding: EdgeInsets.all(8),
-                child: Text(
-                  productName,
-                  textAlign: TextAlign.center,
-                  style: TextStyle(fontSize: 14),
-                  overflow: TextOverflow.ellipsis,
-                ),
-              ),
-            ],
-          ),
-        ),
       );
-    }).toList(),
+    },
   );
 }
+
+// Dummy function for fetching product details by name, implement according to your Firestore structure
+Future<DocumentSnapshot?> fetchProductDetails(String productName) async {
+  try {
+    var querySnapshot = await FirebaseFirestore.instance
+        .collection('allProducts')
+        .doc(mainCategory)
+        .collection(subCategory)
+        .doc(subcategory2Name)
+        .collection('Products') // Ensure this is the correct collection path
+        .where('product_name', isEqualTo: productName)  // 'name' should be the field in Firestore that holds the product name
+        .limit(1)
+        .get();
+
+    if (querySnapshot.docs.isNotEmpty) {
+      return querySnapshot.docs.first;
+    } else {
+      print("No document found for product name:$productName");
+      print(subcategory2Name);
+      return null;
+    }
+  } catch (e) {
+    print("Error fetching product details: $e");
+    return null;
+  }
+}
+
+
+Widget buildProductItem(BuildContext context, DocumentSnapshot product) {
+  String productName = product.id;  // You might want to use a more descriptive field from Firestore
+  String? productImageUrl = product['product_image_url'];
+  String displayName = productName.length > 14 ? productName.substring(0, 14) : productName;
+
+  // Define a default image path
+  String defaultImageAssetPath = 'assets/logo.png';
+
+  Widget imageWidget = (productImageUrl != null && productImageUrl.isNotEmpty)
+    ? Image.network(
+        productImageUrl,
+        fit: BoxFit.cover,
+        errorBuilder: (BuildContext context, Object exception, StackTrace? stackTrace) {
+          return Image.asset(defaultImageAssetPath, fit: BoxFit.cover);
+        },
+      )
+    : Image.asset(defaultImageAssetPath, fit: BoxFit.cover);
+
+  return InkWell(
+    onTap: () {
+      Navigator.push(
+        context,
+        MaterialPageRoute(
+          builder: (context) => ItemDetailsPage(productData: product, mainCategory: mainCategory, subCategory: subCategory, subcategory2Name: subcategory2Name,),
+        ),
+      );
+    },
+    child: Container(
+      margin: EdgeInsets.all(2.0),
+      decoration: BoxDecoration(
+        color: Colors.white, // Background color of the item
+        borderRadius: BorderRadius.circular(12), // Rounded corners
+      ),
+      child: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          Expanded(
+            child: ClipRRect(
+              borderRadius: BorderRadius.vertical(top: Radius.circular(12)),
+              child: imageWidget,
+            ),
+          ),
+          Padding(
+            padding: EdgeInsets.all(8),
+            child: Text(
+              displayName,
+              textAlign: TextAlign.center,
+              style: TextStyle(fontSize: 14),
+              overflow: TextOverflow.ellipsis,
+            ),
+          ),
+        ],
+      ),
+    ),
+  );
+}
+
 }
