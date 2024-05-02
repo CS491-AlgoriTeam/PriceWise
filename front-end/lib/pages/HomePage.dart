@@ -33,15 +33,24 @@ class HomePage extends StatelessWidget {
 
             SizedBox(height: screenSize.height * 0.05),
             // Illustration
-            Image.asset(
+            /*Image.asset(
               'assets/pwMaskot.webp',
               width: screenSize.width * 0.7,
               height: screenSize.height * 0.25,
+            ),*/
+            ClipRRect(
+              borderRadius: BorderRadius.circular(20.0),  // Adjust the radius size to your preference
+              child: Image.asset(
+                'assets/pwMaskot.webp',
+                width: screenSize.width * 0.8,
+                height: screenSize.height * 0.35,
+                fit: BoxFit.cover,  // Ensures the image covers the clip area without distorting aspect ratio
+              ),
             ),
             SizedBox(height: screenSize.height * 0.05),
             // Welcome Text
             const Text(
-              'Hello, Welcome!',
+              'Hello!',
               style: TextStyle(
                 fontFamily: 'Jockey One',
                 fontSize: 36,
@@ -76,9 +85,9 @@ class HomePage extends StatelessWidget {
                     context, "Sign Up", (p0) => const SignUpPage())),
             SizedBox(width: double.infinity, height: screenSize.height * 0.02),
             // Continue Without Register Button
-            Padding(
+            /*Padding(
               padding: const EdgeInsets.symmetric(horizontal: 20.0),
-              child: button_blue_lighter_rounded( context, "Continue Without Register", (p0) =>  MyShoppingLists())),
+              child: button_blue_lighter_rounded( context, "Continue Without Register", (p0) =>  MyShoppingLists())),*/
           ],
         ),
       ),

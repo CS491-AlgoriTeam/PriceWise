@@ -49,7 +49,7 @@ Widget buildSubcategory2Grid(BuildContext context, DocumentSnapshot subcategory2
 
   // Assuming subcategory2Name is a collection that contains the products
   return StreamBuilder<QuerySnapshot>(
-    stream: subcategory2Document.reference.collection('Products').limit(12).snapshots(),
+    stream: subcategory2Document.reference.collection('Products').limit(4).snapshots(),
     builder: (context, snapshot) {
       if (snapshot.hasError) {
         return Text('Error: ${snapshot.error}');
@@ -101,7 +101,7 @@ Widget buildSubcategory2Grid(BuildContext context, DocumentSnapshot subcategory2
               itemBuilder: (context, index) {
                 // Access the product document here
                 var product = snapshot.data!.docs[index];
-                return buildProductItem(context, product); // Pass context and the product document
+                return buildProductItem(context, product, subcategory2Name); // Pass context and the product document
               },
             ),
           ],
@@ -110,7 +110,7 @@ Widget buildSubcategory2Grid(BuildContext context, DocumentSnapshot subcategory2
     },
   );
 }
-Widget buildProductItem(BuildContext context, DocumentSnapshot product) {
+Widget buildProductItem(BuildContext context, DocumentSnapshot product, String subcategory2Name) {
   String productName = product.id;  // You might want to use a more descriptive field from Firestore
   String? productImageUrl = product['product_image_url'];
   String displayName = productName.length > 14 ? productName.substring(0, 14) : productName;
@@ -133,7 +133,7 @@ Widget buildProductItem(BuildContext context, DocumentSnapshot product) {
       Navigator.push(
         context,
         MaterialPageRoute(
-          builder: (context) => ItemDetailsPage(productData: product),
+          builder: (context) => ItemDetailsPage(productData: product, mainCategory: mainCategory, subCategory: subCategory, subcategory2Name: subcategory2Name,),
         ),
       );
     },
