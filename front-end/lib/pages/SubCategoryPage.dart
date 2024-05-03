@@ -6,8 +6,12 @@ import 'package:pwfe/pages/ShowItem.dart';
 class SubcategoryPage extends StatelessWidget {
   final String mainCategory;
   final String subCategory;
+  final String selectedListId;
 
-  SubcategoryPage({required this.mainCategory, required this.subCategory});
+  SubcategoryPage(
+      {required this.mainCategory,
+      required this.subCategory,
+      required this.selectedListId});
 
   @override
   Widget build(BuildContext context) {
@@ -33,7 +37,8 @@ class SubcategoryPage extends StatelessWidget {
           }
           // We map each subcategory2 to its own grid view.
           return ListView(
-            children: snapshot.data!.docs.map((DocumentSnapshot subcategory2Document) {
+            children: snapshot.data!.docs
+                .map((DocumentSnapshot subcategory2Document) {
               return buildSubcategory2Grid(context, subcategory2Document);
             }).toList(),
           );
@@ -43,128 +48,144 @@ class SubcategoryPage extends StatelessWidget {
     );
   }
 
-Widget buildSubcategory2Grid(BuildContext context, DocumentSnapshot subcategory2Document) {
-  // We use the document ID as the subcategory2 name
-  String subcategory2Name = subcategory2Document.id;
+  Widget buildSubcategory2Grid(
+      BuildContext context, DocumentSnapshot subcategory2Document) {
+    // We use the document ID as the subcategory2 name
+    String subcategory2Name = subcategory2Document.id;
 
-  // Assuming subcategory2Name is a collection that contains the products
-  return StreamBuilder<QuerySnapshot>(
-    stream: subcategory2Document.reference.collection('Products').limit(4).snapshots(),
-    builder: (context, snapshot) {
-      if (snapshot.hasError) {
-        return Text('Error: ${snapshot.error}');
-      }
-      if (snapshot.connectionState == ConnectionState.waiting) {
-        return CircularProgressIndicator();
-      }
-      if (snapshot.data!.docs.isEmpty) {
-        return ListTile(title: Text('No products in $subcategory2Name'));
-      }
+    // Assuming subcategory2Name is a collection that contains the products
+    return StreamBuilder<QuerySnapshot>(
+      stream: subcategory2Document.reference
+          .collection('Products')
+          .limit(4)
+          .snapshots(),
+      builder: (context, snapshot) {
+        if (snapshot.hasError) {
+          return Text('Error: ${snapshot.error}');
+        }
+        if (snapshot.connectionState == ConnectionState.waiting) {
+          return CircularProgressIndicator();
+        }
+        if (snapshot.data!.docs.isEmpty) {
+          return ListTile(title: Text('No products in $subcategory2Name'));
+        }
 
-      // Create a grid for each subcategory2
-      return Container(
-        margin: EdgeInsets.all(8.0),
+        // Create a grid for each subcategory2
+        return Container(
+          margin: EdgeInsets.all(8.0),
+          decoration: BoxDecoration(
+            color: Colors.blue[100], // Background color for the heading
+            borderRadius: BorderRadius.circular(12.0),
+          ),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.stretch,
+            children: [
+              Container(
+                padding: EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                decoration: BoxDecoration(
+                  color: Colors
+                      .blue[200], // Adjust the color to match profile page
+                  borderRadius: BorderRadius.circular(12.0),
+                ),
+                child: Text(
+                  subcategory2Name,
+                  style: TextStyle(
+                    color: Colors.black,
+                    fontWeight: FontWeight.bold,
+                    fontSize: 24,
+                  ),
+                  textAlign: TextAlign.left,
+                ),
+              ),
+              GridView.builder(
+                padding: EdgeInsets.all(4),
+                shrinkWrap: true,
+                physics: NeverScrollableScrollPhysics(),
+                gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+                  crossAxisCount: 4, // Number of columns in the grid
+                  childAspectRatio: 5 / 6, // Aspect ratio of the items
+                  crossAxisSpacing: 1, // Horizontal space between items
+                  mainAxisSpacing: 1, // Vertical space between items
+                ),
+                itemCount: snapshot.data!.docs.length,
+                itemBuilder: (context, index) {
+                  // Access the product document here
+                  var product = snapshot.data!.docs[index];
+                  return buildProductItem(context, product,
+                      subcategory2Name); // Pass context and the product document
+                },
+              ),
+            ],
+          ),
+        );
+      },
+    );
+  }
+
+  Widget buildProductItem(
+      BuildContext context, DocumentSnapshot product, String subcategory2Name) {
+    String productName = product
+        .id; // You might want to use a more descriptive field from Firestore
+    String? productImageUrl = product['product_image_url'];
+    String displayName =
+        productName.length > 14 ? productName.substring(0, 14) : productName;
+
+    // Define a default image path
+    String defaultImageAssetPath = 'assets/logo.png';
+
+    Widget imageWidget = (productImageUrl != null && productImageUrl.isNotEmpty)
+        ? Image.network(
+            productImageUrl,
+            fit: BoxFit.cover,
+            errorBuilder: (BuildContext context, Object exception,
+                StackTrace? stackTrace) {
+              return Image.asset(defaultImageAssetPath, fit: BoxFit.cover);
+            },
+          )
+        : Image.asset(defaultImageAssetPath, fit: BoxFit.cover);
+
+    return InkWell(
+      onTap: () {
+        Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (context) => ItemDetailsPage(
+              productData: product,
+              mainCategory: mainCategory,
+              subCategory: subCategory,
+              subcategory2Name: subcategory2Name,
+              selectedListId: selectedListId,
+            ),
+          ),
+        );
+      },
+      child: Container(
+        margin: EdgeInsets.all(2.0),
         decoration: BoxDecoration(
-          color: Colors.blue[100], // Background color for the heading
-          borderRadius: BorderRadius.circular(12.0),
+          color: Colors.white, // Background color of the item
+          borderRadius: BorderRadius.circular(12), // Rounded corners
         ),
         child: Column(
-          crossAxisAlignment: CrossAxisAlignment.stretch,
+          mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Container(
-              padding: EdgeInsets.symmetric(horizontal: 16, vertical: 8),
-              decoration: BoxDecoration(
-              color: Colors.blue[200], // Adjust the color to match profile page
-              borderRadius: BorderRadius.circular(12.0),
-              ),
-              child: Text(
-                subcategory2Name,
-                style: TextStyle(
-                  color: Colors.black,
-                  fontWeight: FontWeight.bold,
-                  fontSize: 24,
-                ),
-                textAlign: TextAlign.left,
+            Expanded(
+              child: ClipRRect(
+                borderRadius: BorderRadius.vertical(top: Radius.circular(12)),
+                child: imageWidget,
               ),
             ),
-            GridView.builder(
-              padding: EdgeInsets.all(4),
-              shrinkWrap: true,
-              physics: NeverScrollableScrollPhysics(),
-              gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-                crossAxisCount: 4, // Number of columns in the grid
-                childAspectRatio: 5/6, // Aspect ratio of the items
-                crossAxisSpacing: 1, // Horizontal space between items
-                mainAxisSpacing: 1, // Vertical space between items
+            Padding(
+              padding: EdgeInsets.all(8),
+              child: Text(
+                displayName,
+                textAlign: TextAlign.center,
+                style: TextStyle(fontSize: 14),
+                overflow: TextOverflow.ellipsis,
               ),
-              itemCount: snapshot.data!.docs.length,
-              itemBuilder: (context, index) {
-                // Access the product document here
-                var product = snapshot.data!.docs[index];
-                return buildProductItem(context, product, subcategory2Name); // Pass context and the product document
-              },
             ),
           ],
         ),
-      );
-    },
-  );
-}
-Widget buildProductItem(BuildContext context, DocumentSnapshot product, String subcategory2Name) {
-  String productName = product.id;  // You might want to use a more descriptive field from Firestore
-  String? productImageUrl = product['product_image_url'];
-  String displayName = productName.length > 14 ? productName.substring(0, 14) : productName;
-
-  // Define a default image path
-  String defaultImageAssetPath = 'assets/logo.png';
-
-  Widget imageWidget = (productImageUrl != null && productImageUrl.isNotEmpty)
-    ? Image.network(
-        productImageUrl,
-        fit: BoxFit.cover,
-        errorBuilder: (BuildContext context, Object exception, StackTrace? stackTrace) {
-          return Image.asset(defaultImageAssetPath, fit: BoxFit.cover);
-        },
-      )
-    : Image.asset(defaultImageAssetPath, fit: BoxFit.cover);
-
-  return InkWell(
-    onTap: () {
-      Navigator.push(
-        context,
-        MaterialPageRoute(
-          builder: (context) => ItemDetailsPage(productData: product, mainCategory: mainCategory, subCategory: subCategory, subcategory2Name: subcategory2Name,),
-        ),
-      );
-    },
-    child: Container(
-      margin: EdgeInsets.all(2.0),
-      decoration: BoxDecoration(
-        color: Colors.white, // Background color of the item
-        borderRadius: BorderRadius.circular(12), // Rounded corners
       ),
-      child: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          Expanded(
-            child: ClipRRect(
-              borderRadius: BorderRadius.vertical(top: Radius.circular(12)),
-              child: imageWidget,
-            ),
-          ),
-          Padding(
-            padding: EdgeInsets.all(8),
-            child: Text(
-              displayName,
-              textAlign: TextAlign.center,
-              style: TextStyle(fontSize: 14),
-              overflow: TextOverflow.ellipsis,
-            ),
-          ),
-        ],
-      ),
-    ),
-  );
-}
-
+    );
+  }
 }
