@@ -62,11 +62,54 @@ dev_dependencies:
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter packages.
+#flutter:
+#  assets:
+#      - assets/logo.png
+#      - assets/pwMaskot.webp
+#      - assets/profilePageBG.webp
+
 flutter:
   assets:
+      - assets/atıştırmalık.jpeg
+      - assets/ayran.jpeg
+      - assets/bal_ve_reçel.jpeg
+      - assets/balık.jpeg
+      - assets/bulaşık_yıkama.jpeg
+      - assets/çamaşır_yıkama.jpeg
+      - assets/çay.jpeg
+      - assets/et.jpeg
+      - assets/ev_temizliği.jpeg
+      - assets/fit_&_form.jpeg
+      - assets/gazli_icecek.jpeg
+      - assets/geleneksel_içecekler.jpeg
+      - assets/kağıt_ürünleri.jpeg
+      - assets/kahvaltılık_gevrek.jpeg
+      - assets/kahve.jpeg
+      - assets/kaymak.jpeg
+      - assets/konserve_sos_ve_hazır_yemek.jpeg
+      - assets/konserve.jpeg
       - assets/logo.png
-      - assets/pwMaskot.webp
+      - assets/maden_suyu.jpeg
+      - assets/limonata_meyve_suyu.jpeg
+      - assets/meyve.jpeg
+      - assets/mutfak_sarf_malzemeleri.jpeg
       - assets/profilePageBG.webp
+      - assets/pwMaskot.webp
+      - assets/şarküteri.jpeg
+      - assets/sebze.jpeg
+      - assets/sıcak_toz_içecek.jpeg
+      - assets/soğuk_kahve.jpeg
+      - assets/soğuk_toz_içecekler.jpeg
+      - assets/su.jpeg
+      - assets/sürülebilir.jpeg
+      - assets/süt.jpeg
+      - assets/tavuk.jpeg
+      - assets/temel_gıda.jpeg
+      - assets/tereyağ_ve_margarin.jpeg
+      - assets/tuz.jpeg
+      - assets/yoğurt.jpeg
+      - assets/yumurta.jpeg
+      - assets/zeytin.jpeg
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in

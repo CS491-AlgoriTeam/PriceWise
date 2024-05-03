@@ -9,7 +9,7 @@ class SearchPage extends StatelessWidget {
     'Meyve ve Sebze': ['Meyve', 'Sebze'],
     'Süt ve Kahvaltlık': ['Yumurta', 'Süt', 'Yoğurt', 'Tereyağ ve Margarin', 'Kaymak', 'Zeytin', 'Bal ve Reçel', 'Sürülebilir', 'Kahvaltılık Gevrek'],
     'Deterjan ve Temizlik Ürünleri': ['Bulaşık Yıkama', 'Ev Temizliği', 'Çamaşır Yıkama', 'Mutfak Sarf Malzemeleri', 'Kağıt Ürünleri'],
-    'İçecekler': ['Ayran', 'Gazli İcecek', 'Geleneksel İçecekler', 'Kahve', 'Limonata Meyve Suyu', 'Maden Suyu', 'SoĞuk Toz İçecekler', 'Soğuk Kahve', 'Su', 'Çay', 'Sıcak Toz İçecekeler'],
+    'İçecekler': ['Ayran', 'Gazli İcecek', 'Geleneksel İçecekler', 'Kahve', 'Limonata Meyve Suyu', 'Maden Suyu', 'SoĞuk Toz İçecekler', 'Soğuk Kahve', 'Su', 'Çay', 'Sıcak Toz İçecek'],
     // Add more categories and subcategories here
   };
 
@@ -63,7 +63,7 @@ class SearchPage extends StatelessWidget {
             physics: NeverScrollableScrollPhysics(), // to disable GridView's scrolling
             gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
               crossAxisCount: 4,
-              childAspectRatio: (5/6),
+              childAspectRatio: (4/6),
               crossAxisSpacing: 8,
               mainAxisSpacing: 8,
             ),
@@ -101,11 +101,11 @@ class SearchPage extends StatelessWidget {
                   BoxShadow(
                     color: Colors.lightBlue,
                     spreadRadius: 1,
-                    offset: Offset(0, 4), // changes position of shadow
+                    //offset: Offset(0, 4), // changes position of shadow
                   ),
                 ],
                 image: DecorationImage(
-                  image: AssetImage('assets/$imageName.png'), // Assuming you have the images in the correct path
+                  image: AssetImage('assets/$imageName.jpeg'), // Assuming you have the images in the correct path
                   fit: BoxFit.cover,
                 ),
               ),
