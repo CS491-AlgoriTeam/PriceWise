@@ -110,6 +110,11 @@ flutter:
       - assets/yoğurt.jpeg
       - assets/yumurta.jpeg
       - assets/zeytin.jpeg
+      - assets/Brownie.jpeg
+      - assets/Çikolatalı Cookie.jpeg
+      - assets/Barbunya Pilaki.jpeg
+      - assets/Bulgur Pilavı.jpeg
+      - assets/Menemen.jpeg
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in

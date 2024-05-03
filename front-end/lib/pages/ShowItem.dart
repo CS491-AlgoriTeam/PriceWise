@@ -62,7 +62,7 @@ class ItemDetailsPage extends StatelessWidget {
                         borderRadius: BorderRadius.circular(12.0),
                         child: productData['product_image_url'] != null && productData['product_image_url'].isNotEmpty
                           ? Image.network(productData['product_image_url'], fit: BoxFit.cover)
-                          : Image.asset('assets/default.png', fit: BoxFit.cover),
+                          : Image.asset('assets/logo.png', fit: BoxFit.cover),
                       ),
                     ),
                   ),

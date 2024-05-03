@@ -3,6 +3,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:pwfe/pages/AddShoppingListPage.dart';
+import 'package:pwfe/pages/RecipeDetailsPage.dart';
 import 'package:pwfe/pages/ShoppingListDetailsPage.dart';
 import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
 import 'package:pwfe/pages/ShowItem.dart';
@@ -17,16 +18,10 @@ class MyShoppingLists extends StatefulWidget {
 class _MyShoppingListsState extends State<MyShoppingLists> {
   final User? user = FirebaseAuth.instance.currentUser;
   List<DocumentSnapshot> _shoppingLists = [];
-  final TextEditingController _searchController = TextEditingController(); // Controller for search field
+  List<DocumentSnapshot> _salesItems = []; // List to store sales items
+  List<DocumentSnapshot> _recipeItems = [];
 
-  // Example data for "sales" and "recipes", replace with your actual data source
-  List<Map<String, String>> salesItems = [
-    {'name': 'Item 1', 'price': '9.99', 'photo': 'assets/logo.png'},
-    {'name': 'Item 2', 'price': '9.99', 'photo': 'assets/logo.png'},
-    {'name': 'Item 3', 'price': '9.99', 'photo': 'assets/logo.png'},
-    {'name': 'Item 4', 'price': '9.99', 'photo': 'assets/logo.png'},
-    // Add more items...
-  ];
+  final TextEditingController _searchController = TextEditingController(); // Controller for search field
 
   List<Map<String, String>> recipeItems = [
     {'name': 'Recipe 1', 'photo': 'assets/logo.png'},
@@ -41,7 +36,20 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
     super.initState();
     if (user != null) {
       _fetchShoppingLists();
+      _fetchSalesItems();
+      _fetchRecipeItems();
+
     }
+  }
+  void _fetchRecipeItems() async {
+    FirebaseFirestore.instance
+      .collection('recipes')
+      .get()
+      .then((result) {
+        setState(() {
+          _recipeItems = result.docs;
+        });
+      });
   }
 
   void _fetchShoppingLists() async {
@@ -99,31 +107,63 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
       print("Error handling shopping list deletion: $e");
     }
   }
+  void _fetchSalesItems() async {
+    final QuerySnapshot result = await FirebaseFirestore.instance
+        .collection('saleProducts')
+        .get();
 
-  Widget buildItemCardSales(Map<String, String> item) {
+    setState(() {
+      _salesItems = result.docs;
+    });
+  }
+
+Widget buildItemCardSales(DocumentSnapshot item) {
+    String main = item['main_category'];
+    String sub = item['sub_category'];
+    String sub2 = item['sub_category2'];
     return GestureDetector(
-      /*onTap: () {
-        // Navigate to the ItemDetailsPage
+      onTap: () {
         Navigator.push(
-          context,
-          MaterialPageRoute(builder: (context) => ItemDetailsPage(item: item)),
-        );
-      },*/
+            context,
+            MaterialPageRoute(
+              builder: (context) => ItemDetailsPage(productData: item, mainCategory: main, subCategory: sub, subcategory2Name: sub2),
+            ),
+          );
+      },
       child: Container(
-        width: MediaQuery.of(context).size.width * 0.60, // This is 80% of screen width
-        height: 200, // Example height, adjust as necessary
+        width: MediaQuery.of(context).size.width * 0.60, // 60% of screen width
+        // Increase the height or make it dynamic based on the content
         child: Card(
           child: Column(
+            mainAxisAlignment: MainAxisAlignment.spaceEvenly, // Adjust space distribution
             children: <Widget>[
-              Image.asset(item['photo']!),
-              Text(item['name']!),
-              if (item.containsKey('price')) Text(item['price']!),
+              Expanded(
+                child: Image.network(
+                  item['product_image_url'] ?? 'assets/logo.png',
+                  fit: BoxFit.cover,
+                ),
+              ),
+              Padding(
+                padding: EdgeInsets.symmetric(vertical: 4), // Add padding
+                child: Text(
+                  '${item['bs_price']}₺ before sale',
+                  style: TextStyle(color: Colors.black,fontSize: 16), // Adjust font size
+                ),
+              ),
+              Padding(
+                padding: EdgeInsets.symmetric(vertical: 4), // Add padding
+                child: Text(
+                  '${item['product_cheapest_price']}₺ now',
+                  style: TextStyle(color: Colors.blue,fontSize: 20), // Adjust font size
+                ),
+              ),
             ],
           ),
         ),
       ),
     );
   }
+/*
    // Build item card for carousel
   Widget buildItemCardRecipe(Map<String, String> item) {
     return Container(
@@ -139,223 +179,31 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
         ),
       ),
     );
-  }
-/*
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: const Text('PriceWise'),
-        elevation: 0, // Remove shadow if desired
-        automaticallyImplyLeading: false, // This will hide the back button
-      ),
-      body: SingleChildScrollView( // Wrap with SingleChildScrollView for proper scrolling
-        child: Column(
-          children: [
-            Padding(
-              padding: const EdgeInsets.all(16.0),
-              child: Container(
-                decoration: BoxDecoration(
-                  color: Colors.lightBlue[100],
-                  borderRadius: BorderRadius.circular(32), // Rounded corners
-                ),
-                child: TextField(
-                  controller: _searchController,
-                  decoration: InputDecoration(
-                    hintText: 'Search for items',
-                    border: InputBorder.none, // Remove underline
-                    contentPadding: const EdgeInsets.symmetric(horizontal: 20, vertical: 10), // Adjust field padding
-                    suffixIcon: IconButton(
-                      icon: const Icon(Icons.search),
-                      onPressed: () {
-                        // Implement search functionality based on _searchController.text
-                      },
-                    ),
-                  ),
-                  onSubmitted: (value) {
-                    // Implement what should happen when the user submits their search query
-                  },
-                ),
-              ),
-            ),
-
-            // Padding and title for sales
-            const Padding(
-              padding: EdgeInsets.all(10.0),
-              child: Align(
-                alignment: Alignment.centerLeft,
-                child: Text(
-                  '   Sales',
-                  style: TextStyle(
-                    color: Colors.black, // Change to your desired color
-                    fontWeight: FontWeight.bold, // Makes the text bold
-                    fontSize: 24, // Adjust the font size as needed
-                  ),
-                ),
-              ),
-            ),
-
-            // Sales carousel with custom box dimensions
-            CarouselSlider.builder(
-              itemCount: salesItems.length,
-              itemBuilder: (BuildContext context, int itemIndex, int pageViewIndex) =>
-                  buildItemCardSales(salesItems[itemIndex]),
-              options: CarouselOptions(
-                enlargeCenterPage: true,
-                viewportFraction: 0.40,
-                aspectRatio: 2.0, // Change this value to adjust width/height ratio
-                initialPage: 2,
-                autoPlay: false,
-              ),
-            ),
-
-            // Recipes section with background
-            Container(
-              margin: const EdgeInsets.all(10), // Outer margin for the entire Recipes section
-              decoration: BoxDecoration(
-                color: Colors.blue[50], // Light orange color for the background
-                borderRadius: BorderRadius.circular(20), // Rounded corners
-              ),
-              child: Column(
-                children: [
-                  const Padding(
-                    padding: EdgeInsets.all(8.0), // Padding for the title inside the container
-                    child: Align(
-                      alignment: Alignment.centerLeft,
-                      child: Text(
-                        'Recipes',
-                        style: TextStyle(
-                          color: Colors.black, // Custom color for the title
-                          fontWeight: FontWeight.bold, // Bold text
-                          fontSize: 24, // Custom font size
-                        ),
-                      ),
-                    ),
-                  ),
-                  CarouselSlider.builder(
-                    itemCount: recipeItems.length,
-                    itemBuilder: (BuildContext context, int itemIndex, int pageViewIndex) =>
-                        buildItemCardRecipe(recipeItems[itemIndex]),
-                    options: CarouselOptions(
-                      enlargeCenterPage: false,
-                      viewportFraction: 0.25,
-                      aspectRatio: 3.0, // Adjust width/height ratio
-                      initialPage: 2,
-                      autoPlay: false,
-                    ),
-                  ),
-                ],
-              ),
-            ),
-
-            // My Lists section with background
-            Container(
-              margin: const EdgeInsets.all(8), // Outer margin for the entire My Lists section
-              decoration: BoxDecoration(
-                color: Colors.blue[100], // Light orange color for the background
-                borderRadius: BorderRadius.circular(20), // Rounded corners
-              ),
-              child: Column(
-                children: [
-                  const Padding(
-                    padding: EdgeInsets.all(16.0), // Padding for the title inside the container
-                    child: Align(
-                      alignment: Alignment.centerLeft,
-                      child: Text(
-                        'My Lists',
-                        style: TextStyle(
-                          color: Colors.black, // Custom color for the title
-                          fontWeight: FontWeight.bold, // Bold text
-                          fontSize: 24, // Custom font size
-                        ),
-                      ),
-                    ),
-                  ),
-                  ListView.builder(
-                    shrinkWrap: true,
-                    physics: const NeverScrollableScrollPhysics(), // Disable ListView's scrolling
-                    itemCount: _shoppingLists.length,
-                    itemBuilder: (BuildContext context, int index) {
-                      final doc = _shoppingLists[index].data() as Map<String, dynamic>;
-                      return GestureDetector(
-                        onTap: () {
-                          String docId = _shoppingLists[index].id;
-                          Navigator.push(
-                            context,
-                            MaterialPageRoute(
-                              builder: (context) => ShoppingListDetailsPage(listId: docId),
-                            ),
-                          );
-                        },
-                        child: Container(
-                          margin: const EdgeInsets.symmetric(horizontal: 16, vertical: 8), // Margin for each list item
-                          height: 70,
-                          decoration: BoxDecoration(
-                            color: Colors.lightBlue[200],
-                            borderRadius: BorderRadius.circular(12),
-                          ),
-                          child: Row(
-                            children: [
-                              const Padding(
-                                padding: EdgeInsets.all(16),
-                                child: CircleAvatar(
-                                  backgroundColor: Colors.white,
-                                  child: Icon(Icons.list, color: Colors.blue),
-                                ),
-                              ),
-                              Expanded(
-                                child: Text(
-                                  doc['listName'],
-                                  style: const TextStyle(
-                                    fontWeight: FontWeight.bold,
-                                    fontSize: 22,
-                                    color: Colors.black,
-                                  ),
-                                ),
-                              ),
-                              IconButton(
-                                icon: const Icon(Icons.edit, color: Colors.black),
-                                onPressed: () {
-                                  // Handle edit button tap
-                                },
-                              ),
-                              IconButton(
-                                icon: const Icon(Icons.delete, color: Colors.red),
-                                onPressed: () {
-                                  String docId = _shoppingLists[index].id;
-                                  _deleteList(context, docId);
-                                },
-                              ),
-                            ],
-                          ),
-                        ),
-                      );
-                    },
-                  ),
-                ],
-              ),
-            ),
-
-          ],
+  }*/
+  Widget buildItemCardRecipe(DocumentSnapshot recipe) {
+    String recipeName = recipe.id; // Assuming the document ID is the recipe name
+    return GestureDetector(
+      onTap: () {
+        Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (context) => RecipeDetailsPage(recipeName: recipeName),
+          ),
+        );
+      },
+      child: Container(
+        width: MediaQuery.of(context).size.width * 0.3, // Adjust width as needed
+        child: Card(
+          child: Column(
+            children: <Widget>[
+              Image.asset('assets/${recipeName}.jpeg', fit: BoxFit.cover),
+              Text(recipeName, style: TextStyle(fontWeight: FontWeight.bold)),
+            ],
+          ),
         ),
       ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: () {
-          Navigator.push(
-            context,
-            MaterialPageRoute(
-              builder: (context) => const AddShoppingListPage(),
-            ),
-          );
-        },
-        child: const Icon(Icons.add),
-        backgroundColor: Colors.blue,
-      ),
-      floatingActionButtonLocation: FloatingActionButtonLocation.endFloat,
-      bottomNavigationBar: navigation_bar_bottom(context),
     );
   }
-}*/
 Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
@@ -411,15 +259,14 @@ Widget build(BuildContext context) {
 
             // Sales carousel with custom box dimensions
             CarouselSlider.builder(
-              itemCount: salesItems.length,
+              itemCount: _salesItems.length,
               itemBuilder: (BuildContext context, int itemIndex, int pageViewIndex) =>
-                  buildItemCardSales(salesItems[itemIndex]),
+                  buildItemCardSales(_salesItems[itemIndex]),
               options: CarouselOptions(
                 enlargeCenterPage: true,
                 viewportFraction: 0.40,
-                aspectRatio: 2.0, // Change this value to adjust width/height ratio
-                initialPage: 2,
-                autoPlay: false,
+                aspectRatio: 2.0,
+                autoPlay: true,
               ),
             ),
 
@@ -447,9 +294,9 @@ Widget build(BuildContext context) {
                     ),
                   ),
                   CarouselSlider.builder(
-                    itemCount: recipeItems.length,
+                    itemCount: _recipeItems.length,
                     itemBuilder: (BuildContext context, int itemIndex, int pageViewIndex) =>
-                        buildItemCardRecipe(recipeItems[itemIndex]),
+                        buildItemCardRecipe(_recipeItems[itemIndex]),
                     options: CarouselOptions(
                       enlargeCenterPage: false,
                       viewportFraction: 0.25,
