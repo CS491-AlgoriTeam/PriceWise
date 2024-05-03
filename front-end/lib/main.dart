@@ -48,6 +48,13 @@ Future main() async {
         defaultColor: Colors.blue,
         ledColor: Colors.white,
       ),
+      NotificationChannel(
+        channelKey: 'admin_channel', // Channel for admin notifications
+        channelName: 'Admin Notifications',
+        channelDescription: 'Notifications sent by the admin',
+        defaultColor: Colors.blue,
+        ledColor: Colors.white,
+      ),
     ],
     debug: true
   );
