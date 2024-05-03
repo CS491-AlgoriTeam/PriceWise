@@ -23,8 +23,13 @@ BottomNavigationBar navigation_bar_bottom(BuildContext context) {
         label: 'Profile',
       ),
     ],
+    unselectedItemColor: Colors.grey[850],  // Dark grey for unselected items
+    selectedItemColor: Colors.grey[850],    // Dark grey for the selected item
+    unselectedLabelStyle: TextStyle(color: Colors.grey[850]),  // Style for labels
+    selectedLabelStyle: TextStyle(color: Colors.grey[850]),
   );
 }
+
 
 /*void _navigateTo(BuildContext context, int index) {
   // Get the current route
