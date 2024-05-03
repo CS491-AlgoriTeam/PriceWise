@@ -23,16 +23,7 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
   List<DocumentSnapshot> _recipeItems = [];
   final TextEditingController _searchController =
       TextEditingController(); // Controller for search field
-  String? _selectedListId;
-
-  final TextEditingController _searchController = TextEditingController(); // Controller for search field
-
-  List<Map<String, String>> recipeItems = [
-    {'name': 'Recipe 1', 'photo': 'assets/logo.png'},
-    {'name': 'Recipe 2', 'photo': 'assets/logo.png'},
-    {'name': 'Recipe 3', 'photo': 'assets/logo.png'},
-    // Add more recipes...
-  ];
+  String _selectedListId = "";
 
   // Implement initState, _fetchShoppingLists, and _deleteList methods as before
   @override
@@ -141,7 +132,7 @@ Widget buildItemCardSales(DocumentSnapshot item) {
         Navigator.push(
             context,
             MaterialPageRoute(
-              builder: (context) => ItemDetailsPage(productData: item, mainCategory: main, subCategory: sub, subcategory2Name: sub2),
+              builder: (context) => ItemDetailsPage(productData: item, mainCategory: main, subCategory: sub, subcategory2Name: sub2, selectedListId: _selectedListId),
             ),
           );
       },
@@ -179,23 +170,6 @@ Widget buildItemCardSales(DocumentSnapshot item) {
       ),
     );
   }
-/*
-  Widget buildItemCardRecipe(Map<String, String> item) {
-    return Container(
-      width: MediaQuery.of(context).size.width *
-          0.3, // This is 80% of screen width
-      height: 100, // Example height, adjust as necessary
-      child: Card(
-        child: Column(
-          children: <Widget>[
-            Image.asset(item['photo']!),
-            Text(item['name']!),
-            if (item.containsKey('price')) Text(item['price']!),
-          ],
-        ),
-      ),
-    );
-  }*/
   Widget buildItemCardRecipe(DocumentSnapshot recipe) {
     String recipeName = recipe.id; // Assuming the document ID is the recipe name
     return GestureDetector(
@@ -216,210 +190,11 @@ Widget buildItemCardSales(DocumentSnapshot item) {
               Text(recipeName, style: TextStyle(fontWeight: FontWeight.bold)),
             ],
           ),
-  }
-
-/*
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: const Text('PriceWise'),
-        elevation: 0, // Remove shadow if desired
-        automaticallyImplyLeading: false, // This will hide the back button
-      ),
-      body: SingleChildScrollView( // Wrap with SingleChildScrollView for proper scrolling
-        child: Column(
-          children: [
-            Padding(
-              padding: const EdgeInsets.all(16.0),
-              child: Container(
-                decoration: BoxDecoration(
-                  color: Colors.lightBlue[100],
-                  borderRadius: BorderRadius.circular(32), // Rounded corners
-                ),
-                child: TextField(
-                  controller: _searchController,
-                  decoration: InputDecoration(
-                    hintText: 'Search for items',
-                    border: InputBorder.none, // Remove underline
-                    contentPadding: const EdgeInsets.symmetric(horizontal: 20, vertical: 10), // Adjust field padding
-                    suffixIcon: IconButton(
-                      icon: const Icon(Icons.search),
-                      onPressed: () {
-                        // Implement search functionality based on _searchController.text
-                      },
-                    ),
-                  ),
-                  onSubmitted: (value) {
-                    // Implement what should happen when the user submits their search query
-                  },
-                ),
-              ),
-            ),
-
-            // Padding and title for sales
-            const Padding(
-              padding: EdgeInsets.all(10.0),
-              child: Align(
-                alignment: Alignment.centerLeft,
-                child: Text(
-                  '   Sales',
-                  style: TextStyle(
-                    color: Colors.black, // Change to your desired color
-                    fontWeight: FontWeight.bold, // Makes the text bold
-                    fontSize: 24, // Adjust the font size as needed
-                  ),
-                ),
-              ),
-            ),
-
-            // Sales carousel with custom box dimensions
-            CarouselSlider.builder(
-              itemCount: salesItems.length,
-              itemBuilder: (BuildContext context, int itemIndex, int pageViewIndex) =>
-                  buildItemCardSales(salesItems[itemIndex]),
-              options: CarouselOptions(
-                enlargeCenterPage: true,
-                viewportFraction: 0.40,
-                aspectRatio: 2.0, // Change this value to adjust width/height ratio
-                initialPage: 2,
-                autoPlay: false,
-              ),
-            ),
-
-            // Recipes section with background
-            Container(
-              margin: const EdgeInsets.all(10), // Outer margin for the entire Recipes section
-              decoration: BoxDecoration(
-                color: Colors.blue[50], // Light orange color for the background
-                borderRadius: BorderRadius.circular(20), // Rounded corners
-              ),
-              child: Column(
-                children: [
-                  const Padding(
-                    padding: EdgeInsets.all(8.0), // Padding for the title inside the container
-                    child: Align(
-                      alignment: Alignment.centerLeft,
-                      child: Text(
-                        'Recipes',
-                        style: TextStyle(
-                          color: Colors.black, // Custom color for the title
-                          fontWeight: FontWeight.bold, // Bold text
-                          fontSize: 24, // Custom font size
-                        ),
-                      ),
-                    ),
-                  ),
-                  CarouselSlider.builder(
-                    itemCount: recipeItems.length,
-                    itemBuilder: (BuildContext context, int itemIndex, int pageViewIndex) =>
-                        buildItemCardRecipe(recipeItems[itemIndex]),
-                    options: CarouselOptions(
-                      enlargeCenterPage: false,
-                      viewportFraction: 0.25,
-                      aspectRatio: 3.0, // Adjust width/height ratio
-                      initialPage: 2,
-                      autoPlay: false,
-                    ),
-                  ),
-                ],
-              ),
-            ),
-
-            // My Lists section with background
-            Container(
-              margin: const EdgeInsets.all(8), // Outer margin for the entire My Lists section
-              decoration: BoxDecoration(
-                color: Colors.blue[100], // Light orange color for the background
-                borderRadius: BorderRadius.circular(20), // Rounded corners
-              ),
-              child: Column(
-                children: [
-                  const Padding(
-                    padding: EdgeInsets.all(16.0), // Padding for the title inside the container
-                    child: Align(
-                      alignment: Alignment.centerLeft,
-                      child: Text(
-                        'My Lists',
-                        style: TextStyle(
-                          color: Colors.black, // Custom color for the title
-                          fontWeight: FontWeight.bold, // Bold text
-                          fontSize: 24, // Custom font size
-                        ),
-                      ),
-                    ),
-                  ),
-                  ListView.builder(
-                    shrinkWrap: true,
-                    physics: const NeverScrollableScrollPhysics(), // Disable ListView's scrolling
-                    itemCount: _shoppingLists.length,
-                    itemBuilder: (BuildContext context, int index) {
-                      final doc = _shoppingLists[index].data() as Map<String, dynamic>;
-                      return GestureDetector(
-                        onTap: () {
-                          String docId = _shoppingLists[index].id;
-                          Navigator.push(
-                            context,
-                            MaterialPageRoute(
-                              builder: (context) => ShoppingListDetailsPage(listId: docId),
-                            ),
-                          );
-                        },
-                        child: Container(
-                          margin: const EdgeInsets.symmetric(horizontal: 16, vertical: 8), // Margin for each list item
-                          height: 70,
-                          decoration: BoxDecoration(
-                            color: Colors.lightBlue[200],
-                            borderRadius: BorderRadius.circular(12),
-                          ),
-                          child: Row(
-                            children: [
-                              const Padding(
-                                padding: EdgeInsets.all(16),
-                                child: CircleAvatar(
-                                  backgroundColor: Colors.white,
-                                  child: Icon(Icons.list, color: Colors.blue),
-                                ),
-                              ),
-                              Expanded(
-                                child: Text(
-                                  doc['listName'],
-                                  style: const TextStyle(
-                                    fontWeight: FontWeight.bold,
-                                    fontSize: 22,
-                                    color: Colors.black,
-                                  ),
-                                ),
-                              ),
-                              IconButton(
-                                icon: const Icon(Icons.edit, color: Colors.black),
-                                onPressed: () {
-                                  // Handle edit button tap
-                                },
-                              ),
-                              IconButton(
-                                icon: const Icon(Icons.delete, color: Colors.red),
-                                onPressed: () {
-                                  String docId = _shoppingLists[index].id;
-                                  _deleteList(context, docId);
-                                },
-                              ),
-                            ],
-                          ),
-                        ),
-                      );
-                    },
-                  ),
-                ],
-              ),
-            ),
-
-          ],
         ),
       ),
     );
   }
-}*/
+
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
