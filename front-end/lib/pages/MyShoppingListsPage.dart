@@ -7,6 +7,7 @@ import 'package:pwfe/pages/RecipeDetailsPage.dart';
 import 'package:pwfe/pages/ShoppingListDetailsPage.dart';
 import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
 import 'package:pwfe/pages/ShowItem.dart';
+import 'package:pwfe/pages/SearchProductsPage.dart';
 
 class MyShoppingLists extends StatefulWidget {
   MyShoppingLists({Key? key}) : super(key: key);
@@ -20,6 +21,9 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
   List<DocumentSnapshot> _shoppingLists = [];
   List<DocumentSnapshot> _salesItems = []; // List to store sales items
   List<DocumentSnapshot> _recipeItems = [];
+  final TextEditingController _searchController =
+      TextEditingController(); // Controller for search field
+  String? _selectedListId;
 
   final TextEditingController _searchController = TextEditingController(); // Controller for search field
 
@@ -71,8 +75,12 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
 
     try {
       // Step 1: Fetch the list to be deleted
-      DocumentSnapshot docSnapshot = await FirebaseFirestore.instance.collection('shoppingLists').doc(docId).get();
-      Map<String, dynamic> listData = docSnapshot.data() as Map<String, dynamic>;
+      DocumentSnapshot docSnapshot = await FirebaseFirestore.instance
+          .collection('shoppingLists')
+          .doc(docId)
+          .get();
+      Map<String, dynamic> listData =
+          docSnapshot.data() as Map<String, dynamic>;
 
       // Step 2: Add the list to 'deletedShoppingLists' with 'deletedAt'
       await FirebaseFirestore.instance.collection('deletedShoppingLists').add({
@@ -82,7 +90,8 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
       });
 
       // Step 3: Check and maintain only the 5 most recent deletions
-      final QuerySnapshot deletedListsSnapshot = await FirebaseFirestore.instance
+      final QuerySnapshot deletedListsSnapshot = await FirebaseFirestore
+          .instance
           .collection('deletedShoppingLists')
           .where('userId', isEqualTo: user.uid)
           .orderBy('deletedAt', descending: true)
@@ -90,17 +99,23 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
 
       if (deletedListsSnapshot.docs.length > 5) {
         // If more than 5, delete the oldest
-        await FirebaseFirestore.instance.collection('deletedShoppingLists').doc(deletedListsSnapshot.docs.last.id).delete();
+        await FirebaseFirestore.instance
+            .collection('deletedShoppingLists')
+            .doc(deletedListsSnapshot.docs.last.id)
+            .delete();
       }
 
       // Step 4: Delete the list from the original collection
-      await FirebaseFirestore.instance.collection('shoppingLists').doc(docId).delete();
+      await FirebaseFirestore.instance
+          .collection('shoppingLists')
+          .doc(docId)
+          .delete();
       if (user != null) {
-          _fetchShoppingLists();
-        }
+        _fetchShoppingLists();
+      }
 
       print("Shopping List Deleted and backup created");
-      
+
       // Optionally, refresh the list of shopping lists
       //_fetchShoppingLists(); // Call your method to refresh shopping lists if exists
     } catch (e) {
@@ -133,6 +148,7 @@ Widget buildItemCardSales(DocumentSnapshot item) {
       child: Container(
         width: MediaQuery.of(context).size.width * 0.60, // 60% of screen width
         // Increase the height or make it dynamic based on the content
+
         child: Card(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly, // Adjust space distribution
@@ -164,10 +180,10 @@ Widget buildItemCardSales(DocumentSnapshot item) {
     );
   }
 /*
-   // Build item card for carousel
   Widget buildItemCardRecipe(Map<String, String> item) {
     return Container(
-      width: MediaQuery.of(context).size.width * 0.3, // This is 80% of screen width
+      width: MediaQuery.of(context).size.width *
+          0.3, // This is 80% of screen width
       height: 100, // Example height, adjust as necessary
       child: Card(
         child: Column(
@@ -200,11 +216,11 @@ Widget buildItemCardSales(DocumentSnapshot item) {
               Text(recipeName, style: TextStyle(fontWeight: FontWeight.bold)),
             ],
           ),
-        ),
-      ),
-    );
   }
-Widget build(BuildContext context) {
+
+/*
+  @override
+  Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         title: const Text('PriceWise'),
@@ -259,14 +275,15 @@ Widget build(BuildContext context) {
 
             // Sales carousel with custom box dimensions
             CarouselSlider.builder(
-              itemCount: _salesItems.length,
+              itemCount: salesItems.length,
               itemBuilder: (BuildContext context, int itemIndex, int pageViewIndex) =>
-                  buildItemCardSales(_salesItems[itemIndex]),
+                  buildItemCardSales(salesItems[itemIndex]),
               options: CarouselOptions(
                 enlargeCenterPage: true,
                 viewportFraction: 0.40,
-                aspectRatio: 2.0,
-                autoPlay: true,
+                aspectRatio: 2.0, // Change this value to adjust width/height ratio
+                initialPage: 2,
+                autoPlay: false,
               ),
             ),
 
@@ -294,9 +311,213 @@ Widget build(BuildContext context) {
                     ),
                   ),
                   CarouselSlider.builder(
+                    itemCount: recipeItems.length,
+                    itemBuilder: (BuildContext context, int itemIndex, int pageViewIndex) =>
+                        buildItemCardRecipe(recipeItems[itemIndex]),
+                    options: CarouselOptions(
+                      enlargeCenterPage: false,
+                      viewportFraction: 0.25,
+                      aspectRatio: 3.0, // Adjust width/height ratio
+                      initialPage: 2,
+                      autoPlay: false,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+
+            // My Lists section with background
+            Container(
+              margin: const EdgeInsets.all(8), // Outer margin for the entire My Lists section
+              decoration: BoxDecoration(
+                color: Colors.blue[100], // Light orange color for the background
+                borderRadius: BorderRadius.circular(20), // Rounded corners
+              ),
+              child: Column(
+                children: [
+                  const Padding(
+                    padding: EdgeInsets.all(16.0), // Padding for the title inside the container
+                    child: Align(
+                      alignment: Alignment.centerLeft,
+                      child: Text(
+                        'My Lists',
+                        style: TextStyle(
+                          color: Colors.black, // Custom color for the title
+                          fontWeight: FontWeight.bold, // Bold text
+                          fontSize: 24, // Custom font size
+                        ),
+                      ),
+                    ),
+                  ),
+                  ListView.builder(
+                    shrinkWrap: true,
+                    physics: const NeverScrollableScrollPhysics(), // Disable ListView's scrolling
+                    itemCount: _shoppingLists.length,
+                    itemBuilder: (BuildContext context, int index) {
+                      final doc = _shoppingLists[index].data() as Map<String, dynamic>;
+                      return GestureDetector(
+                        onTap: () {
+                          String docId = _shoppingLists[index].id;
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                              builder: (context) => ShoppingListDetailsPage(listId: docId),
+                            ),
+                          );
+                        },
+                        child: Container(
+                          margin: const EdgeInsets.symmetric(horizontal: 16, vertical: 8), // Margin for each list item
+                          height: 70,
+                          decoration: BoxDecoration(
+                            color: Colors.lightBlue[200],
+                            borderRadius: BorderRadius.circular(12),
+                          ),
+                          child: Row(
+                            children: [
+                              const Padding(
+                                padding: EdgeInsets.all(16),
+                                child: CircleAvatar(
+                                  backgroundColor: Colors.white,
+                                  child: Icon(Icons.list, color: Colors.blue),
+                                ),
+                              ),
+                              Expanded(
+                                child: Text(
+                                  doc['listName'],
+                                  style: const TextStyle(
+                                    fontWeight: FontWeight.bold,
+                                    fontSize: 22,
+                                    color: Colors.black,
+                                  ),
+                                ),
+                              ),
+                              IconButton(
+                                icon: const Icon(Icons.edit, color: Colors.black),
+                                onPressed: () {
+                                  // Handle edit button tap
+                                },
+                              ),
+                              IconButton(
+                                icon: const Icon(Icons.delete, color: Colors.red),
+                                onPressed: () {
+                                  String docId = _shoppingLists[index].id;
+                                  _deleteList(context, docId);
+                                },
+                              ),
+                            ],
+                          ),
+                        ),
+                      );
+                    },
+                  ),
+                ],
+              ),
+            ),
+
+          ],
+        ),
+      ),
+    );
+  }
+}*/
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text('PriceWise'),
+        elevation: 0, // Remove shadow if desired
+        automaticallyImplyLeading: false, // This will hide the back button
+      ),
+      body: SingleChildScrollView(
+        // Wrap with SingleChildScrollView for proper scrolling
+        child: Column(
+          children: [
+            Padding(
+              padding: const EdgeInsets.all(16.0),
+              child: Container(
+                decoration: BoxDecoration(
+                  color: Colors.lightBlue[100],
+                  borderRadius: BorderRadius.circular(32), // Rounded corners
+                ),
+                child: TextField(
+                  controller: _searchController,
+                  decoration: InputDecoration(
+                    hintText: 'Search for items',
+                    border: InputBorder.none, // Remove underline
+                    contentPadding: const EdgeInsets.symmetric(
+                        horizontal: 20, vertical: 10), // Adjust field padding
+                    suffixIcon: IconButton(
+                      icon: const Icon(Icons.search),
+                      onPressed: () {
+                        // Implement search functionality based on _searchController.text
+                      },
+                    ),
+                  ),
+                  onSubmitted: (value) {
+                    // Implement what should happen when the user submits their search query
+                  },
+                ),
+              ),
+            ),
+
+            // Padding and title for sales
+            const Padding(
+              padding: EdgeInsets.all(10.0),
+              child: Align(
+                alignment: Alignment.centerLeft,
+                child: Text(
+                  '   Sales',
+                  style: TextStyle(
+                    color: Colors.black, // Change to your desired color
+                    fontWeight: FontWeight.bold, // Makes the text bold
+                    fontSize: 24, // Adjust the font size as needed
+                  ),
+                ),
+              ),
+            ),
+
+            // Sales carousel with custom box dimensions
+            CarouselSlider.builder(
+              itemCount: _salesItems.length,
+              itemBuilder: (BuildContext context, int itemIndex, int pageViewIndex) =>
+                  buildItemCardSales(_salesItems[itemIndex]),
+              options: CarouselOptions(
+                enlargeCenterPage: true,
+                viewportFraction: 0.40,
+                aspectRatio: 2.0,
+                autoPlay: true,
+              ),
+            ),
+
+            // Recipes section with background
+            Container(
+              margin: const EdgeInsets.all(
+                  10), // Outer margin for the entire Recipes section
+              decoration: BoxDecoration(
+                color: Colors.blue[50], // Light orange color for the background
+                borderRadius: BorderRadius.circular(20), // Rounded corners
+              ),
+              child: Column(
+                children: [
+                  const Padding(
+                    padding: EdgeInsets.all(
+                        8.0), // Padding for the title inside the container
+                    child: Align(
+                      alignment: Alignment.centerLeft,
+                      child: Text(
+                        'Recipes',
+                        style: TextStyle(
+                          color: Colors.black, // Custom color for the title
+                          fontWeight: FontWeight.bold, // Bold text
+                          fontSize: 24, // Custom font size
+                        ),
+                      ),
+                    ),
+                  ),
+                  CarouselSlider.builder(
                     itemCount: _recipeItems.length,
                     itemBuilder: (BuildContext context, int itemIndex, int pageViewIndex) =>
                         buildItemCardRecipe(_recipeItems[itemIndex]),
+
                     options: CarouselOptions(
                       enlargeCenterPage: false,
                       viewportFraction: 0.25,
@@ -336,27 +557,36 @@ Widget build(BuildContext context) {
                     physics: const NeverScrollableScrollPhysics(),
                     itemCount: _shoppingLists.length,
                     itemBuilder: (BuildContext context, int index) {
-                      final doc = _shoppingLists[index].data() as Map<String, dynamic>;
+                      final doc =
+                          _shoppingLists[index].data() as Map<String, dynamic>;
+                      final docId = _shoppingLists[index].id;
+                      final isSelected = docId == _selectedListId;
                       //IconData listIcon = IconData(doc['icon'], fontFamily: 'MaterialIcons'); // Extract icon data
                       //Color listColor = Color(doc['color']); // Extract color data
-                      IconData listIcon = IconData(doc['icon'] as int? ?? Icons.list.codePoint, fontFamily: 'MaterialIcons');
-                      Color listColor = Color(doc['color'] as int? ?? Colors.blue.value);
-                      
+                      IconData listIcon = IconData(
+                          doc['icon'] as int? ?? Icons.list.codePoint,
+                          fontFamily: 'MaterialIcons');
+                      Color listColor =
+                          Color(doc['color'] as int? ?? Colors.blue.value);
+
                       return GestureDetector(
                         onTap: () {
                           String docId = _shoppingLists[index].id;
                           Navigator.push(
                             context,
                             MaterialPageRoute(
-                              builder: (context) => ShoppingListDetailsPage(listId: docId),
+                              builder: (context) =>
+                                  ShoppingListDetailsPage(listId: docId),
                             ),
                           );
                         },
                         child: Container(
-                          margin: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                          margin: const EdgeInsets.symmetric(
+                              horizontal: 16, vertical: 8),
                           height: 70,
                           decoration: BoxDecoration(
-                            color: listColor.withOpacity(0.2), // Use the list color with some transparency
+                            color: listColor.withOpacity(
+                                0.2), // Use the list color with some transparency
                             borderRadius: BorderRadius.circular(12),
                           ),
                           child: Row(
@@ -364,8 +594,10 @@ Widget build(BuildContext context) {
                               Padding(
                                 padding: const EdgeInsets.all(16),
                                 child: CircleAvatar(
-                                  backgroundColor: listColor, // Use the list color
-                                  child: Icon(listIcon, color: Colors.white), // Display the icon
+                                  backgroundColor:
+                                      listColor, // Use the list color
+                                  child: Icon(listIcon,
+                                      color: Colors.white), // Display the icon
                                 ),
                               ),
                               Expanded(
@@ -379,16 +611,28 @@ Widget build(BuildContext context) {
                                 ),
                               ),
                               IconButton(
-                                icon: const Icon(Icons.edit, color: Colors.black),
+                                icon:
+                                    const Icon(Icons.edit, color: Colors.black),
                                 onPressed: () {
                                   // Handle edit button tap
                                 },
                               ),
                               IconButton(
-                                icon: const Icon(Icons.delete, color: Colors.red),
+                                icon:
+                                    const Icon(Icons.delete, color: Colors.red),
                                 onPressed: () {
-                                  String docId = _shoppingLists[index].id;
                                   _deleteList(context, docId);
+                                },
+                              ),
+                              // Selection button with toggle functionality
+                              IconButton(
+                                icon: isSelected
+                                    ? const Icon(Icons.check_circle,
+                                        color: Colors.green)
+                                    : const Icon(Icons.radio_button_unchecked),
+                                onPressed: () {
+                                  _handleListSelection(
+                                      docId); // Update selected list ID
                                 },
                               ),
                             ],
@@ -417,6 +661,20 @@ Widget build(BuildContext context) {
       ),
       floatingActionButtonLocation: FloatingActionButtonLocation.endFloat,
       bottomNavigationBar: navigation_bar_bottom(context),
+    );
+  }
+
+  void _handleListSelection(String selectedListId) {
+    setState(() {
+      _selectedListId = selectedListId;
+    });
+
+    //dogrudan explorea yonlendiriliyor silinecek
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) => SearchPage(selectedListId: selectedListId),
+      ),
     );
   }
 }
