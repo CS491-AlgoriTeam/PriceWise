@@ -45,7 +45,7 @@ class ItemDetailsPage extends StatelessWidget {
       body: SingleChildScrollView(
         child: Column(
           children: [
-            // Item information container
+            // Item information containers
             Container(
               padding: EdgeInsets.all(16),
               margin: EdgeInsets.all(16.0),

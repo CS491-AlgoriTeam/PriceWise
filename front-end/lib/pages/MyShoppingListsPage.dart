@@ -455,15 +455,18 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
 
             // My Lists section with background
             Container(
-              margin: const EdgeInsets.all(8),
+              margin: const EdgeInsets.all(
+                  8), // Outer margin for the entire My Lists section
               decoration: BoxDecoration(
-                color: Colors.blue[100],
-                borderRadius: BorderRadius.circular(20),
+                color:
+                    Colors.blue[100], // Light orange color for the background
+                borderRadius: BorderRadius.circular(20), // Rounded corners
               ),
               child: Column(
                 children: [
                   const Padding(
-                    padding: EdgeInsets.all(16.0),
+                    padding: EdgeInsets.all(
+                        16.0), // Padding for the title inside the container
                     child: Align(
                       alignment: Alignment.centerLeft,
                       child: Text(
@@ -478,7 +481,8 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
                   ),
                   ListView.builder(
                     shrinkWrap: true,
-                    physics: const NeverScrollableScrollPhysics(),
+                    physics:
+                        const NeverScrollableScrollPhysics(), // Disable ListView's scrolling
                     itemCount: _shoppingLists.length,
                     itemBuilder: (BuildContext context, int index) {
                       final doc =

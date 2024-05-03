@@ -160,11 +160,13 @@ import 'package:pwfe/components/buttons/button_blue_lighter_rounded.dart';
 import 'package:pwfe/pages/ShowSuggestedListsPage.dart';
 
 class ShoppingListDetailsPage extends StatefulWidget {
-  final String listId; // Assuming you pass the specific list ID when navigating to this page.
+  final String
+      listId; // Assuming you pass the specific list ID when navigating to this page.
   ShoppingListDetailsPage({Key? key, required this.listId}) : super(key: key);
 
   @override
-  _ShoppingListDetailsPageState createState() => _ShoppingListDetailsPageState();
+  _ShoppingListDetailsPageState createState() =>
+      _ShoppingListDetailsPageState();
 }
 
 class _ShoppingListDetailsPageState extends State<ShoppingListDetailsPage> {
@@ -179,7 +181,12 @@ class _ShoppingListDetailsPageState extends State<ShoppingListDetailsPage> {
 
   void _fetchShoppingListItems() async {
     // Assuming your items are stored in a subcollection or referenced by ID within each shopping list document
-    FirebaseFirestore.instance.collection('shoppingLists').doc(widget.listId).collection('items').snapshots().listen((snapshot) {
+    FirebaseFirestore.instance
+        .collection('shoppingLists')
+        .doc(widget.listId)
+        .collection('items')
+        .snapshots()
+        .listen((snapshot) {
       double tempTotal = 0;
       List<Map<String, dynamic>> tempList = [];
       for (var doc in snapshot.docs) {
@@ -199,9 +206,19 @@ class _ShoppingListDetailsPageState extends State<ShoppingListDetailsPage> {
   void _updateItemAmount(String itemId, int amount) {
     // Check if the amount is zero for deletion, else update
     if (amount <= 0) {
-      FirebaseFirestore.instance.collection('shoppingLists').doc(widget.listId).collection('items').doc(itemId).delete();
+      FirebaseFirestore.instance
+          .collection('shoppingLists')
+          .doc(widget.listId)
+          .collection('items')
+          .doc(itemId)
+          .delete();
     } else {
-      FirebaseFirestore.instance.collection('shoppingLists').doc(widget.listId).collection('items').doc(itemId).update({'amount': amount});
+      FirebaseFirestore.instance
+          .collection('shoppingLists')
+          .doc(widget.listId)
+          .collection('items')
+          .doc(itemId)
+          .update({'amount': amount});
     }
   }
 
@@ -235,7 +252,8 @@ class _ShoppingListDetailsPageState extends State<ShoppingListDetailsPage> {
                       child: Icon(Icons.shopping_cart, color: Colors.blue),
                     ),
                     title: Text(item['name']),
-                    subtitle: Text('Amount: ${item['amount']}   Price: \$${item['price'].toStringAsFixed(2)}'),
+                    subtitle: Text(
+                        'Amount: ${item['amount']}   Price: \$${item['price'].toStringAsFixed(2)}'),
                     trailing: Row(
                       mainAxisSize: MainAxisSize.min,
                       children: <Widget>[
@@ -278,17 +296,20 @@ class _ShoppingListDetailsPageState extends State<ShoppingListDetailsPage> {
             padding: EdgeInsets.all(16),
             child: ElevatedButton(
               onPressed: () {
-                Navigator.push(context, MaterialPageRoute(builder: (context) => const ShowSuggestedListsPage()));
+                Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                        builder: (context) => const ShowSuggestedListsPage()));
               },
               child: Text('Show Suggestions'),
-              style: ElevatedButton.styleFrom(
+              /*style: ElevatedButton.styleFrom(
                 primary: Colors.lightBlue,
                 onPrimary: Colors.white,
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(30),
                 ),
                 padding: EdgeInsets.symmetric(horizontal: 50, vertical: 15),
-              ),
+              ),*/
             ),
           ),
         ],

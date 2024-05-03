@@ -56,7 +56,7 @@ BottomNavigationBar navigation_bar_bottom(BuildContext context) {
 }
 */
 
-// does not check if already on the page
+// does not check if already on the pages
 // need to be changed
 //tamamen degisecek
 void _navigateTo(BuildContext context, int index) {
