@@ -305,7 +305,7 @@ Widget buildItemCardSales(DocumentSnapshot item) {
               ),
             ),
             // My Lists section with background
-            Container(
+            /*Container(
               margin: const EdgeInsets.all(8),
               decoration: BoxDecoration(
                 color: Colors.blue[100],
@@ -326,7 +326,45 @@ Widget buildItemCardSales(DocumentSnapshot item) {
                         ),
                       ),
                     ),
-                  ),
+                  ),*/
+                  // My Lists section with adjusted title row
+                  Container(
+                    margin: const EdgeInsets.all(8),
+                    decoration: BoxDecoration(
+                      color: Colors.blue[100],
+                      borderRadius: BorderRadius.circular(20),
+                    ),
+                    child: Column(
+                      children: [
+                        Padding(
+                          padding: const EdgeInsets.all(16.0),
+                          child: Row(
+                            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                            children: [
+                              Text(
+                                'My Lists',
+                                style: TextStyle(
+                                  color: Colors.black,
+                                  fontWeight: FontWeight.bold,
+                                  fontSize: 24,
+                                ),
+                              ),
+                              FloatingActionButton(
+                                onPressed: () {
+                                  Navigator.push(
+                                    context,
+                                    MaterialPageRoute(
+                                      builder: (context) => const AddShoppingListPage(),
+                                    ),
+                                  );
+                                },
+                                child: Icon(Icons.add),
+                                backgroundColor: Colors.blue,
+                                mini: true,  // Use mini FAB for better fitting
+                              ),
+                            ],
+                          ),
+                        ),
                   ListView.builder(
                     shrinkWrap: true,
                     physics: const NeverScrollableScrollPhysics(),
@@ -422,7 +460,7 @@ Widget buildItemCardSales(DocumentSnapshot item) {
           ],
         ),
       ),
-      floatingActionButton: FloatingActionButton(
+      /*floatingActionButton: FloatingActionButton(
         onPressed: () {
           Navigator.push(
             context,
@@ -434,7 +472,7 @@ Widget buildItemCardSales(DocumentSnapshot item) {
         child: const Icon(Icons.add),
         backgroundColor: Colors.blue,
       ),
-      floatingActionButtonLocation: FloatingActionButtonLocation.endFloat,
+      floatingActionButtonLocation: FloatingActionButtonLocation.endFloat,*/
       bottomNavigationBar: navigation_bar_bottom(context),
     );
   }
