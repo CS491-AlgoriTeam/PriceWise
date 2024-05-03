@@ -171,6 +171,7 @@ import 'package:pwfe/pages/AddShoppingListPage.dart';
 import 'package:pwfe/pages/ShoppingListDetailsPage.dart';
 import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
 import 'package:pwfe/pages/ShowItem.dart';
+import 'package:pwfe/pages/SearchProductsPage.dart';
 
 class MyShoppingLists extends StatefulWidget {
   MyShoppingLists({Key? key}) : super(key: key);
@@ -182,7 +183,9 @@ class MyShoppingLists extends StatefulWidget {
 class _MyShoppingListsState extends State<MyShoppingLists> {
   final User? user = FirebaseAuth.instance.currentUser;
   List<DocumentSnapshot> _shoppingLists = [];
-  final TextEditingController _searchController = TextEditingController(); // Controller for search field
+  final TextEditingController _searchController =
+      TextEditingController(); // Controller for search field
+  String? _selectedListId;
 
   // Example data for "sales" and "recipes", replace with your actual data source
   List<Map<String, String>> salesItems = [
@@ -228,8 +231,12 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
 
     try {
       // Step 1: Fetch the list to be deleted
-      DocumentSnapshot docSnapshot = await FirebaseFirestore.instance.collection('shoppingLists').doc(docId).get();
-      Map<String, dynamic> listData = docSnapshot.data() as Map<String, dynamic>;
+      DocumentSnapshot docSnapshot = await FirebaseFirestore.instance
+          .collection('shoppingLists')
+          .doc(docId)
+          .get();
+      Map<String, dynamic> listData =
+          docSnapshot.data() as Map<String, dynamic>;
 
       // Step 2: Add the list to 'deletedShoppingLists' with 'deletedAt'
       await FirebaseFirestore.instance.collection('deletedShoppingLists').add({
@@ -239,7 +246,8 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
       });
 
       // Step 3: Check and maintain only the 5 most recent deletions
-      final QuerySnapshot deletedListsSnapshot = await FirebaseFirestore.instance
+      final QuerySnapshot deletedListsSnapshot = await FirebaseFirestore
+          .instance
           .collection('deletedShoppingLists')
           .where('userId', isEqualTo: user.uid)
           .orderBy('deletedAt', descending: true)
@@ -247,23 +255,30 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
 
       if (deletedListsSnapshot.docs.length > 5) {
         // If more than 5, delete the oldest
-        await FirebaseFirestore.instance.collection('deletedShoppingLists').doc(deletedListsSnapshot.docs.last.id).delete();
+        await FirebaseFirestore.instance
+            .collection('deletedShoppingLists')
+            .doc(deletedListsSnapshot.docs.last.id)
+            .delete();
       }
 
       // Step 4: Delete the list from the original collection
-      await FirebaseFirestore.instance.collection('shoppingLists').doc(docId).delete();
+      await FirebaseFirestore.instance
+          .collection('shoppingLists')
+          .doc(docId)
+          .delete();
       if (user != null) {
-          _fetchShoppingLists();
-        }
+        _fetchShoppingLists();
+      }
 
       print("Shopping List Deleted and backup created");
-      
+
       // Optionally, refresh the list of shopping lists
       //_fetchShoppingLists(); // Call your method to refresh shopping lists if exists
     } catch (e) {
       print("Error handling shopping list deletion: $e");
     }
   }
+
   // Build item card for carousel
   /*Widget buildItemCardSales(Map<String, String> item) {
     return Container(
@@ -282,15 +297,16 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
   }*/
   Widget buildItemCardSales(Map<String, String> item) {
     return GestureDetector(
-      onTap: () {
+      /*onTap: () {
         // Navigate to the ItemDetailsPage
         Navigator.push(
           context,
           MaterialPageRoute(builder: (context) => ItemDetailsPage(item: item)),
         );
-      },
+      },*/
       child: Container(
-        width: MediaQuery.of(context).size.width * 0.60, // This is 80% of screen width
+        width: MediaQuery.of(context).size.width *
+            0.60, // This is 80% of screen width
         height: 200, // Example height, adjust as necessary
         child: Card(
           child: Column(
@@ -304,10 +320,12 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
       ),
     );
   }
-   // Build item card for carousel
+
+  // Build item card for carousel
   Widget buildItemCardRecipe(Map<String, String> item) {
     return Container(
-      width: MediaQuery.of(context).size.width * 0.3, // This is 80% of screen width
+      width: MediaQuery.of(context).size.width *
+          0.3, // This is 80% of screen width
       height: 100, // Example height, adjust as necessary
       child: Card(
         child: Column(
@@ -329,7 +347,8 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
         elevation: 0, // Remove shadow if desired
         automaticallyImplyLeading: false, // This will hide the back button
       ),
-      body: SingleChildScrollView( // Wrap with SingleChildScrollView for proper scrolling
+      body: SingleChildScrollView(
+        // Wrap with SingleChildScrollView for proper scrolling
         child: Column(
           children: [
             Padding(
@@ -344,7 +363,8 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
                   decoration: InputDecoration(
                     hintText: 'Search for items',
                     border: InputBorder.none, // Remove underline
-                    contentPadding: const EdgeInsets.symmetric(horizontal: 20, vertical: 10), // Adjust field padding
+                    contentPadding: const EdgeInsets.symmetric(
+                        horizontal: 20, vertical: 10), // Adjust field padding
                     suffixIcon: IconButton(
                       icon: const Icon(Icons.search),
                       onPressed: () {
@@ -378,12 +398,14 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
             // Sales carousel with custom box dimensions
             CarouselSlider.builder(
               itemCount: salesItems.length,
-              itemBuilder: (BuildContext context, int itemIndex, int pageViewIndex) =>
-                  buildItemCardSales(salesItems[itemIndex]),
+              itemBuilder:
+                  (BuildContext context, int itemIndex, int pageViewIndex) =>
+                      buildItemCardSales(salesItems[itemIndex]),
               options: CarouselOptions(
                 enlargeCenterPage: true,
                 viewportFraction: 0.40,
-                aspectRatio: 2.0, // Change this value to adjust width/height ratio
+                aspectRatio:
+                    2.0, // Change this value to adjust width/height ratio
                 initialPage: 2,
                 autoPlay: false,
               ),
@@ -391,7 +413,8 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
 
             // Recipes section with background
             Container(
-              margin: const EdgeInsets.all(10), // Outer margin for the entire Recipes section
+              margin: const EdgeInsets.all(
+                  10), // Outer margin for the entire Recipes section
               decoration: BoxDecoration(
                 color: Colors.blue[50], // Light orange color for the background
                 borderRadius: BorderRadius.circular(20), // Rounded corners
@@ -399,7 +422,8 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
               child: Column(
                 children: [
                   const Padding(
-                    padding: EdgeInsets.all(8.0), // Padding for the title inside the container
+                    padding: EdgeInsets.all(
+                        8.0), // Padding for the title inside the container
                     child: Align(
                       alignment: Alignment.centerLeft,
                       child: Text(
@@ -414,7 +438,8 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
                   ),
                   CarouselSlider.builder(
                     itemCount: recipeItems.length,
-                    itemBuilder: (BuildContext context, int itemIndex, int pageViewIndex) =>
+                    itemBuilder: (BuildContext context, int itemIndex,
+                            int pageViewIndex) =>
                         buildItemCardRecipe(recipeItems[itemIndex]),
                     options: CarouselOptions(
                       enlargeCenterPage: false,
@@ -430,45 +455,50 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
 
             // My Lists section with background
             Container(
-              margin: const EdgeInsets.all(8), // Outer margin for the entire My Lists section
+              margin: const EdgeInsets.all(8),
               decoration: BoxDecoration(
-                color: Colors.blue[100], // Light orange color for the background
-                borderRadius: BorderRadius.circular(20), // Rounded corners
+                color: Colors.blue[100],
+                borderRadius: BorderRadius.circular(20),
               ),
               child: Column(
                 children: [
                   const Padding(
-                    padding: EdgeInsets.all(16.0), // Padding for the title inside the container
+                    padding: EdgeInsets.all(16.0),
                     child: Align(
                       alignment: Alignment.centerLeft,
                       child: Text(
                         'My Lists',
                         style: TextStyle(
-                          color: Colors.black, // Custom color for the title
-                          fontWeight: FontWeight.bold, // Bold text
-                          fontSize: 24, // Custom font size
+                          color: Colors.black,
+                          fontWeight: FontWeight.bold,
+                          fontSize: 24,
                         ),
                       ),
                     ),
                   ),
                   ListView.builder(
                     shrinkWrap: true,
-                    physics: const NeverScrollableScrollPhysics(), // Disable ListView's scrolling
+                    physics: const NeverScrollableScrollPhysics(),
                     itemCount: _shoppingLists.length,
                     itemBuilder: (BuildContext context, int index) {
-                      final doc = _shoppingLists[index].data() as Map<String, dynamic>;
+                      final doc =
+                          _shoppingLists[index].data() as Map<String, dynamic>;
+                      final docId = _shoppingLists[index].id;
+                      final isSelected = docId == _selectedListId;
+
                       return GestureDetector(
                         onTap: () {
-                          String docId = _shoppingLists[index].id;
                           Navigator.push(
                             context,
                             MaterialPageRoute(
-                              builder: (context) => ShoppingListDetailsPage(listId: docId),
+                              builder: (context) =>
+                                  ShoppingListDetailsPage(listId: docId),
                             ),
                           );
                         },
                         child: Container(
-                          margin: const EdgeInsets.symmetric(horizontal: 16, vertical: 8), // Margin for each list item
+                          margin: const EdgeInsets.symmetric(
+                              horizontal: 16, vertical: 8),
                           height: 70,
                           decoration: BoxDecoration(
                             color: Colors.lightBlue[200],
@@ -494,16 +524,27 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
                                 ),
                               ),
                               IconButton(
-                                icon: const Icon(Icons.edit, color: Colors.black),
+                                icon:
+                                    const Icon(Icons.edit, color: Colors.black),
                                 onPressed: () {
                                   // Handle edit button tap
                                 },
                               ),
                               IconButton(
-                                icon: const Icon(Icons.delete, color: Colors.red),
+                                icon:
+                                    const Icon(Icons.delete, color: Colors.red),
                                 onPressed: () {
-                                  String docId = _shoppingLists[index].id;
                                   _deleteList(context, docId);
+                                },
+                              ),
+                              // selection
+                              IconButton(
+                                icon: isSelected
+                                    ? const Icon(Icons.check_circle,
+                                        color: Colors.green)
+                                    : const Icon(Icons.radio_button_unchecked),
+                                onPressed: () {
+                                  _handleListSelection(docId);
                                 },
                               ),
                             ],
@@ -515,7 +556,6 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
                 ],
               ),
             ),
-
           ],
         ),
       ),
@@ -533,6 +573,21 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
       ),
       floatingActionButtonLocation: FloatingActionButtonLocation.endFloat,
       bottomNavigationBar: navigation_bar_bottom(context),
+    );
+  }
+
+  //update
+  void _handleListSelection(String selectedListId) {
+    setState(() {
+      _selectedListId = selectedListId;
+    });
+
+    // direkt explorea yonlendiriyor silinecek.
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) => SearchPage(selectedListId: selectedListId),
+      ),
     );
   }
 }

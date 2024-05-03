@@ -1,35 +1,43 @@
 import 'package:flutter/material.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
+import 'package:pwfe/pages/SubCategoryPage.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 
 class ItemDetailsPage extends StatelessWidget {
-  final Map<String, String> item;
+  final DocumentSnapshot productData;
+  final String mainCategory;
+  final String subCategory;
+  final String subcategory2Name;
+  final String selectedListId;
 
-  ItemDetailsPage({Key? key, required this.item}) : super(key: key);
-  
-  final Map<String, dynamic> itemData = {
-    'name': 'Gala Apples',
-    'photoUrl': 'assets/apples.png', // Add your local or network image path
-    'cheapestPrice': 30.90,
-    'detail': '1 lb bag of fresh Gala apples'
-  };
+  ItemDetailsPage({
+    Key? key,
+    required this.productData,
+    required this.mainCategory,
+    required this.subCategory,
+    required this.subcategory2Name,
+    required this.selectedListId,
+  }) : super(key: key);
 
-  final List<Map<String, String>> otherSellers = [
-    {'name': 'Sellers 1', 'price': '31.50'},
-    {'name': 'Sellers 2', 'price': '32.00'},
-    // Add more sellers if needed
-  ];
-
-  final List<String> similarProductImages = [
-    'assets/product1.png', // Add your local or network image paths
-    'assets/product2.png',
-    'assets/product3.png',
-    // Add more product images if needed
-  ];
-
-  // Same local data as before...
-
-   @override
+  @override
   Widget build(BuildContext context) {
+    Map<String, dynamic>? features =
+        productData['features'] as Map<String, dynamic>?;
+
+    String totalWeight = features?['Toplam Ağırlık'] as String? ?? '';
+    String productType = features?['Ürün Tipi'] as String? ?? '';
+
+    String displayText = '';
+    if (totalWeight.isNotEmpty && productType.isNotEmpty) {
+      displayText = 'Toplam Ağırlık: $totalWeight, Ürün Tipi: $productType';
+    } else if (totalWeight.isNotEmpty) {
+      displayText = 'Toplam Ağırlık: $totalWeight';
+    } else if (productType.isNotEmpty) {
+      displayText = 'Ürün Tipi: $productType';
+    } else {
+      displayText = '   ';
+    }
     return Scaffold(
       appBar: AppBar(
         title: Text('PriceWise'),
@@ -54,15 +62,17 @@ class ItemDetailsPage extends StatelessWidget {
                       height: 120.0,
                       width: double.infinity,
                       decoration: BoxDecoration(
-                        color: Colors.grey[300], // Placeholder color
+                        color: Colors.grey[300],
                         borderRadius: BorderRadius.circular(12.0),
                       ),
                       child: ClipRRect(
                         borderRadius: BorderRadius.circular(12.0),
-                        child: Image.asset(
-                          item['photoUrl'] ?? 'assets/default.png', // Fallback to a default asset if necessary
-                          fit: BoxFit.cover,
-                        ),
+                        child: productData['product_image_url'] != null &&
+                                productData['product_image_url'].isNotEmpty
+                            ? Image.network(productData['product_image_url'],
+                                fit: BoxFit.cover)
+                            : Image.asset('assets/default.png',
+                                fit: BoxFit.cover),
                       ),
                     ),
                   ),
@@ -72,28 +82,35 @@ class ItemDetailsPage extends StatelessWidget {
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text(item['name'] ?? 'Item Name', style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold)),
-                        Text('\$${item['cheapestPrice']}',
-                            style: TextStyle(fontSize: 16, fontWeight: FontWeight.w500)),
-                        Text(item['detail'] ?? 'Item Details', style: TextStyle(fontSize: 16)),
+                        Text(productData['product_name'] ?? 'Item Name',
+                            style: TextStyle(
+                                fontSize: 24, fontWeight: FontWeight.bold)),
+                        Text(
+                            '${productData['product_cheapest_price'].toStringAsFixed(2)}\₺',
+                            style: TextStyle(fontSize: 30)),
+                        Text(displayText, style: TextStyle(fontSize: 16)),
                       ],
                     ),
                   ),
                 ],
               ),
             ),
-            buildSectionContainer(context, 'Other Sellers', buildSellersList(otherSellers)),
-            buildSectionContainer(context, 'Similar Products', buildSimilarProductsGrid(similarProductImages)),
+            buildSectionContainer(
+                context, 'Other Sellers', buildSellersList(productData)),
+            buildSectionContainer(context, 'Similar Products',
+                buildSimilarProductsGrid(context, productData)),
             SizedBox(height: 20),
             Padding(
               padding: EdgeInsets.symmetric(horizontal: 16.0),
               child: ElevatedButton(
                 onPressed: () {
-                  // TODO: Implement add to list functionality
+                  _addProductToShoppingList(
+                    productData.data() as Map<String, dynamic>,
+                    selectedListId,
+                  );
                 },
                 child: Text('Add to List'),
                 style: ElevatedButton.styleFrom(
-                  primary: Colors.blue[300],
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(20),
                   ),
@@ -108,7 +125,8 @@ class ItemDetailsPage extends StatelessWidget {
     );
   }
 
-  Widget buildSectionContainer(BuildContext context, String title, Widget child) {
+  Widget buildSectionContainer(
+      BuildContext context, String title, Widget child) {
     return Container(
       decoration: BoxDecoration(
         color: Colors.lightBlue[50],
@@ -121,7 +139,8 @@ class ItemDetailsPage extends StatelessWidget {
         children: [
           Padding(
             padding: EdgeInsets.only(bottom: 8),
-            child: Text(title, style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
+            child: Text(title,
+                style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
           ),
           child,
         ],
@@ -129,39 +148,206 @@ class ItemDetailsPage extends StatelessWidget {
     );
   }
 
-  Widget buildSellersList(List<Map<String, String>> sellers) {
+  Widget buildSellersList(DocumentSnapshot product) {
+    List<dynamic> sellers = product['market_product_array'] ?? [];
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
-      children: [
-        Padding(
-          padding: EdgeInsets.all(16),
-          child: Text('Other Sellers', style: TextStyle(fontWeight: FontWeight.bold)),
-        ),
-        ...sellers.map((seller) => ListTile(
-          title: Text(seller['name']!),
-          trailing: Text(seller['price']!),
-        )).toList(),
-      ],
+      children: sellers.map<Widget>((seller) {
+        return ListTile(
+          title: Text(seller['market']),
+          trailing: Text('${seller['price'].toString()}\₺'),
+        );
+      }).toList(),
     );
   }
 
-  Widget buildSimilarProductsGrid(List<String> productImages) {
-    return Column(
-      crossAxisAlignment: CrossAxisAlignment.start,
-      children: [
-        Padding(
-          padding: EdgeInsets.all(16),
-          child: Text('Similar Products', style: TextStyle(fontWeight: FontWeight.bold)),
-        ),
-        GridView.count(
-          shrinkWrap: true,
-          physics: NeverScrollableScrollPhysics(), // to disable GridView's scrolling
-          crossAxisCount: 3,
-          children: productImages.map((imageUrl) => Card(
-            child: Image.asset(imageUrl, fit: BoxFit.cover),
-          )).toList(),
-        ),
-      ],
+  Widget buildSimilarProductsGrid(
+      BuildContext context, DocumentSnapshot productData) {
+    List<dynamic> similarProducts = productData['similar_product_array'] ?? [];
+
+    return GridView.builder(
+      shrinkWrap: true,
+      physics: NeverScrollableScrollPhysics(),
+      gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+        crossAxisCount: 4,
+        childAspectRatio: 5 / 6,
+        crossAxisSpacing: 1,
+        mainAxisSpacing: 1,
+      ),
+      itemCount: similarProducts.length,
+      itemBuilder: (context, index) {
+        String productName = similarProducts[index]['product_name']
+            .replaceAll("Similar Product: ", "");
+        productName = productName.replaceAll(",", "");
+        productName = productName.replaceAll("'", "");
+
+        print(productName);
+        return FutureBuilder<DocumentSnapshot?>(
+          future: fetchProductDetails(productName),
+          builder: (context, snapshot) {
+            if (snapshot.connectionState == ConnectionState.waiting) {
+              return Center(child: CircularProgressIndicator());
+            }
+            if (!snapshot.hasData) {
+              return Center(child: Text('No data available'));
+            }
+            if (snapshot.error != null) {
+              return Center(child: Text('Error loading data'));
+            }
+            DocumentSnapshot? productDetails = snapshot.data;
+            if (productDetails != null) {
+              return buildProductItem(context, productDetails);
+            } else {
+              return Center(child: Text('Product not found'));
+            }
+          },
+        );
+      },
     );
+  }
+
+  Future<DocumentSnapshot?> fetchProductDetails(String productName) async {
+    try {
+      var querySnapshot = await FirebaseFirestore.instance
+          .collection('allProducts')
+          .doc(mainCategory)
+          .collection(subCategory)
+          .doc(subcategory2Name)
+          .collection('Products')
+          .where('product_name', isEqualTo: productName)
+          .limit(1)
+          .get();
+
+      if (querySnapshot.docs.isNotEmpty) {
+        return querySnapshot.docs.first;
+      } else {
+        print("No document found for product name:$productName");
+        print(subcategory2Name);
+        return null;
+      }
+    } catch (e) {
+      print("Error fetching product details: $e");
+      return null;
+    }
+  }
+
+  Widget buildProductItem(BuildContext context, DocumentSnapshot product) {
+    String productName = product.id;
+    String? productImageUrl = product['product_image_url'];
+    String displayName =
+        productName.length > 14 ? productName.substring(0, 14) : productName;
+
+    String defaultImageAssetPath = 'assets/logo.png';
+
+    Widget imageWidget = (productImageUrl != null && productImageUrl.isNotEmpty)
+        ? Image.network(
+            productImageUrl,
+            fit: BoxFit.cover,
+            errorBuilder: (BuildContext context, Object exception,
+                StackTrace? stackTrace) {
+              return Image.asset(defaultImageAssetPath, fit: BoxFit.cover);
+            },
+          )
+        : Image.asset(defaultImageAssetPath, fit: BoxFit.cover);
+
+    return InkWell(
+      onTap: () {
+        Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (context) => ItemDetailsPage(
+              productData: product,
+              mainCategory: mainCategory,
+              subCategory: subCategory,
+              subcategory2Name: subcategory2Name,
+              selectedListId: selectedListId,
+            ),
+          ),
+        );
+      },
+      child: Container(
+        margin: EdgeInsets.all(2.0),
+        decoration: BoxDecoration(
+          color: Colors.white,
+          borderRadius: BorderRadius.circular(12),
+        ),
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Expanded(
+              child: ClipRRect(
+                borderRadius: BorderRadius.vertical(top: Radius.circular(12)),
+                child: imageWidget,
+              ),
+            ),
+            Padding(
+              padding: EdgeInsets.all(8),
+              child: Text(
+                displayName,
+                textAlign: TextAlign.center,
+                style: TextStyle(fontSize: 14),
+                overflow: TextOverflow.ellipsis,
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  void _addProductToShoppingList(
+      Map<String, dynamic> product, String selectedListId) async {
+    User? user = FirebaseAuth.instance.currentUser;
+    if (user != null) {
+      String userId = user.uid;
+      FirebaseFirestore.instance
+          .collection('shoppingLists')
+          .doc(selectedListId)
+          .collection('items')
+          .add({
+        'name': product['product_name'],
+        'amount': 1,
+        'price': product['product_cheapest_price'],
+      }).then((value) {
+        print('Product added to shopping list');
+        _updateProductNamesCollection(selectedListId, product['product_name']);
+      }).catchError((error) {
+        print('Failed to add product to shopping list: $error');
+      });
+    } else {
+      print('User is not logged in');
+    }
+  }
+
+//db upd
+  void _updateProductNamesCollection(
+      String selectedListId, String productName) {
+    DocumentReference productNamesRef = FirebaseFirestore.instance
+        .collection('shoppingLists')
+        .doc(selectedListId)
+        .collection('productNames')
+        .doc('allProducts');
+    productNamesRef.get().then((docSnapshot) {
+      if (docSnapshot.exists) {
+        productNamesRef.update({
+          'names': FieldValue.arrayUnion([productName])
+        }).then((_) {
+          print('Product name added to productNames collection');
+        }).catchError((error) {
+          print('Failed to update productNames collection: $error');
+        });
+      } else {
+        productNamesRef.set({
+          'names': [productName]
+        }).then((_) {
+          print('ProductNames document created');
+          print('Product name added to productNames collection');
+        }).catchError((error) {
+          print('Failed to create productNames document: $error');
+        });
+      }
+    }).catchError((error) {
+      print('Error checking productNames document existence: $error');
+    });
   }
 }

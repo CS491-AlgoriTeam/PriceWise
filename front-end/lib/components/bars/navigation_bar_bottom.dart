@@ -56,9 +56,9 @@ BottomNavigationBar navigation_bar_bottom(BuildContext context) {
 }
 */
 
-
 // does not check if already on the page
 // need to be changed
+//tamamen degisecek
 void _navigateTo(BuildContext context, int index) {
   switch (index) {
     case 0:
@@ -72,14 +72,14 @@ void _navigateTo(BuildContext context, int index) {
       // Search Products
       Navigator.push(
         context,
-        MaterialPageRoute(builder: (context) => SearchPage()),
+        MaterialPageRoute(builder: (context) => SearchPage(selectedListId: "")),
       );
       break;
     case 2:
       // My Profile
       Navigator.push(
         context,
-        MaterialPageRoute(builder: (context) =>  MyProfilePage()),
+        MaterialPageRoute(builder: (context) => MyProfilePage()),
       );
       break;
   }
