@@ -128,7 +128,7 @@ def add_product_to_firestore(product_data):
             continue
 
         try:
-            doc_ref = db.collection('searchProducts') \
+            doc_ref = db.collection('saleProducts') \
                         .document(sanitized_product_name)
                         #.document(product['main_category']) \
                         #.collection(product['sub_category']) \
@@ -174,8 +174,8 @@ def process_file(file_path):
     print(f"{items_processed} items pushed to the database.")
 
 dir_path = os.path.abspath('/Users/tugberkdikmen/Desktop/Fall-23/CS491/PriceWise Frontend/PriceWise/front-end/lib/scrape/products_local/d7')
-file_path = os.path.abspath('/Users/tugberkdikmen/Desktop/Fall-23/CS491/PriceWise Frontend/PriceWise/front-end/lib/scrape/products_local/pisirme_kagidi.txt')
+file_path = os.path.abspath('/Users/tugberkdikmen/Desktop/Fall-23/CS491/PriceWise Frontend/PriceWise/front-end/lib/scrape/products_local/sale.txt')
 
-#process_file(file_path)
-process_directory(dir_path)
+process_file(file_path)
+#process_directory(dir_path)
 print("Done")

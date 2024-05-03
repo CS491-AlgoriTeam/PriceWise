@@ -1,0 +1,143 @@
+1
+Product Name: Kuru Kahveci Mehmet Efendi 250 gr Kutu Türk Kahvesi
+Main Category: İçecekler
+Sub-categories: Kahve, 
+Cheapest Price: 89,90 TL 
+
+Market Products:
+ - Market: Hakmar Express       Product: Turk Kahvesi 250g Mehmet Efendi-051223 Price: 89,90 TL   Unit Price: 359,60 TL/kg
+ - Market: A101                 Product: Kahve Turk Teneke 250 G Mehmet Efendi Price: 99,50 TL   Unit Price: 398,00 TL/kg
+ - Market: Migros               Product: Kurukahveci Mehmet Efendi 250 G Price: 110,00 TL  Unit Price: 440,00 TL/kg
+ - Market: Şok                  Product: Kurukahveci Mehmet Efendi Turk Kahvesi 250 Gr Price: 110,00 TL  Unit Price: 440,00 TL/kg
+ - Market: Carrefour            Product: Mehmet Efendi Turk Kahvesi Teneke 250 Gr Price: 119,90 TL  Unit Price: 479,60 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Sade
+ - Ürün Türü: Öğütülmüş Kahve
+ - Ağırlık: 250 gr
+ - Ürün Tipi: Türk Kahvesi
+ - İçim: Normal
+ - Toplam Ağırlık: 250 gr
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Teneke
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/kuru-kahveci-mehmet-efendi-250-gr-kutu-turk-kahvesi-_283117.jpg 
+
+2
+Product Name: Coca Cola 330 ml Şekersiz
+Main Category: İçecekler
+Sub-categories: Gazli İcecek, 
+Cheapest Price: 20,00 TL 
+
+Market Products:
+ - Market: A101                 Product: Gazli Icecek 330 Ml Coca Cola Şekersiz Price: 20,00 TL   Unit Price: 60,61 TL/lt
+ - Market: Migros               Product: Coca-cola Şekersiz 330 Ml Kutu Price: 25,00 TL   Unit Price: 75,76 TL/lt
+ - Market: Şok                  Product: Coca Cola Zero Sugar 330 Ml    Price: 25,00 TL   Unit Price: 75,76 TL/lt
+
+Similar Products:
+ - Similar Product: Coca Cola 200 ml Cam Şekersiz Kola                 Price: 13,00 TL  
+ - Similar Product: Uludağ 1 lt Efsane Gazoz Şekersiz Pet              Price: 22,95 TL  
+ - Similar Product: Sarıyer 250 ml Şekersiz Kola Gazlı İçecek          Price: 6,50 TL   
+
+Features:
+ - İçerik: Şekersiz
+ - Ürün Tipi: Kola
+ - Toplam Ağırlık: 330 ml
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Teneke
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/coca-cola-330-ml-sekersiz-_1432333.jpg 
+
+3
+Product Name: Çaykur  1 kg Çaycı Siyah Çay
+Main Category: İçecekler
+Sub-categories: Çay, 
+Cheapest Price: 99,50 TL 
+
+Market Products:
+ - Market: Şok                  Product: Çaykur Çayci Siyah Çay 1 Kg    Price: 99,50 TL   Unit Price: 99,50 TL/kg
+ - Market: A101                 Product: Çay Çayci 1000 G Çaykur        Price: 129,50 TL  Unit Price: 129,50 TL/kg
+
+Similar Products:
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/caykur-1-kg-cayci-siyah-cay-_1601734.jpg 
+
+4
+Product Name: Emek 18 lt Ayçiçek Yağı
+Main Category: Gıda
+Sub-categories: Temel Gıda, Sıvı Yağ ve Zeytinyağı
+Cheapest Price: 469,90 TL 
+
+Market Products:
+ - Market: Migros               Product: Emek Aycicekyagi 18 Lt         Price: 469,90 TL  Unit Price: 26,11 TL/lt
+
+Similar Products:
+
+Features:
+ - Ürün Tipi: Ayçiçek Yağı
+ - Toplam Ağırlık: 18 lt
+ - Menşei: Türkiye
+ - Ambalaj Tipi: Teneke
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/emek-18-lt-aycicek-yagi-_852499.jpg 
+
+5
+Product Name: Ülker 950 gr Çokokrem
+Main Category: Süt ve Kahvaltlık
+Sub-categories: Sürülebilir,
+Cheapest Price: 95,00 TL
+
+Market Products:
+ - Market: Bim                  Product: Krema Kakaolu Findik 950 G Çokokrem Price: 95,00 TL   Unit Price: 100,00 TL/kg
+ - Market: Hakmar Express       Product: Findik Kremasi950g Çokokrem Ülker-270224 Price: 99,50 TL   Unit Price: 104,74 TL/kg
+ - Market: Şok                  Product: Ülker Çokokrem 950 Gr          Price: 129,50 TL  Unit Price: 136,32 TL/kg
+ - Market: Carrefour            Product: Ülk. Çokokrem 950gr Krem Çikolata Kase Price: 132,00 TL  Unit Price: 138,95 TL/kg
+ - Market: Migros               Product: Ülker Çokokrem 950 G           Price: 138,50 TL  Unit Price: 145,79 TL/kg
+
+Similar Products:
+
+Features:
+ - İçerik: Fındık
+ - Toplam Ağırlık: 950 gr
+ - Ambalaj Tipi: Plastik
+ - Adet: 1 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/ulker-950-gr-cokokrem-_249084.jpg
+
+6
+Product Name: Solo Bambu 40'lı Tuvalet Kağıdı
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Kağıt Ürünleri, Tuvalet Kağıdı
+Cheapest Price: 164,00 TL
+
+Market Products:
+ - Market: A101                 Product: Tuvalet Kagidi 2 Katli 40'li Bambu Solo Price: 164,00 TL  Unit Price: 4,10 TL/Adet
+ - Market: Tarım Kredi Kooperatifi Product: Solo Tk 40 Li Bambu            Price: 189,90 TL  Unit Price: 4,75 TL/Adet
+ - Market: Carrefour            Product: Solo 40li Tuvalet Kagidi Bambu Price: 269,95 TL  Unit Price: 6,75 TL/Adet
+ - Market: Migros               Product: Solo Bambu Katkili Tuvalet Kagidi 40'li Price: 269,95 TL  Unit Price: 6,75 TL/Adet
+
+Similar Products:
+ - Similar Product: Maylo Süper 40'lı Bambu Tuvalet Kağıdı             Price: 254,95 TL
+
+Features:
+Product Image URL: https://cdn.cimri.io/market/260x260/solo-bambu-40li-tuvalet-kagidi-_1482383.jpg
+
+7
+Product Name: Fairy 48'li Platinum Plus Tablet
+Main Category: Deterjan ve Temizlik Ürünleri
+Sub-categories: Bulaşık Yıkama, Bulaşık Makinesi Tableti
+Cheapest Price: 196,00 TL
+
+Market Products:
+ - Market: Migros               Product: Fairy Platinum Plus Özel Seri 48li Tablet Price: 196,00 TL  Unit Price: 4,08 TL/Adet
+ - Market: Migros               Product: Fairy Platinum Plus 48li Tablet 745g Price: 196,66 TL  Unit Price: 4,10 TL/Adet
+
+Similar Products:
+ - Similar Product: Fairy Platinum Plus 33x512 gr Ultra Tablet         Price: 215,00 TL
+
+Features:
+ - Ürün Tipi: Tablet
+ - Adet: 48 Adet
+Product Image URL: https://cdn.cimri.io/market/260x260/fairy-48li-platinum-plus-tablet-_1432994.jpg

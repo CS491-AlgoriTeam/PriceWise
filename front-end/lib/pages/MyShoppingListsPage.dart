@@ -3,6 +3,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:pwfe/pages/AddShoppingListPage.dart';
+import 'package:pwfe/pages/RecipeDetailsPage.dart';
 import 'package:pwfe/pages/ShoppingListDetailsPage.dart';
 import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
 import 'package:pwfe/pages/ShowItem.dart';
@@ -18,18 +19,13 @@ class MyShoppingLists extends StatefulWidget {
 class _MyShoppingListsState extends State<MyShoppingLists> {
   final User? user = FirebaseAuth.instance.currentUser;
   List<DocumentSnapshot> _shoppingLists = [];
+  List<DocumentSnapshot> _salesItems = []; // List to store sales items
+  List<DocumentSnapshot> _recipeItems = [];
   final TextEditingController _searchController =
       TextEditingController(); // Controller for search field
   String? _selectedListId;
 
-  // Example data for "sales" and "recipes", replace with your actual data source
-  List<Map<String, String>> salesItems = [
-    {'name': 'Item 1', 'price': '9.99', 'photo': 'assets/logo.png'},
-    {'name': 'Item 2', 'price': '9.99', 'photo': 'assets/logo.png'},
-    {'name': 'Item 3', 'price': '9.99', 'photo': 'assets/logo.png'},
-    {'name': 'Item 4', 'price': '9.99', 'photo': 'assets/logo.png'},
-    // Add more items...
-  ];
+  final TextEditingController _searchController = TextEditingController(); // Controller for search field
 
   List<Map<String, String>> recipeItems = [
     {'name': 'Recipe 1', 'photo': 'assets/logo.png'},
@@ -44,7 +40,20 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
     super.initState();
     if (user != null) {
       _fetchShoppingLists();
+      _fetchSalesItems();
+      _fetchRecipeItems();
+
     }
+  }
+  void _fetchRecipeItems() async {
+    FirebaseFirestore.instance
+      .collection('recipes')
+      .get()
+      .then((result) {
+        setState(() {
+          _recipeItems = result.docs;
+        });
+      });
   }
 
   void _fetchShoppingLists() async {
@@ -113,34 +122,64 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
       print("Error handling shopping list deletion: $e");
     }
   }
+  void _fetchSalesItems() async {
+    final QuerySnapshot result = await FirebaseFirestore.instance
+        .collection('saleProducts')
+        .get();
 
-  Widget buildItemCardSales(Map<String, String> item) {
+    setState(() {
+      _salesItems = result.docs;
+    });
+  }
+
+Widget buildItemCardSales(DocumentSnapshot item) {
+    String main = item['main_category'];
+    String sub = item['sub_category'];
+    String sub2 = item['sub_category2'];
     return GestureDetector(
-      /*onTap: () {
-        // Navigate to the ItemDetailsPage
+      onTap: () {
         Navigator.push(
-          context,
-          MaterialPageRoute(builder: (context) => ItemDetailsPage(item: item)),
-        );
-      },*/
+            context,
+            MaterialPageRoute(
+              builder: (context) => ItemDetailsPage(productData: item, mainCategory: main, subCategory: sub, subcategory2Name: sub2),
+            ),
+          );
+      },
       child: Container(
-        width: MediaQuery.of(context).size.width *
-            0.60, // This is 80% of screen width
-        height: 200, // Example height, adjust as necessary
+        width: MediaQuery.of(context).size.width * 0.60, // 60% of screen width
+        // Increase the height or make it dynamic based on the content
+
         child: Card(
           child: Column(
+            mainAxisAlignment: MainAxisAlignment.spaceEvenly, // Adjust space distribution
             children: <Widget>[
-              Image.asset(item['photo']!),
-              Text(item['name']!),
-              if (item.containsKey('price')) Text(item['price']!),
+              Expanded(
+                child: Image.network(
+                  item['product_image_url'] ?? 'assets/logo.png',
+                  fit: BoxFit.cover,
+                ),
+              ),
+              Padding(
+                padding: EdgeInsets.symmetric(vertical: 4), // Add padding
+                child: Text(
+                  '${item['bs_price']}₺ before sale',
+                  style: TextStyle(color: Colors.black,fontSize: 16), // Adjust font size
+                ),
+              ),
+              Padding(
+                padding: EdgeInsets.symmetric(vertical: 4), // Add padding
+                child: Text(
+                  '${item['product_cheapest_price']}₺ now',
+                  style: TextStyle(color: Colors.blue,fontSize: 20), // Adjust font size
+                ),
+              ),
             ],
           ),
         ),
       ),
     );
   }
-
-  // Build item card for carousel
+/*
   Widget buildItemCardRecipe(Map<String, String> item) {
     return Container(
       width: MediaQuery.of(context).size.width *
@@ -156,6 +195,27 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
         ),
       ),
     );
+  }*/
+  Widget buildItemCardRecipe(DocumentSnapshot recipe) {
+    String recipeName = recipe.id; // Assuming the document ID is the recipe name
+    return GestureDetector(
+      onTap: () {
+        Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (context) => RecipeDetailsPage(recipeName: recipeName),
+          ),
+        );
+      },
+      child: Container(
+        width: MediaQuery.of(context).size.width * 0.3, // Adjust width as needed
+        child: Card(
+          child: Column(
+            children: <Widget>[
+              Image.asset('assets/${recipeName}.jpeg', fit: BoxFit.cover),
+              Text(recipeName, style: TextStyle(fontWeight: FontWeight.bold)),
+            ],
+          ),
   }
 
 /*
@@ -357,20 +417,6 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
           ],
         ),
       ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: () {
-          Navigator.push(
-            context,
-            MaterialPageRoute(
-              builder: (context) => const AddShoppingListPage(),
-            ),
-          );
-        },
-        child: const Icon(Icons.add),
-        backgroundColor: Colors.blue,
-      ),
-      floatingActionButtonLocation: FloatingActionButtonLocation.endFloat,
-      bottomNavigationBar: navigation_bar_bottom(context),
     );
   }
 }*/
@@ -431,17 +477,14 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
 
             // Sales carousel with custom box dimensions
             CarouselSlider.builder(
-              itemCount: salesItems.length,
-              itemBuilder:
-                  (BuildContext context, int itemIndex, int pageViewIndex) =>
-                      buildItemCardSales(salesItems[itemIndex]),
+              itemCount: _salesItems.length,
+              itemBuilder: (BuildContext context, int itemIndex, int pageViewIndex) =>
+                  buildItemCardSales(_salesItems[itemIndex]),
               options: CarouselOptions(
                 enlargeCenterPage: true,
                 viewportFraction: 0.40,
-                aspectRatio:
-                    2.0, // Change this value to adjust width/height ratio
-                initialPage: 2,
-                autoPlay: false,
+                aspectRatio: 2.0,
+                autoPlay: true,
               ),
             ),
 
@@ -471,10 +514,10 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
                     ),
                   ),
                   CarouselSlider.builder(
-                    itemCount: recipeItems.length,
-                    itemBuilder: (BuildContext context, int itemIndex,
-                            int pageViewIndex) =>
-                        buildItemCardRecipe(recipeItems[itemIndex]),
+                    itemCount: _recipeItems.length,
+                    itemBuilder: (BuildContext context, int itemIndex, int pageViewIndex) =>
+                        buildItemCardRecipe(_recipeItems[itemIndex]),
+
                     options: CarouselOptions(
                       enlargeCenterPage: false,
                       viewportFraction: 0.25,
