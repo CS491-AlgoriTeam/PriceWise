@@ -8,6 +8,7 @@ import 'package:pwfe/pages/ShoppingListDetailsPage.dart';
 import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
 import 'package:pwfe/pages/ShowItem.dart';
 import 'package:pwfe/pages/SearchProductsPage.dart';
+import 'package:pwfe/components/globals/globals.dart' as globals;
 
 class MyShoppingLists extends StatefulWidget {
   MyShoppingLists({Key? key}) : super(key: key);
@@ -23,9 +24,8 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
   List<DocumentSnapshot> _recipeItems = [];
   final TextEditingController _searchController =
       TextEditingController(); // Controller for search field
-  String _selectedListId = "";
 
-  // Implement initState, _fetchShoppingLists, and _deleteList methods as before
+  // Implement initState, _fetchShoppingLists, and _deleteList
   @override
   void initState() {
     super.initState();
@@ -132,7 +132,7 @@ Widget buildItemCardSales(DocumentSnapshot item) {
         Navigator.push(
             context,
             MaterialPageRoute(
-              builder: (context) => ItemDetailsPage(productData: item, mainCategory: main, subCategory: sub, subcategory2Name: sub2, selectedListId: _selectedListId),
+              builder: (context) => ItemDetailsPage(productData: item, mainCategory: main, subCategory: sub, subcategory2Name: sub2, selectedListId: globals.selectedList),
             ),
           );
       },
@@ -305,28 +305,6 @@ Widget buildItemCardSales(DocumentSnapshot item) {
               ),
             ),
             // My Lists section with background
-            /*Container(
-              margin: const EdgeInsets.all(8),
-              decoration: BoxDecoration(
-                color: Colors.blue[100],
-                borderRadius: BorderRadius.circular(20),
-              ),
-              child: Column(
-                children: [
-                  const Padding(
-                    padding: EdgeInsets.all(16.0),
-                    child: Align(
-                      alignment: Alignment.centerLeft,
-                      child: Text(
-                        'My Lists',
-                        style: TextStyle(
-                          color: Colors.black,
-                          fontWeight: FontWeight.bold,
-                          fontSize: 24,
-                        ),
-                      ),
-                    ),
-                  ),*/
                   // My Lists section with adjusted title row
                   Container(
                     margin: const EdgeInsets.all(8),
@@ -373,9 +351,8 @@ Widget buildItemCardSales(DocumentSnapshot item) {
                       final doc =
                           _shoppingLists[index].data() as Map<String, dynamic>;
                       final docId = _shoppingLists[index].id;
-                      final isSelected = docId == _selectedListId;
-                      //IconData listIcon = IconData(doc['icon'], fontFamily: 'MaterialIcons'); // Extract icon data
-                      //Color listColor = Color(doc['color']); // Extract color data
+                      final isSelected = docId == globals.selectedList;
+
                       IconData listIcon = IconData(
                           doc['icon'] as int? ?? Icons.list.codePoint,
                           fontFamily: 'MaterialIcons');
@@ -460,34 +437,20 @@ Widget buildItemCardSales(DocumentSnapshot item) {
           ],
         ),
       ),
-      /*floatingActionButton: FloatingActionButton(
-        onPressed: () {
-          Navigator.push(
-            context,
-            MaterialPageRoute(
-              builder: (context) => const AddShoppingListPage(),
-            ),
-          );
-        },
-        child: const Icon(Icons.add),
-        backgroundColor: Colors.blue,
-      ),
-      floatingActionButtonLocation: FloatingActionButtonLocation.endFloat,*/
-      bottomNavigationBar: navigation_bar_bottom(context),
+      bottomNavigationBar: navigation_bar_bottom2(context, globals.selectedList, _navigateToExplore),
+
+    );
+  }
+  void _navigateToExplore(String listId) {
+    Navigator.push(
+      context,
+      MaterialPageRoute(builder: (context) => SearchPage(selectedListId: listId)),
     );
   }
 
   void _handleListSelection(String selectedListId) {
     setState(() {
-      _selectedListId = selectedListId;
+      globals.selectedList = selectedListId;
     });
-
-    //dogrudan explorea yonlendiriliyor silinecek
-    Navigator.push(
-      context,
-      MaterialPageRoute(
-        builder: (context) => SearchPage(selectedListId: selectedListId),
-      ),
-    );
   }
 }
