@@ -318,12 +318,15 @@ class ItemDetailsPage extends StatelessWidget {
         'name': product['product_name'],
         'amount': 1, // Assuming the initial amount is 1
         'price': product['product_cheapest_price'],
+        'main_category': mainCategory,
+        'sub_category': subCategory,
+        'sub_category2': subcategory2Name,
         // Add other necessary fields here
       }).then((value) {
         print('Product added to shopping list');
 
         // Update the product names collection
-        _updateProductNamesCollection(selectedListId, product['product_name']);
+        //_updateProductNamesCollection(selectedListId, product['product_name']);
       }).catchError((error) {
         print('Failed to add product to shopping list: $error');
       });
