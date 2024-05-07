@@ -248,7 +248,7 @@ void _deleteList(BuildContext context, String docId) async {
                 Navigator.push(
                     context,
                     MaterialPageRoute(
-                        builder: (context) => const ShowSuggestedListsPage()));
+                        builder: (context) =>  ShowSuggestedListsPage(listId: widget.listId,)));
               },
               child: Text('Show Suggestions'),
               style: ElevatedButton.styleFrom(
