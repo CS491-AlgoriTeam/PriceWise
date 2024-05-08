@@ -4,6 +4,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
 import 'package:pwfe/pages/ShowSuggestedItemsPage.dart';
 import 'dart:math';
+import 'package:flutter/foundation.dart'; // For compute function
 
 class ShowSuggestedListsPage extends StatefulWidget {
   final String listId;
@@ -83,7 +84,7 @@ Future<void> _fetchSuggestedListsFromFirestore() async {
     });
   }
 }
-
+/*
   Future<void> _createSuggestedItemsList() async {
     var shoppingListSnapshot = await _firestore.collection('shoppingLists/${widget.listId}/items').get();
     double totalSuggestedPrice = 0.0;
@@ -122,6 +123,113 @@ Future<void> _fetchSuggestedListsFromFirestore() async {
       'id': ref.id
     });
   }
+*/
+
+/*
+Future<void> _createSuggestedItemsList() async {
+  var shoppingListSnapshot = await _firestore.collection('shoppingLists/${widget.listId}/items').get();
+  double totalSuggestedPrice = 0.0;
+  List<Map<String, dynamic>> newItems = [];
+
+  for (var doc in shoppingListSnapshot.docs) {
+    var itemData = doc.data() as Map<String, dynamic>;
+    double originalPrice = itemData['price']; // Assuming 'price' field exists in itemData
+
+    var productsSnapshot = await _firestore.collection('allProducts/${itemData['main_category']}/${itemData['sub_category']}/${itemData['sub_category2']}/Products')
+      .where('product_cheapest_price', isGreaterThanOrEqualTo: originalPrice * 0.5)
+      .orderBy('product_cheapest_price', descending: false)
+      .limit(1)
+      .get();
+
+    if (productsSnapshot.docs.isNotEmpty) {
+      var cheapestItem = productsSnapshot.docs.first.data();
+      double suggestedPrice = cheapestItem['product_cheapest_price'];
+      if (suggestedPrice >= originalPrice * 0.5) { // Double-check the condition
+        cheapestItem['amount'] = itemData['amount'];
+        totalSuggestedPrice += suggestedPrice * itemData['amount'];
+        newItems.add({
+          'name': cheapestItem['product_name'],
+          'price': suggestedPrice,
+          'amount': itemData['amount']
+        });
+      }
+    }
+  }
+
+  DocumentReference ref = await _firestore.collection('shoppingLists/${widget.listId}/suggestedLists')
+    .add({
+      'totalPrice': totalSuggestedPrice,
+      'createdAt': FieldValue.serverTimestamp(),
+      'items': newItems,
+    });
+
+  suggestedLists.add({
+    'type': 'General Cheapest',
+    'market': 'Various',
+    'totalPrice': totalSuggestedPrice,
+    'id': ref.id
+  });
+}*/
+Future<void> _createSuggestedItemsList() async {
+  var shoppingListSnapshot = await _firestore.collection('shoppingLists/${widget.listId}/items').get();
+  double totalSuggestedPrice = 0.0;
+  List<Map<String, dynamic>> newItems = [];
+
+  for (var doc in shoppingListSnapshot.docs) {
+    var itemData = doc.data() as Map<String, dynamic>;
+    String originalName = itemData['name'];
+    double originalPrice = itemData['price']; // Assuming 'price' field exists in itemData
+
+    var productsSnapshot = await _firestore.collection('allProducts/${itemData['main_category']}/${itemData['sub_category']}/${itemData['sub_category2']}/Products').get();
+
+    Map<String, dynamic>? cheapestItem;
+    double? lowestPrice;
+    double maxSimilarity = 0.0; // Initial high similarity threshold
+
+    for (var productDoc in productsSnapshot.docs) {
+      var productData = productDoc.data();
+      double candidatePrice = productData['product_cheapest_price'];
+      String candidateName = productData['product_name'];
+      double similarity = _calculateSimilarity(originalName, candidateName);
+
+      // Check if the candidate price is at least 50% of the original price and has higher similarity
+      if (candidatePrice >= originalPrice * 0.5 && (lowestPrice == null || (candidatePrice < lowestPrice && similarity > maxSimilarity))) {
+        lowestPrice = candidatePrice;
+        maxSimilarity = similarity;
+        cheapestItem = {
+          'product_name': candidateName,
+          'product_cheapest_price': candidatePrice,
+          'amount': itemData['amount'] // Preserving the amount from original item
+        };
+      }
+    }
+
+    if (cheapestItem != null) {
+      totalSuggestedPrice += cheapestItem['product_cheapest_price'] * cheapestItem['amount'];
+      newItems.add(cheapestItem);
+    }
+  }
+
+  if (newItems.isNotEmpty) {
+    DocumentReference ref = await _firestore.collection('shoppingLists/${widget.listId}/suggestedLists')
+      .add({
+        'totalPrice': totalSuggestedPrice,
+        'createdAt': FieldValue.serverTimestamp(),
+        'items': newItems.map((item) => {
+          'name': item['product_name'],
+          'price': item['product_cheapest_price'],
+          'amount': item['amount']
+        }).toList(),
+      });
+
+    suggestedLists.add({
+      'type': 'General Cheapest',
+      'market': 'Various',
+      'totalPrice': totalSuggestedPrice,
+      'id': ref.id
+    });
+  }
+}
 
 Future<void> _createMarketSpecificSuggestedLists() async {
   var shoppingListSnapshot = await FirebaseFirestore.instance.collection('shoppingLists/${widget.listId}/items').get();
@@ -176,6 +284,105 @@ Future<void> _createMarketSpecificSuggestedLists() async {
   }
 }
 
+/*
+Future<Map<String, dynamic>?> _findCheapestItemForMarket(Map<String, dynamic> itemData, String marketName) async {
+  var productsSnapshot = await FirebaseFirestore.instance
+    .collection('allProducts/${itemData['main_category']}/${itemData['sub_category']}/${itemData['sub_category2']}/Products')
+    .get();
+
+  String originalName = itemData['name'];
+  Map<String, dynamic>? cheapestItem;
+  double? lowestPrice;
+  double maxSimilarity = 0.0; // Tracks the highest similarity found
+
+  for (var productDoc in productsSnapshot.docs) {
+    var productData = productDoc.data();
+    var markets = productData['market_product_array'] ?? [];
+
+    for (var marketEntry in markets) {
+      if (marketEntry['market'] == marketName) {
+        double price = marketEntry['price'];
+        String candidateName = productData['product_name'];
+        double similarity = _calculateSimilarity(originalName, candidateName);
+
+        if ((lowestPrice == null || price < lowestPrice) && similarity > maxSimilarity) {
+          lowestPrice = price;
+          maxSimilarity = similarity;
+          cheapestItem = {
+            'product_name': candidateName,
+            'price': price
+          };
+        }
+      }
+    }
+  }
+
+  return cheapestItem;
+}
+
+double _calculateSimilarity(String original, String candidate) {
+  // Split both strings into words
+  List<String> originalWords = original.toLowerCase().split(' ');
+  List<String> candidateWords = candidate.toLowerCase().split(' ');
+
+  // Calculate intersection and union for Jaccard index
+  var intersection = originalWords.toSet().intersection(candidateWords.toSet()).length;
+  var union = originalWords.toSet().union(candidateWords.toSet()).length;
+
+  return intersection / union.toDouble(); // Jaccard similarity index
+}*/
+
+Future<Map<String, dynamic>?> _findCheapestItemForMarket(Map<String, dynamic> itemData, String marketName) async {
+  var productsSnapshot = await FirebaseFirestore.instance
+    .collection('allProducts/${itemData['main_category']}/${itemData['sub_category']}/${itemData['sub_category2']}/Products')
+    .get();
+
+  String originalName = itemData['name'];
+  double originalPrice = itemData['price'];
+  double minAcceptablePrice = originalPrice * 0.5; // Setting the minimum price to 50% of the original item's price
+  Map<String, dynamic>? cheapestItem;
+  double? lowestPrice;
+  double maxSimilarity = 0.0; // Tracks the highest similarity found
+
+  for (var productDoc in productsSnapshot.docs) {
+    var productData = productDoc.data();
+    var markets = productData['market_product_array'] ?? [];
+
+    for (var marketEntry in markets) {
+      if (marketEntry['market'] == marketName) {
+        double price = marketEntry['price'];
+        String candidateName = productData['product_name'];
+        double similarity = _calculateSimilarity(originalName, candidateName);
+
+        // Check if the item price is within the acceptable range and has the highest similarity
+        if ((lowestPrice == null || price < lowestPrice) && similarity > maxSimilarity && price >= minAcceptablePrice) {
+          lowestPrice = price;
+          maxSimilarity = similarity;
+          cheapestItem = {
+            'product_name': candidateName,
+            'price': price
+          };
+        }
+      }
+    }
+  }
+
+  return cheapestItem;
+}
+
+double _calculateSimilarity(String original, String candidate) {
+  // Split both strings into words
+  List<String> originalWords = original.toLowerCase().split(' ');
+  List<String> candidateWords = candidate.toLowerCase().split(' ');
+
+  // Calculate intersection and union for Jaccard index
+  var intersection = originalWords.toSet().intersection(candidateWords.toSet()).length;
+  var union = originalWords.toSet().union(candidateWords.toSet()).length;
+
+  return intersection / union.toDouble(); // Jaccard similarity index
+}
+
+/*
 Future<Map<String, dynamic>?> _findCheapestItemForMarket(Map<String, dynamic> itemData, String marketName) async {
   var productsSnapshot = await FirebaseFirestore.instance.collection('allProducts/${itemData['main_category']}/${itemData['sub_category']}/${itemData['sub_category2']}/Products').get();
   Map<String, dynamic>? cheapestItem;
@@ -197,7 +404,38 @@ Future<Map<String, dynamic>?> _findCheapestItemForMarket(Map<String, dynamic> it
   }
 
   return cheapestItem;
-}
+}*/
+
+/*
+Future<Map<String, dynamic>?> _findCheapestItemForMarket(Map<String, dynamic> itemData, String marketName) async {
+  var productsSnapshot = await FirebaseFirestore.instance.collection('allProducts/${itemData['main_category']}/${itemData['sub_category']}/${itemData['sub_category2']}/Products').get();
+  Map<String, dynamic>? cheapestItem;
+  double? lowestPrice;
+  double originalPrice = itemData['price'];  // Assuming 'price' field exists in itemData which holds the original price of the item
+
+  for (var productDoc in productsSnapshot.docs) {
+    var productData = productDoc.data();
+    var markets = productData['market_product_array'] ?? [];
+
+    for (var marketEntry in markets) {
+      if (marketEntry['market'] == marketName) {
+        double marketPrice = marketEntry['price'];
+        // Check if the market price is not less than 50% of the original price
+        if (marketPrice >= originalPrice * 0.5) {
+          if (lowestPrice == null || marketPrice < lowestPrice) {
+            lowestPrice = marketPrice;
+            cheapestItem = {
+              'product_name': productData['product_name'],
+              'price': marketPrice
+            };
+          }
+        }
+      }
+    }
+  }
+
+  return cheapestItem;
+}*/
 
 @override
 Widget build(BuildContext context) {
