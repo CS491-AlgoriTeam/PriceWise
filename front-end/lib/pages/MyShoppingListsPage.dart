@@ -59,60 +59,93 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
       _shoppingLists = result.docs;
     });
   }
-
+  
   void _deleteList(BuildContext context, String docId) async {
-    final user = FirebaseAuth.instance.currentUser;
-    if (user == null) return;
+  final user = FirebaseAuth.instance.currentUser;
+  if (user == null) return;
 
-    try {
-      // Step 1: Fetch the list to be deleted
-      DocumentSnapshot docSnapshot = await FirebaseFirestore.instance
-          .collection('shoppingLists')
-          .doc(docId)
-          .get();
-      Map<String, dynamic> listData =
-          docSnapshot.data() as Map<String, dynamic>;
+  try {
+    // Step 1: Fetch the list to be deleted
+    DocumentSnapshot docSnapshot = await FirebaseFirestore.instance
+        .collection('shoppingLists')
+        .doc(docId)
+        .get();
 
-      // Step 2: Add the list to 'deletedShoppingLists' with 'deletedAt'
-      await FirebaseFirestore.instance.collection('deletedShoppingLists').add({
-        ...listData,
-        'deletedAt': FieldValue.serverTimestamp(), // Add current timestamp
-        'userId': user.uid, // Ensure user ID is included
-      });
-
-      // Step 3: Check and maintain only the 5 most recent deletions
-      final QuerySnapshot deletedListsSnapshot = await FirebaseFirestore
-          .instance
-          .collection('deletedShoppingLists')
-          .where('userId', isEqualTo: user.uid)
-          .orderBy('deletedAt', descending: true)
-          .get();
-
-      if (deletedListsSnapshot.docs.length > 5) {
-        // If more than 5, delete the oldest
-        await FirebaseFirestore.instance
-            .collection('deletedShoppingLists')
-            .doc(deletedListsSnapshot.docs.last.id)
-            .delete();
-      }
-
-      // Step 4: Delete the list from the original collection
-      await FirebaseFirestore.instance
-          .collection('shoppingLists')
-          .doc(docId)
-          .delete();
-      if (user != null) {
-        _fetchShoppingLists();
-      }
-
-      print("Shopping List Deleted and backup created");
-
-      // Optionally, refresh the list of shopping lists
-      //_fetchShoppingLists(); // Call your method to refresh shopping lists if exists
-    } catch (e) {
-      print("Error handling shopping list deletion: $e");
+    if (!docSnapshot.exists) {
+      print("List not found!");
+      return;
     }
+
+    Map<String, dynamic> listData = docSnapshot.data() as Map<String, dynamic>;
+
+    // Fetch the items under this list
+    QuerySnapshot itemsSnapshot = await FirebaseFirestore.instance
+        .collection('shoppingLists/$docId/items')
+        .get();
+
+    List<Map<String, dynamic>> items = itemsSnapshot.docs.map((doc) => {
+      'name': doc['name'],
+      'price': doc['price'],
+      'amount': doc['amount'],
+      'main_category': doc['main_category'],
+      'sub_category': doc['sub_category'],
+      'sub_category2': doc['sub_category2']
+    }).toList();
+
+    // Ensure 'listName' and 'userId' are included
+    String listName = listData['listName'] ?? 'Default List Name';
+    String userId = user.uid; // or listData['userId'] if it's already included in the list data
+
+    // Step 2: Add the list along with its items to 'deletedShoppingLists'
+    DocumentReference deletedRef = await FirebaseFirestore.instance.collection('deletedShoppingLists').add({
+      ...listData,
+      'listName': listName,  // Make sure to include the list name
+      'userId': userId,      // Include user ID explicitly
+      'deletedAt': FieldValue.serverTimestamp(), // Add current timestamp
+      'items': items, // Include the copied items
+    });
+
+    // Step 3: Check and maintain only the 5 most recent deletions
+    final QuerySnapshot deletedListsSnapshot = await FirebaseFirestore
+        .instance
+        .collection('deletedShoppingLists')
+        .where('userId', isEqualTo: userId)
+        .orderBy('deletedAt', descending: true)
+        .get();
+
+    if (deletedListsSnapshot.docs.length > 5) {
+      // If more than 5, delete the oldest
+      await FirebaseFirestore.instance
+          .collection('deletedShoppingLists')
+          .doc(deletedListsSnapshot.docs.last.id)
+          .delete();
+    }
+
+    // Step 4: Delete the original list and its items
+    await FirebaseFirestore.instance
+        .collection('shoppingLists')
+        .doc(docId)
+        .collection('items')
+        .get()
+        .then((snapshot) {
+          for (DocumentSnapshot ds in snapshot.docs) {
+            ds.reference.delete();
+          }
+        });
+    await FirebaseFirestore.instance
+        .collection('shoppingLists')
+        .doc(docId)
+        .delete();
+
+    print("Shopping List Deleted and backup created");
+    _fetchShoppingLists();
+
+  } catch (e) {
+    print("Error handling shopping list deletion: $e");
   }
+}
+
+
   void _fetchSalesItems() async {
     final QuerySnapshot result = await FirebaseFirestore.instance
         .collection('saleProducts')

@@ -64,18 +64,55 @@ void _fetchUserProfile() async {
     Map<String, dynamic> data = doc.data() as Map<String, dynamic>;
     
     Future<void> _restoreDeletedList(String docId) async {
-    // Step 1: Prepare the data for "shoppingLists" by removing 'deletedAt'
-    Map<String, dynamic> restoredData = Map.from(data)..remove('deletedAt');
-    
-    // Step 2: Add the restored data to "shoppingLists"
-    await FirebaseFirestore.instance.collection('shoppingLists').add(restoredData);
-    
-    // Step 3: Delete the list from "deletedShoppingLists"
-    await FirebaseFirestore.instance.collection('deletedShoppingLists').doc(docId).delete();
-    
-    // Step 4: Update UI
-    _fetchDeletedLists();
-  }
+      final user = FirebaseAuth.instance.currentUser;
+      if (user == null) return;
+
+      try {
+        // Step 1: Fetch the deleted list including its items
+        DocumentSnapshot snapshot = await FirebaseFirestore.instance
+            .collection('deletedShoppingLists')
+            .doc(docId)
+            .get();
+
+        if (!snapshot.exists) {
+          print("Deleted list not found!");
+          return;
+        }
+
+        Map<String, dynamic> data = snapshot.data() as Map<String, dynamic>;
+        List<dynamic> items = data['items'] ?? [];
+
+        // Prepare the data for "shoppingLists" by removing 'deletedAt'
+        Map<String, dynamic> restoredData = Map.from(data)
+          ..remove('deletedAt')
+          ..remove('items');  // Remove the items field to handle it separately
+
+        // Step 2: Add the restored data to "shoppingLists"
+        DocumentReference newListRef = await FirebaseFirestore.instance
+            .collection('shoppingLists')
+            .add(restoredData);
+
+        // Step 3: Restore all items to the new list
+        for (var item in items) {
+          await newListRef.collection('items').add(item);
+        }
+
+        // Step 4: Delete the list from "deletedShoppingLists"
+        await FirebaseFirestore.instance
+            .collection('deletedShoppingLists')
+            .doc(docId)
+            .delete();
+
+        print("Shopping List restored and original backup deleted");
+        _fetchDeletedLists();
+
+        // Optionally, refresh the list of deleted lists
+        // _fetchDeletedLists(); // Call your method to refresh deleted lists if exists
+
+      } catch (e) {
+        print("Error handling list restoration: $e");
+      }
+    }
     
     return Container(
       margin: EdgeInsets.symmetric(vertical: 4.0),
