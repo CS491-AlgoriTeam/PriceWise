@@ -105,7 +105,21 @@ void _fetchUserProfile() async {
 
         print("Shopping List restored and original backup deleted");
         _fetchDeletedLists();
-
+        ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text(
+            'The list restored to your list!',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.white, // Text color
+              fontSize: 16,// Font size
+              fontWeight: FontWeight.bold,
+            ),
+          ),
+          backgroundColor: Colors.blue, // Background color
+          duration: Duration(seconds: 1),
+        ),
+      );
         // Optionally, refresh the list of deleted lists
         // _fetchDeletedLists(); // Call your method to refresh deleted lists if exists
 

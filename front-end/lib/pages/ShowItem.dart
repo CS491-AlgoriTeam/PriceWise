@@ -103,7 +103,7 @@ class ItemDetailsPage extends StatelessWidget {
 
             ElevatedButton(
                 onPressed: () {
-                  _addProductToShoppingList(
+                  _addProductToShoppingList(context,
                     productData.data() as Map<String, dynamic>,
                     selectedListId,
                   );
@@ -336,7 +336,7 @@ class ItemDetailsPage extends StatelessWidget {
     );
   }
 
-  void _addProductToShoppingList(
+  void _addProductToShoppingList(BuildContext context,
       Map<String, dynamic> product, String selectedListId) async {
     User? user = FirebaseAuth.instance.currentUser;
     if (user != null) {
@@ -357,7 +357,21 @@ class ItemDetailsPage extends StatelessWidget {
         // Add other necessary fields here
       }).then((value) {
         print('Product added to shopping list');
-
+        ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text(
+            'Item added to your list!',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.white, // Text color
+              fontSize: 16,// Font size
+              fontWeight: FontWeight.bold,
+            ),
+          ),
+          backgroundColor: Colors.blue, // Background color
+          duration: Duration(seconds: 1),
+        ),
+      );
         // Update the product names collection
         //_updateProductNamesCollection(selectedListId, product['product_name']);
       }).catchError((error) {

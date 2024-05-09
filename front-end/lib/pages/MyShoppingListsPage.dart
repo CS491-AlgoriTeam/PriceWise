@@ -25,6 +25,10 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
   final TextEditingController _searchController =
       TextEditingController(); // Controller for search field
 
+  bool _areSalesLoading = true;
+  bool _areListsLoading  = true;
+  bool _areRecipesLoading  = true;
+
   // Implement initState, _fetchShoppingLists, and _deleteList
   @override
   void initState() {
@@ -43,6 +47,8 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
       .then((result) {
         setState(() {
           _recipeItems = result.docs;
+          _areRecipesLoading = false;
+
         });
       });
   }
@@ -57,6 +63,8 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
 
     setState(() {
       _shoppingLists = result.docs;
+      _areListsLoading= false;
+
     });
   }
   
@@ -153,6 +161,8 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
 
     setState(() {
       _salesItems = result.docs;
+      _areSalesLoading = false;
+
     });
   }
 
@@ -235,7 +245,11 @@ Widget buildItemCardSales(DocumentSnapshot item) {
         elevation: 0, // Remove shadow if desired
         automaticallyImplyLeading: false, // This will hide the back button
       ),
-      body: SingleChildScrollView(
+      body:  _areSalesLoading || _areListsLoading || _areRecipesLoading // Show Loading Screen
+          ? Center(
+              child: CircularProgressIndicator(),
+            )
+          :SingleChildScrollView(
         // Wrap with SingleChildScrollView for proper scrolling
         child: Column(
           children: [
