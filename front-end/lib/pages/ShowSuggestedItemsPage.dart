@@ -1,3 +1,4 @@
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
@@ -45,6 +46,50 @@ class _SuggestedItemsPageState extends State<SuggestedItemsPage> {
         total = tempTotal;
       });
     }
+  }
+
+  // Function to add suggested items to user's shopping lists
+  void _addToMyLists() async {
+    var user = FirebaseAuth.instance.currentUser;
+    if (user == null) return; // Ensure user is logged in
+
+    DocumentSnapshot suggestedListSnapshot = await FirebaseFirestore.instance
+      .collection('shoppingLists/${widget.listId}/suggestedLists')
+      .doc(widget.list2Id)
+      .get();
+
+    if (!suggestedListSnapshot.exists) {
+      print('No suggested list found');
+      return;
+    }
+
+    Map<String, dynamic> suggestedListData = suggestedListSnapshot.data() as Map<String, dynamic>;
+    String market = suggestedListData['market'] ?? 'Default Market';
+    List<dynamic> items = suggestedListData['items'];
+
+    // Create new shopping list
+    DocumentReference newListRef = await FirebaseFirestore.instance.collection('shoppingLists').add({
+      'userId': user.uid,
+      'listName': '$market List',
+      'createdAt': FieldValue.serverTimestamp(),
+      'icon': 58780, // example icon, you might want to set this dynamically or allow user to choose
+      'color': 4288585374 // example color, you might want to make this selectable or random
+    });
+
+    // Add items to the new shopping list
+    for (var item in items) {
+      await newListRef.collection('items').add({
+        'name': item['name'],
+        'price': item['price'],
+        'amount': item['amount'],
+        'main_category': item['main_category'], // Assuming these fields are available in the suggested item
+        'sub_category': item['sub_category'],
+        'sub_category2': item['sub_category2']
+      });
+    }
+
+    // Provide feedback or navigate user
+    print('New list added to My Lists');
   }
 
   @override
@@ -111,7 +156,7 @@ class _SuggestedItemsPageState extends State<SuggestedItemsPage> {
               ElevatedButton(
                 onPressed: () {
                   // Add to user's lists
-                  print('Add to My Lists functionality to be implemented.');
+                  _addToMyLists();
                 },
                 child: Text('Add to My Lists'),
                 style: ElevatedButton.styleFrom(

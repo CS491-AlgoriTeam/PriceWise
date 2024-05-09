@@ -56,19 +56,6 @@ Future<void> _deleteExistingSuggestedLists(List<QueryDocumentSnapshot> docs) asy
   }
 }
 
-/*Future<void> _fetchSuggestedListsFromFirestore() async {
-  suggestedLists.clear();
-  var snapshot = await _firestore.collection('shoppingLists/${widget.listId}/suggestedLists').get();
-  for (var doc in snapshot.docs) {
-    Map<String, dynamic> data = doc.data() as Map<String, dynamic>;
-    suggestedLists.add({
-      'market': data['market'],
-      'type': 'Specific Market',
-      'totalPrice': data['totalPrice'],
-      'id': doc.id,
-    });
-  }
-}*/
 Future<void> _fetchSuggestedListsFromFirestore() async {
   suggestedLists.clear();
   var snapshot = await _firestore.collection('shoppingLists/${widget.listId}/suggestedLists')
@@ -85,91 +72,6 @@ Future<void> _fetchSuggestedListsFromFirestore() async {
   }
 }
 /*
-  Future<void> _createSuggestedItemsList() async {
-    var shoppingListSnapshot = await _firestore.collection('shoppingLists/${widget.listId}/items').get();
-    double totalSuggestedPrice = 0.0;
-    List<Map<String, dynamic>> newItems = [];
-
-    for (var doc in shoppingListSnapshot.docs) {
-      var itemData = doc.data() as Map<String, dynamic>;
-      var cheapestSnapshot = await _firestore.collection('allProducts/${itemData['main_category']}/${itemData['sub_category']}/${itemData['sub_category2']}/Products')
-          .orderBy('product_cheapest_price', descending: false)
-          .limit(1)
-          .get();
-
-      if (cheapestSnapshot.docs.isNotEmpty) {
-        var cheapestItem = cheapestSnapshot.docs.first.data();
-        cheapestItem['amount'] = itemData['amount'];
-        totalSuggestedPrice += (cheapestItem['product_cheapest_price'] as num) * itemData['amount'];
-        newItems.add({
-          'name': cheapestItem['product_name'],
-          'price': cheapestItem['product_cheapest_price'],
-          'amount': itemData['amount']
-        });
-      }
-    }
-
-    DocumentReference ref = await _firestore.collection('shoppingLists/${widget.listId}/suggestedLists')
-      .add({
-        'totalPrice': totalSuggestedPrice,
-        'createdAt': FieldValue.serverTimestamp(),
-        'items': newItems,
-      });
-
-    suggestedLists.add({
-      'type': 'General Cheapest',
-      'market': 'Various',
-      'totalPrice': totalSuggestedPrice,
-      'id': ref.id
-    });
-  }
-*/
-
-/*
-Future<void> _createSuggestedItemsList() async {
-  var shoppingListSnapshot = await _firestore.collection('shoppingLists/${widget.listId}/items').get();
-  double totalSuggestedPrice = 0.0;
-  List<Map<String, dynamic>> newItems = [];
-
-  for (var doc in shoppingListSnapshot.docs) {
-    var itemData = doc.data() as Map<String, dynamic>;
-    double originalPrice = itemData['price']; // Assuming 'price' field exists in itemData
-
-    var productsSnapshot = await _firestore.collection('allProducts/${itemData['main_category']}/${itemData['sub_category']}/${itemData['sub_category2']}/Products')
-      .where('product_cheapest_price', isGreaterThanOrEqualTo: originalPrice * 0.5)
-      .orderBy('product_cheapest_price', descending: false)
-      .limit(1)
-      .get();
-
-    if (productsSnapshot.docs.isNotEmpty) {
-      var cheapestItem = productsSnapshot.docs.first.data();
-      double suggestedPrice = cheapestItem['product_cheapest_price'];
-      if (suggestedPrice >= originalPrice * 0.5) { // Double-check the condition
-        cheapestItem['amount'] = itemData['amount'];
-        totalSuggestedPrice += suggestedPrice * itemData['amount'];
-        newItems.add({
-          'name': cheapestItem['product_name'],
-          'price': suggestedPrice,
-          'amount': itemData['amount']
-        });
-      }
-    }
-  }
-
-  DocumentReference ref = await _firestore.collection('shoppingLists/${widget.listId}/suggestedLists')
-    .add({
-      'totalPrice': totalSuggestedPrice,
-      'createdAt': FieldValue.serverTimestamp(),
-      'items': newItems,
-    });
-
-  suggestedLists.add({
-    'type': 'General Cheapest',
-    'market': 'Various',
-    'totalPrice': totalSuggestedPrice,
-    'id': ref.id
-  });
-}*/
 Future<void> _createSuggestedItemsList() async {
   var shoppingListSnapshot = await _firestore.collection('shoppingLists/${widget.listId}/items').get();
   double totalSuggestedPrice = 0.0;
@@ -229,8 +131,73 @@ Future<void> _createSuggestedItemsList() async {
       'id': ref.id
     });
   }
-}
+}*/
 
+Future<void> _createSuggestedItemsList() async {
+  var shoppingListSnapshot = await _firestore.collection('shoppingLists/${widget.listId}/items').get();
+  double totalSuggestedPrice = 0.0;
+  List<Map<String, dynamic>> newItems = [];
+
+  for (var doc in shoppingListSnapshot.docs) {
+    var itemData = doc.data() as Map<String, dynamic>;
+    String originalName = itemData['name'];
+    double originalPrice = itemData['price']; // Assuming 'price' field exists in itemData
+    String mainCategory = itemData['main_category'];
+    String subCategory = itemData['sub_category'];
+    String subCategory2 = itemData['sub_category2'];
+
+    var productsSnapshot = await _firestore.collection('allProducts/$mainCategory/$subCategory/$subCategory2/Products')
+      .orderBy('product_cheapest_price', descending: false)
+      .get();
+
+    Map<String, dynamic>? cheapestItem;
+    double? lowestPrice;
+    double maxSimilarity = 0.0;
+
+    for (var productDoc in productsSnapshot.docs) {
+      var productData = productDoc.data();
+      double candidatePrice = productData['product_cheapest_price'];
+      String candidateName = productData['product_name'];
+      double similarity = _calculateSimilarity(originalName, candidateName);
+
+      // Check if the candidate price is at least 50% of the original price and has higher similarity
+      if (candidatePrice >= originalPrice * 0.5 && (lowestPrice == null || (candidatePrice < lowestPrice && similarity > maxSimilarity))) {
+        lowestPrice = candidatePrice;
+        maxSimilarity = similarity;
+        cheapestItem = {
+          'product_name': candidateName,
+          'product_cheapest_price': candidatePrice,
+          'amount': itemData['amount'],
+          'main_category': mainCategory,  // Include main category
+          'sub_category': subCategory,    // Include sub category
+          'sub_category2': subCategory2   // Include sub category 2
+        };
+      }
+    }
+
+    if (cheapestItem != null) {
+      totalSuggestedPrice += cheapestItem['product_cheapest_price'] * cheapestItem['amount'];
+      newItems.add(cheapestItem);
+    }
+  }
+
+  if (newItems.isNotEmpty) {
+    DocumentReference ref = await _firestore.collection('shoppingLists/${widget.listId}/suggestedLists')
+      .add({
+        'totalPrice': totalSuggestedPrice,
+        'createdAt': FieldValue.serverTimestamp(),
+        'items': newItems,
+      });
+
+    suggestedLists.add({
+      'type': 'General Cheapest',
+      'market': 'Various',
+      'totalPrice': totalSuggestedPrice,
+      'id': ref.id
+    });
+  }
+}
+/*
 Future<void> _createMarketSpecificSuggestedLists() async {
   var shoppingListSnapshot = await FirebaseFirestore.instance.collection('shoppingLists/${widget.listId}/items').get();
 
@@ -282,55 +249,61 @@ Future<void> _createMarketSpecificSuggestedLists() async {
       });
     }
   }
-}
+}*/
 
-/*
-Future<Map<String, dynamic>?> _findCheapestItemForMarket(Map<String, dynamic> itemData, String marketName) async {
-  var productsSnapshot = await FirebaseFirestore.instance
-    .collection('allProducts/${itemData['main_category']}/${itemData['sub_category']}/${itemData['sub_category2']}/Products')
-    .get();
+Future<void> _createMarketSpecificSuggestedLists() async {
+  var shoppingListSnapshot = await FirebaseFirestore.instance.collection('shoppingLists/${widget.listId}/items').get();
 
-  String originalName = itemData['name'];
-  Map<String, dynamic>? cheapestItem;
-  double? lowestPrice;
-  double maxSimilarity = 0.0; // Tracks the highest similarity found
-
-  for (var productDoc in productsSnapshot.docs) {
-    var productData = productDoc.data();
-    var markets = productData['market_product_array'] ?? [];
-
-    for (var marketEntry in markets) {
-      if (marketEntry['market'] == marketName) {
-        double price = marketEntry['price'];
-        String candidateName = productData['product_name'];
-        double similarity = _calculateSimilarity(originalName, candidateName);
-
-        if ((lowestPrice == null || price < lowestPrice) && similarity > maxSimilarity) {
-          lowestPrice = price;
-          maxSimilarity = similarity;
-          cheapestItem = {
-            'product_name': candidateName,
-            'price': price
-          };
+  Map<String, Set<String>> itemMarkets = {};
+  for (var doc in shoppingListSnapshot.docs) {
+    var itemData = doc.data() as Map<String, dynamic>;
+    var productsSnapshot = await FirebaseFirestore.instance.collection('allProducts/${itemData['main_category']}/${itemData['sub_category']}/${itemData['sub_category2']}/Products').get();
+    
+    for (var productDoc in productsSnapshot.docs) {
+      var productData = productDoc.data();
+      var markets = productData['market_product_array'] ?? [];
+      markets.forEach((marketEntry) {
+        var marketName = marketEntry['market'];
+        if (itemMarkets[itemData['name']] == null) {
+          itemMarkets[itemData['name']] = Set<String>();
         }
-      }
+        itemMarkets[itemData['name']]!.add(marketName);
+      });
     }
   }
 
-  return cheapestItem;
+  Map<String, List<Map<String, dynamic>>> marketSpecificLists = {};
+  for (var marketName in itemMarkets.values.expand((i) => i).toSet()) {
+    List<Map<String, dynamic>> marketList = [];
+
+    for (var itemDoc in shoppingListSnapshot.docs) {
+      var itemData = itemDoc.data() as Map<String, dynamic>;
+      var cheapestItem = await _findCheapestItemForMarket(itemData, marketName);
+
+      if (cheapestItem != null) {
+        marketList.add({
+          'name': cheapestItem['product_name'],
+          'price': cheapestItem['price'],
+          'amount': itemData['amount'],
+          'market': marketName,
+          'main_category': itemData['main_category'],  // Include main category
+          'sub_category': itemData['sub_category'],    // Include sub category
+          'sub_category2': itemData['sub_category2']   // Include sub category 2
+        });
+      }
+    }
+
+    if (marketList.length == shoppingListSnapshot.docs.length) {
+      double totalPrice = marketList.fold(0, (sum, item) => sum + (item['price'] * item['amount']));
+      await FirebaseFirestore.instance.collection('shoppingLists/${widget.listId}/suggestedLists').add({
+        'market': marketName,
+        'totalPrice': totalPrice,
+        'createdAt': FieldValue.serverTimestamp(),
+        'items': marketList,
+      });
+    }
+  }
 }
-
-double _calculateSimilarity(String original, String candidate) {
-  // Split both strings into words
-  List<String> originalWords = original.toLowerCase().split(' ');
-  List<String> candidateWords = candidate.toLowerCase().split(' ');
-
-  // Calculate intersection and union for Jaccard index
-  var intersection = originalWords.toSet().intersection(candidateWords.toSet()).length;
-  var union = originalWords.toSet().union(candidateWords.toSet()).length;
-
-  return intersection / union.toDouble(); // Jaccard similarity index
-}*/
 
 Future<Map<String, dynamic>?> _findCheapestItemForMarket(Map<String, dynamic> itemData, String marketName) async {
   var productsSnapshot = await FirebaseFirestore.instance
@@ -381,61 +354,6 @@ double _calculateSimilarity(String original, String candidate) {
 
   return intersection / union.toDouble(); // Jaccard similarity index
 }
-
-/*
-Future<Map<String, dynamic>?> _findCheapestItemForMarket(Map<String, dynamic> itemData, String marketName) async {
-  var productsSnapshot = await FirebaseFirestore.instance.collection('allProducts/${itemData['main_category']}/${itemData['sub_category']}/${itemData['sub_category2']}/Products').get();
-  Map<String, dynamic>? cheapestItem;
-  double? lowestPrice;
-
-  for (var productDoc in productsSnapshot.docs) {
-    var productData = productDoc.data();
-    var markets = productData['market_product_array'] ?? [];
-
-    for (var marketEntry in markets) {
-      if (marketEntry['market'] == marketName && (lowestPrice == null || marketEntry['price'] < lowestPrice)) {
-        lowestPrice = marketEntry['price'];
-        cheapestItem = {
-          'product_name': productData['product_name'],
-          'price': marketEntry['price']
-        };
-      }
-    }
-  }
-
-  return cheapestItem;
-}*/
-
-/*
-Future<Map<String, dynamic>?> _findCheapestItemForMarket(Map<String, dynamic> itemData, String marketName) async {
-  var productsSnapshot = await FirebaseFirestore.instance.collection('allProducts/${itemData['main_category']}/${itemData['sub_category']}/${itemData['sub_category2']}/Products').get();
-  Map<String, dynamic>? cheapestItem;
-  double? lowestPrice;
-  double originalPrice = itemData['price'];  // Assuming 'price' field exists in itemData which holds the original price of the item
-
-  for (var productDoc in productsSnapshot.docs) {
-    var productData = productDoc.data();
-    var markets = productData['market_product_array'] ?? [];
-
-    for (var marketEntry in markets) {
-      if (marketEntry['market'] == marketName) {
-        double marketPrice = marketEntry['price'];
-        // Check if the market price is not less than 50% of the original price
-        if (marketPrice >= originalPrice * 0.5) {
-          if (lowestPrice == null || marketPrice < lowestPrice) {
-            lowestPrice = marketPrice;
-            cheapestItem = {
-              'product_name': productData['product_name'],
-              'price': marketPrice
-            };
-          }
-        }
-      }
-    }
-  }
-
-  return cheapestItem;
-}*/
 
 @override
 Widget build(BuildContext context) {
