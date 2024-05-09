@@ -261,7 +261,7 @@ Widget buildItemCardSales(DocumentSnapshot item) {
                     ),
                   ),
                   onSubmitted: (value) {
-                    // Implement what should happen when the user submits their search query
+                    // Implement what should happen when the user submits their search query mb
                   },
                 ),
               ),
