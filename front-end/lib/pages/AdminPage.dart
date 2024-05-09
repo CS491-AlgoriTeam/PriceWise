@@ -15,8 +15,8 @@ class _AdminPageState extends State<AdminPage> {
     return ElevatedButton(
       onPressed: onPressed,
       style: ElevatedButton.styleFrom(
-        primary: Colors.lightBlue,
-        onPrimary: Colors.white,
+        //primary: Colors.lightBlue,
+        //onPrimary: Colors.white,
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(27),
         ),
@@ -94,12 +94,10 @@ class _AdminPageState extends State<AdminPage> {
   void _triggerNotification() {
     AwesomeNotifications().createNotification(
       content: NotificationContent(
-
         id: createUniqueId(),
         channelKey: 'basic_channel',
         title: titleController.text,
         body: bodyController.text,
-        
         showWhen: true,
         notificationLayout: NotificationLayout.BigText,
         payload: {'notification_details': 'true'},

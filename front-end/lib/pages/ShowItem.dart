@@ -69,9 +69,11 @@ class ItemDetailsPage extends StatelessWidget {
                       ),
                       child: ClipRRect(
                         borderRadius: BorderRadius.circular(12.0),
-                        child: productData['product_image_url'] != null && productData['product_image_url'].isNotEmpty
-                          ? Image.network(productData['product_image_url'], fit: BoxFit.cover)
-                          : Image.asset('assets/logo.png', fit: BoxFit.cover),
+                        child: productData['product_image_url'] != null &&
+                                productData['product_image_url'].isNotEmpty
+                            ? Image.network(productData['product_image_url'],
+                                fit: BoxFit.cover)
+                            : Image.asset('assets/logo.png', fit: BoxFit.cover),
                       ),
                     ),
                   ),
@@ -102,33 +104,35 @@ class ItemDetailsPage extends StatelessWidget {
                 buildSimilarProductsGrid(context, productData)),
 
             ElevatedButton(
-                onPressed: () {
-                  _addProductToShoppingList(
-                    productData.data() as Map<String, dynamic>,
-                    selectedListId,
-                  );
-                },
-                child: Text(
-                  'Add to List',
-                  style: TextStyle(
-                    color: Colors.white, // Text color
-                    fontSize: 16, // Font size
-                    fontWeight: FontWeight.bold, // Font weight
-                  ),
-                ),
-                style: ElevatedButton.styleFrom(
-                  primary: Colors.blue, // Background color of the button
-                  onPrimary: Colors.white, // Text color when the button is in focus/hover/pressed
-                  shape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.circular(27),
-                  ),
-                  padding: EdgeInsets.symmetric(horizontal: 35, vertical: 16),
-                  textStyle: TextStyle(
-                    fontSize: 16, // This can be set here or directly in the Text widget
-                    fontWeight: FontWeight.bold, // This can be set here or directly in the Text widget
-                  ),
+              onPressed: () {
+                _addProductToShoppingList(
+                  productData.data() as Map<String, dynamic>,
+                  selectedListId,
+                );
+              },
+              child: Text(
+                'Add to List',
+                style: TextStyle(
+                  color: Colors.white, // Text color
+                  fontSize: 16, // Font size
+                  fontWeight: FontWeight.bold, // Font weight
                 ),
               ),
+              style: ElevatedButton.styleFrom(
+                //primary: Colors.blue, // Background color of the button
+                //onPrimary: Colors.white, // Text color when the button is in focus/hover/pressed
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(27),
+                ),
+                padding: EdgeInsets.symmetric(horizontal: 35, vertical: 16),
+                textStyle: TextStyle(
+                  fontSize:
+                      16, // This can be set here or directly in the Text widget
+                  fontWeight: FontWeight
+                      .bold, // This can be set here or directly in the Text widget
+                ),
+              ),
+            ),
           ],
         ),
       ),
@@ -162,36 +166,39 @@ class ItemDetailsPage extends StatelessWidget {
   Widget buildSellersList(DocumentSnapshot product) {
     List<dynamic> sellers = product['market_product_array'] ?? [];
     return ListView.builder(
-      physics: NeverScrollableScrollPhysics(), // Prevents the list from being scrollable
+      physics:
+          NeverScrollableScrollPhysics(), // Prevents the list from being scrollable
       shrinkWrap: true, // Makes the list take up only as much space as it needs
       itemCount: sellers.length,
       itemBuilder: (context, index) {
         // Alternating row colors
-        Color bgColor = index % 2 == 0 ? Colors.lightBlue[200]! : Colors.lightBlue[100]!;
+        Color bgColor =
+            index % 2 == 0 ? Colors.lightBlue[200]! : Colors.lightBlue[100]!;
         return Container(
-          margin: EdgeInsets.symmetric(vertical: 5, horizontal: 10), // Adds space between rows
+          margin: EdgeInsets.symmetric(
+              vertical: 5, horizontal: 10), // Adds space between rows
           decoration: BoxDecoration(
-            color: bgColor, // Apply background color
-            borderRadius: BorderRadius.circular(10) // Rounded corners
-          ),
+              color: bgColor, // Apply background color
+              borderRadius: BorderRadius.circular(10) // Rounded corners
+              ),
           child: ListTile(
-          title: Text(
-            sellers[index]['market'],
-            style: TextStyle(
-              color: Colors.black, // Dark blue text color
-              fontSize: 16, // Font size
-              fontWeight: FontWeight.normal, // Bold font weight
+            title: Text(
+              sellers[index]['market'],
+              style: TextStyle(
+                color: Colors.black, // Dark blue text color
+                fontSize: 16, // Font size
+                fontWeight: FontWeight.normal, // Bold font weight
+              ),
+            ),
+            trailing: Text(
+              '${sellers[index]['price'].toString()}₺',
+              style: TextStyle(
+                color: Colors.grey[800],
+                fontSize: 16, // Font size
+                fontWeight: FontWeight.bold, // Normal font weight
+              ),
             ),
           ),
-          trailing: Text(
-            '${sellers[index]['price'].toString()}₺',
-            style: TextStyle(
-              color: Colors.grey[800], 
-              fontSize: 16, // Font size
-              fontWeight: FontWeight.bold, // Normal font weight
-            ),
-          ),
-        ),
         );
       },
     );
