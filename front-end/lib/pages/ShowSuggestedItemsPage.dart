@@ -2,6 +2,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:pwfe/components/bars/navigation_bar_bottom.dart';
+import 'package:pwfe/pages/MyShoppingListsPage.dart';
 
 class SuggestedItemsPage extends StatefulWidget {
   final String listId;
@@ -90,6 +91,21 @@ class _SuggestedItemsPageState extends State<SuggestedItemsPage> {
 
     // Provide feedback or navigate user
     print('New list added to My Lists');
+    ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text(
+            'The list added to your list!',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.white, // Text color
+              fontSize: 16,// Font size
+              fontWeight: FontWeight.bold,
+            ),
+          ),
+          backgroundColor: Colors.blue, // Background color
+          duration: Duration(seconds: 1),
+        ),
+      );
   }
 
   @override
@@ -158,6 +174,12 @@ class _SuggestedItemsPageState extends State<SuggestedItemsPage> {
                 onPressed: () {
                   // Add to user's lists
                   _addToMyLists();
+                  /*Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => MyShoppingLists(),
+                      ),
+                    );*/
                 },
                 child: Text(
                   'Add to My Lists',

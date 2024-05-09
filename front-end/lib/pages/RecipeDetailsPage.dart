@@ -178,6 +178,21 @@ void addToMyLists() async {
     Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => MyShoppingLists()));
 
     print("Recipe added to My Lists with items copied");
+    ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text(
+            'Recipe added to your list!',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              color: Colors.white, // Text color
+              fontSize: 16,// Font size
+              fontWeight: FontWeight.bold,
+            ),
+          ),
+          backgroundColor: Colors.blue, // Background color
+          duration: Duration(seconds: 1),
+        ),
+      );
   } catch (e) {
     print("Error adding recipe to My Lists: $e");
   }
