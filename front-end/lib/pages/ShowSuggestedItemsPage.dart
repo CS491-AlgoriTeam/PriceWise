@@ -153,17 +153,31 @@ class _SuggestedItemsPageState extends State<SuggestedItemsPage> {
                   ),
                 ),
               ),
+          
               ElevatedButton(
                 onPressed: () {
                   // Add to user's lists
                   _addToMyLists();
                 },
-                child: Text('Add to My Lists'),
+                child: Text(
+                  'Add to My Lists',
+                  style: TextStyle(
+                    color: Colors.white, // Text color
+                    fontSize: 16, // Font size
+                    fontWeight: FontWeight.bold, // Font weight
+                  ),
+                ),
                 style: ElevatedButton.styleFrom(
+                  primary: Colors.blue, // Background color of the button
+                  onPrimary: Colors.white, // Text color when the button is in focus/hover/pressed
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(27),
                   ),
                   padding: EdgeInsets.symmetric(horizontal: 35, vertical: 16),
+                  textStyle: TextStyle(
+                    fontSize: 16, // This can be set here or directly in the Text widget
+                    fontWeight: FontWeight.bold, // This can be set here or directly in the Text widget
+                  ),
                 ),
               ),
             ],

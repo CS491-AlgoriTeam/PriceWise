@@ -329,7 +329,7 @@ Widget buildItemCardSales(DocumentSnapshot item) {
                     options: CarouselOptions(
                       enlargeCenterPage: false,
                       viewportFraction: 0.25,
-                      aspectRatio: 3.0, // Adjust width/height ratio
+                      aspectRatio: 3.3, // Adjust width/height ratio
                       initialPage: 2,
                       autoPlay: false,
                     ),

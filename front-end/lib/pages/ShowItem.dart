@@ -49,7 +49,7 @@ class ItemDetailsPage extends StatelessWidget {
           children: [
             // Item information container
             Container(
-              padding: EdgeInsets.all(16),
+              padding: EdgeInsets.all(16.0),
               margin: EdgeInsets.all(16.0),
               decoration: BoxDecoration(
                 color: Colors.blue[100],
@@ -75,7 +75,7 @@ class ItemDetailsPage extends StatelessWidget {
                       ),
                     ),
                   ),
-                  SizedBox(width: 16),
+                  SizedBox(width: 12),
                   Expanded(
                     flex: 3,
                     child: Column(
@@ -101,26 +101,34 @@ class ItemDetailsPage extends StatelessWidget {
             buildSectionContainer(context, 'Similar Products',
                 buildSimilarProductsGrid(context, productData)),
 
-            SizedBox(height: 20),
-            Padding(
-              padding: EdgeInsets.symmetric(horizontal: 16.0),
-              child: ElevatedButton(
+            ElevatedButton(
                 onPressed: () {
                   _addProductToShoppingList(
                     productData.data() as Map<String, dynamic>,
                     selectedListId,
                   );
                 },
-                child: Text('Add to List'),
-                style: ElevatedButton.styleFrom(
-                  //primary: Colors.blue[300],
-                  shape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.circular(20),
+                child: Text(
+                  'Add to List',
+                  style: TextStyle(
+                    color: Colors.white, // Text color
+                    fontSize: 16, // Font size
+                    fontWeight: FontWeight.bold, // Font weight
                   ),
-                  padding: EdgeInsets.symmetric(horizontal: 50, vertical: 20),
+                ),
+                style: ElevatedButton.styleFrom(
+                  primary: Colors.blue, // Background color of the button
+                  onPrimary: Colors.white, // Text color when the button is in focus/hover/pressed
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(27),
+                  ),
+                  padding: EdgeInsets.symmetric(horizontal: 35, vertical: 16),
+                  textStyle: TextStyle(
+                    fontSize: 16, // This can be set here or directly in the Text widget
+                    fontWeight: FontWeight.bold, // This can be set here or directly in the Text widget
+                  ),
                 ),
               ),
-            ),
           ],
         ),
       ),
@@ -135,7 +143,7 @@ class ItemDetailsPage extends StatelessWidget {
         color: Colors.lightBlue[50],
         borderRadius: BorderRadius.circular(12.0),
       ),
-      margin: EdgeInsets.all(16.0),
+      margin: EdgeInsets.only(left: 16.0, right: 16.0, bottom: 8.0),
       padding: EdgeInsets.all(16),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
@@ -153,14 +161,39 @@ class ItemDetailsPage extends StatelessWidget {
 
   Widget buildSellersList(DocumentSnapshot product) {
     List<dynamic> sellers = product['market_product_array'] ?? [];
-    return Column(
-      crossAxisAlignment: CrossAxisAlignment.start,
-      children: sellers.map<Widget>((seller) {
-        return ListTile(
-          title: Text(seller['market']),
-          trailing: Text('${seller['price'].toString()}\₺'),
+    return ListView.builder(
+      physics: NeverScrollableScrollPhysics(), // Prevents the list from being scrollable
+      shrinkWrap: true, // Makes the list take up only as much space as it needs
+      itemCount: sellers.length,
+      itemBuilder: (context, index) {
+        // Alternating row colors
+        Color bgColor = index % 2 == 0 ? Colors.lightBlue[200]! : Colors.lightBlue[100]!;
+        return Container(
+          margin: EdgeInsets.symmetric(vertical: 5, horizontal: 10), // Adds space between rows
+          decoration: BoxDecoration(
+            color: bgColor, // Apply background color
+            borderRadius: BorderRadius.circular(10) // Rounded corners
+          ),
+          child: ListTile(
+          title: Text(
+            sellers[index]['market'],
+            style: TextStyle(
+              color: Colors.black, // Dark blue text color
+              fontSize: 16, // Font size
+              fontWeight: FontWeight.normal, // Bold font weight
+            ),
+          ),
+          trailing: Text(
+            '${sellers[index]['price'].toString()}₺',
+            style: TextStyle(
+              color: Colors.grey[800], 
+              fontSize: 16, // Font size
+              fontWeight: FontWeight.bold, // Normal font weight
+            ),
+          ),
+        ),
         );
-      }).toList(),
+      },
     );
   }
 

@@ -71,7 +71,6 @@ Future<void> _fetchSuggestedListsFromFirestore() async {
     });
   }
 }
-/*
 Future<void> _createSuggestedItemsList() async {
   var shoppingListSnapshot = await _firestore.collection('shoppingLists/${widget.listId}/items').get();
   double totalSuggestedPrice = 0.0;
@@ -81,6 +80,9 @@ Future<void> _createSuggestedItemsList() async {
     var itemData = doc.data() as Map<String, dynamic>;
     String originalName = itemData['name'];
     double originalPrice = itemData['price']; // Assuming 'price' field exists in itemData
+    String mainCategory = itemData['main_category'];
+    String subCategory = itemData['sub_category'];
+    String subCategory2 = itemData['sub_category2'];
 
     var productsSnapshot = await _firestore.collection('allProducts/${itemData['main_category']}/${itemData['sub_category']}/${itemData['sub_category2']}/Products').get();
 
@@ -101,7 +103,10 @@ Future<void> _createSuggestedItemsList() async {
         cheapestItem = {
           'product_name': candidateName,
           'product_cheapest_price': candidatePrice,
-          'amount': itemData['amount'] // Preserving the amount from original item
+          'amount': itemData['amount'], // Preserving the amount from original item
+          'main_category': mainCategory,  // Include main category
+          'sub_category': subCategory,    // Include sub category
+          'sub_category2': subCategory2   // Include sub category 2
         };
       }
     }
@@ -120,7 +125,10 @@ Future<void> _createSuggestedItemsList() async {
         'items': newItems.map((item) => {
           'name': item['product_name'],
           'price': item['product_cheapest_price'],
-          'amount': item['amount']
+          'amount': item['amount'],
+          'main_category': item['main_category'],  // Include main category
+          'sub_category': item['sub_category'],    // Include sub category
+          'sub_category2': item['sub_category2']   // Include sub category 2
         }).toList(),
       });
 
@@ -131,7 +139,8 @@ Future<void> _createSuggestedItemsList() async {
       'id': ref.id
     });
   }
-}*/
+}
+/*
 
 Future<void> _createSuggestedItemsList() async {
   var shoppingListSnapshot = await _firestore.collection('shoppingLists/${widget.listId}/items').get();
@@ -196,7 +205,7 @@ Future<void> _createSuggestedItemsList() async {
       'id': ref.id
     });
   }
-}
+}*/
 /*
 Future<void> _createMarketSpecificSuggestedLists() async {
   var shoppingListSnapshot = await FirebaseFirestore.instance.collection('shoppingLists/${widget.listId}/items').get();
@@ -392,7 +401,7 @@ Widget build(BuildContext context) {
                     style: TextStyle(
                       fontSize: 18.0, // Adjust font size
                       fontWeight: FontWeight.bold, // Change font weight if necessary
-                      color: Colors.black, // Change text color
+                      color: Colors.grey[800], // Change text color
                     ),
                   ),
                   trailing: isCheapest ? IconTheme(
