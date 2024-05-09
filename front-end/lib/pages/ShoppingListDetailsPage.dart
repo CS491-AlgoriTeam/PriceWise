@@ -225,41 +225,57 @@ void _deleteList(BuildContext context, String docId) async {
               },
             ),
           ),
-          Container(
-            padding: EdgeInsets.all(16),
-            decoration: BoxDecoration(
-              color: Colors.lightBlue[100],
-              border: Border.all(color: Colors.lightBlue),
-              borderRadius: BorderRadius.circular(27),
-            ),
-            child: Text(
-              'Total: ${total.toStringAsFixed(2)}₺',
-              style: TextStyle(
-                fontWeight: FontWeight.bold,
-                fontSize: 20,
-              ),
-              textAlign: TextAlign.center,
-            ),
-          ),
           Padding(
-            padding: EdgeInsets.all(16),
-            child: ElevatedButton(
-              onPressed: () {
+          padding: const EdgeInsets.only(bottom: 25.0), // Adjust the padding as needed
+          child: Row(
+            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+            children: [
+              Container(
+                padding: EdgeInsets.all(12),
+                decoration: BoxDecoration(
+                  color: Colors.lightBlue[100],
+                  border: Border.all(color: Colors.lightBlue),
+                  borderRadius: BorderRadius.circular(27),
+                ),
+                child: Text(
+                  'Total: ${total.toStringAsFixed(2)}₺',
+                  style: TextStyle(
+                    fontWeight: FontWeight.bold,
+                    fontSize: 20,
+                  ),
+                ),
+              ),
+          
+              ElevatedButton(
+                onPressed: () {
                 Navigator.push(
                     context,
                     MaterialPageRoute(
                         builder: (context) =>  ShowSuggestedListsPage(listId: widget.listId,)));
-              },
-              child: Text('Show Suggestions'),
-              style: ElevatedButton.styleFrom(
-                //primary: Colors.lightBlue,
-                //onPrimary: Colors.white,
-                shape: RoundedRectangleBorder(
-                  borderRadius: BorderRadius.circular(30),
+                },
+                child: Text(
+                  'Show Suggestions',
+                  style: TextStyle(
+                    color: Colors.white, // Text color
+                    fontSize: 16, // Font size
+                    fontWeight: FontWeight.bold, // Font weight
+                  ),
                 ),
-                padding: EdgeInsets.symmetric(horizontal: 50, vertical: 15),
+                style: ElevatedButton.styleFrom(
+                  primary: Colors.blue, // Background color of the button
+                  onPrimary: Colors.white, // Text color when the button is in focus/hover/pressed
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(27),
+                  ),
+                  padding: EdgeInsets.symmetric(horizontal: 35, vertical: 16),
+                  textStyle: TextStyle(
+                    fontSize: 16, // This can be set here or directly in the Text widget
+                    fontWeight: FontWeight.bold, // This can be set here or directly in the Text widget
+                  ),
+                ),
               ),
-            ),
+            ],
+          )
           ),
         ],
       ),
