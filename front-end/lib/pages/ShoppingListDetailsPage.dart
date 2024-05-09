@@ -7,8 +7,7 @@ import 'package:pwfe/pages/ShowSuggestedListsPage.dart';
 import 'package:pwfe/pages/MyShoppingListsPage.dart';
 
 class ShoppingListDetailsPage extends StatefulWidget {
-  final String
-      listId; // Assuming you pass the specific list ID when navigating to this page.
+  final String listId;
   ShoppingListDetailsPage({Key? key, required this.listId}) : super(key: key);
 
   @override
@@ -21,16 +20,18 @@ class _ShoppingListDetailsPageState extends State<ShoppingListDetailsPage> {
   double total = 0;
   final User? user = FirebaseAuth.instance.currentUser;
   List<DocumentSnapshot> _shoppingLists = [];
+  List<Map<String, dynamic>> suggestedItems = [];
+  bool isLoading = true;
 
   @override
   void initState() {
     super.initState();
     _fetchShoppingListItems();
     _fetchShoppingLists();
+    _fetchSuggestedItems();
   }
 
   void _fetchShoppingListItems() async {
-    // Assuming your items are stored in a subcollection or referenced by ID within each shopping list document
     FirebaseFirestore.instance
         .collection('shoppingLists')
         .doc(widget.listId)
@@ -41,7 +42,7 @@ class _ShoppingListDetailsPageState extends State<ShoppingListDetailsPage> {
       List<Map<String, dynamic>> tempList = [];
       for (var doc in snapshot.docs) {
         Map<String, dynamic> item = doc.data();
-        item['id'] = doc.id; // Keep the document ID for later operations
+        item['id'] = doc.id;
         tempList.add(item);
         tempTotal += item['price'] * item['amount'];
       }
@@ -54,7 +55,6 @@ class _ShoppingListDetailsPageState extends State<ShoppingListDetailsPage> {
   }
 
   void _updateItemAmount(String itemId, int amount) {
-    // Check if the amount is zero for deletion, else update
     if (amount <= 0) {
       FirebaseFirestore.instance
           .collection('shoppingLists')
@@ -71,7 +71,8 @@ class _ShoppingListDetailsPageState extends State<ShoppingListDetailsPage> {
           .update({'amount': amount});
     }
   }
-    void _fetchShoppingLists() async {
+
+  void _fetchShoppingLists() async {
     final String uid = user!.uid;
     final QuerySnapshot result = await FirebaseFirestore.instance
         .collection('shoppingLists')
@@ -84,12 +85,11 @@ class _ShoppingListDetailsPageState extends State<ShoppingListDetailsPage> {
     });
   }
 
-void _deleteList(BuildContext context, String docId) async {
+  void _deleteList(BuildContext context, String docId) async {
     final user = FirebaseAuth.instance.currentUser;
     if (user == null) return;
 
     try {
-      // Step 1: Fetch the list to be deleted
       DocumentSnapshot docSnapshot = await FirebaseFirestore.instance
           .collection('shoppingLists')
           .doc(docId)
@@ -97,14 +97,12 @@ void _deleteList(BuildContext context, String docId) async {
       Map<String, dynamic> listData =
           docSnapshot.data() as Map<String, dynamic>;
 
-      // Step 2: Add the list to 'deletedShoppingLists' with 'deletedAt'
       await FirebaseFirestore.instance.collection('deletedShoppingLists').add({
         ...listData,
-        'deletedAt': FieldValue.serverTimestamp(), // Add current timestamp
-        'userId': user.uid, // Ensure user ID is included
+        'deletedAt': FieldValue.serverTimestamp(),
+        'userId': user.uid,
       });
 
-      // Step 3: Check and maintain only the 5 most recent deletions
       final QuerySnapshot deletedListsSnapshot = await FirebaseFirestore
           .instance
           .collection('deletedShoppingLists')
@@ -113,14 +111,12 @@ void _deleteList(BuildContext context, String docId) async {
           .get();
 
       if (deletedListsSnapshot.docs.length > 5) {
-        // If more than 5, delete the oldest
         await FirebaseFirestore.instance
             .collection('deletedShoppingLists')
             .doc(deletedListsSnapshot.docs.last.id)
             .delete();
       }
 
-      // Step 4: Delete the list from the original collection
       await FirebaseFirestore.instance
           .collection('shoppingLists')
           .doc(docId)
@@ -130,13 +126,95 @@ void _deleteList(BuildContext context, String docId) async {
       }
 
       print("Shopping List Deleted and backup created");
-      //Navigator.pop(context, true); // Sending back 'true' as a result indicating successful deletion
-
-      // Optionally, refresh the list of shopping lists
-      //_fetchShoppingLists(); // Call your method to refresh shopping lists if exists
     } catch (e) {
       print("Error handling shopping list deletion: $e");
     }
+  }
+
+  void _fetchSuggestedItems() async {
+    try {
+      // Fetch items from the shopping list
+      var shoppingListSnapshot = await FirebaseFirestore.instance
+          .collection('shoppingLists/${widget.listId}/items')
+          .get();
+
+      // Extract names and prices of items in the shopping list
+      Map<String, double> shoppingListItems = {};
+      for (var doc in shoppingListSnapshot.docs) {
+        var itemData = doc.data() as Map<String, dynamic>;
+        String originalName = itemData['name'];
+        double originalPrice = itemData['price'];
+        shoppingListItems[originalName] = originalPrice;
+      }
+
+      List<Map<String, dynamic>> newItems = [];
+      for (var doc in shoppingListSnapshot.docs) {
+        var itemData = doc.data() as Map<String, dynamic>;
+        String originalName = itemData['name'];
+        double originalPrice = itemData['price'];
+
+        var productsSnapshot = await FirebaseFirestore.instance
+            .collection(
+                'allProducts/${itemData['main_category']}/${itemData['sub_category']}/${itemData['sub_category2']}/Products')
+            .get();
+
+        Map<String, dynamic>? cheapestItem;
+        double maxSimilarity = 0.0;
+
+        for (var productDoc in productsSnapshot.docs) {
+          var productData = productDoc.data();
+          String candidateName = productData['product_name'];
+
+          // Skip if the item is already in the shopping list
+          if (shoppingListItems.containsKey(candidateName)) continue;
+
+          double candidatePrice = productData['product_cheapest_price'];
+
+          // Check if the suggested item is cheaper than the original item
+          if (candidatePrice >= originalPrice) continue;
+
+          // Check if the suggested item price is less than 50% of the original item price
+          if (candidatePrice < 0.5 * originalPrice) continue;
+
+          double similarity = _calculateSimilarity(originalName, candidateName);
+
+          if (similarity > maxSimilarity) {
+            maxSimilarity = similarity;
+            cheapestItem = {
+              'id': productDoc.id, // Store the suggested item ID
+              'product_name': candidateName,
+              'price': candidatePrice,
+              'amount': itemData['amount']
+            };
+          }
+        }
+
+        if (cheapestItem != null) {
+          newItems.add(cheapestItem);
+        }
+      }
+
+      setState(() {
+        suggestedItems = newItems;
+        isLoading = false;
+      });
+    } catch (e) {
+      print("Error fetching suggested items: $e");
+      setState(() {
+        isLoading = false;
+      });
+    }
+  }
+
+  double _calculateSimilarity(String original, String candidate) {
+    List<String> originalWords = original.toLowerCase().split(' ');
+    List<String> candidateWords = candidate.toLowerCase().split(' ');
+
+    var intersection =
+        originalWords.toSet().intersection(candidateWords.toSet()).length;
+    var union = originalWords.toSet().union(candidateWords.toSet()).length;
+
+    return intersection / union.toDouble();
   }
 
   @override
@@ -152,17 +230,19 @@ void _deleteList(BuildContext context, String docId) async {
               Navigator.push(
                 context,
                 MaterialPageRoute(
-                  builder: (context) =>  MyShoppingLists(),
+                  builder: (context) => MyShoppingLists(),
                 ),
               );
             },
           ),
         ],
       ),
-      body: Column(
-        children: [
-          Expanded(
-            child: ListView.builder(
+      body: SingleChildScrollView(
+        child: Column(
+          children: [
+            ListView.builder(
+              shrinkWrap: true,
+              physics: NeverScrollableScrollPhysics(),
               itemCount: items.length,
               itemBuilder: (context, index) {
                 var item = items[index];
@@ -177,29 +257,28 @@ void _deleteList(BuildContext context, String docId) async {
                     title: Text(
                       item['name'],
                       style: TextStyle(
-                        fontSize: 16, // Set your desired size
-                        fontWeight: FontWeight.bold, // Make text bold
+                        fontSize: 16,
+                        fontWeight: FontWeight.bold,
                       ),
                     ),
                     subtitle: Text(
                       'Amount: ${item['amount']}   Price: ${item['price'].toStringAsFixed(2)}₺',
                       style: TextStyle(
-                        fontSize: 16, // Set your desired size for subtitle
-                        fontWeight: FontWeight.normal, // You can change this to FontWeight.bold if needed
+                        fontSize: 16,
+                        fontWeight: FontWeight.normal,
                       ),
                     ),
-    
                     trailing: Row(
                       mainAxisSize: MainAxisSize.min,
                       children: <Widget>[
                         IconButton(
                           icon: Container(
-                            padding: EdgeInsets.all(8), // Adjust the padding to fit the icon size
+                            padding: EdgeInsets.all(8),
                             decoration: BoxDecoration(
-                              color: Colors.lightBlue[100], // Set the background color
-                              shape: BoxShape.circle, // Set the shape to a circle
+                              color: Colors.lightBlue[100],
+                              shape: BoxShape.circle,
                             ),
-                            child: Icon(Icons.add, color: Colors.black), // Set icon color to contrast with background
+                            child: Icon(Icons.add, color: Colors.black),
                           ),
                           onPressed: () {
                             _updateItemAmount(item['id'], item['amount'] + 1);
@@ -207,12 +286,12 @@ void _deleteList(BuildContext context, String docId) async {
                         ),
                         IconButton(
                           icon: Container(
-                            padding: EdgeInsets.all(8), // Adjust the padding to fit the icon size
+                            padding: EdgeInsets.all(8),
                             decoration: BoxDecoration(
-                              color: Colors.lightBlue[100], // Set the background color
-                              shape: BoxShape.circle, // Set the shape to a circle
+                              color: Colors.lightBlue[100],
+                              shape: BoxShape.circle,
                             ),
-                            child: Icon(Icons.remove, color: Colors.red), // Set icon color to contrast with background
+                            child: Icon(Icons.remove, color: Colors.red),
                           ),
                           onPressed: () {
                             _updateItemAmount(item['id'], item['amount'] - 1);
@@ -224,62 +303,157 @@ void _deleteList(BuildContext context, String docId) async {
                 );
               },
             ),
-          ),
-          Padding(
-          padding: const EdgeInsets.only(bottom: 25.0), // Adjust the padding as needed
-          child: Row(
-            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-            children: [
-              Container(
-                padding: EdgeInsets.all(12),
-                decoration: BoxDecoration(
-                  color: Colors.lightBlue[100],
-                  border: Border.all(color: Colors.lightBlue),
-                  borderRadius: BorderRadius.circular(27),
-                ),
-                child: Text(
-                  'Total: ${total.toStringAsFixed(2)}₺',
-                  style: TextStyle(
-                    fontWeight: FontWeight.bold,
-                    fontSize: 20,
+            Container(
+              padding: EdgeInsets.all(8),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(
+                    'Suggested Items',
+                    style: TextStyle(
+                      fontSize: 20,
+                      fontWeight: FontWeight.bold,
+                    ),
                   ),
-                ),
+                  SizedBox(height: 8),
+                  isLoading
+                      ? Center(child: CircularProgressIndicator())
+                      : suggestedItems.isEmpty
+                          ? Center(child: Text('No suggested items'))
+                          : ListView.builder(
+                              shrinkWrap: true,
+                              physics: NeverScrollableScrollPhysics(),
+                              itemCount: suggestedItems.length,
+                              itemBuilder: (context, index) {
+                                var item = suggestedItems[index];
+                                return Card(
+                                  margin: EdgeInsets.symmetric(
+                                      horizontal: 16, vertical: 4),
+                                  color: Colors.lightBlue[200],
+                                  child: ListTile(
+                                    leading: CircleAvatar(
+                                      backgroundColor: Colors.white,
+                                      child: Icon(Icons.shopping_cart,
+                                          color: Colors
+                                              .blue), // Shopping cart icon
+                                    ),
+                                    title: Text(
+                                      item['product_name'],
+                                      style: TextStyle(
+                                        fontSize: 16,
+                                        fontWeight: FontWeight.bold,
+                                      ),
+                                    ),
+                                    subtitle: Text(
+                                      'Price: ${item['price'].toStringAsFixed(2)}₺',
+                                      style: TextStyle(
+                                        fontSize: 16,
+                                        fontWeight: FontWeight.normal,
+                                      ),
+                                    ),
+                                    trailing: IconButton(
+                                      icon: Container(
+                                        padding: EdgeInsets.all(8),
+                                        decoration: BoxDecoration(
+                                          color: Colors.lightBlue[100],
+                                          shape: BoxShape.circle,
+                                        ),
+                                        child: Icon(Icons.add,
+                                            color: Colors.black),
+                                      ),
+                                      onPressed: () {
+                                        // Create a new item with the details of the suggested item
+                                        Map<String, dynamic> newItem = {
+                                          'name': item['product_name'],
+                                          'amount': item['amount'],
+                                          'price': item['price'],
+                                        };
+
+                                        // Add the new item to the shopping list
+                                        FirebaseFirestore.instance
+                                            .collection('shoppingLists')
+                                            .doc(widget.listId)
+                                            .collection('items')
+                                            .add(newItem)
+                                            .then((value) {
+                                          // Item added successfully
+                                          print('Item added to the list');
+                                        }).catchError((error) {
+                                          // Error adding item to the list
+                                          print(
+                                              'Error adding item to the list: $error');
+                                        });
+                                      },
+                                    ),
+                                  ),
+                                );
+                              },
+                            ),
+                ],
               ),
-          
-              ElevatedButton(
-                onPressed: () {
-                Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                        builder: (context) =>  ShowSuggestedListsPage(listId: widget.listId,)));
-                },
-                child: Text(
-                  'Show Suggestions',
-                  style: TextStyle(
-                    color: Colors.white, // Text color
-                    fontSize: 16, // Font size
-                    fontWeight: FontWeight.bold, // Font weight
-                  ),
-                ),
-                style: ElevatedButton.styleFrom(
-                  primary: Colors.blue, // Background color of the button
-                  onPrimary: Colors.white, // Text color when the button is in focus/hover/pressed
-                  shape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.circular(27),
-                  ),
-                  padding: EdgeInsets.symmetric(horizontal: 35, vertical: 16),
-                  textStyle: TextStyle(
-                    fontSize: 16, // This can be set here or directly in the Text widget
-                    fontWeight: FontWeight.bold, // This can be set here or directly in the Text widget
-                  ),
-                ),
-              ),
-            ],
-          )
-          ),
-        ],
+            ),
+            Padding(
+                padding: const EdgeInsets.only(
+                    bottom: 25.0), // Adjust the padding as needed
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                  children: [
+                    Container(
+                      padding: EdgeInsets.all(12),
+                      decoration: BoxDecoration(
+                        color: Colors.lightBlue[100],
+                        border: Border.all(color: Colors.lightBlue),
+                        borderRadius: BorderRadius.circular(27),
+                      ),
+                      child: Text(
+                        'Total: ${total.toStringAsFixed(2)}₺',
+                        style: TextStyle(
+                          fontWeight: FontWeight.bold,
+                          fontSize: 20,
+                        ),
+                      ),
+                    ),
+                    ElevatedButton(
+                      onPressed: () {
+                        Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                                builder: (context) => ShowSuggestedListsPage(
+                                      listId: widget.listId,
+                                    )));
+                      },
+                      child: Text(
+                        'Show Suggestions',
+                        style: TextStyle(
+                          color: Colors.white, // Text color
+                          fontSize: 16, // Font size
+                          fontWeight: FontWeight.bold, // Font weight
+                        ),
+                      ),
+                      style: ElevatedButton.styleFrom(
+                        primary: Colors.blue, // Background color of the button
+                        onPrimary: Colors
+                            .white, // Text color when the button is in focus/hover/pressed
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(27),
+                        ),
+                        padding:
+                            EdgeInsets.symmetric(horizontal: 35, vertical: 16),
+                        textStyle: TextStyle(
+                          fontSize:
+                              16, // This can be set here or directly in the Text widget
+                          fontWeight: FontWeight
+                              .bold, // This can be set here or directly in the Text widget
+                        ),
+                      ),
+                    ),
+                  ],
+                )),
+          ],
+        ),
       ),
       bottomNavigationBar: navigation_bar_bottom(context),
     );
   }
 }
+//
