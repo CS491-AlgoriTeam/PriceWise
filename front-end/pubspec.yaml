@@ -46,6 +46,7 @@ dependencies:
   path_provider: ^2.0.2
   collection: ^1.15.0
   carousel_slider: ^4.2.1
+  awesome_notifications: ^0.9.3+1
   
 dev_dependencies:
   flutter_test:
@@ -110,6 +111,11 @@ flutter:
       - assets/yoğurt.jpeg
       - assets/yumurta.jpeg
       - assets/zeytin.jpeg
+      - assets/Brownie.jpeg
+      - assets/Çikolatalı Cookie.jpeg
+      - assets/Barbunya Pilaki.jpeg
+      - assets/Bulgur Pilavı.jpeg
+      - assets/Menemen.jpeg
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in

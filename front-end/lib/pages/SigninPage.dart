@@ -292,10 +292,18 @@ class _LoginSignupScreenState extends State<SignInPage> {
     });
 
     if (user != null) {
-      showToast(message: "User is successfully signed in");
-      Navigator.pushNamed(context, "/myShoppingLists");
-    } else {
-      showToast(message: "some error occured");
+      // Check if the signed-in user is an admin
+      if (email == "test456@gmail.com" && password == "test456") {
+        showToast(message: "Admin is successfully signed in");
+        Navigator.pushNamed(context, "/adminPage");
+      } 
+      else {
+        showToast(message: "User is successfully signed in");
+        Navigator.pushNamed(context, "/myShoppingLists");
+      }
+    } 
+    else {
+      showToast(message: "some error occurred");
     }
   }
 

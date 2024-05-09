@@ -23,41 +23,13 @@ BottomNavigationBar navigation_bar_bottom(BuildContext context) {
         label: 'Profile',
       ),
     ],
+    unselectedItemColor: Colors.grey[850],  // Dark grey for unselected items
+    selectedItemColor: Colors.grey[850],    // Dark grey for the selected item
+    unselectedLabelStyle: TextStyle(color: Colors.grey[850]),  // Style for labels
+    selectedLabelStyle: TextStyle(color: Colors.grey[850]),
   );
 }
 
-/*void _navigateTo(BuildContext context, int index) {
-  // Get the current route
-  String currentRoute = ModalRoute.of(context)!.settings.name ?? "";
-
-  // Check if the current page is already the one corresponding to the selected index
-  if ((index == 0 && currentRoute == MyShoppingLists.routeName) ||
-      (index == 1 && currentRoute == SearchPage.routeName) ||
-      (index == 2 && currentRoute == MyProfilePage.routeName)) {
-    // Do nothing if already on the selected page
-    return;
-  }
-
-  // Navigate to the selected page
-  switch (index) {
-    case 0:
-      // Shopping Lists
-      Navigator.pushReplacementNamed(context, MyShoppingLists.routeName);
-      break;
-    case 1:
-      // Search Products
-      Navigator.pushReplacementNamed(context, SearchPage.routeName);
-      break;
-    case 2:
-      // My Profile
-      Navigator.pushReplacementNamed(context, MyProfilePage.routeName);
-      break;
-  }
-}
-*/
-
-// does not check if already on the page
-// need to be changed
 void _navigateTo(BuildContext context, int index) {
   switch (index) {
     case 0:
@@ -80,6 +52,45 @@ void _navigateTo(BuildContext context, int index) {
         context,
         MaterialPageRoute(builder: (context) => MyProfilePage()),
       );
+      break;
+  }
+}
+
+BottomNavigationBar navigation_bar_bottom2(BuildContext context, String selectedListId, Function(String) onExploreSelected) {
+  return BottomNavigationBar(
+    onTap: (int index) {
+      if (index == 1) {
+        onExploreSelected(selectedListId); // Use the callback for the Explore item
+      } else {
+        _navigateTo(context, index);
+      }
+    },
+    items: const [
+      BottomNavigationBarItem(
+        icon: Icon(Icons.home),
+        label: 'Main Page',
+      ),
+      BottomNavigationBarItem(
+        icon: Icon(Icons.explore),
+        label: 'Explore',
+      ),
+      BottomNavigationBarItem(
+        icon: Icon(Icons.person),
+        label: 'Profile',
+      ),
+    ],
+    unselectedItemColor: Colors.grey[850],
+    selectedItemColor: Colors.grey[850],
+  );
+}
+
+void _navigateTo2(BuildContext context, int index) {
+  switch (index) {
+    case 0:
+      Navigator.push(context, MaterialPageRoute(builder: (context) => MyShoppingLists()));
+      break;
+    case 2:
+      Navigator.push(context, MaterialPageRoute(builder: (context) => MyProfilePage()));
       break;
   }
 }

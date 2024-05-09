@@ -57,7 +57,7 @@ class SubcategoryPage extends StatelessWidget {
     return StreamBuilder<QuerySnapshot>(
       stream: subcategory2Document.reference
           .collection('Products')
-          .limit(4)
+          .limit(12)
           .snapshots(),
       builder: (context, snapshot) {
         if (snapshot.hasError) {
