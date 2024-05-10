@@ -52,6 +52,7 @@ class _ShoppingListDetailsPageState extends State<ShoppingListDetailsPage> {
         items = tempList;
         total = tempTotal;
       });
+      _updateTotalPrice();
     });
   }
 
@@ -131,6 +132,16 @@ class _ShoppingListDetailsPageState extends State<ShoppingListDetailsPage> {
       print("Error handling shopping list deletion: $e");
     }
   }
+  void _updateTotalPrice() {
+  if (user != null && widget.listId.isNotEmpty) {
+    FirebaseFirestore.instance
+      .collection('shoppingLists')
+      .doc(widget.listId)
+      .update({'totalPrice': total})
+      .then((_) => print("Total price updated successfully"))
+      .catchError((error) => print("Failed to update total price: $error"));
+  }
+}
 
   void _fetchSuggestedItems() async {
     try {
