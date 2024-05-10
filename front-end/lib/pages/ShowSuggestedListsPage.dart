@@ -19,13 +19,35 @@ class _ShowSuggestedListsPageState extends State<ShowSuggestedListsPage> {
   List<Color> colors = [Colors.blue, Colors.lightBlue, Colors.blueAccent];
   List<Map<String, dynamic>> suggestedLists = [];
   bool isLoading = true;
-
+  
+  double originalTotalPrice = 0.0; // Initial value
+  
   @override
   void initState() {
     super.initState();
     _fetchAndCreateSuggestedLists();
+    fetchOriginalListPrice();  // Call the async function
+
   }
 
+
+Future<void> fetchOriginalListPrice() async {
+  try {
+    // Fetch the document snapshot from Firestore
+    DocumentSnapshot originalListDoc = await _firestore.collection('shoppingLists').doc(widget.listId).get();
+
+    // Check if the document exists and extract the data
+    if (originalListDoc.exists) {
+      Map<String, dynamic> originalListData = originalListDoc.data() as Map<String, dynamic>;
+      originalTotalPrice = originalListData['totalPrice'] ?? 0.0; // Use a default value if not set
+
+      // You can now use originalTotalPrice for further operations
+      print('Original total price: $originalTotalPrice');
+    }
+  } catch (e) {
+    print('Error fetching original list price: $e');
+  }
+}
 
 Future<void> _fetchAndCreateSuggestedLists() async {
   var originalListSnapshot = await _firestore.collection('shoppingLists/${widget.listId}/items').get();
@@ -89,12 +111,20 @@ Future<void> _createSuggestedItemsList() async {
     Map<String, dynamic>? cheapestItem;
     double? lowestPrice;
     double maxSimilarity = 0.0; // Initial high similarity threshold
+    String? chosenMarket;
 
     for (var productDoc in productsSnapshot.docs) {
       var productData = productDoc.data();
+      List<dynamic> markets = productData['market_product_array'] ?? [];
+
       double candidatePrice = productData['product_cheapest_price'];
       String candidateName = productData['product_name'];
       double similarity = _calculateSimilarity(originalName, candidateName);
+
+      if (!markets.isEmpty) {
+        chosenMarket = markets[0]['market'];  // Assuming we take the first market
+        candidatePrice = markets[0]['price'];
+      }
 
       // Check if the candidate price is at least 50% of the original price and has higher similarity
       if (candidatePrice >= originalPrice * 0.5 && (lowestPrice == null || (candidatePrice < lowestPrice && similarity > maxSimilarity))) {
@@ -106,7 +136,9 @@ Future<void> _createSuggestedItemsList() async {
           'amount': itemData['amount'], // Preserving the amount from original item
           'main_category': mainCategory,  // Include main category
           'sub_category': subCategory,    // Include sub category
-          'sub_category2': subCategory2   // Include sub category 2
+          'sub_category2': subCategory2,   // Include sub category 2
+          'market': chosenMarket          // Include market
+
         };
       }
     }
@@ -128,7 +160,8 @@ Future<void> _createSuggestedItemsList() async {
           'amount': item['amount'],
           'main_category': item['main_category'],  // Include main category
           'sub_category': item['sub_category'],    // Include sub category
-          'sub_category2': item['sub_category2']   // Include sub category 2
+          'sub_category2': item['sub_category2'],   // Include sub category 2
+          'market': item['market'] 
         }).toList(),
       });
 
@@ -363,7 +396,7 @@ double _calculateSimilarity(String original, String candidate) {
 
   return intersection / union.toDouble(); // Jaccard similarity index
 }
-
+/*
 @override
 Widget build(BuildContext context) {
   return Scaffold(
@@ -426,5 +459,76 @@ Widget build(BuildContext context) {
           ),
     bottomNavigationBar: navigation_bar_bottom(context),
   );
+}*/
+Widget build(BuildContext context) {
+  return Scaffold(
+    appBar: AppBar(title: Text('Suggested Lists')),
+    body: isLoading
+        ? Center(child: CircularProgressIndicator())
+        : ListView.builder(
+            itemCount: suggestedLists.length,
+            itemBuilder: (context, index) {
+              var list = suggestedLists[index];
+              Color selColor = colors[Random().nextInt(colors.length)];
+              double priceDifference = originalTotalPrice - list['totalPrice'];
+              String priceDifferenceText = priceDifference.abs().toStringAsFixed(2);
+              bool isCheaper = priceDifference > 0;
+
+              return Padding(
+                padding: const EdgeInsets.only(right: 10.0, left: 10.0),
+                child: Card(
+                  color: selColor,
+                  child: ListTile(
+                    leading: CircleAvatar(
+                      backgroundColor: Colors.white,
+                      child: Icon(Icons.shopping_cart, color: selColor),
+                    ),
+                    title: Text(
+                      '${list['market']} - ${list['type']}',
+                      style: TextStyle(
+                        fontSize: 16.0,
+                        fontWeight: FontWeight.bold,
+                        color: Colors.white,
+                      ),
+                    ),
+                    subtitle: RichText(
+                      text: TextSpan(
+                        children: <TextSpan>[
+                          TextSpan(
+                            text: 'Total: ${list['totalPrice'].toStringAsFixed(2)}₺ ',
+                            style: TextStyle(
+                              fontSize: 18.0,
+                              fontWeight: FontWeight.bold,
+                              color: Colors.black, // Color for the main part of the text
+                            ),
+                          ),
+                          TextSpan(
+                            text: isCheaper ? '-> $priceDifferenceText₺ cheaper' : ' ->$priceDifferenceText₺ more expensive',
+                            style: TextStyle(
+                              fontSize: 18.0,
+                              fontWeight: FontWeight.bold,
+                              color: isCheaper ? const Color.fromARGB(255, 26, 98, 28) : Color.fromARGB(255, 196, 50, 5), // Conditional color
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+
+                    onTap: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (context) => SuggestedItemsPage(listId: widget.listId, list2Id: list['id']),
+                        ),
+                      );
+                    },
+                  ),
+                ),
+              );
+            },
+          ),
+    bottomNavigationBar: navigation_bar_bottom(context),
+  );
 }
+
 }

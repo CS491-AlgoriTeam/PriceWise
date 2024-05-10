@@ -22,6 +22,8 @@ class _MyShoppingListsState extends State<MyShoppingLists> {
   List<DocumentSnapshot> _shoppingLists = [];
   List<DocumentSnapshot> _salesItems = []; // List to store sales items
   List<DocumentSnapshot> _recipeItems = [];
+  List<dynamic> _searchResults = [];
+
   final TextEditingController _searchController =
       TextEditingController(); // Controller for search field
 
@@ -237,7 +239,136 @@ Widget buildItemCardSales(DocumentSnapshot item) {
       ),
     );
   }
+////////SEARCH/////////////////////
+void _searchItems(String query) async {
+  if (query.length < 2) {
+    setState(() {
+      _searchResults = [];
+    });
+    return; // Return if the query is too short
+  }
+  
+  var results = await FirebaseFirestore.instance
+      .collection('searchProducts')
+      .where('product_name', isGreaterThanOrEqualTo: query, isLessThanOrEqualTo: query + 'z')
+      .limit(20)
+      .get();
 
+  setState(() {
+    _searchResults = results.docs;  // Storing DocumentSnapshots directly
+    print(_searchResults);
+  });
+}
+
+/*void _searchItems(String query) async {
+  if (query.length < 3) {
+    setState(() {
+      _searchResults = [];
+    });
+    return; // Return if the query is too short
+  }
+
+  var results = await FirebaseFirestore.instance
+      .collection('searchProducts')
+      .where('product_name', isGreaterThanOrEqualTo: query, isLessThanOrEqualTo: query + '\uf8ff')
+      .limit(20)
+      .get();
+
+  setState(() {
+    _searchResults = results.docs.map((doc) => doc.data()).toList();
+    print(_searchResults);
+  });
+}*/
+/*
+Widget _buildSearchResults() {
+  return ListView.builder(
+    shrinkWrap: true,
+    itemCount: _searchResults.length,
+    itemBuilder: (context, index) {
+      var product = _searchResults[index];
+      return ListTile(
+        title: Text(product['name']),
+        onTap: () {
+          Navigator.push(
+            context,
+            MaterialPageRoute(
+              builder: (context) => ItemDetailsPage(
+                productData: product, 
+                mainCategory: product['main_category'],
+                subCategory: product['sub_category'],
+                subcategory2Name: product['sub_category2'],
+                selectedListId: globals.selectedList,
+              ),
+            ),
+          );
+        },
+      );
+    },
+  );
+}*//*
+Widget _buildSearchResults() {
+  return Container(
+    height: 200, // Set a fixed height to mimic a dropdown
+    child: ListView.builder(
+      shrinkWrap: true,
+      itemCount: _searchResults.length,
+      itemBuilder: (context, index) {
+        var product = _searchResults[index];
+        return ListTile(
+          title: Text(product['product_name']),
+          onTap: () {
+            Navigator.push(
+              context,
+              MaterialPageRoute(
+                builder: (context) => ItemDetailsPage(
+                  productData: product,
+                  mainCategory: product['main_category'],
+                  subCategory: product['sub_category'],
+                  subcategory2Name: product['sub_category2'],
+                  selectedListId: globals.selectedList,
+                ),
+              ),
+            );
+          },
+        );
+      },
+    ),
+  );
+}*/
+Widget _buildSearchResults() {
+  return Container(
+    constraints: BoxConstraints(
+      maxHeight: 250.0, // Change as needed, 200.0 here as an example for max height with each item roughly 40.0 height
+    ),
+    child: ListView.builder(
+      shrinkWrap: true,
+      itemCount: _searchResults.length,
+      itemBuilder: (context, index) {
+        DocumentSnapshot product = _searchResults[index];
+        return ListTile(
+          title: Text(product['product_name']),
+          onTap: () {
+            Navigator.push(
+              context,
+              MaterialPageRoute(
+                builder: (context) => ItemDetailsPage(
+                  productData: product,
+                  mainCategory: product['main_category'],
+                  subCategory: product['sub_category'],
+                  subcategory2Name: product['sub_category2'],
+                  selectedListId: globals.selectedList,
+                ),
+              ),
+            );
+          },
+        );
+      },
+    ),
+  );
+}
+
+
+  @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
@@ -253,7 +384,7 @@ Widget buildItemCardSales(DocumentSnapshot item) {
         // Wrap with SingleChildScrollView for proper scrolling
         child: Column(
           children: [
-            Padding(
+            /*Padding(
               padding: const EdgeInsets.all(16.0),
               child: Container(
                 decoration: BoxDecoration(
@@ -277,9 +408,43 @@ Widget buildItemCardSales(DocumentSnapshot item) {
                   onSubmitted: (value) {
                     // Implement what should happen when the user submits their search query mb
                   },
-                ),
+                )
+                
               ),
-            ),
+            ),*/
+            Padding(
+  padding: const EdgeInsets.all(16.0),
+  child: Container(
+    decoration: BoxDecoration(
+      color: Colors.lightBlue[100],
+      borderRadius: BorderRadius.circular(32),
+    ),
+    child: TextField(
+      controller: _searchController,
+      decoration: InputDecoration(
+        hintText: 'Search for items',
+        border: InputBorder.none,
+        contentPadding: EdgeInsets.symmetric(horizontal: 20, vertical: 10),
+        suffixIcon: IconButton(
+          icon: Icon(Icons.search),
+          onPressed: () {
+            _searchItems(_searchController.text);
+          },
+        ),
+      ),
+      onChanged: (value) {
+        _searchItems(value);
+      },
+    ),
+  ),
+),
+_searchResults.isNotEmpty ? Container(
+  width: MediaQuery.of(context).size.width,
+  child: Card(
+    margin: EdgeInsets.all(12),
+    child: _buildSearchResults(),
+  ),
+) : Container(),
 
             // Padding and title for sales
             const Padding(
