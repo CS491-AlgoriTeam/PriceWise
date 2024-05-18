@@ -93,7 +93,12 @@ class ItemDetailsPage extends StatelessWidget {
                 },
                 child: Text('Add to List'),
                 style: ElevatedButton.styleFrom(
+<<<<<<< Updated upstream
                   primary: Colors.blue[300],
+=======
+                  //primary: Colors.blue, // Background color of the button
+                  //onPrimary: Colors.white, // Text color when the button is in focus/hover/pressed
+>>>>>>> Stashed changes
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(20),
                   ),

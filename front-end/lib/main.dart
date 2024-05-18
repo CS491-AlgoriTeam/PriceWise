@@ -14,7 +14,7 @@ import 'pages/SignupPage.dart'; // Import the sign-up page
 
 Future main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  
+
   FirebaseOptions firebaseOptions;
 
   // Check the platform
@@ -27,15 +27,39 @@ Future main() async {
       projectId: "pricewise-cs",
     );
     await Firebase.initializeApp(
-    options: firebaseOptions,
+      options: firebaseOptions,
     );
-  } 
-  else {
+  } else {
     await Firebase.initializeApp();
   }
 
-  runApp(MyApp());
+<<<<<<< Updated upstream
+=======
+  // Initialize AwesomeNotifications
+  AwesomeNotifications().initialize(
+    // set the icon to null if you want to use the default app icon
+    null,
+    [
+      NotificationChannel(
+        channelKey: 'basic_channel',
+        channelName: 'Basic notifications',
+        channelDescription: 'Notification channel for basic tests',
+        defaultColor: Colors.blue,
+        ledColor: Colors.white,
+      ),
+      NotificationChannel(
+        channelKey: 'admin_channel', // Channel for admin notifications
+        channelName: 'Admin Notifications',
+        channelDescription: 'Notifications sent by the admin',
+        defaultColor: Colors.blue,
+        ledColor: Colors.white,
+      ),
+    ],
+    debug: false,
+  );
 
+>>>>>>> Stashed changes
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
@@ -49,6 +73,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
+      debugShowCheckedModeBanner: false,
       home: const HomePage(),
       // You can also define the route here if you prefer named routes
       routes: {

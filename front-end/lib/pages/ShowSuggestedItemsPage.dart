@@ -353,5 +353,100 @@ class _SuggestedItemsState extends State<SuggestedItems> {
         child: Text('Suggested Items Content'),
       ),
     );
+<<<<<<< Updated upstream
   }
 }*/
+=======
+  }*/
+  Widget build(BuildContext context) {
+  return Scaffold(
+    appBar: AppBar(
+      title: Text('Suggested Items for List'),
+    ),
+    body: Column(
+      children: [
+        Expanded(
+          child: ListView.builder(
+            itemCount: suggestedItems.length,
+            itemBuilder: (context, index) {
+              var item = suggestedItems[index];
+              return Card(
+                margin: EdgeInsets.symmetric(horizontal: 16, vertical: 4),
+                color: Colors.lightBlue[200],
+                child: ListTile(
+                  leading: CircleAvatar(
+                    backgroundColor: Colors.white,
+                    child: Icon(Icons.shopping_cart, color: Colors.blue),
+                  ),
+                  title: Text(
+                    item['name'],
+                    style: TextStyle(
+                      fontSize: 16,
+                      color: Colors.black,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                  subtitle: Text(
+                    'Market: ${item['market']} - Amount: ${item['amount']}   Price: ${item['price'].toStringAsFixed(2)}₺',
+                    style: TextStyle(
+                      fontSize: 16,
+                      color: Color.fromARGB(255, 76, 76, 76),
+                    ),
+                  ),
+                ),
+              );
+            },
+          ),
+        ),
+        Padding(
+          padding: const EdgeInsets.only(bottom: 25.0),
+          child: Row(
+            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+            children: [
+              Container(
+                padding: EdgeInsets.all(12),
+                decoration: BoxDecoration(
+                  color: Colors.lightBlue[100],
+                  border: Border.all(color: Colors.lightBlue),
+                  borderRadius: BorderRadius.circular(27),
+                ),
+                child: Text(
+                  'Total: ${total.toStringAsFixed(2)}₺',
+                  style: TextStyle(
+                    fontWeight: FontWeight.bold,
+                    fontSize: 20,
+                  ),
+                ),
+              ),
+              ElevatedButton(
+                onPressed: () {
+                  _addToMyLists();
+                },
+                child: Text(
+                  'Add to My Lists',
+                  style: TextStyle(
+                    color: Colors.white, // Text color
+                    fontSize: 16, // Font size
+                    fontWeight: FontWeight.bold, // Font weight
+                  ),
+                ),
+                style: ElevatedButton.styleFrom(
+                  //primary: Colors.blue, // Background color of the button
+                  //onPrimary: Colors.white, // Text color when the button is in focus/hover/pressed
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(27),
+                  ),
+                  padding: EdgeInsets.symmetric(horizontal: 35, vertical: 16),
+                ),
+              ),
+            ],
+          )
+        ),
+      ],
+    ),
+    bottomNavigationBar: navigation_bar_bottom(context),
+  );
+}
+
+}
+>>>>>>> Stashed changes
